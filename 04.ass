@@ -7,7 +7,7 @@ WrapStyle: 0
 PlayResX: 848
 PlayResY: 480
 Scroll Position: 0
-Active Line: 0
+Active Line: 27
 Video Zoom Percent: 1
 Last Style Storage: Default
 ScaledBorderAndShadow: yes
@@ -72,15 +72,15 @@ Style: Followers_21:13(Ep 04),Open Sans Semibold,42,&H008B8B8B,&H000000FF,&H00F7
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.98,0:00:03.98,Millenium_00:00(Ep 04),Надпись,0,0,0,,Тысячелетняя принцесса и \NВластитель Цзюлуна
 Dialogue: 0,0:00:03.98,0:00:07.94,Титосэ_for_Life_00:03(Ep 04),Надпись,0,0,0,,Жизнь с Титосэ
-Dialogue: 0,0:00:11.99,0:00:13.32,Default,парень,0,0,0,,Эй, это же...
-Dialogue: 0,0:00:18.17,0:00:19.24,Default,ребёнок,0,0,0,,Титосэ-тян!
-Dialogue: 0,0:00:21.93,0:00:24.92,Default,ребёнок,0,0,0,,Я самая большая твоя фанатка с первого момента, как тебя услышала.
+Dialogue: 0,0:00:11.99,0:00:13.32,Default,Парень,0,0,0,,Эй, это же...
+Dialogue: 0,0:00:18.17,0:00:19.24,Default,Ребёнок,0,0,0,,Титосэ-тян!
+Dialogue: 0,0:00:21.93,0:00:24.92,Default,Ребёнок,0,0,0,,Я самая большая твоя фанатка с первого момента, как тебя услышала.
 Dialogue: 0,0:00:31.12,0:00:33.22,Default,Титосэ,0,0,0,,Спасибо тебе. Это меня очень трогает.
-Dialogue: 0,0:00:33.60,0:00:34.47,Default,парень,0,0,0,,Она - богиня.
-Dialogue: 0,0:00:34.47,0:00:36.19,Default,парень,0,0,0,,Она - ангел во плоти.
+Dialogue: 0,0:00:33.60,0:00:34.47,Default,Парень,0,0,0,,Она - богиня.
+Dialogue: 0,0:00:34.47,0:00:36.19,Default,Парень,0,0,0,,Она - ангел во плоти.
 Dialogue: 0,0:00:36.19,0:00:37.65,Default,Годзё,0,0,0,,Титосэ, нам нужно идти.
 Dialogue: 0,0:00:37.65,0:00:40.28,Default,Титосэ,0,0,0,,Oh, right. I'll see you on the stage.
-Dialogue: 0,0:00:40.28,0:00:41.18,Default,ребёнок,0,0,0,,Yeah!
+Dialogue: 0,0:00:40.28,0:00:41.18,Default,Ребёнок,0,0,0,,Yeah!
 Dialogue: 0,0:00:41.18,0:00:43.64,Green_Room_00:41(Ep 04),Надпись,0,0,0,,Зелёная Комната A\N\N\NТысячелетняя принцесса и Властитель Цзюлуна\NКарасума Титосэ-сама
 Dialogue: 0,0:00:41.79,0:00:43.64,Default,Годзё,0,0,0,,Я считаю, что ты стала настоящим профессионалом.
 Dialogue: 0,0:00:43.89,0:00:46.08,Default,Титосэ,0,0,0,,А ты думаешь, кто я такая?
@@ -94,12 +94,12 @@ Dialogue: 0,0:01:00.25,0:01:01.62,Default,Титосэ,0,0,0,,Правда?
 Dialogue: 0,0:01:03.16,0:01:06.51,Default,Яэ,0,0,0,,Ти-тян, проснись ты уже.
 Dialogue: 0,0:01:07.05,0:01:09.13,Default,Титосэ,0,0,0,,Чёрт, Годзё-дзюн...
 Dialogue: 0,0:01:07.77,0:01:11.09,Default,Кото,0,0,0,,This isn't good. They're all staring over here.
-Dialogue: 0,0:01:10.08,0:01:12.22,Default,Титосэ,0,0,0,,You're embarrassing me...
-Dialogue: 0,0:01:11.60,0:01:12.55,Default,Кадзуха,0,0,0,,What a fool.
-Dialogue: 0,0:01:12.81,0:01:14.76,Default,Момока,0,0,0,,She's a fool, but she's really a big deal.
+Dialogue: 0,0:01:10.08,0:01:12.22,Default,Титосэ,0,0,0,,Ты смущаешь меня...
+Dialogue: 0,0:01:11.60,0:01:12.55,Default,Кадзуха,0,0,0,,Что за тупица.
+Dialogue: 0,0:01:12.81,0:01:14.76,Default,Момока,0,0,0,,Тупица, но, при этом, она многого добилась.
 Dialogue: 0,0:01:15.12,0:01:16.52,Default,Кадзуха,0,0,0,,A big fool.
-Dialogue: 0,0:01:16.52,0:01:18.72,Default,Титосэ,0,0,0,,Don't worry, Годзё-кун.
-Dialogue: 0,0:01:18.72,0:01:21.62,Default,Титосэ,0,0,0,,I won't fire you just yet.
+Dialogue: 0,0:01:16.52,0:01:18.72,Default,Титосэ,0,0,0,,Не волнуйся, Годзё-кун.
+Dialogue: 0,0:01:18.72,0:01:21.62,Default,Титосэ,0,0,0,,Я не буду сжигать тебя, пока что.
 Dialogue: 0,0:02:54.02,0:02:56.23,Millenium_00:00(Ep 04),Надпись,0,0,0,,Тысячелетняя принцесса и \NВластитель Цзюлуна
 Dialogue: 0,0:02:56.23,0:02:58.94,Момока_for_Life_02:56(Ep 04),Надпись,0,0,0,,Жизнь с Момокой
 Dialogue: 0,0:02:58.94,0:03:00.40,Green_Room_02:58(Ep 04),Надпись,0,0,0,,Зелёная Комната B\N\NКусурэ\NАктёры и Персонал\NКарасума Титосэ-сама\NСоно Момока-сама\NСибасаки Кадзуха-сама\NКугаяма Яэ-сама\NКатакура Кото-сама
@@ -110,10 +110,10 @@ Dialogue: 0,0:03:09.91,0:03:12.70,Default,Кудзу,0,0,0,,So... What's she doi
 Dialogue: 0,0:03:13.00,0:03:15.09,Default,Годзё,0,0,0,,She's reflecting. Please don't mind her.
 Dialogue: 0,0:03:16.99,0:03:20.05,Default - Italics,Титосэ,0,0,0,,Годзё-кун, you ogre, demon, manager.
 Dialogue: 0,0:03:20.42,0:03:23.26,Default,Кудзу,0,0,0,,So is the author really not showing up today?
-Dialogue: 0,0:03:23.56,0:03:25.72,Default,парень,0,0,0,,Yes, he needs to work on his manuscript.
+Dialogue: 0,0:03:23.56,0:03:25.72,Default,Парень,0,0,0,,Yes, he needs to work on his manuscript.
 Dialogue: 0,0:03:26.06,0:03:28.64,Default,Кудзу,0,0,0,,Right, right. Well, it's best \Nto strike when the iron's hot.
 Dialogue: 0,0:03:28.64,0:03:31.44,Default,Кудзу,0,0,0,,We need him to write lots, \Nsell big, and become happy.
-Dialogue: 0,0:03:32.79,0:03:35.02,Default,Яэ,0,0,0,,Ти-chan, you can sit here.
+Dialogue: 0,0:03:32.79,0:03:35.02,Default,Яэ,0,0,0,,Ти-тян, you can sit here.
 Dialogue: 0,0:03:35.02,0:03:37.90,Default,Титосэ,0,0,0,,Oh, Яэ. You're a true friend.
 Dialogue: 0,0:03:38.53,0:03:40.23,Default,Титосэ,0,0,0,,That Годзё-кун is so mean.
 Dialogue: 0,0:03:40.23,0:03:42.61,Default,Титосэ,0,0,0,,How dare he punish his cute\Nlittle sister in this day and age?
@@ -125,11 +125,11 @@ Dialogue: 0,0:03:56.79,0:03:59.86,Default,Кото,0,0,0,,I was so nervous last 
 Dialogue: 0,0:03:59.86,0:04:03.09,Default,Яэ,0,0,0,,Me, too. This is pretty nerve-wracking.
 Dialogue: 0,0:04:03.36,0:04:05.55,Default,Титосэ,0,0,0,,Huh? Is there something to be nervous about?
 Dialogue: 0,0:04:05.79,0:04:07.82,Default,Кото,0,0,0,,Huh? Then why were you just asleep?
-Dialogue: 0,0:04:07.82,0:04:10.62,Default,Титосэ,0,0,0,,We're singing the 90-second version \Nof the opening song today, right?
+Dialogue: 0,0:04:07.82,0:04:10.62,Default,Титосэ,0,0,0,,Мы же поём 90-секундную версию \N песни из опенинга сегодня?
 Dialogue: 0,0:04:10.62,0:04:14.23,Default,Титосэ,0,0,0,,I really wasn't happy with what we recorded.
 Dialogue: 0,0:04:14.65,0:04:16.79,Default,Титосэ,0,0,0,,But we're singing it live, \Nso I practiced, of course.
 Dialogue: 0,0:04:16.79,0:04:18.79,Default,Титосэ,0,0,0,,All night, singing the full version on my own.
-Dialogue: 0,0:04:19.09,0:04:21.19,Default,Яэ,0,0,0,,Ch-Ти-chan, that's amazing!
+Dialogue: 0,0:04:19.09,0:04:21.19,Default,Яэ,0,0,0,,Т-Ти-тян, это превосходно!
 Dialogue: 0,0:04:21.52,0:04:24.92,Default,Титосэ,0,0,0,,I always try to push my own limits.
 Dialogue: 0,0:04:24.92,0:04:27.68,Default,Титосэ,0,0,0,,It's tough when you're aware of \Nthe fact that you're a professional.
 Dialogue: 0,0:04:28.58,0:04:30.85,Default,Кадзуха,0,0,0,,Wouldn't staying up all night \Nbefore an event prove that
@@ -206,11 +206,11 @@ Dialogue: 0,0:07:05.54,0:07:08.32,Default,Кудзу,0,0,0,,the PV with bits and
 Dialogue: 0,0:07:08.63,0:07:11.96,Default,Годзё,0,0,0,,But isn't the audience expecting a \Ncompleted episode 1 from the series?
 Dialogue: 0,0:07:12.58,0:07:15.18,Default,Кудзу,0,0,0,,No, no. They're all fans of the cast,
 Dialogue: 0,0:07:15.18,0:07:18.37,Default,Кудзу,0,0,0,,so they'll be ecstatic, and it'll \Nbe a win-win situation for us.
-Dialogue: 0,0:07:18.37,0:07:20.72,Default,Кудзу,0,0,0,,I'm going to go rearrange \Nstuff with the sound пареньs.
-Dialogue: 0,0:07:20.72,0:07:24.06,Default,Кудзу,0,0,0,,Towada, go ahead and let the \Nauthor's пареньs know about this.
+Dialogue: 0,0:07:18.37,0:07:20.72,Default,Кудзу,0,0,0,,I'm going to go rearrange \Nstuff with the sound Пареньs.
+Dialogue: 0,0:07:20.72,0:07:24.06,Default,Кудзу,0,0,0,,Towada, go ahead and let the \Nauthor's Пареньs know about this.
 Dialogue: 0,0:07:24.06,0:07:25.99,Default,Кудзу,0,0,0,,Thanks!
-Dialogue: 0,0:07:27.11,0:07:28.13,Default,Tow,0,0,0,,So, um...
-Dialogue: 0,0:07:28.13,0:07:31.26,Default,Tow,0,0,0,,That's what's going on. I'm very sorry.
+Dialogue: 0,0:07:27.11,0:07:28.13,Default,Товада,0,0,0,,So, um...
+Dialogue: 0,0:07:28.13,0:07:31.26,Default,Товада,0,0,0,,That's what's going on. I'm very sorry.
 Dialogue: 0,0:07:35.04,0:07:36.64,Default,Яэ,0,0,0,,What?!
 Dialogue: 0,0:07:36.64,0:07:39.25,Default,Яэ,0,0,0,,I can't! I can't! I can't!
 Dialogue: 0,0:07:39.25,0:07:41.15,Default,Кото,0,0,0,,I-Is everyone okay with this?
@@ -221,7 +221,7 @@ Dialogue: 0,0:07:47.31,0:07:49.19,Default,Яэ,0,0,0,,But, but...
 Dialogue: 0,0:07:49.19,0:07:51.03,Default,Титосэ,0,0,0,,Now, now, my true friend.
 Dialogue: 0,0:07:51.29,0:07:53.24,Default,Титосэ,0,0,0,,I'll be sure to back you up.
 Dialogue: 0,0:07:53.71,0:07:55.95,Default,Годзё,0,0,0,,I'm worried about you the most.
-Dialogue: 0,0:07:56.84,0:07:59.40,Default,парень,0,0,0,,If you пареньs could go stand by now.
+Dialogue: 0,0:07:56.84,0:07:59.40,Default,Парень,0,0,0,,If you Пареньs could go stand by now.
 Dialogue: 0,0:07:59.40,0:08:00.41,Default,Титосэ,0,0,0,,Okay!
 Dialogue: 0,0:08:06.51,0:08:10.05,Default,Титосэ,0,0,0,,Hey, hey, Годзё-кун. Aren't I amazing?
 Dialogue: 0,0:08:10.05,0:08:11.35,Default,Годзё,0,0,0,,Why, exactly?
@@ -250,43 +250,43 @@ Dialogue: 0,0:09:02.60,0:09:04.81,Default,Момока,0,0,0,,Hello!
 Dialogue: 0,0:09:05.39,0:09:06.52,Default,Кадзуха,0,0,0,,Hello.
 Dialogue: 0,0:09:06.93,0:09:07.81,Default,Титосэ,0,0,0,,He—
 Dialogue: 0,0:09:10.11,0:09:11.94,Default,Титосэ,0,0,0,,...llo...
-Dialogue: 0,0:09:18.04,0:09:19.07,Default,парень,0,0,0,,Um...
+Dialogue: 0,0:09:18.04,0:09:19.07,Default,Парень,0,0,0,,Um...
 Dialogue: 0,0:09:22.14,0:09:24.75,Default,Кудзу,0,0,0,,Yes, I'm sorry. Please forgive me.
-Dialogue: 0,0:09:25.22,0:09:28.58,Default,парень,0,0,0,,Um... I'm already over the fact that they \Ndidn't finish in time for the screening.
-Dialogue: 0,0:09:28.58,0:09:30.44,Default,парень,0,0,0,,I had a feeling they wouldn't, anyway.
+Dialogue: 0,0:09:25.22,0:09:28.58,Default,Парень,0,0,0,,Um... I'm already over the fact that they \Ndidn't finish in time for the screening.
+Dialogue: 0,0:09:28.58,0:09:30.44,Default,Парень,0,0,0,,I had a feeling they wouldn't, anyway.
 Dialogue: 0,0:09:30.44,0:09:31.52,Default,Кудзу,0,0,0,,Oh, really?
-Dialogue: 0,0:09:31.52,0:09:33.15,Default,парень,0,0,0,,How are things going right now?
-Dialogue: 0,0:09:33.45,0:09:35.26,Default,парень,0,0,0,,We need them to at least send the storyboards,
-Dialogue: 0,0:09:35.64,0:09:37.80,Default,парень,0,0,0,,or we won't even be able to conduct checks...
+Dialogue: 0,0:09:31.52,0:09:33.15,Default,Парень,0,0,0,,How are things going right now?
+Dialogue: 0,0:09:33.45,0:09:35.26,Default,Парень,0,0,0,,We need them to at least send the storyboards,
+Dialogue: 0,0:09:35.64,0:09:37.80,Default,Парень,0,0,0,,or we won't even be able to conduct checks...
 Dialogue: 0,0:09:37.80,0:09:40.51,Default,Кудзу,0,0,0,,Oh, storyboards! Right, those things...
-Dialogue: 0,0:09:40.86,0:09:41.61,Default,Gy,0,0,0,,Yes...
+Dialogue: 0,0:09:40.86,0:09:41.61,Default,Парень,0,0,0,,Yes...
 Dialogue: 0,0:09:41.61,0:09:43.22,Default,Кудзу,0,0,0,,What was going on with those...
 Dialogue: 0,0:09:43.22,0:09:45.98,Default,Кудзу,0,0,0,,I think they were just making \Ncorrections toward the end.
 Dialogue: 0,0:09:45.98,0:09:48.94,Default,Кудзу,0,0,0,,Our amazing director's getting that done \Nright now, super fast. Super fast!
-Dialogue: 0,0:09:49.51,0:09:52.15,Default,парень,0,0,0,,It's going to be like this \Nfrom the very first episode?
+Dialogue: 0,0:09:49.51,0:09:52.15,Default,Парень,0,0,0,,It's going to be like this \Nfrom the very first episode?
 Dialogue: 0,0:09:52.41,0:09:54.66,Default,Кудзу,0,0,0,,They should be just about done.
 Dialogue: 0,0:09:54.66,0:09:56.45,Default,Кудзу,0,0,0,,Why don't I give them a call?
 Dialogue: 0,0:10:06.50,0:10:09.71,Default,Кудзу,0,0,0,,Well, hey, no news is good news!
-Dialogue: 0,0:10:11.73,0:10:14.42,Default,парень,0,0,0,,I'm counting on you... Seriously.
+Dialogue: 0,0:10:11.73,0:10:14.42,Default,Парень,0,0,0,,I'm counting on you... Seriously.
 Dialogue: 0,0:10:14.68,0:10:16.54,Default,Момока,0,0,0,,All right, it's about time for...
 Dialogue: 0,0:10:16.54,0:10:17.13,Default,Кадзуха,0,0,0,,Oh?
 Dialogue: 0,0:10:17.37,0:10:19.51,Default,Момока,0,0,0,,Today's main event!
 Dialogue: 0,0:10:19.51,0:10:23.29,Default,Момока,0,0,0,,Take a look at our special footage!
 Dialogue: 0,0:10:26.31,0:10:26.85,Millenium_10:26(Ep 04),Надпись,0,0,0,,Millennium Princess x \NKowloon Overlord
 Dialogue: 0,0:10:52.21,0:10:54.17,Starting_broadcast_10:52(Ep 04),Надпись,0,0,0,,{\fad(316,1)}Broadcast Begins This Summer
-Dialogue: 0,0:10:56.21,0:10:57.67,Default,парень,0,0,0,,What the heck was that?
-Dialogue: 0,0:10:57.97,0:11:00.18,Default,парень2,0,0,0,,That was almost exactly like the PV.
-Dialogue: 0,0:11:00.18,0:11:01.14,Default,парень,0,0,0,,What happened to episode 1?
-Dialogue: 0,0:11:01.58,0:11:03.10,Default,парень,0,0,0,,Hey, isn't something wrong?
-Dialogue: 0,0:11:03.10,0:11:04.15,Default,парень,0,0,0,,Don't you have the actual episode?
+Dialogue: 0,0:10:56.21,0:10:57.67,Default,Парень,0,0,0,,What the heck was that?
+Dialogue: 0,0:10:57.97,0:11:00.18,Default,Парень2,0,0,0,,That was almost exactly like the PV.
+Dialogue: 0,0:11:00.18,0:11:01.14,Default,Парень,0,0,0,,What happened to episode 1?
+Dialogue: 0,0:11:01.58,0:11:03.10,Default,Парень,0,0,0,,Hey, isn't something wrong?
+Dialogue: 0,0:11:03.10,0:11:04.15,Default,Парень,0,0,0,,Don't you have the actual episode?
 Dialogue: 0,0:11:04.15,0:11:05.06,Default,Титосэ,0,0,0,,Where's episode 1?
 Dialogue: 0,0:11:13.28,0:11:14.02,Default,Кото,0,0,0,,Ти-сама?
 Dialogue: 0,0:11:16.42,0:11:19.95,Default,Титосэ,0,0,0,,Everyone! Are you all hyped up?!
-Dialogue: 0,0:11:25.31,0:11:29.00,Default,Момока,0,0,0,,I think it'd be nice if you пареньs \Ncould get a little more excited.
+Dialogue: 0,0:11:25.31,0:11:29.00,Default,Момока,0,0,0,,I think it'd be nice if you Пареньs \Ncould get a little more excited.
 Dialogue: 0,0:11:29.58,0:11:31.46,Default,Кадзуха,0,0,0,,But is that even possible?
-Dialogue: 0,0:11:32.10,0:11:35.17,Default,Титосэ,0,0,0,,Then I guess we'll have to show \Nyou пареньs something special today!
+Dialogue: 0,0:11:32.10,0:11:35.17,Default,Титосэ,0,0,0,,Then I guess we'll have to show \Nyou Пареньs something special today!
 Dialogue: 0,0:11:35.42,0:11:36.63,Default,Вместе,0,0,0,,Something special?
-Dialogue: 0,0:11:38.36,0:11:41.40,Default,Титосэ,0,0,0,,We're going to sing for you пареньs!
+Dialogue: 0,0:11:38.36,0:11:41.40,Default,Титосэ,0,0,0,,We're going to sing for you Пареньs!
 Dialogue: 0,0:11:43.01,0:11:46.01,Default - Song,Песня,0,0,0,,Come on, let's go, racing with the wind!
 Dialogue: 0,0:11:46.01,0:11:48.72,Default - Song,Песня,0,0,0,,There's a rainbow-colored sunrise
 Dialogue: 0,0:11:48.72,0:11:50.56,Default - Song,Песня,0,0,0,,That we're all waiting for
@@ -308,14 +308,14 @@ Dialogue: 0,0:12:37.65,0:12:39.48,Default,Президент,0,0,0,,Keep it goin
 Dialogue: 0,0:12:40.99,0:12:43.41,Default,Президент,0,0,0,,Maybe I'll hold an
 Dialogue: 0,0:12:43.41,0:12:45.84,Default,Президент,0,0,0,,agency-sponsored event, too!
 Dialogue: 0,0:12:54.87,0:12:57.21,Default,Титосэ,0,0,0,,Great job, everyone!
-Dialogue: 0,0:12:58.66,0:13:01.96,Default,Яэ,0,0,0,,Ти-chan! Thank you! Thank you!
+Dialogue: 0,0:12:58.66,0:13:01.96,Default,Яэ,0,0,0,,Ти-тян! Thank you! Thank you!
 Dialogue: 0,0:13:02.37,0:13:04.40,Default,Кото,0,0,0,,You sure helped us out.
 Dialogue: 0,0:13:04.40,0:13:07.26,Default,Кото,0,0,0,,My heart wouldn't stop pounding.
 Dialogue: 0,0:13:07.26,0:13:10.93,Default,Титосэ,0,0,0,,Nah, it was just coincidence. \NI ended up nervous, too.
 Dialogue: 0,0:13:11.26,0:13:13.46,Default,Годзё,0,0,0,,You really are a little shit,
 Dialogue: 0,0:13:13.46,0:13:15.64,Default,Годзё,0,0,0,,but your damn guts never cease to amaze me.
-Dialogue: 0,0:13:17.93,0:13:21.05,Default,Кудзу,0,0,0,,Hey, great job, you пареньs. Great job!
-Dialogue: 0,0:13:21.05,0:13:23.57,Default,Кудзу,0,0,0,,Титосэ-chan, you really do have talent.
+Dialogue: 0,0:13:17.93,0:13:21.05,Default,Кудзу,0,0,0,,Hey, great job, you Пареньs. Great job!
+Dialogue: 0,0:13:21.05,0:13:23.57,Default,Кудзу,0,0,0,,Титосэ-тян, you really do have talent.
 Dialogue: 0,0:13:23.83,0:13:25.78,Default,Титосэ,0,0,0,,Really? I do?
 Dialogue: 0,0:13:26.08,0:13:30.61,Default,Кудзу,0,0,0,,And I'm talented for seeing that in you. JK!
 Dialogue: 0,0:13:31.97,0:13:34.55,Default,Кудзу,0,0,0,,The live stream was hyped up, too.
@@ -323,7 +323,7 @@ Dialogue: 0,0:13:34.55,0:13:37.66,Default,Кудзу,0,0,0,,Everyone was gushing
 Dialogue: 0,0:13:37.66,0:13:40.34,Default,Титосэ,0,0,0,,Oh, come on. Really?
 Dialogue: 0,0:13:40.34,0:13:43.67,Default,Кудзу,0,0,0,,For real! A producer never lies!
 Dialogue: 0,0:13:43.67,0:13:45.55,Default,Титосэ,0,0,0,,Oh, come on...
-Dialogue: 0,0:13:52.84,0:13:55.39,Default,Кудзу,0,0,0,,I just got another bright idea, Годзё-chan!
+Dialogue: 0,0:13:52.84,0:13:55.39,Default,Кудзу,0,0,0,,I just got another bright idea, Годзё-тян!
 Dialogue: 0,0:13:55.39,0:13:56.98,Default,Годзё,0,0,0,,What is it now?
 Dialogue: 0,0:13:57.24,0:14:00.59,Default,Кудзу,0,0,0,,Since this was such a big success, \Nlet's stream every month.
 Dialogue: 0,0:14:00.59,0:14:04.25,Default,Кудзу,0,0,0,,We'll film along with the after-recording \Nsessions and hype this up even more!
@@ -334,29 +334,29 @@ Dialogue: 0,0:14:11.99,0:14:14.66,Default,Кудзу,0,0,0,,We have to keep up t
 Dialogue: 0,0:14:14.66,0:14:16.25,Default,Годзё,0,0,0,,But...
 Dialogue: 0,0:14:17.01,0:14:20.46,Default,Кудзу,0,0,0,,I want this project to succeed, no matter what.
 Dialogue: 0,0:14:20.76,0:14:22.34,Default,Кудзу,0,0,0,,Even if I have to go over the line.
-Dialogue: 0,0:14:24.74,0:14:26.76,Default,Кудзу,0,0,0,,You feel the same too, don't you, Годзё-chan?
+Dialogue: 0,0:14:24.74,0:14:26.76,Default,Кудзу,0,0,0,,You feel the same too, don't you, Годзё-тян?
 Dialogue: 0,0:14:28.14,0:14:30.47,Default,Годзё,0,0,0,,I'll see if I can adjust the schedule.
-Dialogue: 0,0:14:30.47,0:14:30.80,Texts/tweets(Ep 04),Надпись,0,0,0,,Yuta @-yuutanet1928\NМомока and Кадзуха totally made eye contact with each other while they\Nwere talking and I got teary-eyed. Also when Ти-chan backed up Яэpon \Nwhile Катакура-san looked on really shows that they get along and I'm \Nnothing but thankful. I'll draw a report drawing later. Drawing skills nao \N#КарасумаТитосэ
+Dialogue: 0,0:14:30.47,0:14:30.80,Texts/tweets(Ep 04),Надпись,0,0,0,,Yuta @-yuutanet1928\NМомока and Кадзуха totally made eye contact with each other while they\Nwere talking and I got teary-eyed. Also when Ти-тян backed up Яэpon \Nwhile Катакура-san looked on really shows that they get along and I'm \Nnothing but thankful. I'll draw a report drawing later. Drawing skills nao \N#КарасумаТитосэ
 Dialogue: 0,0:14:30.80,0:14:30.93,Texts/tweets(Ep 04),Надпись,0,0,0,,HashoiWAV @-takayukiina...\NThe newbie Кусурэ battle lineup was super strong and \Nactually managed to joke with my ultimate duo, Момока-tan \Nand Кадзуха-сама. I can totally support Miss Титосэ\N#КарасумаТитосэ
 Dialogue: 0,0:14:30.87,0:14:34.43,Default,Титосэ,0,0,0,,She's so cute... She's pretty... \NRecommended... I love her...
 Dialogue: 0,0:14:30.93,0:14:31.05,Texts/tweets(Ep 04),Надпись,0,0,0,,Haruguchi You @-catlayp8\NThere are so many things I could say that I could die, \Nbut for now, Карасума Титосэ-san was pretty.\N#КарасумаТитосэ
-Dialogue: 0,0:14:31.05,0:14:31.14,Texts/tweets(Ep 04),Надпись,0,0,0,,Syanon @-syanon88\NТитосэ Карасума-chan......\NI'll remember you now...... \N#КарасумаТитосэ
+Dialogue: 0,0:14:31.05,0:14:31.14,Texts/tweets(Ep 04),Надпись,0,0,0,,Syanon @-syanon88\NТитосэ Карасума-тян......\NI'll remember you now...... \N#КарасумаТитосэ
 Dialogue: 0,0:14:31.14,0:14:31.39,Texts/tweets(Ep 04),Надпись,0,0,0,,Reinashii @-sosuebdt8\NYuna is so cute. Super, super cute. I couldn't remember \Nthe voice actress's name but she's super cute. \N#КарасумаТитосэ
 Dialogue: 0,0:14:31.39,0:14:32.10,Texts/tweets(Ep 04),Надпись,0,0,0,,Yukiken @-syanon88 \NThe screening was amazing. I'm getting flashbacks of Ти-сама's song. \NI've never felt this way at a screening before... Oh, also, destroy DDD Pro.\N#КарасумаТитосэ  #DDDProduction
-Dialogue: 0,0:14:32.10,0:14:32.22,Texts/tweets(Ep 04),Надпись,0,0,0,,Yakinikumaru @-yakinikumaru\NThis was my first time seeing Титосэ-chan, \Nbut she's great. DDD Pro, you пареньs suck\N#КарасумаТитосэ
+Dialogue: 0,0:14:32.10,0:14:32.22,Texts/tweets(Ep 04),Надпись,0,0,0,,Yakinikumaru @-yakinikumaru\NThis was my first time seeing Титосэ-тян, \Nbut she's great. DDD Pro, you Пареньs suck\N#КарасумаТитосэ
 Dialogue: 0,0:14:32.22,0:14:32.35,Texts/tweets(Ep 04),Надпись,0,0,0,,Hekoheko @-syanon88\NThe girl who plays Yuna was super duper hot ☺ ☺ ☺\N#КарасумаТитосэ
 Dialogue: 0,0:14:32.35,0:14:32.43,Texts/tweets(Ep 04),Надпись,0,0,0,,Hiyoko@Fukuoka Delicacy@... \NAren't all of the Кусурэ voice actresses \Nincluding the newbies cute???? Precious...\N#КарасумаТитосэ
 Dialogue: 0,0:14:32.43,0:14:32.55,Texts/tweets(Ep 04),Надпись,0,0,0,,Pizza @-death\NReal Yuna is so cute it hurts. Her voice is also cute it hurts, \Nor more like her voice fits her character so much it hurts. Anime hurts. \N#КарасумаТитосэ
 Dialogue: 0,0:14:32.55,0:14:32.76,Texts/tweets(Ep 04),Надпись,0,0,0,,Nishi @-westside77\NI'm not sure what the hell was up with that screening, but the \Nfact that Yuna's voice actress was cute was my only salvation \N#КарасумаТитосэ
 Dialogue: 0,0:14:32.76,0:14:33.60,Texts/tweets(Ep 04),Надпись,0,0,0,,Nanami @nanami-sakuragaoka\NКусурэ!!! Screening!!!!! Was amazing!!!!!!!! \NKaito&Yuna&Nanaka&Mao&Yuzu&Ria!!!!!!!!! \NAll of them!!!!!!!!!!!!! Super awesome!!!!!!!!!\N#КарасумаТитосэ   #КусурэEvent
-Dialogue: 0,0:14:33.60,0:14:33.81,Texts/tweets(Ep 04),Надпись,0,0,0,,Zenigata Capybara @-aegeee...\NI want to talk about this event more than anything else this century. Like how \NМомока-tan and Кадзуха-chan look like they really get along in real life, when \NТи-сама came in and they all held hands... It really felt like the Кусурэ world \Nwas real... I can't return to this world. If only the anime would never start \N#Карасума Титосэ  #КусурэEvent
+Dialogue: 0,0:14:33.60,0:14:33.81,Texts/tweets(Ep 04),Надпись,0,0,0,,Zenigata Capybara @-aegeee...\NI want to talk about this event more than anything else this century. Like how \NМомока-tan and Кадзуха-тян look like they really get along in real life, when \NТи-сама came in and they all held hands... It really felt like the Кусурэ world \Nwas real... I can't return to this world. If only the anime would never start \N#Карасума Титосэ  #КусурэEvent
 Dialogue: 0,0:14:33.81,0:14:33.97,Texts/tweets(Ep 04),Надпись,0,0,0,,Kotsuno @-ailatob\NI can totally support Miss Титосэ. Aren't all of the Кусурэ \Nvoice actresses including the newbies cute???? Precious...\N#КарасумаТитосэ
-Dialogue: 0,0:14:33.97,0:14:34.43,Texts/tweets(Ep 04),Надпись,0,0,0,,Kitashika @esgutws\NIf the girls were colors, Момока-chan is definitely pink and Кадзуха-сама \Nis definitely blue. I think Катакура-san would be green. Maybe orange \Nfor Карасума-san? Яэ-chan could also be pink but then she'd be the \Nsame. I wonder if it's on the official page. I don't think they're used to \Nevents like this yet, so maybe I'll recommend it to them. Maybe I'll put \Nup a poll, too. Maybe white is also a possibility. I wonder what else...\N#КарасумаТитосэ    #Кусурэ
+Dialogue: 0,0:14:33.97,0:14:34.43,Texts/tweets(Ep 04),Надпись,0,0,0,,Kitashika @esgutws\NIf the girls were colors, Момока-тян is definitely pink and Кадзуха-сама \Nis definitely blue. I think Катакура-san would be green. Maybe orange \Nfor Карасума-san? Яэ-тян could also be pink but then she'd be the \Nsame. I wonder if it's on the official page. I don't think they're used to \Nevents like this yet, so maybe I'll recommend it to them. Maybe I'll put \Nup a poll, too. Maybe white is also a possibility. I wonder what else...\N#КарасумаТитосэ    #Кусурэ
 Dialogue: 0,0:14:35.93,0:14:37.39,Default,Кото,0,0,0,,Ти-сама, Ти-сама.
 Dialogue: 0,0:14:37.61,0:14:38.50,Default,Титосэ,0,0,0,,What?
 Dialogue: 0,0:14:38.50,0:14:41.09,Default,Кото,0,0,0,,Hey, are you free the day episode 1 airs?
 Dialogue: 0,0:14:41.39,0:14:43.00,Default,Яэ,0,0,0,,We were thinking about watching
-Dialogue: 0,0:14:43.00,0:14:45.65,Default,Яэ,0,0,0,,the first episode together at Кото-chan's place.
+Dialogue: 0,0:14:43.00,0:14:45.65,Default,Яэ,0,0,0,,the first episode together at Кото-тян's place.
 Dialogue: 0,0:14:45.65,0:14:48.85,Default,Титосэ,0,0,0,,Yeah, I'll totally be there! I love stuff like that!
 Dialogue: 0,0:14:48.85,0:14:49.95,Default,Кадзуха,0,0,0,,Great job.
 Dialogue: 0,0:14:50.19,0:14:52.20,Default,Момока,0,0,0,,I'll be leaving now.
@@ -410,7 +410,7 @@ Dialogue: 0,0:17:20.16,0:17:22.81,Default,Кото,0,0,0,,That the animation wil
 Dialogue: 0,0:17:23.09,0:17:25.53,Default,Яэ,0,0,0,,I wished for everyone to have fun.
 Dialogue: 0,0:17:27.61,0:17:28.06,Default,Титосэ,0,0,0,,Cheap.
 Dialogue: 0,0:17:29.74,0:17:30.91,Default,Титосэ,0,0,0,,I mean the paper quality.
-Dialogue: 0,0:17:30.91,0:17:34.19,Default,Яэ,0,0,0,,I-I see... What did you write, Ти-chan?
+Dialogue: 0,0:17:30.91,0:17:34.19,Default,Яэ,0,0,0,,I-I see... What did you write, Ти-тян?
 Dialogue: 0,0:17:34.19,0:17:36.03,Default,Титосэ,0,0,0,,The same as you two.
 Dialogue: 0,0:17:36.69,0:17:38.28,Default,Титосэ,0,0,0,,Come on. Let's get going.
 Dialogue: 0,0:17:38.91,0:17:41.49,Lessen_17:38(Ep 04),Надпись,0,0,0,,Lessen \Nthe agency's \Nmargin!
@@ -429,7 +429,7 @@ Dialogue: 0,0:18:19.74,0:18:21.87,Default,Титосэ,0,0,0,,I can't believe yo
 Dialogue: 0,0:18:22.77,0:18:25.49,Default,Титосэ,0,0,0,,This is unforgivable!
 Dialogue: 0,0:18:26.20,0:18:27.33,Default,Кото,0,0,0,,Hey, don't!
 Dialogue: 0,0:18:27.79,0:18:30.50,Default,Яэ,0,0,0,,I have a feeling I know how
-Dialogue: 0,0:18:30.50,0:18:32.42,Default,Яэ,0,0,0,,Ти-chan tidies up now.
+Dialogue: 0,0:18:30.50,0:18:32.42,Default,Яэ,0,0,0,,Ти-тян tidies up now.
 Dialogue: 0,0:18:32.42,0:18:35.93,Default,Титосэ,0,0,0,,I don't do it. Годзё-кун just cleans \Neverything without asking.
 Dialogue: 0,0:18:35.93,0:18:38.76,Default,Кото,0,0,0,,You actually have your brother \Nclean up your room for you?
 Dialogue: 0,0:18:39.86,0:18:43.03,Default,Титосэ,0,0,0,,Oh, don't worry about that. \NI think it's just a reply notification.
@@ -437,7 +437,7 @@ Dialogue: 0,0:18:43.03,0:18:45.52,Default,Кото,0,0,0,,Oh, right. I should tw
 Dialogue: 0,0:18:45.52,0:18:49.15,Default,Яэ,0,0,0,,I'm still not too sure when I should comment...
 Dialogue: 0,0:18:49.15,0:18:50.23,Default,Титосэ,0,0,0,,Really?
 Dialogue: 0,0:18:50.23,0:18:51.11,Texts/tweets(Ep 04),Надпись,0,0,0,,Yakinikumaru @-yakinikumaru\N@Карасума_kaaaaa\NI'm also waiting seiza style!\N#Кусурэ
-Dialogue: 0,0:18:50.23,0:18:53.08,Default,Яэ,0,0,0,,Ти-chan, do you reply to all of those?
+Dialogue: 0,0:18:50.23,0:18:53.08,Default,Яэ,0,0,0,,Ти-тян, do you reply to all of those?
 Dialogue: 0,0:18:51.11,0:18:52.31,Texts/tweets(Ep 04),Надпись,0,0,0,,Nanami @nanami-sakuragaoka\N@Карасума_kaaaaa\NThe day is finally here! Are you and Катакура-san friends?!?!?!\N#Кусурэ
 Dialogue: 0,0:18:52.31,0:18:53.19,Texts/tweets(Ep 04),Надпись,0,0,0,,Титосэ @Карасума-kaaaaa\N@nanami_sakuragaoka \NWe're really good friends~(^o^)\N#Кусурэ
 Dialogue: 0,0:18:53.08,0:18:56.19,Default,Кото,0,0,0,,That's commendable. I'm surprised \Nyou're able to do that.
@@ -458,24 +458,24 @@ Dialogue: 0,0:19:08.82,0:19:10.48,Default,Кото,0,0,0,,Hopefully the visuals 
 Dialogue: 0,0:19:10.48,0:19:13.50,Default,Яэ,0,0,0,,Yeah. I wonder how everyone will react.
 Dialogue: 0,0:19:10.96,0:19:13.18,Default - Italics,Титосэ,0,0,0,,Equal? No, I surpassed her!
 Dialogue: 0,0:19:13.50,0:19:15.46,Bakugeki_Editing_Dept(Ep 04),Надпись,0,0,0,,Bakugeki C's Magazine Editing Department
-Dialogue: 0,0:19:14.90,0:19:17.85,Default,парень,0,0,0,,Huh? Isn't {\i1}Кусурэ{\i0} on today?
-Dialogue: 0,0:19:17.85,0:19:19.19,Default,парень,0,0,0,,Yeah...
-Dialogue: 0,0:19:19.19,0:19:20.78,Default,парень,0,0,0,,"Yeah"?
-Dialogue: 0,0:19:20.78,0:19:23.61,Default,парень,0,0,0,,Shouldn't you be doing \Na screening with the author?
-Dialogue: 0,0:19:24.36,0:19:25.66,Default,парень,0,0,0,,It's fine.
-Dialogue: 0,0:19:25.96,0:19:28.33,Default,парень,0,0,0,,I never got a reply about the storyboards,
-Dialogue: 0,0:19:28.75,0:19:31.65,Default,парень,0,0,0,,and we just barely got \Nthe white box this morning.
+Dialogue: 0,0:19:14.90,0:19:17.85,Default,Парень,0,0,0,,Huh? Isn't {\i1}Кусурэ{\i0} on today?
+Dialogue: 0,0:19:17.85,0:19:19.19,Default,Парень,0,0,0,,Yeah...
+Dialogue: 0,0:19:19.19,0:19:20.78,Default,Парень,0,0,0,,"Yeah"?
+Dialogue: 0,0:19:20.78,0:19:23.61,Default,Парень,0,0,0,,Shouldn't you be doing \Na screening with the author?
+Dialogue: 0,0:19:24.36,0:19:25.66,Default,Парень,0,0,0,,It's fine.
+Dialogue: 0,0:19:25.96,0:19:28.33,Default,Парень,0,0,0,,I never got a reply about the storyboards,
+Dialogue: 0,0:19:28.75,0:19:31.65,Default,Парень,0,0,0,,and we just barely got \Nthe white box this morning.
 Dialogue: 0,0:19:31.65,0:19:35.11,R's_Comic_19:31(Ep 04),Надпись,0,0,0,,R's Comic
 Dialogue: 0,0:19:31.65,0:19:35.11,Broadcast_starting_19:31(Ep 04),Надпись,0,0,0,,{\c&H3A6AA8&}TV Anime Broadcast Starting!!\N{\c&H0A0305&}Millennium Princess x Kowloon Overlord
-Dialogue: 0,0:19:32.16,0:19:33.34,Default,парень,0,0,0,,I see...
-Dialogue: 0,0:19:33.34,0:19:36.75,Default,Edit,0,0,0,,I went to Kadokura-sensei's place, \Nand we Вместе watched it,
-Dialogue: 0,0:19:36.75,0:19:37.98,Default,Edit,0,0,0,,so it's fine.
-Dialogue: 0,0:19:38.28,0:19:40.32,Default,парень,0,0,0,,That's rather vague.
+Dialogue: 0,0:19:32.16,0:19:33.34,Default,Парень,0,0,0,,I see...
+Dialogue: 0,0:19:33.34,0:19:36.75,Default,Редактор,0,0,0,,I went to Kadokura-sensei's place, \Nand we Вместе watched it,
+Dialogue: 0,0:19:36.75,0:19:37.98,Default,Редактор,0,0,0,,so it's fine.
+Dialogue: 0,0:19:38.28,0:19:40.32,Default,Парень,0,0,0,,That's rather vague.
 Dialogue: 0,0:19:39.07,0:19:45.08,Bakugeki_Editing_Dept(Ep 04),Надпись,0,0,0,,Bakugeki C's Magazine Editing Department
-Dialogue: 0,0:19:40.80,0:19:43.59,Default,парень,0,0,0,,Sensei doesn't have very many friends,
-Dialogue: 0,0:19:43.59,0:19:45.50,Default,парень,0,0,0,,so we need to make this a bigger deal...
-Dialogue: 0,0:19:45.50,0:19:47.10,Default,Edit,0,0,0,,It's fine.
-Dialogue: 0,0:19:47.40,0:19:48.97,Default,Edit,0,0,0,,He said so, too.
+Dialogue: 0,0:19:40.80,0:19:43.59,Default,Парень,0,0,0,,Sensei doesn't have very many friends,
+Dialogue: 0,0:19:43.59,0:19:45.50,Default,Парень,0,0,0,,so we need to make this a bigger deal...
+Dialogue: 0,0:19:45.50,0:19:47.10,Default,Редактор,0,0,0,,It's fine.
+Dialogue: 0,0:19:47.40,0:19:48.97,Default,Редактор,0,0,0,,He said so, too.
 Dialogue: 0,0:19:50.24,0:19:51.75,Default,Яэ,0,0,0,,Hey, it's starting.
 Dialogue: 0,0:19:51.98,0:19:54.37,Default,Титосэ,0,0,0,,My song... My song's coming up!
 Dialogue: 0,0:19:54.37,0:19:56.46,Default,Кото,0,0,0,,I'm getting nervous!
@@ -514,17 +514,17 @@ Dialogue: 0,0:20:27.89,0:20:29.70,Default - Italics,Титосэ,0,0,0,,lend me 
 Dialogue: 0,0:20:36.21,0:20:37.79,Default,Титосэ,0,0,0,,Um... Is this...
 Dialogue: 0,0:20:37.79,0:20:39.27,Default,Кото,0,0,0,,Don't say any more.
 Dialogue: 0,0:20:49.19,0:20:51.14,Default,Кото,0,0,0,,Jeez!
-Dialogue: 0,0:20:51.43,0:20:53.05,Default,Яэ,0,0,0,,K-Кото-chan...
+Dialogue: 0,0:20:51.43,0:20:53.05,Default,Яэ,0,0,0,,K-Кото-тян...
 Dialogue: 0,0:20:53.05,0:20:55.60,Default,Кото,0,0,0,,There's no way we could win with that!
 Dialogue: 0,0:20:55.60,0:20:57.82,Default,Кото,0,0,0,,Are they stupid? \NAre they stupid? Are they stupid?
 Dialogue: 0,0:20:59.25,0:21:00.85,Default,Кото,0,0,0,,I can't help but think that.
 Dialogue: 0,0:21:00.85,0:21:04.34,Default,Яэ,0,0,0,,But I'm sure everyone's doing their best...
 Dialogue: 0,0:21:06.43,0:21:09.70,Default,Титосэ,0,0,0,,"Титосэ's cute." \N"I like the girl who plays Yuna."
-Dialogue: 0,0:21:09.70,0:21:09.95,Texts/tweets(Ep 04),Надпись,0,0,0,,Ryunosuke @-ounapor 1023\NOnly watching Кусурэ this season.\NHave faith in our Титосэ-chan.\N#КарасумаТитосэ   #Кусурэ
+Dialogue: 0,0:21:09.70,0:21:09.95,Texts/tweets(Ep 04),Надпись,0,0,0,,Ryunosuke @-ounapor 1023\NOnly watching Кусурэ this season.\NHave faith in our Титосэ-тян.\N#КарасумаТитосэ   #Кусурэ
 Dialogue: 0,0:21:09.95,0:21:10.58,Texts/tweets(Ep 04),Надпись,0,0,0,,Nishi @-westside77\NMy God, the animation's awful.\NBut Yuna's cute, so I can forgive that.\N#Кусурэ
 Dialogue: 0,0:21:10.58,0:21:11.37,Texts/tweets(Ep 04),Надпись,0,0,0,,Nishi @-westside77\NYou okay? Might job change from being a Момока fan.\NI wanna support the next voice actress from a series that bombs.\N#КарасумаТитосэ   #Кусурэ
 Dialogue: 0,0:21:11.37,0:21:12.08,Texts/tweets(Ep 04),Надпись,0,0,0,,Zenigata Capybara @-aegeee...\NТи-сама is an acting god\N#КарасумаТитосэ   #Кусурэ
-Dialogue: 0,0:21:12.08,0:21:12.41,Texts/tweets(Ep 04),Надпись,0,0,0,,Pizza @-death\NТи-chan is cute. That's enough to make me happy.\N#Кусурэ
+Dialogue: 0,0:21:12.08,0:21:12.41,Texts/tweets(Ep 04),Надпись,0,0,0,,Pizza @-death\NТи-тян is cute. That's enough to make me happy.\N#Кусурэ
 Dialogue: 0,0:21:13.62,0:21:15.08,Followers_21:13(Ep 04),Надпись,0,0,0,,Подписчики
 Dialogue: 0,0:21:15.72,0:21:18.02,Default - Italics,Титосэ,0,0,0,,It's basically looking like \NI'm a popular voice actress,
 Dialogue: 0,0:21:18.02,0:21:20.46,Default - Italics,Титосэ,0,0,0,,and the opening single will be out soon, too...
@@ -551,7 +551,7 @@ Dialogue: 0,0:22:07.34,0:22:11.06,Millenium_22:07(Ep 04),Надпись,0,0,0,,�
 Dialogue: 0,0:22:07.34,0:22:11.06,MPxKO_Ep_Title_22:07(Ep 04),Надпись,0,0,0,,"I'm the One Who Wants to Cry"
 Dialogue: 0,0:22:09.21,0:22:10.20,Default,Президент,0,0,0,,You've dug it up.
 Dialogue: 0,0:23:41.10,0:24:10.63,Preview,Надпись,0,0,0,,Preview
-Dialogue: 0,0:23:41.81,0:23:43.61,Default,Титосэ,0,0,0,,You've been living on your \Nown for a while, Кото-chan?
+Dialogue: 0,0:23:41.81,0:23:43.61,Default,Титосэ,0,0,0,,You've been living on your \Nown for a while, Кото-тян?
 Dialogue: 0,0:23:43.61,0:23:45.61,Default,Кото,0,0,0,,Yeah, I've lived on my own \Never since I moved to Tokyo.
 Dialogue: 0,0:23:45.61,0:23:47.65,Default,Яэ,0,0,0,,I always dreamed of living on my own.
 Dialogue: 0,0:23:47.65,0:23:49.78,Default,Яэ,0,0,0,,A lot of voice actors still live at home.
@@ -559,8 +559,8 @@ Dialogue: 0,0:23:49.78,0:23:50.61,Default,Титосэ,0,0,0,,That might be.
 Dialogue: 0,0:23:50.61,0:23:53.50,Default,Титосэ,0,0,0,,And there are a lot who live with a younger \Nbrother or a younger-brother-type, too.
 Dialogue: 0,0:23:53.50,0:23:55.27,Default,Кото,0,0,0,,Hey, hold on a sec. Don't say stuff like that.
 Dialogue: 0,0:23:55.27,0:23:57.69,Default,Кото,0,0,0,,Saying "younger-brother-types" \Nwill just cause misunderstandings.
-Dialogue: 0,0:23:57.69,0:23:58.77,Default,Who,0,0,0,,Wait, what misunderstandings?
+Dialogue: 0,0:23:57.69,0:23:58.77,Default,Кто-то,0,0,0,,Wait, what misunderstandings?
 Dialogue: 0,0:23:58.77,0:24:01.40,Default,Кото,0,0,0,,Well, they're just unfounded rumors, but...
-Dialogue: 0,0:24:01.40,0:24:04.26,Default,Яэ,0,0,0,,Oh! That's why Ти-chan lives with her brother...
+Dialogue: 0,0:24:01.40,0:24:04.26,Default,Яэ,0,0,0,,Oh! That's why Ти-тян lives with her brother...
 Dialogue: 0,0:24:04.26,0:24:06.94,Default,Титосэ,0,0,0,,Huh? Wait, no, no! That's not it!
 Dialogue: 0,0:24:06.94,0:24:09.78,Default,Титосэ,0,0,0,,I don't like my brother at all!
