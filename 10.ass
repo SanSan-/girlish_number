@@ -1,0 +1,448 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Default - Margin,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default - Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default - Flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default - Song,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Default - Onscreen,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,3,0,0,28,1
+Style: Ep_Title,Open Sans Semibold,30,&H00F6F6F4,&H000000FF,&H0016120A,&H00110B06,1,0,0,0,100,100,0,0,1,2,0,1,85,13,100,0
+Style: Next_Ep_Title,Open Sans Semibold,33,&H006500BC,&H000000FF,&H00FBF0FD,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,44,36,87,0
+Style: Next_Time,Open Sans Semibold,30,&H00000000,&H000000FF,&H00E9EEEE,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,107,13,53,1
+Style: Default - Flashback Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default - MC,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Default - Top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Preview,Open Sans Semibold,30,&H00FFFDFE,&H000000FF,&H005B5353,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,27,629,100,1
+Style: Girlish Number - Ep Title,Open Sans Semibold,30,&H00F6F6F4,&H000000FF,&H0016120A,&H00110B06,1,0,0,0,100,100,0,0,1,2,0,1,87,27,91,0
+Style: Girlish Number - Ep 08 Title,Open Sans Semibold,30,&H00F6F6F4,&H000000FF,&H0016120A,&H00110B06,1,0,0,0,100,100,0,0,1,2,0,3,27,67,91,0
+Style: Japanese_Vocals_02:51_(Ep 10),Open Sans Semibold,27,&H0033423D,&H000000FF,&H006693E6,&H00461004,1,0,0,0,100,100,0,0,1,4,0,8,13,13,193,0
+Style: Hard_work_04:56_(Ep 10),Open Sans Semibold,36,&H00000000,&H000000FF,&H004B40D4,&H00461004,1,0,0,0,100,100,0,0,1,4,0,8,13,13,33,0
+Style: Glamorous(Ep 10),Open Sans Semibold,23,&H00D7F7FE,&H000000FF,&H004F77A4,&H00647FB5,1,0,0,0,100,100,0,0,1,2,0,8,27,207,120,0
+Style: Daikanyama(Ep 10),Open Sans Semibold,23,&H0083CAF2,&H000000FF,&H003D5981,&H00647FB5,1,0,0,0,100,100,0,0,1,2,0,3,27,83,167,0
+Style: House_08:57(Ep 10),Open Sans Semibold,27,&H001F031A,&H000000FF,&H00E0C6D8,&H00461004,1,0,0,0,100,100,0,0,1,4,0,1,253,27,133,0
+Style: Fish-Sticker_09:30(Ep 10),Open Sans Semibold,27,&H00482D2D,&H000000FF,&H00EEFFFD,&H0085EBEC,1,0,0,0,100,100,0,0,1,3,0,8,13,64,27,0
+Style: Hearts(Ep 10),Open Sans Semibold,24,&H00FFFFFF,&H000000FF,&H0097743D,&H00461004,1,0,0,0,100,100,0,0,1,3,0,7,200,27,80,0
+Style: Hearts(Ep 10)v2,Open Sans Semibold,24,&H00FFFFFF,&H000000FF,&H0097743D,&H00461004,1,0,0,0,100,100,0,0,1,3,0,7,320,27,80,0
+Style: Towada_Incoming_(Ep 10),Open Sans Semibold,36,&H00EDF3F3,&H000000FF,&H002E1913,&H00461004,1,0,0,0,100,100,0,0,1,4,0,7,320,13,80,0
+Style: Playing_23:10(Ep 10),Open Sans Semibold,27,&H00482D2D,&H000000FF,&H00F3EAE4,&H0085EBEC,1,0,0,0,100,100,0,0,1,3,0,8,307,13,140,0
+Style: Karasuma_Gojo_23:28(Ep 10),Open Sans Semibold,27,&H00875D51,&H000000FF,&H00FBF0EF,&H0085EBEC,1,0,0,0,100,100,0,0,1,3,0,7,67,13,107,0
+Style: Other_23:28(Ep 10),Open Sans Semibold,21,&H0094706D,&H000000FF,&H00F9ECE5,&H0085EBEC,1,0,0,0,100,100,0,0,1,3,0,7,40,13,207,0
+Style: Search_23:28(Ep 10),Open Sans Semibold,24,&H0068322D,&H000000FF,&H00F7EBE6,&H0085EBEC,1,0,0,0,100,100,0,0,1,3,0,7,40,13,256,0
+Style: Gojo-Wiki_23:28(Ep 10),Open Sans Semibold,24,&H00A53A6C,&H000000FF,&H00EEE3DC,&H0085EBEC,1,0,0,0,100,100,0,0,1,3,0,1,40,13,147,0
+Style: Tojo-Tenjiku_23:30(Ep 10),Open Sans Semibold,21,&H00F7FAF9,&H000000FF,&H00FEEDE1,&H00461004,1,0,0,0,100,100,0,0,1,2,0,9,13,100,153,0
+Style: Info_23:28(Ep 10),Open Sans Semibold,24,&H0094706D,&H000000FF,&H00E4D1CB,&H0085EBEC,1,0,0,0,100,100,0,0,1,3,0,1,40,13,53,0
+Style: Charm_23:30(Ep 10),Open Sans Semibold,24,&H00FFEFF0,&H000000FF,&H00EE521D,&H0085EBEC,1,0,0,0,100,100,0,0,1,3,0,7,27,13,27,0
+Style: Breeze_23:31(Ep 10),Open Sans Semibold,21,&H00FFF6E6,&H000000FF,&H00EAA570,&H0085EBEC,1,0,0,0,100,100,0,0,1,3,0,7,400,13,197,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:07.97,0:00:08.69,Default,Mat,0000,0000,0000,,Hello!
+Dialogue: 0,0:00:09.17,0:00:10.79,Default,Mat,0000,0000,0000,,I'm Matsuoka, the manager!
+Dialogue: 0,0:00:10.79,0:00:12.66,Default,Mats,0000,0000,0000,,You can call me Mattsu!
+Dialogue: 0,0:00:14.27,0:00:15.01,Default,Mats,0000,0000,0000,,Ha, ha!
+Dialogue: 0,0:00:18.16,0:00:20.71,Default,gojo,0000,0000,0000,,Uh, Mattsu...oka...
+Dialogue: 0,0:00:20.71,0:00:22.62,Default,gojo,0000,0000,0000,,You'll be acting as my aide from now on.
+Dialogue: 0,0:00:22.92,0:00:24.88,Default,Mats,0000,0000,0000,,I'm not taking over for you?!
+Dialogue: 0,0:00:24.88,0:00:28.34,Default,Gojo,0000,0000,0000,,I talked to the president, but I can't \Nstep down as her manager so suddenly.
+Dialogue: 0,0:00:28.65,0:00:31.18,Default,Mats,0000,0000,0000,,Of course. So basically, I'm the sub-manager.
+Dialogue: 0,0:00:31.51,0:00:34.34,Default,Chit,0000,0000,0000,,Oh, so you're not switching yet.
+Dialogue: 0,0:00:34.60,0:00:38.55,Default,Mats,0000,0000,0000,,I get you! I get how you feel \Nso much that it pains me!
+Dialogue: 0,0:00:38.55,0:00:39.26,Default,Chit,0000,0000,0000,,Huh? What?
+Dialogue: 0,0:00:39.66,0:00:43.23,Default,Mats,0000,0000,0000,,Compared to the veteran Gojo-san, anyone \Nwould feel uneasy with someone new!
+Dialogue: 0,0:00:43.23,0:00:44.79,Default,Mats,0000,0000,0000,,But, but...
+Dialogue: 0,0:00:45.09,0:00:48.37,Default,Mats,0000,0000,0000,,That uneasiness is a chance \Nfor you to mature!
+Dialogue: 0,0:00:48.37,0:00:50.19,Default,Mats,0000,0000,0000,,The tighter a spring is, \Nthe more it expands!
+Dialogue: 0,0:00:50.46,0:00:51.52,Default,Chit,0000,0000,0000,,Huh? Uh...
+Dialogue: 0,0:00:51.52,0:00:53.25,Default,Mats,0000,0000,0000,,I will support you with everything I have!
+Dialogue: 0,0:00:53.25,0:00:55.65,Default,Mats,0000,0000,0000,,So, Karasuma-san, I want you \Nto hit me with all you've got!
+Dialogue: 0,0:00:56.06,0:00:56.74,Default,Mats,0000,0000,0000,,It's a pleasure!
+Dialogue: 0,0:01:00.90,0:01:03.13,Default,Chit,0000,0000,0000,,Pleasure to work with you...
+Dialogue: 0,0:02:33.63,0:02:38.55,Ep_Title,Sign,0000,0000,0000,,{\fad(734,724)}#10 Chitose Falls Into Darkness and Disappointed Kuzu
+Dialogue: 0,0:02:33.67,0:02:35.09,Default - Top,Dir,0000,0000,0000,,We're taking a break.
+Dialogue: 0,0:02:35.29,0:02:37.34,Default - Top,All,0000,0000,0000,,Great job.
+Dialogue: 0,0:02:51.65,0:02:52.90,Japanese_Vocals_02:51_(Ep 10),Sign,0000,0000,0000,,Japanese Vocals and Acting Dictionary
+Dialogue: 0,0:02:56.94,0:02:59.17,Default - Italics,Chit,0000,0000,0000,,I get mentally fatigued doing these mob roles.
+Dialogue: 0,0:02:59.17,0:03:01.73,Default - Italics,Chit,0000,0000,0000,,To think someone like me \Nwho's played a lead character
+Dialogue: 0,0:03:01.73,0:03:03.42,Default - Italics,Chit,0000,0000,0000,,would still be so careful...
+Dialogue: 0,0:03:03.42,0:03:06.79,Default - Italics,Chit,0000,0000,0000,,Doesn't that make me a master \Nat being considerate?
+Dialogue: 0,0:03:06.79,0:03:07.68,Default,Nana,0000,0000,0000,,Um...
+Dialogue: 0,0:03:08.39,0:03:10.57,Default,Nana,0000,0000,0000,,Karasuma-san, great job!
+Dialogue: 0,0:03:10.57,0:03:13.04,Default,Chit,0000,0000,0000,,Uh, thanks... Wait, what are you doing here?
+Dialogue: 0,0:03:13.43,0:03:15.50,Default,Nana,0000,0000,0000,,I'll be recording here after this,
+Dialogue: 0,0:03:15.50,0:03:18.01,Default,Nana,0000,0000,0000,,so I came early to observe everyone.
+Dialogue: 0,0:03:19.34,0:03:22.16,Default,Chit,0000,0000,0000,,Huh... I'm always responsible myself,
+Dialogue: 0,0:03:22.16,0:03:24.40,Default,Chit,0000,0000,0000,,but you're pretty responsible, too, Nanami.
+Dialogue: 0,0:03:24.40,0:03:26.64,Default,Chit,0000,0000,0000,,You should relax more \Nwhen you're voice acting.
+Dialogue: 0,0:03:26.64,0:03:28.25,Default,Nana,0000,0000,0000,,D-Definitely not!
+Dialogue: 0,0:03:28.25,0:03:31.00,Default,Nana,0000,0000,0000,,Unlike you, Karasuma-san, I'm still...
+Dialogue: 0,0:03:31.00,0:03:32.85,Default,Nana,0000,0000,0000,,still very much a newbie!
+Dialogue: 0,0:03:33.60,0:03:36.73,Default,Chit,0000,0000,0000,,Oh, we're not that different.
+Dialogue: 0,0:03:36.73,0:03:40.22,Default,Nana,0000,0000,0000,,Plus, I'm starting college next year.
+Dialogue: 0,0:03:40.22,0:03:43.16,Default,Nana,0000,0000,0000,,College students are proper\Nadults with responsibilities.
+Dialogue: 0,0:03:43.16,0:03:43.82,Default,Chit,0000,0000,0000,,O-Oh...
+Dialogue: 0,0:03:44.15,0:03:47.46,Default,Nana,0000,0000,0000,,I have my mom and dad and \Nother people cheering me on,
+Dialogue: 0,0:03:47.46,0:03:49.79,Default,Nana,0000,0000,0000,,so I have to push forward \Nwith everything I have.
+Dialogue: 0,0:03:51.13,0:03:55.13,Default,Chit,0000,0000,0000,,W-Well, yeah... It's important \Nto always feel like that.
+Dialogue: 0,0:03:55.13,0:03:58.03,Default,Chit,0000,0000,0000,,I'm actually going to be a year \Nolder this month, myself...
+Dialogue: 0,0:03:58.66,0:04:01.73,Default,Nana,0000,0000,0000,,Oh, really?! Congratulations!
+Dialogue: 0,0:04:01.73,0:04:03.22,Default,Nana,0000,0000,0000,,We'll have to celebrate!
+Dialogue: 0,0:04:03.45,0:04:05.29,Default,Chit,0000,0000,0000,,Nah, you don't have to.
+Dialogue: 0,0:04:05.29,0:04:08.36,Default,Chit,0000,0000,0000,,You're so sweet, Nanami. You make \Nme want to take care of you.
+Dialogue: 0,0:04:13.37,0:04:16.87,Default,Mats,0000,0000,0000,,Great job. Your next appointment is at 4:00 PM.
+Dialogue: 0,0:04:17.94,0:04:21.69,Default,Chit,0000,0000,0000,,We'd have to walk from the station to the \Nnext studio, so why don't we get a taxi?
+Dialogue: 0,0:04:22.55,0:04:24.03,Default,Mats,0000,0000,0000,,Nice joke!
+Dialogue: 0,0:04:24.35,0:04:27.39,Default,Mats,0000,0000,0000,,After observing you working\N these past few days,
+Dialogue: 0,0:04:27.39,0:04:30.24,Default,Mats,0000,0000,0000,,I see that you definitely \Nhave a lot of potential.
+Dialogue: 0,0:04:30.60,0:04:32.96,Default,Chit,0000,0000,0000,,Huh? Really? You really think so?
+Dialogue: 0,0:04:32.96,0:04:36.99,Default,Mats,0000,0000,0000,,Yes, I'm certain! You should be \Nable to get even more popular!
+Dialogue: 0,0:04:36.99,0:04:40.67,Default,Chit,0000,0000,0000,,I knew it! You're the type of person \Nwho understands my worth, aren't you?
+Dialogue: 0,0:04:41.12,0:04:44.47,Default,Mats,0000,0000,0000,,But reality doesn't always work that way.
+Dialogue: 0,0:04:44.47,0:04:47.14,Default,Mats,0000,0000,0000,,What do you think you lack, Karasuma-san?
+Dialogue: 0,0:04:47.14,0:04:49.13,Default,Chit,0000,0000,0000,,Enthusiasm from my agency \Nin promoting me.
+Dialogue: 0,0:04:49.13,0:04:50.60,Default,Mats,0000,0000,0000,,Nice joke!
+Dialogue: 0,0:04:50.60,0:04:51.40,Default,Mats,0000,0000,0000,,Yes, it's hard work!
+Dialogue: 0,0:04:51.40,0:04:51.90,Default,Chit,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:51.90,0:04:53.69,Default,Matsu,0000,0000,0000,,Hard work first, and hard work second.
+Dialogue: 0,0:04:53.69,0:04:56.21,Default,Matsu,0000,0000,0000,,Hard work third, and hard work until you die!
+Dialogue: 0,0:04:56.21,0:04:59.82,Default,Matsu,0000,0000,0000,,You need a certain period of your career \Nwhere you're at the bottom of the pole!
+Dialogue: 0,0:04:56.90,0:04:59.82,Hard_work_04:56_(Ep 10),Sign,0000,0000,0000,,Hard Work and Being at the Bottom
+Dialogue: 0,0:05:00.22,0:05:01.78,Default,Chit,0000,0000,0000,,The bottom?
+Dialogue: 0,0:05:02.23,0:05:04.59,Default,Mats,0000,0000,0000,,First, you need sensibility.
+Dialogue: 0,0:05:04.59,0:05:06.39,Default,Mats,0000,0000,0000,,Please read all of these.
+Dialogue: 0,0:05:06.39,0:05:06.99,Default,Chit,0000,0000,0000,,So many...
+Dialogue: 0,0:05:07.21,0:05:08.50,Default,Mats,0000,0000,0000,,Yes!
+Dialogue: 0,0:05:08.50,0:05:12.42,Default,Mats,0000,0000,0000,,There are many, many fun things in this world!
+Dialogue: 0,0:05:14.74,0:05:17.61,Default,Mats,0000,0000,0000,,That is the happiest thing for anyone
+Dialogue: 0,0:05:17.61,0:05:19.29,Default,Mats,0000,0000,0000,,involved in entertainment!
+Dialogue: 0,0:05:21.19,0:05:23.20,Default,Mats,0000,0000,0000,,So, I realize this is sudden,
+Dialogue: 0,0:05:23.20,0:05:25.96,Default,Mats,0000,0000,0000,,but I went ahead and booked some \Nmob roles for you, starting next week.
+Dialogue: 0,0:05:25.96,0:05:26.73,Default,Chit,0000,0000,0000,,Huh?
+Dialogue: 0,0:05:26.73,0:05:30.46,Default,Mats,0000,0000,0000,,The sound director for this job \Nlikes acting that's natural,
+Dialogue: 0,0:05:30.46,0:05:31.72,Default,Mats,0000,0000,0000,,so I think you'll learn a lot.
+Dialogue: 0,0:05:32.20,0:05:33.18,Default,Mats,0000,0000,0000,,Let's do our best!
+Dialogue: 0,0:05:34.26,0:05:37.26,Default,Chit,0000,0000,0000,,Wait, wait. Next week is such short notice...
+Dialogue: 0,0:05:38.11,0:05:40.34,Default,Mats,0000,0000,0000,,The ball always comes at you suddenly!
+Dialogue: 0,0:05:40.64,0:05:42.90,Default,Mats,0000,0000,0000,,You must hit that chance ball, no matter what!
+Dialogue: 0,0:05:43.65,0:05:46.36,Default,Mats,0000,0000,0000,,Otherwise, you can't win the match!
+Dialogue: 0,0:05:46.58,0:05:48.35,Default,Chit,0000,0000,0000,,R-Right... Match?
+Dialogue: 0,0:05:48.35,0:05:49.32,Default,Mats,0000,0000,0000,,Karasuma Chitose-san!
+Dialogue: 0,0:05:49.69,0:05:52.79,Default,Mats,0000,0000,0000,,There are those who do one mob role after \Nanother, then get promoted to a lead role!
+Dialogue: 0,0:05:52.79,0:05:55.09,Default,Mats,0000,0000,0000,,Everyone wants to go after that ball!
+Dialogue: 0,0:05:55.09,0:05:56.95,Default,Mats,0000,0000,0000,,The recording booth is the center court!
+Dialogue: 0,0:05:56.95,0:05:58.41,Default,Mats,0000,0000,0000,,The voice actor is the player!
+Dialogue: 0,0:05:58.41,0:05:59.36,Default,Mats,0000,0000,0000,,You understand, right?
+Dialogue: 0,0:05:59.36,0:06:00.33,Default,Chit,0000,0000,0000,,Huh? No...
+Dialogue: 0,0:06:00.33,0:06:03.90,Default,Mats,0000,0000,0000,,There are many other people in \Nyour position, Karasuma-san!
+Dialogue: 0,0:06:03.90,0:06:05.97,Default,Mats,0000,0000,0000,,You want one of them to take the ball?!
+Dialogue: 0,0:06:05.97,0:06:08.05,Default,Mats,0000,0000,0000,,Of course not! You can't let \Nthem have it, can you?!
+Dialogue: 0,0:06:08.61,0:06:10.01,Default,Chit,0000,0000,0000,,R-Right...
+Dialogue: 0,0:06:10.29,0:06:11.22,Default,Mats,0000,0000,0000,,I can't hear you!
+Dialogue: 0,0:06:11.22,0:06:22.44,Glamorous(Ep 10),Sign,0000,0000,0000,,Glamourous Housing is Here
+Dialogue: 0,0:06:11.22,0:06:22.44,Daikanyama(Ep 10),Sign,0000,0000,0000,,Daikanyama
+Dialogue: 0,0:06:11.60,0:06:12.96,Default,Mats,0000,0000,0000,,Louder!
+Dialogue: 0,0:06:12.96,0:06:13.80,Default,Chit,0000,0000,0000,,Right!
+Dialogue: 0,0:06:14.09,0:06:16.97,Default,Mats,0000,0000,0000,,Yes! Let's do our best! I'll work \Nas if my life depended on it, too!
+Dialogue: 0,0:06:16.97,0:06:18.75,Default,Mats,0000,0000,0000,,Let's die doing our best together!
+Dialogue: 0,0:06:18.75,0:06:19.68,Default,Chit,0000,0000,0000,,R-Right...
+Dialogue: 0,0:06:19.68,0:06:21.77,Default,Mats,0000,0000,0000,,I can't hear you! Louder!
+Dialogue: 0,0:06:21.77,0:06:22.44,Default,Chit,0000,0000,0000,,Right!
+Dialogue: 0,0:06:22.89,0:06:24.90,Default,Mats,0000,0000,0000,,Nice and loud! Well done!
+Dialogue: 0,0:06:26.77,0:06:30.26,Default - MC,Ann,0000,0000,0000,,There is currently a problem \Nwith the rail signal,
+Dialogue: 0,0:06:30.26,0:06:32.50,Default - MC,Annn,0000,0000,0000,,so all lines will be postponing operations.
+Dialogue: 0,0:06:30.66,0:06:37.75,Glamorous(Ep 10),Sign,0000,0000,0000,,Glamourous Housing is Here
+Dialogue: 0,0:06:30.66,0:06:37.75,Daikanyama(Ep 10),Sign,0000,0000,0000,,Daikanyama
+Dialogue: 0,0:06:32.50,0:06:35.72,Default - MC,Ann,0000,0000,0000,,We apologize for the inconvenience.
+Dialogue: 0,0:06:33.43,0:06:36.02,Default,Mats,0000,0000,0000,,This isn't good! We won't make it in time!
+Dialogue: 0,0:06:36.32,0:06:37.75,Default,Chit,0000,0000,0000,,Then let's get a taxi....
+Dialogue: 0,0:06:37.75,0:06:39.23,Default,Mats,0000,0000,0000,,Let's run!
+Dialogue: 0,0:06:40.80,0:06:43.92,Default,Matsu,0000,0000,0000,,Hard work first, hard work second, \Nand hard work even if it kills you!
+Dialogue: 0,0:06:53.02,0:06:56.81,Default,Kuzu,0000,0000,0000,,No... This isn't the time to be looking back.
+Dialogue: 0,0:06:57.79,0:07:01.27,Default,Prez,0000,0000,0000,,Yes... Yes. Yes, please do.
+Dialogue: 0,0:07:02.06,0:07:03.51,Default,Prez,0000,0000,0000,,This is great!
+Dialogue: 0,0:07:03.51,0:07:06.23,Default,Prez,0000,0000,0000,,I'm starting to see a Cinderella story.
+Dialogue: 0,0:07:06.51,0:07:08.13,Default,Gojo,0000,0000,0000,,What might you mean by that?
+Dialogue: 0,0:07:08.13,0:07:10.82,Default,Prz,0000,0000,0000,,Nanami-kun. Nanami Sakuragaoka.
+Dialogue: 0,0:07:10.82,0:07:13.90,Default,Prez,0000,0000,0000,,She didn't get the lead, but they \Nwanted her for a different role.
+Dialogue: 0,0:07:13.90,0:07:17.53,Default,Gojo,0000,0000,0000,,That's great. That'll be a \Nmotivator for everyone else, too.
+Dialogue: 0,0:07:17.53,0:07:20.21,Default,Prez,0000,0000,0000,,That girl might just take the whole country!
+Dialogue: 0,0:07:20.55,0:07:23.26,Default,Prez,0000,0000,0000,,She's cute, too, so I think she'll become popular.
+Dialogue: 0,0:07:23.26,0:07:24.27,Default,Prez,0000,0000,0000,,We've won!
+Dialogue: 0,0:07:26.85,0:07:29.83,Default,Gojo,0000,0000,0000,,Sir... The new girl is great,\Nbut we need to keep an eye
+Dialogue: 0,0:07:29.83,0:07:32.23,Default,Gojo,0000,0000,0000,,on those who are having trouble growing...
+Dialogue: 0,0:07:32.23,0:07:33.19,Default,Prez,0000,0000,0000,,Such as?
+Dialogue: 0,0:07:33.19,0:07:34.30,Default,Gojo,0000,0000,0000,,Such as...
+Dialogue: 0,0:07:34.30,0:07:37.57,Default,Gojo,0000,0000,0000,,Someone who had one lead role, \Nbut hasn't landed another since.
+Dialogue: 0,0:07:38.15,0:07:41.06,Default,Prez,0000,0000,0000,,Katakura-kun and Yae-chan are both doing fine.
+Dialogue: 0,0:07:41.06,0:07:43.71,Default,Prez,0000,0000,0000,,They're both getting roles, \Nand getting more work.
+Dialogue: 0,0:07:43.71,0:07:45.41,Default,Gojo,0000,0000,0000,,Um, there's one more...
+Dialogue: 0,0:07:45.41,0:07:47.52,Default,Prez,0000,0000,0000,,Ah, Chitose Karasuma?
+Dialogue: 0,0:07:47.90,0:07:48.90,Default,Prez,0000,0000,0000,,Right.
+Dialogue: 0,0:07:48.90,0:07:52.00,Default,Prez,0000,0000,0000,,Hm... Then conversely... Conversely,
+Dialogue: 0,0:07:52.00,0:07:54.66,Default,Prez,0000,0000,0000,,why don't we prep Nanami-kun for a lead role?
+Dialogue: 0,0:07:54.66,0:07:55.28,Default,Gojo,0000,0000,0000,,Huh?
+Dialogue: 0,0:07:55.28,0:07:57.01,Default,Prez,0000,0000,0000,,For our next agency event,
+Dialogue: 0,0:07:57.01,0:07:59.86,Default,Prez,0000,0000,0000,,why don't we plan a big surprise?
+Dialogue: 0,0:07:59.86,0:08:01.49,Default,Gojo,0000,0000,0000,,No, wait...
+Dialogue: 0,0:08:01.49,0:08:03.51,Default,Prez,0000,0000,0000,,And conversely, Chitose-kun
+Dialogue: 0,0:08:03.51,0:08:06.83,Default,Prez,0000,0000,0000,,may have a chance of leveling up.
+Dialogue: 0,0:08:06.83,0:08:07.88,Default,Gojo,0000,0000,0000,,No, she won't.
+Dialogue: 0,0:08:10.72,0:08:11.55,Default,Prez,0000,0000,0000,,Why's that?
+Dialogue: 0,0:08:12.28,0:08:14.40,Default,Prez,0000,0000,0000,,You said so many times yourself, Gojo-kun.
+Dialogue: 0,0:08:14.86,0:08:16.97,Default,Prez,0000,0000,0000,,She never takes things seriously.
+Dialogue: 0,0:08:16.97,0:08:18.86,Default,Prez,0000,0000,0000,,There are plenty who could take her place.
+Dialogue: 0,0:08:18.86,0:08:20.72,Default,Gojo,0000,0000,0000,,Well, yes...
+Dialogue: 0,0:08:21.52,0:08:23.52,Default,Prz,0000,0000,0000,,I feel like I've waited quite long enough
+Dialogue: 0,0:08:25.24,0:08:26.81,Default,Prz,0000,0000,0000,,for Chitose-kun,
+Dialogue: 0,0:08:27.53,0:08:29.05,Default,Prez,0000,0000,0000,,and for you, too, Gojo-kun.
+Dialogue: 0,0:08:29.35,0:08:30.57,Default,Gojo,0000,0000,0000,,That's...
+Dialogue: 0,0:08:31.12,0:08:33.88,Default,Prez,0000,0000,0000,,A manager is neither a parent nor a teacher.
+Dialogue: 0,0:08:34.25,0:08:35.76,Default,Prez,0000,0000,0000,,This is strictly business.
+Dialogue: 0,0:08:36.59,0:08:38.78,Default,Prez,0000,0000,0000,,If someone shows no promise, \NI have to cut them.
+Dialogue: 0,0:08:39.36,0:08:40.72,Default,Prez,0000,0000,0000,,Does she have promise?
+Dialogue: 0,0:08:42.40,0:08:44.30,Default,Gojo,0000,0000,0000,,More than me, at least...
+Dialogue: 0,0:08:45.07,0:08:48.04,Default,Gjo,0000,0000,0000,,I'm sorry. Please just give me a little more time.
+Dialogue: 0,0:08:55.24,0:08:57.39,Default,Prez,0000,0000,0000,,Oh? I didn't order this.
+Dialogue: 0,0:08:57.89,0:09:00.85,House_08:57(Ep 10),Sign,0000,0000,0000,,On the house for a nice person
+Dialogue: 0,0:09:01.12,0:09:04.46,Default,Prez,0000,0000,0000,,Whew! Aren't I quite the actor?
+Dialogue: 0,0:09:04.46,0:09:05.63,Default,Prez,0000,0000,0000,,An old man who can act!
+Dialogue: 0,0:09:05.63,0:09:08.86,Default,Prez,0000,0000,0000,,Maybe I'll start a senior class \Nat the training school.
+Dialogue: 0,0:09:13.57,0:09:15.24,Default,Kuzu,0000,0000,0000,,I'm saying...
+Dialogue: 0,0:09:15.24,0:09:16.82,Default,Kuzu,0000,0000,0000,,Take a closer look!
+Dialogue: 0,0:09:16.82,0:09:18.70,Default,Kuzu,0000,0000,0000,,It's about forty centimeters long!
+Dialogue: 0,0:09:19.00,0:09:22.59,Default,Guy,0000,0000,0000,,Er... But it's actually two \Ncentimeters short of forty...
+Dialogue: 0,0:09:22.59,0:09:26.04,Default,Kuzu,0000,0000,0000,,My Mai Mai-chan tends to shrink and grow.
+Dialogue: 0,0:09:26.04,0:09:28.42,Default,Guy,0000,0000,0000,,Please don't randomly name it...
+Dialogue: 0,0:09:28.42,0:09:31.27,Default,Kuzu,0000,0000,0000,,Cut me a little slack!
+Dialogue: 0,0:09:30.67,0:09:35.38,Fish-Sticker_09:30(Ep 10),Sign,0000,0000,0000,,Anyone Who Catches a Fish Measuring \N40cm or More Will Get This Sticker
+Dialogue: 0,0:09:31.27,0:09:33.51,Default,Kuzu,0000,0000,0000,,No one's gonna want these stickers!
+Dialogue: 0,0:09:33.51,0:09:35.38,Default,Guy,0000,0000,0000,,Then you don't need it, do you?
+Dialogue: 0,0:09:37.16,0:09:41.15,Default,Kuzu,0000,0000,0000,,Come on... I'll never be able \Nto beat him at this rate.
+Dialogue: 0,0:09:41.15,0:09:42.81,Default,Guy,0000,0000,0000,,That doesn't concern me...
+Dialogue: 0,0:09:43.22,0:09:45.02,Default,Guy,0000,0000,0000,,We're closing now.
+Dialogue: 0,0:09:47.38,0:09:49.66,Default,Guy,0000,0000,0000,,Catch another big one some other time.
+Dialogue: 0,0:09:51.45,0:09:53.53,Default,Kuzu,0000,0000,0000,,Towada!
+Dialogue: 0,0:09:53.79,0:09:57.10,Default,Kuzu,0000,0000,0000,,I asked you to save me, \Nand you didn't call me back once!
+Dialogue: 0,0:09:57.10,0:09:58.84,Default,Kuzu,0000,0000,0000,,Damn it... Damn it!
+Dialogue: 0,0:10:00.26,0:10:02.66,Default,Kuzu,0000,0000,0000,,I don't have anyone, anyway.
+Dialogue: 0,0:10:03.37,0:10:05.40,Default,Kuzu,0000,0000,0000,,My future is pitch black...
+Dialogue: 0,0:10:28.06,0:10:30.74,Default,Koto,0000,0000,0000,,Chi-sama, what's wrong? \NYou seem really tired today.
+Dialogue: 0,0:10:30.74,0:10:34.11,Default,Chit,0000,0000,0000,,Hmm... I'd say it's more lately, not just today.
+Dialogue: 0,0:10:34.11,0:10:35.49,Default,Koto,0000,0000,0000,,You okay?
+Dialogue: 0,0:10:35.49,0:10:37.53,Default,Oto,0000,0000,0000,,This is our agency's event,
+Dialogue: 0,0:10:37.53,0:10:40.09,Default,Oto,0000,0000,0000,,and we're counting on you as the lead.
+Dialogue: 0,0:10:40.09,0:10:42.04,Default,Chit,0000,0000,0000,,Yeah, I know...
+Dialogue: 0,0:10:42.04,0:10:43.76,Default,Mats,0000,0000,0000,,Karasuma-san!
+Dialogue: 0,0:10:43.76,0:10:45.64,Default,Mats,0000,0000,0000,,Let's rehearse the song once more!
+Dialogue: 0,0:10:45.64,0:10:48.39,Default,Mats,0000,0000,0000,,You can do it much, much \Nbetter, Karasuma-san!
+Dialogue: 0,0:10:51.03,0:10:53.09,Default,Chit,0000,0000,0000,,Uh, but it's just rehearsal...
+Dialogue: 0,0:10:54.00,0:10:56.56,Default,Mats,0000,0000,0000,,Why don't you do your best?!
+Dialogue: 0,0:10:56.56,0:10:59.75,Default,Mats,0000,0000,0000,,Do you think you can do in a match \Nwhat you can't do in practice?!
+Dialogue: 0,0:11:00.12,0:11:01.54,Default,Mats,0000,0000,0000,,You can't, right?!
+Dialogue: 0,0:11:01.54,0:11:02.21,Default,Chit,0000,0000,0000,,Right...
+Dialogue: 0,0:11:02.21,0:11:04.36,Default,Mats,0000,0000,0000,,I can't hear you! Louder!
+Dialogue: 0,0:11:04.36,0:11:05.01,Default,Chit,0000,0000,0000,,Right!
+Dialogue: 0,0:11:05.34,0:11:07.59,Default,Mats,0000,0000,0000,,Nice and loud! Well done!
+Dialogue: 0,0:11:08.39,0:11:10.33,Default,Chit,0000,0000,0000,,You can see what my sub-manager is like.
+Dialogue: 0,0:11:11.51,0:11:15.20,Default,Chit,0000,0000,0000,,I wonder if he thinks I'm a newbie or something...
+Dialogue: 0,0:11:26.50,0:11:29.81,Default,Yae,0000,0000,0000,,P-Pardon me. Could I get the \Nplayback on my ear monitor
+Dialogue: 0,0:11:29.81,0:11:31.46,Default,Yae,0000,0000,0000,,a bit louder, please?
+Dialogue: 0,0:11:32.05,0:11:33.95,Default,Koto,0000,0000,0000,,Is your playback okay, Nana-chan?
+Dialogue: 0,0:11:33.95,0:11:37.40,Default,Nana,0000,0000,0000,,Yes! This is the first time \NI've worn an ear monitor!
+Dialogue: 0,0:11:37.40,0:11:40.01,Default,Nana,0000,0000,0000,,So I don't really understand it, but I'll be fine!
+Dialogue: 0,0:11:40.01,0:11:42.16,Default,Koto,0000,0000,0000,,You don't understand it, but it's fine?
+Dialogue: 0,0:11:42.16,0:11:44.64,Default,Nana,0000,0000,0000,,Yes! I'll do my best either way!
+Dialogue: 0,0:11:55.35,0:11:57.82,Default,Chit,0000,0000,0000,,I don't want to move another inch.
+Dialogue: 0,0:11:57.82,0:12:00.05,Default,Yae,0000,0000,0000,,Are we going to be okay tomorrow?
+Dialogue: 0,0:12:00.05,0:12:02.53,Default,Koto,0000,0000,0000,,It's always nerve-wracking before an event.
+Dialogue: 0,0:12:02.53,0:12:06.40,Default,Chit,0000,0000,0000,,Really? This isn't our first \Ntime doing this. We'll be fine.
+Dialogue: 0,0:12:06.40,0:12:09.33,Default,Nana,0000,0000,0000,,That's our Karasuma-san for you! \NI'll do my best, too!
+Dialogue: 0,0:12:09.64,0:12:12.21,Default,Yae,0000,0000,0000,,The audience capacity this time is a thousand...
+Dialogue: 0,0:12:12.21,0:12:14.54,Default,Koto,0000,0000,0000,,Even if we pull a big crowd, \Nit's the merch sales...
+Dialogue: 0,0:12:14.83,0:12:16.71,Default,Chit,0000,0000,0000,,Does that have anything to do with us?
+Dialogue: 0,0:12:17.09,0:12:20.70,Default,Koto,0000,0000,0000,,If we're thinking about whether our \Ncustomers will be satisfied or not,
+Dialogue: 0,0:12:20.70,0:12:23.38,Default,Koto,0000,0000,0000,,it means as much to us \Nas ants do to an anteater.
+Dialogue: 0,0:12:24.02,0:12:25.31,Default,Chit,0000,0000,0000,,What's with the awful pun?
+Dialogue: 0,0:12:25.31,0:12:28.17,Default,Koto,0000,0000,0000,,N-No, it's a joke from a light novel anime that's
+Dialogue: 0,0:12:28.17,0:12:30.43,Default,Koto,0000,0000,0000,,about to start where I'm one of the leads.
+Dialogue: 0,0:12:30.68,0:12:34.04,Default,Chit,0000,0000,0000,,Huh... So you've downgraded \Nfrom anime professor
+Dialogue: 0,0:12:34.04,0:12:36.06,Default,Chit,0000,0000,0000,,to light novel professor.
+Dialogue: 0,0:12:36.98,0:12:38.65,Default,Chit,0000,0000,0000,,Well, anyway,
+Dialogue: 0,0:12:39.13,0:12:42.74,Default,Chit,0000,0000,0000,,we're not brand-spanking-new newbies anymore.
+Dialogue: 0,0:12:42.74,0:12:46.00,Default,Yae,0000,0000,0000,,Right. So we have to straighten up.
+Dialogue: 0,0:12:46.00,0:12:47.73,Default,Koto,0000,0000,0000,,We have to act more like professionals.
+Dialogue: 0,0:12:47.73,0:12:50.14,Default,Nana,0000,0000,0000,,That means, since I am a newbie,
+Dialogue: 0,0:12:50.14,0:12:52.74,Default,Nana,0000,0000,0000,,I need to try much, much, much harder!
+Dialogue: 0,0:12:52.74,0:12:55.25,Default,Nana,0000,0000,0000,,Gojo-san! Please let me practice one more time!
+Dialogue: 0,0:12:56.36,0:12:57.86,Default,Gojo,0000,0000,0000,,Well, I guess one more wouldn't hurt...
+Dialogue: 0,0:12:57.86,0:12:59.68,Default,Nana,0000,0000,0000,,Thank you very much!
+Dialogue: 0,0:13:00.51,0:13:02.08,Default,Koto,0000,0000,0000,,Then I'll give it another go, too!
+Dialogue: 0,0:13:02.08,0:13:03.37,Default,Yae,0000,0000,0000,,M-Me, too!
+Dialogue: 0,0:13:11.03,0:13:13.26,Default,Ojo,0000,0000,0000,,How long do you plan on lying there?
+Dialogue: 0,0:13:13.80,0:13:15.56,Default,Chit,0000,0000,0000,,Where'd that come from, Gojo-kun?
+Dialogue: 0,0:13:16.98,0:13:18.91,Default,Gojo,0000,0000,0000,,There's no one around you.
+Dialogue: 0,0:13:19.26,0:13:20.95,Default,Gojo,0000,0000,0000,,You're the only one stuck in place.
+Dialogue: 0,0:13:21.82,0:13:24.61,Default,Gojo,0000,0000,0000,,Are you just going to let \Nyourself get left behind?
+Dialogue: 0,0:13:24.96,0:13:27.57,Default,Chit,0000,0000,0000,,You're exaggerating. Okay, I'll go, I'll go.
+Dialogue: 0,0:13:28.70,0:13:29.81,Default,Gojo,0000,0000,0000,,I'm heading out.
+Dialogue: 0,0:13:30.96,0:13:31.91,Default,Gojo,0000,0000,0000,,I'll be waiting.
+Dialogue: 0,0:13:46.38,0:13:48.59,Default,Yae,0000,0000,0000,,It'll be okay. It'll be okay. \NI can do this. I can do this.
+Dialogue: 0,0:13:48.59,0:13:51.87,Default - Top,Yae,0000,0000,0000,,It'll be okay! It'll be okay! \NI can do this! I can do this!
+Dialogue: 0,0:13:50.25,0:13:52.64,Default,Nana,0000,0000,0000,,I'm getting nervous! I'll do my best!
+Dialogue: 0,0:13:52.64,0:13:54.18,Default,Nana,0000,0000,0000,,I'll do my best and get nervous!
+Dialogue: 0,0:13:54.42,0:13:56.69,Default,Koto,0000,0000,0000,,You guys are thinkin' about it too much.
+Dialogue: 0,0:13:56.69,0:13:58.15,Default,Yae,0000,0000,0000,,B-But...
+Dialogue: 0,0:13:58.53,0:14:01.39,Default,Koto,0000,0000,0000,,Then let's talk about something \Nthat'll calm your nerves.
+Dialogue: 0,0:14:01.39,0:14:04.30,Default,Koto,0000,0000,0000,,Y'know, about the celebration for Chi-sama...
+Dialogue: 0,0:14:04.30,0:14:06.36,Default,Nana,0000,0000,0000,,Oh, the surprise present?
+Dialogue: 0,0:14:06.58,0:14:09.28,Default,Yae,0000,0000,0000,,Were you going to give \Nthe first signal, Koto-chan?
+Dialogue: 0,0:14:10.29,0:14:13.02,Default,Guy,0000,0000,0000,,They haven't figured out the surprise yet?
+Dialogue: 0,0:14:13.02,0:14:16.25,Default,Guy,0000,0000,0000,,The president said to go out with \Na bang since it's a special occasion.
+Dialogue: 0,0:14:16.49,0:14:18.75,Default,Guy,0000,0000,0000,,Well, we have to figure out the staging...
+Dialogue: 0,0:14:18.75,0:14:20.87,Default,Guy,0000,0000,0000,,Is Katakura-san supposed to cue the lighting?
+Dialogue: 0,0:14:21.21,0:14:22.61,Default,Guy,0000,0000,0000,,Make sure you tell her.
+Dialogue: 0,0:14:22.61,0:14:26.56,Default - Italics,Chit,0000,0000,0000,,A surprise? Oh, for my birthday...
+Dialogue: 0,0:14:26.99,0:14:30.00,Default,Chit,0000,0000,0000,,Take the picture and up it!
+Dialogue: 0,0:14:30.00,0:14:32.70,Default,Chit,0000,0000,0000,,The mysterious luminescence is the star!
+Dialogue: 0,0:14:32.70,0:14:35.53,Default,Chit,0000,0000,0000,,Tons of filters! Science is a girl's best friend...
+Dialogue: 0,0:15:23.58,0:15:27.26,Default,Koto,0000,0000,0000,,This is sudden, but we actually \Nhave a surprise for you now!
+Dialogue: 0,0:15:27.26,0:15:28.99,Default,Yae,0000,0000,0000,,Wow! That's amazing!
+Dialogue: 0,0:15:29.35,0:15:31.95,Default,Chit,0000,0000,0000,,H-Huh? I wonder what it could be...
+Dialogue: 0,0:15:32.42,0:15:34.16,Default,Koto,0000,0000,0000,,It's...
+Dialogue: 0,0:15:34.75,0:15:37.21,Default,Koto,0000,0000,0000,,Nanami-chan's CD debut!
+Dialogue: 0,0:15:38.15,0:15:39.62,Default,Koto,0000,0000,0000,,Congratulations!
+Dialogue: 0,0:15:44.29,0:15:47.89,Default - Italics,Song,0000,0000,0000,,The words I can say in my dreams are so \Nembarrassing once I'm out of my dream
+Dialogue: 0,0:15:47.89,0:15:51.43,Default - Italics,Song,0000,0000,0000,,I know I probably can't say them to your face
+Dialogue: 0,0:15:51.43,0:15:54.93,Default - Italics,Song,0000,0000,0000,,Going with the rhythm, 1, 2, 3!\NI just started humming to play it off
+Dialogue: 0,0:15:54.93,0:15:58.51,Default - Italics,Song,0000,0000,0000,,I can't sing, but that's part of my charm!\NPlease, just wake me up already!
+Dialogue: 0,0:15:58.51,0:16:04.98,Default - Italics,Song,0000,0000,0000,,Morning, I rub my tired eyes \Nas the morning sun shines in
+Dialogue: 0,0:16:24.39,0:16:26.62,Default,Kto,0000,0000,0000,,Happy birthday, Chi-sama!
+Dialogue: 0,0:16:26.62,0:16:28.11,Default,Yae,0000,0000,0000,,Happy birthday, Chi-chan!
+Dialogue: 0,0:16:28.11,0:16:29.38,Default,Nana,0000,0000,0000,,Happy birthday!
+Dialogue: 0,0:16:31.49,0:16:34.09,Default,Koto,0000,0000,0000,,Wasn't that a perfect surprise? \NWere you surprised?
+Dialogue: 0,0:16:34.45,0:16:36.55,Default,Chit,0000,0000,0000,,Huh? U-Um...
+Dialogue: 0,0:16:37.02,0:16:38.51,Default,Yae,0000,0000,0000,,Chi-chan?
+Dialogue: 0,0:16:38.91,0:16:40.13,Default,Chit,0000,0000,0000,,No... I'm sorry.
+Dialogue: 0,0:16:40.13,0:16:42.09,Default,Chit,0000,0000,0000,,It's just that I was genuinely surprised...
+Dialogue: 0,0:16:42.09,0:16:44.48,Default,Koto,0000,0000,0000,,Aw, Chi-sama, you can \Nactually be cute sometimes.
+Dialogue: 0,0:16:46.50,0:16:48.65,Default,Yae,0000,0000,0000,,Hurry up and blow out the candles!
+Dialogue: 0,0:16:54.49,0:16:56.45,Default,Yae,0000,0000,0000,,It's so good.
+Dialogue: 0,0:16:56.45,0:16:57.61,Default,Nana,0000,0000,0000,,It is!
+Dialogue: 0,0:16:57.61,0:16:58.92,Default,Chit,0000,0000,0000,,I really am happy...
+Dialogue: 0,0:16:59.53,0:17:02.37,Default,Nana,0000,0000,0000,,Karasuma-san, here's your birthday gift!
+Dialogue: 0,0:17:04.05,0:17:06.47,Default,Chit,0000,0000,0000,,Th-Thanks... Can I open it?
+Dialogue: 0,0:17:06.47,0:17:07.28,Default,Yae,0000,0000,0000,,Sure!
+Dialogue: 0,0:17:07.28,0:17:09.38,Default,Yae,0000,0000,0000,,We spent a lot of time \Npicking that out for you.
+Dialogue: 0,0:17:09.38,0:17:13.15,Default,Koto,0000,0000,0000,,Yeah. We wanted something \Nthat would look good on you.
+Dialogue: 0,0:17:13.15,0:17:14.98,Default,Nana,0000,0000,0000,,We did our best picking it out.
+Dialogue: 0,0:17:14.98,0:17:18.45,Default,Nana,0000,0000,0000,,Despite how busy everyone was, \Nwe were able to match our schedules.
+Dialogue: 0,0:17:18.45,0:17:22.61,Default,Yae,0000,0000,0000,,Koto-chan's job and my job \Njust happened to be close.
+Dialogue: 0,0:17:22.61,0:17:25.94,Default,Koto,0000,0000,0000,,We ended up making Nana-chan wait \Nsuch a long time. I'm sorry about that.
+Dialogue: 0,0:17:25.94,0:17:28.90,Default,Nana,0000,0000,0000,,It's fine! I had fun waiting.
+Dialogue: 0,0:17:29.85,0:17:31.79,Default,Koto,0000,0000,0000,,You're such a good kid, Nana-chan.
+Dialogue: 0,0:17:30.86,0:17:32.27,Default,,0000,0000,0000,,I'm so glad!
+Dialogue: 0,0:17:32.48,0:17:34.75,Default,Chit,0000,0000,0000,,Th-Thanks, everyone...
+Dialogue: 0,0:17:52.79,0:17:55.59,Default,Mats,0000,0000,0000,,Pardon me. The taxi's here! Let's head out!
+Dialogue: 0,0:17:58.14,0:18:00.10,Default,Fan,0000,0000,0000,,Nanami-chan! Do your best!
+Dialogue: 0,0:18:00.10,0:18:01.31,Default,Fan,0000,0000,0000,,Nana-taso!
+Dialogue: 0,0:18:01.31,0:18:04.45,Default,Nana,0000,0000,0000,,Okay! I'll do my best! Thank you so much!
+Dialogue: 0,0:18:05.42,0:18:07.78,Default,Fan,0000,0000,0000,,Chi-chan! Chi-chan! Do your best!
+Dialogue: 0,0:18:07.78,0:18:08.85,Default,Fan,0000,0000,0000,,Chi-sama-taso!
+Dialogue: 0,0:18:09.14,0:18:11.70,Default,Chit,0000,0000,0000,,Oh, right... Thank you very much.
+Dialogue: 0,0:18:12.41,0:18:15.99,Default,Fan,0000,0000,0000,,Cold... So cold. Ice cold for life.
+Dialogue: 0,0:18:18.45,0:18:20.38,Default,Fan,0000,0000,0000,,You just lose it when you get older.
+Dialogue: 0,0:18:20.68,0:18:23.16,Default,Fan,0000,0000,0000,,Yeah. About time to retire as a Chitose fan.
+Dialogue: 0,0:18:23.54,0:18:25.19,Default,Nana,0000,0000,0000,,Thank you very much!
+Dialogue: 0,0:18:25.19,0:18:26.88,Default,Fan,0000,0000,0000,,I'm gonna transfer over \Nto backing Nanami.
+Dialogue: 0,0:18:26.88,0:18:28.64,Default,Fan,0000,0000,0000,,Nanami-chan! Do your best!
+Dialogue: 0,0:18:28.64,0:18:30.63,Default,Nana,0000,0000,0000,,Yes! I will!
+Dialogue: 0,0:18:34.04,0:18:35.55,Default,Nana,0000,0000,0000,,That's so amazing.
+Dialogue: 0,0:18:35.55,0:18:37.59,Default,Nana,0000,0000,0000,,All the fans are so passionate.
+Dialogue: 0,0:18:37.59,0:18:40.92,Default,Nana,0000,0000,0000,,So this is what you and \Nthe other two have created!
+Dialogue: 0,0:18:40.92,0:18:43.30,Default,Chit,0000,0000,0000,,Oh, right... Actually, I'm not sure about that...
+Dialogue: 0,0:18:43.30,0:18:46.25,Default,Nana,0000,0000,0000,,Hard work really does \Npay off someday, doesn't it?
+Dialogue: 0,0:18:46.25,0:18:48.51,Default,Nana,0000,0000,0000,,You really are amazing, Karasuma-san!
+Dialogue: 0,0:18:49.56,0:18:52.52,Default,Gojo,0000,0000,0000,,Sakuragaoka, you live in Tama, \Nright? I'll drive you home.
+Dialogue: 0,0:18:52.75,0:18:54.79,Default,Nana,0000,0000,0000,,I do! Thank you very much!
+Dialogue: 0,0:18:55.07,0:18:56.36,Default,Gojo,0000,0000,0000,,So, yeah...
+Dialogue: 0,0:18:56.88,0:18:57.60,Default,Chit,0000,0000,0000,,Yeah...
+Dialogue: 0,0:19:04.66,0:19:07.16,Hearts(Ep 10),Sign,0000,0000,0000,,Our hearts connect...
+Dialogue: 0,0:19:10.92,0:19:13.63,Hearts(Ep 10)v2,Sign,0000,0000,0000,,Our hearts connect...
+Dialogue: 0,0:19:18.58,0:19:19.51,Default,Girl,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:19:20.31,0:19:23.56,Default,Guy,0000,0000,0000,,Sorry. She's so clumsy.
+Dialogue: 0,0:19:23.56,0:19:25.42,Default,Girl,0000,0000,0000,,Taru-kun, you're so mean!
+Dialogue: 0,0:19:25.42,0:19:27.42,Default,Girl,0000,0000,0000,,But I really am sorry.
+Dialogue: 0,0:19:27.42,0:19:28.51,Default,Chit,0000,0000,0000,,No, it's my fa—
+Dialogue: 0,0:19:28.51,0:19:30.23,Default,Girl,0000,0000,0000,,I'm so sorry!
+Dialogue: 0,0:19:30.23,0:19:31.95,Default,Guy,0000,0000,0000,,Sorry.
+Dialogue: 0,0:19:32.48,0:19:34.18,Default,Guy,0000,0000,0000,,You need to watch where you're going.
+Dialogue: 0,0:19:34.18,0:19:35.24,Default,Girl,0000,0000,0000,,Sorry.
+Dialogue: 0,0:19:49.60,0:19:52.25,Default,Chit,0000,0000,0000,,What's... with me?
+Dialogue: 0,0:20:10.93,0:20:12.39,Towada_Incoming_(Ep 10),Sign,0000,0000,0000,,Towada\N\N\N{\fs20}Incoming Call...
+Dialogue: 0,0:20:15.17,0:20:15.86,Default,Kuzu,0000,0000,0000,,Hello?
+Dialogue: 0,0:20:16.34,0:20:18.61,Default,Towa,0000,0000,0000,,Don't give me that, Kuzu-san.
+Dialogue: 0,0:20:18.61,0:20:20.10,Default,Towa,0000,0000,0000,,We have video editing today!
+Dialogue: 0,0:20:20.10,0:20:20.82,Default,Kuzu,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:20.82,0:20:22.94,Default,Towa,0000,0000,0000,,You asked me to help you, \Nso I worked hard to make sure
+Dialogue: 0,0:20:22.94,0:20:24.87,Default,Towa,0000,0000,0000,,things went well, \Neven if you weren't here.
+Dialogue: 0,0:20:25.17,0:20:25.82,Default,Kuzu,0000,0000,0000,,Right...
+Dialogue: 0,0:20:26.08,0:20:28.52,Default,Towa,0000,0000,0000,,Could you please show up to work soon?
+Dialogue: 0,0:20:28.52,0:20:30.54,Default,Towa,0000,0000,0000,,We don't have enough people \Nto make the deliveries.
+Dialogue: 0,0:20:31.39,0:20:34.01,Default,Kuzu,0000,0000,0000,,I-I... can show up?
+Dialogue: 0,0:20:34.40,0:20:36.25,Default,Kuzu,0000,0000,0000,,I'm still needed?
+Dialogue: 0,0:20:36.25,0:20:38.64,Default,Towa,0000,0000,0000,,Yes, yes. You're needed.
+Dialogue: 0,0:20:38.64,0:20:41.43,Default,Towa,0000,0000,0000,,You were CCed on that message, weren't you?
+Dialogue: 0,0:20:43.68,0:20:46.39,Default,Towa,0000,0000,0000,,I'll get the regional deliveries done,
+Dialogue: 0,0:20:46.39,0:20:48.64,Default,Towa,0000,0000,0000,,but I need you to do the \Ndeliveries within the city.
+Dialogue: 0,0:20:48.88,0:20:52.33,Default,Kuzu,0000,0000,0000,,Oh, I got it. I definitely got it!
+Dialogue: 0,0:20:52.33,0:20:54.10,Default,Towa,0000,0000,0000,,Huh? Wait, what are you...
+Dialogue: 0,0:20:53.11,0:20:54.10,Default,Kuzu,0000,0000,0000,,Towada!
+Dialogue: 0,0:20:54.10,0:20:54.99,Default,Towa,0000,0000,0000,,Y-Yes?
+Dialogue: 0,0:20:55.35,0:20:57.44,Default,Kuzu,0000,0000,0000,,I was always the one needing something.
+Dialogue: 0,0:20:57.69,0:21:00.40,Default,Kuzu,0000,0000,0000,,But now that you need me, \NI know for the first time...
+Dialogue: 0,0:21:00.65,0:21:04.20,Default,Kuzu,0000,0000,0000,,Basically, because you needed \Nme needing something...
+Dialogue: 0,0:21:04.20,0:21:06.00,Default,Kuzu,0000,0000,0000,,Actually, I have no idea!
+Dialogue: 0,0:21:06.75,0:21:08.34,Default,Towa,0000,0000,0000,,R-Right...
+Dialogue: 0,0:21:09.53,0:21:10.54,Default,Towa,0000,0000,0000,,What don't you understand?
+Dialogue: 0,0:21:10.81,0:21:12.75,Default,Kuzu,0000,0000,0000,,Ask, and you shall recieve!
+Dialogue: 0,0:21:13.02,0:21:16.46,Default,Kuzu,0000,0000,0000,,I was right all along! Right?
+Dialogue: 0,0:21:16.94,0:21:19.81,Default,Towa,0000,0000,0000,,Er, uh... I don't think so, but...
+Dialogue: 0,0:21:19.81,0:21:21.42,Default,Towa,0000,0000,0000,,Right, anyway...
+Dialogue: 0,0:21:22.06,0:21:23.88,Default,Towa,0000,0000,0000,,More importantly, the delivery...
+Dialogue: 0,0:21:24.12,0:21:26.43,Default,Kuzu,0000,0000,0000,,All right! Leave it to me!
+Dialogue: 0,0:21:27.81,0:21:29.93,Default,Kuzu,0000,0000,0000,,You and I are going to
+Dialogue: 0,0:21:29.93,0:21:32.94,Default,Kuzu,0000,0000,0000,,beat that guy!
+Dialogue: 0,0:23:10.70,0:23:13.66,Playing_23:10(Ep 10),Sign,0000,0000,0000,,The Ghost Kitten Connection \N{\fs16}Playing
+Dialogue: 0,0:23:11.47,0:23:13.66,Default,Gojo,0000,0000,0000,,My hands are already dirty.
+Dialogue: 0,0:23:14.01,0:23:17.12,Default,Chit,0000,0000,0000,,That's Gojo-kun's voice... \NHow funny. He sounds so young.
+Dialogue: 0,0:23:17.38,0:23:20.58,Default,Gojo,0000,0000,0000,,But that doesn't mean I can stop.
+Dialogue: 0,0:23:20.58,0:23:23.28,Default,Chit,0000,0000,0000,,You totally sucked, too, Gojo-kun.
+Dialogue: 0,0:23:24.45,0:23:26.59,Default,Chit,0000,0000,0000,,Just about as much as me...
+Dialogue: 0,0:23:28.59,0:23:30.09,Karasuma_Gojo_23:28(Ep 10),Sign,0000,0000,0000,,Karasuma Gojo
+Dialogue: 0,0:23:28.59,0:23:30.09,Other_23:28(Ep 10),Sign,0000,0000,0000,,Other Keywords:       {\c&HC36371&} Karasuma Gojo College    Karasuma Gojo 2000ch
+Dialogue: 0,0:23:28.59,0:23:30.09,Search_23:28(Ep 10),Sign,0000,0000,0000,,Search Results
+Dialogue: 0,0:23:28.59,0:23:30.09,Gojo-Wiki_23:28(Ep 10),Sign,0000,0000,0000,,Karasuma Gojo – Wikipedia
+Dialogue: 0,0:23:28.59,0:23:30.09,Info_23:28(Ep 10),Sign,0000,0000,0000,,Karasuma Gojo is a former male voice actor in Japan. Formerly affiliated with Number One Produce. Born in Tokyo.
+Dialogue: 0,0:23:30.09,0:23:31.14,Tojo-Tenjiku_23:30(Ep 10),Sign,0000,0000,0000,,{\c&HFBF49A&}Karasuma Gojo's \N{\c&HB37CED&}Cotton Days
+Dialogue: 0,0:23:30.09,0:23:34.56,Charm_23:30(Ep 10),sign,0000,0000,0000,,With the charm of being able \Nto become anyone and anything
+Dialogue: 0,0:23:31.13,0:23:34.12,Default,chit,0000,0000,0000,,"Being able to become anyone and anything."
+Dialogue: 0,0:23:31.43,0:23:34.56,Breeze_23:31(Ep 10),sign,0000,0000,0000,,As charming and fresh as the summer breeze.
+Dialogue: 0,0:23:34.81,0:23:36.51,Default,Gojo,0000,0000,0000,,I have to change!
+Dialogue: 0,0:23:37.76,0:23:40.75,Default,Chit,0000,0000,0000,,Change. I can change. I need to change.
+Dialogue: 0,0:23:40.75,0:23:43.07,Default,Gojo,0000,0000,0000,,You can change, too.
+Dialogue: 0,0:23:43.07,0:23:47.07,Default,Gojo,0000,0000,0000,,Do your best! I know you can \Nbecome who you want to be!
+Dialogue: 0,0:23:51.56,0:23:53.06,Default,Chit,0000,0000,0000,,Liar.
+Dialogue: 0,0:23:53.06,0:23:54.81,Default,Chit,0000,0000,0000,,If I could become who I wanted to be,
+Dialogue: 0,0:23:54.81,0:23:56.41,Default,Chit,0000,0000,0000,,I wouldn't be who I am right now.
+Dialogue: 0,0:23:57.24,0:23:58.73,Default,Chit,0000,0000,0000,,"You can change"...
+Dialogue: 0,0:23:58.73,0:24:02.87,Default,Chit,0000,0000,0000,,That makes no sense, and there's no point.
+Dialogue: 0,0:24:03.71,0:24:04.66,Default,Chit,0000,0000,0000,,I wonder
+Dialogue: 0,0:24:05.89,0:24:08.03,Default,Chit,0000,0000,0000,,why Gojo-kun quit being a voice actor.

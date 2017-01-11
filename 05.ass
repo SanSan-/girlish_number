@@ -1,0 +1,516 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Default - Margin,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default - Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default - Flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default - Song,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Default - Onscreen,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,3,0,0,28,1
+Style: Ep_Title,Open Sans Semibold,30,&H00F6F6F4,&H000000FF,&H0016120A,&H00110B06,1,0,0,0,100,100,0,0,1,2,0,1,85,13,100,0
+Style: Next_Ep_Title,Open Sans Semibold,33,&H006500BC,&H000000FF,&H00FBF0FD,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,44,36,87,0
+Style: Next_Time,Open Sans Semibold,30,&H00000000,&H000000FF,&H00E9EEEE,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,107,13,53,1
+Style: Default - Flashback Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default - MC,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Default - Top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Preview,Open Sans Semibold,30,&H00FFFDFE,&H000000FF,&H005B5353,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,27,629,100,1
+Style: Girlish Number - Ep Title,Open Sans Semibold,30,&H00F6F6F4,&H000000FF,&H0016120A,&H00110B06,1,0,0,0,100,100,0,0,1,2,0,1,87,27,91,0
+Style: Anime_Title_16:41(Ep 05),Open Sans Semibold,24,&H00FDFDFD,&H000000FF,&H005EE5FF,&H00EFFFA3,1,0,0,0,100,100,0,10,1,2,0,8,240,427,213,0
+Style: Texts/tweets(Ep 05),Open Sans Semibold,21,&H00271817,&H000000FF,&H00FDFDFD,&H00461004,1,0,0,0,100,100,0,0,1,3,0,4,27,13,99,0
+Style: Our_Ballad_00:09(Ep 05),Open Sans Semibold,30,&H00EEECF1,&H000000FF,&H002D3225,&H00461004,1,0,0,0,100,100,0,0,1,3,0,2,27,27,133,0
+Style: Rainbow_00:12(Ep 05),Open Sans Semibold,45,&H00EEECF1,&H000000FF,&H002D3225,&H00461004,1,0,0,0,100,100,0,0,1,3,0,9,27,33,144,0
+Style: Ghost_Kitten(little)_00:31(Ep 05),Open Sans Semibold,33,&H00494747,&H000000FF,&H00F2EBEC,&H00461004,1,0,0,0,100,100,0,0,1,2,0,2,133,27,120,0
+Style: Playing_00:31(Ep 05),Open Sans Semibold,27,&H008B8485,&H000000FF,&H00F2EBEC,&H00461004,1,0,0,0,100,100,0,0,1,2,0,2,213,27,13,0
+Style: Ghost_Kitten(big)_00:40(Ep 05),Open Sans Semibold,45,&H004A4848,&H000000FF,&H00F2EBEC,&H00461004,1,0,0,0,100,100,0,0,1,0,0,8,27,27,80,0
+Style: Playing(big)_00:40(Ep 05),Open Sans Semibold,39,&H004A4848,&H000000FF,&H00F2EBEC,&H00461004,0,0,0,0,100,100,0,0,1,2,0,3,27,133,113,0
+Style: Cast_03:22(Ep 05),Open Sans Semibold,23,&H00DCE0E0,&H000000FF,&H00131E1E,&H00461004,1,0,0,0,100,100,0,0,1,2,0,2,13,13,240,0
+Style: Cast_con't_03:24(Ep 05),Open Sans Semibold,36,&H00FFFEFC,&H000000FF,&H005C6761,&H00461004,1,0,0,0,100,100,0,0,1,2,0,2,13,13,140,0
+Style: ODD_Production_06:25(Ep 05),Open Sans Semibold,27,&H00FFD4C2,&H000000FF,&H006D4539,&H00461004,1,0,0,0,100,100,0,0,1,2,0,7,27,27,80,0
+Style: ODD_Production_06:29(Ep 05),Open Sans Semibold,24,&H00F0A094,&H000000FF,&H006D4539,&H00461004,1,0,0,0,100,100,0,0,1,2,0,1,233,13,133,0
+Style: Manga_Title_11:07(Ep 05),Open Sans Semibold,27,&H00D29469,&H000000FF,&H003DD3FF,&H00461004,1,0,0,0,100,100,0,0,1,2,0,9,89,27,99,0
+Style: Manga_Title_11:37(Ep 05),Open Sans Semibold,36,&H00D29469,&H000000FF,&H003DD3FF,&H000F3F59,1,0,0,0,100,100,0,0,1,2,2,8,27,27,99,0
+Style: 16th_anniv_11:37(Ep 05),Open Sans Semibold,21,&H001356FD,&H000000FF,&H0092FFFD,&H00461004,1,0,0,0,100,100,0,0,1,2,0,2,13,633,200,0
+Style: In_Use_11:40(Ep 05),Open Sans Semibold,33,&H00F9C7FF,&H000000FF,&H00C51CEC,&H00461004,1,0,0,0,100,100,0,0,1,1,0,2,80,13,96,0
+Style: Kusure(big)-14:37(Ep 05),Open Sans Semibold,30,&H0067615D,&H000000FF,&H00E5E5E5,&H00461004,1,0,0,0,100,100,0,0,1,2,0,2,27,13,227,0
+Style: Kusure(little)-14:37(Ep 05),Open Sans Semibold,18,&H0067615D,&H000000FF,&H00FFFFFF,&H00461004,1,0,0,0,100,100,0,0,1,2,0,2,27,13,207,0
+Style: Entrance_14:57(Ep 05),Open Sans Semibold,27,&H00FBF8E0,&H000000FF,&H004D4D41,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,253,40,43,0
+Style: Ended_15:53(Ep 05),Open Sans Semibold,39,&H003D5639,&H000000FF,&H00BAFFCD,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,40,167,176,0
+Style: ODD_Production_06:25copy,Open Sans Semibold,27,&H00FFD4C2,&H000000FF,&H006D4539,&H00461004,1,0,0,0,100,100,0,0,1,2,0,7,27,27,239,0
+Style: officialch,Open Sans Semibold,26,&H00ECEDE8,&H000000FF,&H00319CEF,&H00461004,1,0,0,0,100,100,0,0,1,4,0,8,133,549,136,0
+Style: userupcoming,Open Sans Semibold,27,&H005F513E,&H000000FF,&H00EDEBEB,&H00461004,1,0,0,0,100,100,0,0,1,4,0,8,336,260,139,0
+Style: pastprograms,Open Sans Semibold,23,&H005F513E,&H000000FF,&H00EDEBEB,&H00461004,1,0,0,0,100,100,0,0,1,4,0,7,620,13,197,0
+Style: broadcast live,Open Sans Semibold,27,&H00EFE8EC,&H000000FF,&H005327EA,&H00461004,1,0,0,0,100,100,0,0,1,4,0,7,611,13,149,0
+Style: popularity,Open Sans Semibold,30,&H004C353F,&H000000FF,&H00DFD9D8,&H00461004,1,0,0,0,100,100,0,0,1,4,0,8,320,260,247,0
+Style: on air,Open Sans Semibold,21,&H00E9EEE7,&H000000FF,&H002914E4,&H00461004,1,0,0,0,100,100,0,0,1,4,0,3,27,637,140,0
+Style: officialanime,Open Sans Semibold,23,&H005F513E,&H000000FF,&H00EDEBEB,&H00461004,0,0,0,0,100,100,0,0,1,4,0,7,324,11,327,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:04.26,0:00:07.35,Default,Tv,0000,0000,0000,,Now for this week's hits chart...
+Dialogue: 0,0:00:07.35,0:00:09.40,Default,Tv,0000,0000,0000,,Start the countdown!
+Dialogue: 0,0:00:09.69,0:00:10.86,Our_Ballad_00:09(Ep 05),Sign,0000,0000,0000,,Our Lost Ballad
+Dialogue: 0,0:00:12.28,0:00:13.32,Rainbow_00:12(Ep 05),Sign,0000,0000,0000,,Rainbow Sunrise
+Dialogue: 0,0:00:15.89,0:00:17.47,Default,Chit,0000,0000,0000,,Did you see, Gojo-kun?
+Dialogue: 0,0:00:17.47,0:00:19.86,Default,Chit,0000,0000,0000,,As of this week, we've shipped out \Nan estimated 10,000 copies!
+Dialogue: 0,0:00:19.86,0:00:20.92,Default,Chit,0000,0000,0000,,I'm so good!
+Dialogue: 0,0:00:20.92,0:00:22.25,Default,Gojo,0000,0000,0000,,Whose estimate is that?
+Dialogue: 0,0:00:22.64,0:00:24.32,Default,Gojo,0000,0000,0000,,It doesn't mean you did a good job.
+Dialogue: 0,0:00:24.32,0:00:26.73,Default,Gojo,0000,0000,0000,,It means the people who \Nwrote the song did a good job.
+Dialogue: 0,0:00:26.73,0:00:30.29,Default,Chit,0000,0000,0000,,Gojo-kun, I'm a pro, too. \NI totally understand that.
+Dialogue: 0,0:00:30.29,0:00:31.59,Default,Gojo,0000,0000,0000,,I hope so.
+Dialogue: 0,0:00:31.59,0:00:34.05,Ghost_Kitten(little)_00:31(Ep 05),Sign,0000,0000,0000,,The Ghost Kitten Connection
+Dialogue: 0,0:00:31.59,0:00:34.05,Playing_00:31(Ep 05),Sign,0000,0000,0000,,Playing
+Dialogue: 0,0:00:32.16,0:00:34.05,Default - Top,Chit,0000,0000,0000,,By the way, what I have here is...
+Dialogue: 0,0:00:36.26,0:00:40.01,Default,Chit,0000,0000,0000,,Ta-da! The drama CD starring the \Ngenius voice actor, Karasuma Gojo!
+Dialogue: 0,0:00:40.01,0:00:41.72,Ghost_Kitten(big)_00:40(Ep 05),Sign,0000,0000,0000,,The Ghost Kitten Connection
+Dialogue: 0,0:00:40.01,0:00:41.72,Playing(big)_00:40(Ep 05),Sign,0000,0000,0000,,Playing
+Dialogue: 0,0:00:40.01,0:00:41.72,Default,Chit,0000,0000,0000,,Its sales figures are immeasurable.
+Dialogue: 0,0:00:41.95,0:00:43.68,Default,Gojo,0000,0000,0000,,You actually have that?
+Dialogue: 0,0:00:44.09,0:00:47.81,Default,Chit,0000,0000,0000,,Avenging you with a force of 10,000 \Nsince the times weren't on your side...
+Dialogue: 0,0:00:48.17,0:00:50.36,Default,Chit,0000,0000,0000,,Who's the sister who cares \Nthat much about her brother?
+Dialogue: 0,0:00:50.82,0:00:51.86,Default,Chit,0000,0000,0000,,Me!
+Dialogue: 0,0:00:52.24,0:00:55.82,Default,Chit,0000,0000,0000,,Gojo-kun, Gojo-kun. \NSee? I'm great, aren't I?
+Dialogue: 0,0:00:56.64,0:00:58.17,Default,Gojo,0000,0000,0000,,Episode 5 airs later today.
+Dialogue: 0,0:00:58.17,0:00:59.70,Default,Gojo,0000,0000,0000,,You guys aren't meeting up again?
+Dialogue: 0,0:00:59.70,0:01:01.69,Default,Chit,0000,0000,0000,,We've been replying back \Nand forth, so it's fine.
+Dialogue: 0,0:01:01.69,0:01:03.98,Default,Chit,0000,0000,0000,,We just need to look like we \Nget along to people online.
+Dialogue: 0,0:01:03.98,0:01:06.37,Default,Gojo,0000,0000,0000,,You haven't even been watching \Nit on air lately, have you?
+Dialogue: 0,0:01:08.40,0:01:11.23,Default,Chit,0000,0000,0000,,Gojo-kun, I told you that I'm a pro, didn't I?
+Dialogue: 0,0:01:11.23,0:01:13.45,Default,Chit,0000,0000,0000,,I know most of the story \Nfrom the recording sessions.
+Dialogue: 0,0:01:13.45,0:01:16.55,Default,Chit,0000,0000,0000,,If I watch my timeline and say things \Nin line with what's being said, I'm fine.
+Dialogue: 0,0:01:17.03,0:01:18.32,Default,Gojo,0000,0000,0000,,You really are trash.
+Dialogue: 0,0:02:49.52,0:02:54.42,Girlish Number - Ep Title,Title,0000,0000,0000,,{\fad(863,730)}#05 Cocky Chitose and Shattered Popularity
+Dialogue: 0,0:03:22.51,0:03:24.47,Cast_03:22(Ep 05),Sign,0000,0000,0000,,Cast: Yuna (CV: Karasuma Chitose), Nanaka (CV : Shibasaki Kazuha), \NMao (CV: Kugayama Yae), Yuzu (CV: Sono Momoka), Ria (CV: Katakura Koto)
+Dialogue: 0,0:03:24.47,0:03:25.93,Cast_con't_03:24(Ep 05),Sign,0000,0000,0000,,(CV: Karasuma Chitose)
+Dialogue: 0,0:03:30.21,0:03:33.50,Default,Chit,0000,0000,0000,,A great song, great lyrics, and a great me.
+Dialogue: 0,0:03:33.83,0:03:34.61,Default,Yae,0000,0000,0000,,Chi-chan.
+Dialogue: 0,0:03:34.61,0:03:37.35,Default,Chit,0000,0000,0000,,Oh! I'm sorry! I'm off the clock, \Nand I'm heading to a recording session,
+Dialogue: 0,0:03:37.35,0:03:39.58,Default,Chit,0000,0000,0000,,so if you'd like an autograph, \Nplease go through my agency.
+Dialogue: 0,0:03:39.58,0:03:41.45,Default,Chit,0000,0000,0000,,If you'd like a handshake, \Nthere's a limit of one per person.
+Dialogue: 0,0:03:46.68,0:03:47.91,Default,Chit,0000,0000,0000,,Oh, it's just you two.
+Dialogue: 0,0:03:47.91,0:03:50.39,Default,Koto,0000,0000,0000,,You really are amusing, Chi-sama.
+Dialogue: 0,0:03:50.39,0:03:51.83,Default,Yae,0000,0000,0000,,Were you curious about it, too?
+Dialogue: 0,0:03:52.08,0:03:53.29,Default,Cit,0000,0000,0000,,Curious?
+Dialogue: 0,0:03:53.54,0:03:56.25,Default,Koto,0000,0000,0000,,You know, about how popular our \Nseries is or what the shops look like.
+Dialogue: 0,0:03:56.50,0:03:59.21,Default,Chit,0000,0000,0000,,Right! Congrats to us for getting 10,000! Yay!
+Dialogue: 0,0:04:00.07,0:04:01.22,Default,Yae,0000,0000,0000,,Yay.
+Dialogue: 0,0:04:01.56,0:04:04.53,Default,Chit,0000,0000,0000,,Let's see... The single costs \N1,400 yen without tax,
+Dialogue: 0,0:04:04.53,0:04:06.68,Default,Chit,0000,0000,0000,,multiply the percentage... \Nclick, click, lick, lick...
+Dialogue: 0,0:04:06.89,0:04:10.07,Default,Chit,0000,0000,0000,,Aww... I should have gone for royalties \Ninstead of taking a lump sum!
+Dialogue: 0,0:04:10.07,0:04:13.04,Default,Yae,0000,0000,0000,,Ch-Chi-chan! Don't write on my hand!
+Dialogue: 0,0:04:11.94,0:04:13.87,Default,Koto,0000,0000,0000,,Maybe it's not doing well, after all...
+Dialogue: 0,0:04:16.33,0:04:17.27,Default,Yae,0000,0000,0000,,Chi-chan?
+Dialogue: 0,0:04:17.53,0:04:18.86,Default,Chit,0000,0000,0000,,Yae, where are your sunglasses?
+Dialogue: 0,0:04:18.86,0:04:20.99,Default,Yae,0000,0000,0000,,Huh? But it's not that bright out...
+Dialogue: 0,0:04:21.30,0:04:24.17,Default,Chit,0000,0000,0000,,That's not what I mean. You need \Nto make sure you're not recognized.
+Dialogue: 0,0:04:24.17,0:04:25.66,Default,Chit,0000,0000,0000,,Act more professional.
+Dialogue: 0,0:04:25.66,0:04:28.03,Default,Yae,0000,0000,0000,,Do people even know us that well?
+Dialogue: 0,0:04:28.30,0:04:30.35,Default,Chit,0000,0000,0000,,We're voice actresses \Nwho've sold 10,000 copies.
+Dialogue: 0,0:04:30.35,0:04:32.60,Default,Chit,0000,0000,0000,,You never know when people are watching us.
+Dialogue: 0,0:04:32.90,0:04:35.03,Default,Guy,0000,0000,0000,,Hey, isn't that...
+Dialogue: 0,0:04:36.56,0:04:37.08,Default,Chit,0000,0000,0000,,See?
+Dialogue: 0,0:04:39.23,0:04:42.47,Default,Chit,0000,0000,0000,,It really feels like we just \Nsuddenly got super popular.
+Dialogue: 0,0:04:41.94,0:04:43.98,Default,Guy,0000,0000,0000,,{\a6}Hey, I knew it.
+Dialogue: 0,0:04:42.47,0:04:43.98,Default,Yae,0000,0000,0000,,You think so?
+Dialogue: 0,0:04:43.98,0:04:45.72,Default,Guy,0000,0000,0000,,{\a6}It's the girl from the commercial!
+Dialogue: 0,0:04:43.98,0:04:46.58,Default,Chit,0000,0000,0000,,At this rate, we'll be singing at the\NBudokan by the end of the year!
+Dialogue: 0,0:04:46.58,0:04:48.11,Default,Yae,0000,0000,0000,,You really think so?
+Dialogue: 0,0:04:48.11,0:04:51.04,Default,Chit,0000,0000,0000,,JK. I'm just kidding. Come on, let's go.
+Dialogue: 0,0:04:51.04,0:04:52.27,Default,Chit,0000,0000,0000,,It's our super fun work time!
+Dialogue: 0,0:04:52.55,0:04:54.36,Default,Koto,0000,0000,0000,,Er, right...
+Dialogue: 0,0:04:54.66,0:04:56.27,Default,Chit,0000,0000,0000,,Koto-chan, what's wrong?
+Dialogue: 0,0:04:56.27,0:04:59.25,Default,Chit,0000,0000,0000,,A voice actress who's sold 10,000 \Ncopies shouldn't look like that.
+Dialogue: 0,0:05:00.16,0:05:02.70,Default,Koto,0000,0000,0000,,Yeah, but considering how the \Nmost important thing looks...
+Dialogue: 0,0:05:02.70,0:05:03.58,Default,Chit,0000,0000,0000,,Most important thing?
+Dialogue: 0,0:05:03.58,0:05:04.70,Default,Koto,0000,0000,0000,,The anime itself.
+Dialogue: 0,0:05:05.17,0:05:06.47,Default,Chit,0000,0000,0000,,By "anime," you mean...
+Dialogue: 0,0:05:09.22,0:05:12.52,Default,Yuna,0000,0000,0000,,Y-You idiot! G-Get out!
+Dialogue: 0,0:05:12.52,0:05:15.16,Default,Guy,0000,0000,0000,,And there's the show everyone's \Ntalking about this season.
+Dialogue: 0,0:05:15.16,0:05:18.13,Default,Guy,0000,0000,0000,,You want to drop it by the start of the OP, \Nright? I saw that on a portal site.
+Dialogue: 0,0:05:18.13,0:05:20.91,Default,Guy,0000,0000,0000,,This is hilarious. That poor author.
+Dialogue: 0,0:05:20.91,0:05:22.63,Default,Gy,0000,0000,0000,,But the original story is crap too, right?
+Dialogue: 0,0:05:22.63,0:05:24.42,Default,Guy,0000,0000,0000,,I haven't read it, but I saw \Nthat on a portal site.
+Dialogue: 0,0:05:24.66,0:05:25.72,Default,Guy,0000,0000,0000,,Right.
+Dialogue: 0,0:05:25.72,0:05:28.82,Default,Guy,0000,0000,0000,,Actually, I feel bad for the \Nvoice actors on this series.
+Dialogue: 0,0:05:28.82,0:05:30.48,Default,Guy,0000,0000,0000,,But the voice actors are crap too, right?
+Dialogue: 0,0:05:30.48,0:05:32.27,Default,Guy,0000,0000,0000,,I haven't heard them, \Nbut I saw that on a portal site.
+Dialogue: 0,0:05:32.27,0:05:34.98,Default,Guy,0000,0000,0000,,Right. Who was the lead again?
+Dialogue: 0,0:05:39.83,0:05:41.40,Default,Chit,0000,0000,0000,,We worked so hard...
+Dialogue: 0,0:05:41.40,0:05:43.95,Default,Chit,0000,0000,0000,,I wish they'd try to see more of the good parts.
+Dialogue: 0,0:05:45.70,0:05:49.03,Default,Koto,0000,0000,0000,,Yeah, but there probably isn't much \Nanyone can do when it looks like that.
+Dialogue: 0,0:05:49.35,0:05:51.77,Default,Yae,0000,0000,0000,,Koto-chan, did you see the newest episode?
+Dialogue: 0,0:05:52.66,0:05:54.50,Default,Koto,0000,0000,0000,,That was another piece of work...
+Dialogue: 0,0:05:55.73,0:05:58.46,Default,Koto,0000,0000,0000,,I'm really thankful that we \Ngot to be in an anime, but...
+Dialogue: 0,0:05:58.88,0:06:01.96,Default,Yae,0000,0000,0000,,I was so happy, I practiced over and over
+Dialogue: 0,0:06:01.96,0:06:04.05,Default,Yae,0000,0000,0000,,and worked hard at the \Nrecording sessions, too.
+Dialogue: 0,0:06:04.05,0:06:06.04,Default,Koto,0000,0000,0000,,And yet, look how it turned out.
+Dialogue: 0,0:06:06.04,0:06:07.44,Default,Koto,0000,0000,0000,,It's so stupid.
+Dialogue: 0,0:06:07.76,0:06:10.32,Default,Yae,0000,0000,0000,,But I still end up watching it.
+Dialogue: 0,0:06:10.32,0:06:12.47,Default,Yae,0000,0000,0000,,I just can't bring myself to hate it.
+Dialogue: 0,0:06:13.60,0:06:15.31,Default,Koto,0000,0000,0000,,Yeah, it's really stupid.
+Dialogue: 0,0:06:15.73,0:06:17.48,Default,Chit,0000,0000,0000,,All right, let's change things up!
+Dialogue: 0,0:06:17.48,0:06:20.27,Default,Chit,0000,0000,0000,,Our CD sold well, so it's like we basically won!
+Dialogue: 0,0:06:20.54,0:06:22.48,Default,Yae,0000,0000,0000,,You think so?
+Dialogue: 0,0:06:22.79,0:06:25.94,Default,Chit,0000,0000,0000,,Let's get our next jobs as \N10,000-copy voice actors!
+Dialogue: 0,0:06:25.94,0:06:29.41,ODD_Production_06:25(Ep 05),Sign,0000,0000,0000,,ODD Production
+Dialogue: 0,0:06:25.94,0:06:29.41,ODD_Production_06:25copy,Sign,0000,0000,0000,,Harukaze Pictures\NDDD Production
+Dialogue: 0,0:06:26.21,0:06:29.41,Default,Chit,0000,0000,0000,,We'll use this as a stepping stone \Nto fly onto our next stage!
+Dialogue: 0,0:06:29.41,0:06:30.88,Default,Chit,0000,0000,0000,,Yeah!
+Dialogue: 0,0:06:30.88,0:06:32.12,Default,Yae,0000,0000,0000,,Y-Yeah...
+Dialogue: 0,0:06:46.05,0:06:49.26,Default,Sound,0000,0000,0000,,All right, we got it. That's a wrap. \NThank you for all your hard work.
+Dialogue: 0,0:06:49.62,0:06:50.67,Default,Chit,0000,0000,0000,,Yep!
+Dialogue: 0,0:06:53.27,0:06:54.16,Default,Momo,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:06:54.16,0:06:56.74,Default,Kazu,0000,0000,0000,,That was the end of the first cour, right?
+Dialogue: 0,0:06:56.74,0:06:58.00,Default,Momo,0000,0000,0000,,Yeah.
+Dialogue: 0,0:06:58.00,0:07:01.45,Default,Kazu,0000,0000,0000,,What were they even trying to \Naccomplish with this story?
+Dialogue: 0,0:07:01.45,0:07:02.59,Default,Momo,0000,0000,0000,,Who knows?
+Dialogue: 0,0:07:02.59,0:07:04.36,Default,Kazu,0000,0000,0000,,I was lost right through to the end.
+Dialogue: 0,0:07:04.36,0:07:06.87,Default,Momo,0000,0000,0000,,Yeah, and we never had \Nany decent visuals, either.
+Dialogue: 0,0:07:06.87,0:07:08.28,Default,Chit,0000,0000,0000,,Great job, guys!
+Dialogue: 0,0:07:08.57,0:07:09.84,Default,Momo,0000,0000,0000,,You, too.
+Dialogue: 0,0:07:11.06,0:07:13.95,Default,Chit,0000,0000,0000,,So... We finally hit 10,000 copies! We did it!
+Dialogue: 0,0:07:15.66,0:07:17.18,Default,Momo,0000,0000,0000,,Uh, thanks?
+Dialogue: 0,0:07:17.18,0:07:18.45,Default,Kazu,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:07:18.45,0:07:20.39,Default,Chit,0000,0000,0000,,Huh? The opening song...
+Dialogue: 0,0:07:20.39,0:07:23.97,Default,Momo,0000,0000,0000,,The opening song... I'm sorry. For what title?
+Dialogue: 0,0:07:23.97,0:07:25.88,Default,Chit,0000,0000,0000,,What title? This one.
+Dialogue: 0,0:07:25.88,0:07:30.02,Default,Momo,0000,0000,0000,,Oh, right. This is the only series\NI'm working with you on right now.
+Dialogue: 0,0:07:30.02,0:07:31.34,Default,Momo,0000,0000,0000,,I sort of got them mixed up.
+Dialogue: 0,0:07:31.67,0:07:33.03,Default,Chit,0000,0000,0000,,I-I see.
+Dialogue: 0,0:07:33.03,0:07:36.60,Default,momo,0000,0000,0000,,We recorded that song a \Nlong time ago, so I forgot.
+Dialogue: 0,0:07:38.86,0:07:40.74,Default - Italics,Chit,0000,0000,0000,,So this is how top voice actresses act.
+Dialogue: 0,0:07:40.74,0:07:42.14,Default - Italics,Chit,0000,0000,0000,,I think I got it.
+Dialogue: 0,0:07:42.42,0:07:44.83,Default,Momo,0000,0000,0000,,Well, how much we sell is a matter of chance.
+Dialogue: 0,0:07:44.83,0:07:47.11,Default,momo,0000,0000,0000,,Don't dwell on it too much. \NJust think about what's next.
+Dialogue: 0,0:07:47.54,0:07:48.50,Default,Chit,0000,0000,0000,,Okay.
+Dialogue: 0,0:07:48.50,0:07:50.96,Default,Kuzu,0000,0000,0000,,Well, well! Hello, everyone!
+Dialogue: 0,0:07:50.96,0:07:53.22,Default,Kuzu,0000,0000,0000,,Since this was the last episode, the author
+Dialogue: 0,0:07:53.22,0:07:55.31,Default,Kuzu,0000,0000,0000,,of the original work brought you all a gift!
+Dialogue: 0,0:07:57.40,0:07:59.19,Default,Edit,0000,0000,0000,,Sensei, go on.
+Dialogue: 0,0:07:59.49,0:08:00.75,Default,Auth,0000,0000,0000,,Thank you very much...
+Dialogue: 0,0:08:02.71,0:08:05.07,Default,Edit,0000,0000,0000,,Thank you, everyone.
+Dialogue: 0,0:08:05.07,0:08:07.12,Default,Auth,0000,0000,0000,,Thanks to you, it turned into a wonderful anime...
+Dialogue: 0,0:08:07.12,0:08:08.30,Default,Auth,0000,0000,0000,,Anime... What is anime?
+Dialogue: 0,0:08:08.56,0:08:11.76,Default,Edit,0000,0000,0000,,We were able to make such a wonderful \Nanime thanks to all of you. Right?
+Dialogue: 0,0:08:12.02,0:08:14.06,Default,Kuzu,0000,0000,0000,,Yep! Thank you very much!
+Dialogue: 0,0:08:20.86,0:08:22.73,Default - Italics,Chit,0000,0000,0000,,He seems so down...
+Dialogue: 0,0:08:22.73,0:08:25.06,Default - Italics,Chit,0000,0000,0000,,And I couldn't hear a word he said.
+Dialogue: 0,0:08:26.06,0:08:28.11,Default,Chit,0000,0000,0000,,Man, it's finally over.
+Dialogue: 0,0:08:28.11,0:08:32.09,Default,Chit,0000,0000,0000,,A lot happened, but I think we all did our best.
+Dialogue: 0,0:08:32.09,0:08:33.08,Default,Yae,0000,0000,0000,,R-Right...
+Dialogue: 0,0:08:33.08,0:08:35.11,Default,Chit,0000,0000,0000,,So let's celebrate to the fullest!
+Dialogue: 0,0:08:35.11,0:08:37.83,Default,Chit,0000,0000,0000,,I wonder if we'll get yummy meat \Nagain, or maybe fish this time.
+Dialogue: 0,0:08:41.25,0:08:44.53,Default,Edit,0000,0000,0000,,Are you sure we can't get some \Ntime to talk to the director?
+Dialogue: 0,0:08:44.53,0:08:46.25,Default,Kuzu,0000,0000,0000,,He's working behind schedule now.
+Dialogue: 0,0:08:46.25,0:08:48.17,Default,Kuzu,0000,0000,0000,,So far behind, he's working \Ndouble-trouble-time!
+Dialogue: 0,0:08:48.50,0:08:52.08,Default,Edit,0000,0000,0000,,I see... I really wanted to \Nspeak with him in person,
+Dialogue: 0,0:08:52.38,0:08:54.34,Default,Edit,0000,0000,0000,,but as I mentioned before,
+Dialogue: 0,0:08:54.34,0:08:57.89,Default,Edit,0000,0000,0000,,the direction of the last episode was \Na bit different from the original story...
+Dialogue: 0,0:08:57.89,0:09:00.10,Default,Kuzu,0000,0000,0000,,I thought that, too.
+Dialogue: 0,0:09:00.10,0:09:02.81,Default,guy,0000,0000,0000,,But the key animation's \Nalready starting to get done.
+Dialogue: 0,0:09:02.81,0:09:04.21,Default,guy,0000,0000,0000,,If we had to do corrections now...
+Dialogue: 0,0:09:04.21,0:09:07.30,Default,kuzu,0000,0000,0000,,Right, time has to take priority.
+Dialogue: 0,0:09:07.30,0:09:10.15,Default,Edit,0000,0000,0000,,But the depiction of the \Ncharacters is quite different...
+Dialogue: 0,0:09:10.15,0:09:14.15,Default,Kuzu,0000,0000,0000,,You're exactly right! I mean, we are \Ndealing with his original work, so...
+Dialogue: 0,0:09:14.15,0:09:17.32,Default,Guy,0000,0000,0000,,But if we have to fix things, the last \Nepisode will end up being a recap.
+Dialogue: 0,0:09:17.32,0:09:19.41,Default,Kuzu,0000,0000,0000,,Right. That would be bad.
+Dialogue: 0,0:09:19.41,0:09:21.49,Default,Edit,0000,0000,0000,,But... But speaking on behalf of the creator...
+Dialogue: 0,0:09:21.49,0:09:22.68,Default,Kuzu,0000,0000,0000,,You're absolutely right!
+Dialogue: 0,0:09:22.68,0:09:23.98,Default,Guy,0000,0000,0000,,But, but, our progress...
+Dialogue: 0,0:09:23.98,0:09:25.21,Default,Kuzu,0000,0000,0000,,Right, right, right.
+Dialogue: 0,0:09:25.78,0:09:26.86,Default,Yae,0000,0000,0000,,Chi-chan?
+Dialogue: 0,0:09:27.27,0:09:28.67,Default,Chit,0000,0000,0000,,They were arguing about something.
+Dialogue: 0,0:09:28.89,0:09:29.88,Default,Yae,0000,0000,0000,,Wh-Why?
+Dialogue: 0,0:09:30.33,0:09:32.99,Default,Chit,0000,0000,0000,,Dunno. Probably about \Nhow the anime turned out.
+Dialogue: 0,0:09:32.99,0:09:34.23,Default,Yae,0000,0000,0000,,Ah...
+Dialogue: 0,0:09:34.23,0:09:38.06,Default,Chit,0000,0000,0000,,It must be hard on the anime studio, \Nthe author, and the distributor.
+Dialogue: 0,0:09:38.06,0:09:39.89,Default,Chit,0000,0000,0000,,Since we're all part of the same business,
+Dialogue: 0,0:09:39.89,0:09:41.85,Default,Chit,0000,0000,0000,,we just have to make things better together.
+Dialogue: 0,0:09:41.85,0:09:45.81,Default,Ya,0000,0000,0000,,I-Isn't it pretty presumptuous \Nof us to say that?
+Dialogue: 0,0:09:45.81,0:09:47.90,Default,Chit,0000,0000,0000,,You're too naïve, Yae!
+Dialogue: 0,0:09:47.90,0:09:50.45,Default,Chit,0000,0000,0000,,Making humility a virtue \Nis how a student thinks.
+Dialogue: 0,0:09:50.45,0:09:53.45,Default,Chit,0000,0000,0000,,Out in the real world, no matter how \Nimportant the person you're working with,
+Dialogue: 0,0:09:53.45,0:09:56.69,Default,Chit,0000,0000,0000,,you have to think of them as your equal, \Nor you can't do good wor— Yow!
+Dialogue: 0,0:09:58.06,0:10:00.05,Default,Gojo,0000,0000,0000,,Any who can go to the after-party\Nshould head there first.
+Dialogue: 0,0:10:00.05,0:10:02.27,Default,Chit,0000,0000,0000,,Why did you do that, Gojo-kun?
+Dialogue: 0,0:10:02.27,0:10:03.48,Default,Chit,0000,0000,0000,,Did I do something wrong?
+Dialogue: 0,0:10:03.48,0:10:04.33,Default,Gojo,0000,0000,0000,,Let's go.
+Dialogue: 0,0:10:05.44,0:10:08.29,Default,Chit,0000,0000,0000,,DV! This is domestic violence!
+Dialogue: 0,0:10:08.29,0:10:09.93,Default,Chit,0000,0000,0000,,Gojo-kun, your love is too heavy!
+Dialogue: 0,0:10:09.93,0:10:11.75,Default,Chit,0000,0000,0000,,You need to make it lighter, \Nyou sister lover!
+Dialogue: 0,0:10:13.83,0:10:16.26,Default,Guy,0000,0000,0000,,Right, but...
+Dialogue: 0,0:10:17.45,0:10:21.38,Default,Guy,0000,0000,0000,,All right... If you'll excuse me...
+Dialogue: 0,0:10:21.89,0:10:23.41,Default,Guy,0000,0000,0000,,Um... Director?
+Dialogue: 0,0:10:23.70,0:10:24.47,Default,Dire,0000,0000,0000,,Mm-hmm.
+Dialogue: 0,0:10:24.47,0:10:27.73,Default,Guy,0000,0000,0000,,Kuzu-san was wondering if we \Ncould edit the final storyboards...
+Dialogue: 0,0:10:28.11,0:10:28.94,Default,Dire,0000,0000,0000,,Mm-hmm.
+Dialogue: 0,0:10:28.94,0:10:31.30,Default,Guy,0000,0000,0000,,We've been releasing the \Nstoryboards on schedule,
+Dialogue: 0,0:10:31.30,0:10:34.50,Default,Guy,0000,0000,0000,,so I told him we'd need earlier notice, but...
+Dialogue: 0,0:10:34.85,0:10:37.39,Default,Guy,0000,0000,0000,,Apparently, the creator side \Nis strongly requesting it.
+Dialogue: 0,0:10:37.39,0:10:38.28,Default,Dire,0000,0000,0000,,Mm-hmm.
+Dialogue: 0,0:10:38.53,0:10:42.14,Default,Guy,0000,0000,0000,,So the animation supervisor got mad \Nand said he was going to quit.
+Dialogue: 0,0:10:42.64,0:10:43.34,Default,Dire,0000,0000,0000,,Mm-hmm.
+Dialogue: 0,0:10:43.75,0:10:46.64,Default,Guy,0000,0000,0000,,Do you think you can handle it, sir?
+Dialogue: 0,0:10:47.29,0:10:47.86,Default,Dire,0000,0000,0000,,Mm-hmm.
+Dialogue: 0,0:10:47.86,0:10:48.75,Default,Guy,0000,0000,0000,,Really?!
+Dialogue: 0,0:10:49.16,0:10:49.84,Default,Dire,0000,0000,0000,,Mm-hmm.
+Dialogue: 0,0:10:49.84,0:10:52.96,Default,Guy,0000,0000,0000,,I thought it might be \Nphysically impossible, but...
+Dialogue: 0,0:10:53.74,0:10:54.09,Default,Dire,0000,0000,0000,,Mm-hmm.
+Dialogue: 0,0:10:54.40,0:10:57.61,Default,Guy,0000,0000,0000,,If I had to deal with that amount of work, \NI would've passed out by now.
+Dialogue: 0,0:10:57.61,0:10:58.43,Default,Dire,0000,0000,0000,,Mm-hmm.
+Dialogue: 0,0:10:57.61,0:10:59.05,Default,Guy,0000,0000,0000,,You're amazing, sir...
+Dialogue: 0,0:10:59.52,0:11:01.76,Default,Guy,0000,0000,0000,,S-Sir?
+Dialogue: 0,0:11:02.40,0:11:02.94,Default,Dire,0000,0000,0000,,Mm-hmm.
+Dialogue: 0,0:11:02.94,0:11:04.47,Default,Guy,0000,0000,0000,,Sir!
+Dialogue: 0,0:11:06.41,0:11:07.11,Default,Dire,0000,0000,0000,,Mm-hmm.
+Dialogue: 0,0:11:07.43,0:11:08.89,Manga_Title_11:07(Ep 05),,0000,0000,0000,,Anime 2nd Season \NConfirmed!
+Dialogue: 0,0:11:09.15,0:11:10.85,Default,Edit,0000,0000,0000,,You want to delay the release?
+Dialogue: 0,0:11:11.29,0:11:12.66,Default,Edit,0000,0000,0000,,Don't be stupid.
+Dialogue: 0,0:11:12.66,0:11:15.47,Default,Edit,0000,0000,0000,,We're having a fair to go along \Nwith the comics and the spinoff.
+Dialogue: 0,0:11:15.77,0:11:18.57,Default,Edit,0000,0000,0000,,There's a second season planned after a \Nbreak, too. Can't you work something out?
+Dialogue: 0,0:11:18.82,0:11:22.25,Default,Edit,0000,0000,0000,,It appears Kadokura-sensei has sustained \Nquite a bit of damage from the anime,
+Dialogue: 0,0:11:22.25,0:11:24.28,Default,Edit,0000,0000,0000,,and can't seem to face reality.
+Dialogue: 0,0:11:24.60,0:11:26.00,Default,Eic,0000,0000,0000,,Damage, eh?
+Dialogue: 0,0:11:26.51,0:11:29.00,Default,Eic,0000,0000,0000,,An author whose work became an anime \Nand an author who never has one...
+Dialogue: 0,0:11:29.00,0:11:30.85,Default,Eic,0000,0000,0000,,Who do you think is more blessed?
+Dialogue: 0,0:11:30.85,0:11:32.46,Default,Edit,0000,0000,0000,,Well, that's...
+Dialogue: 0,0:11:32.76,0:11:34.45,Default,Eic,0000,0000,0000,,This is a once-in-a-lifetime chance!
+Dialogue: 0,0:11:34.45,0:11:36.26,Default,Eic,0000,0000,0000,,Light novels are always two for one!
+Dialogue: 0,0:11:36.26,0:11:37.67,Default,Eic,0000,0000,0000,,You either die or get killed!
+Dialogue: 0,0:11:37.67,0:11:40.63,Manga_Title_11:37(Ep 05),Sign,0000,0000,0000,,Anime 2nd Season \NConfirmed!
+Dialogue: 0,0:11:37.67,0:11:40.63,16th_anniv_11:37(Ep 05),Sign,0000,0000,0000,,16th Anniversary\NAMN Bunko
+Dialogue: 0,0:11:38.27,0:11:40.63,Default,Eic,0000,0000,0000,,So you have to do it even if it kills you!
+Dialogue: 0,0:11:40.63,0:11:42.09,In_Use_11:40(Ep 05),Sign,0000,0000,0000,,In Use\N{\fs12}62 Minutes Remaining
+Dialogue: 0,0:11:42.67,0:11:45.01,Default,Towa,0000,0000,0000,,If we actually report all of this red,
+Dialogue: 0,0:11:45.41,0:11:47.65,Default,Towa,0000,0000,0000,,everyone's going to be super pissed...
+Dialogue: 0,0:11:47.65,0:11:48.72,Default,Kuzu,0000,0000,0000,,It'll be fine.
+Dialogue: 0,0:11:50.04,0:11:51.19,Default,Towa,0000,0000,0000,,Kuzu-san...
+Dialogue: 0,0:11:55.40,0:11:57.29,Default,Kuzu,0000,0000,0000,,Because of these mounting demands,
+Dialogue: 0,0:11:57.29,0:11:59.92,Default,Kuzu,0000,0000,0000,,the initial cost slightly... \Nslightly, just somewhat,
+Dialogue: 0,0:11:59.92,0:12:02.74,Default,Kuzu,0000,0000,0000,,had no choice but to take a turn for the worse...
+Dialogue: 0,0:12:03.14,0:12:04.03,Default,Kuzu,0000,0000,0000,,Hmm...
+Dialogue: 0,0:12:04.03,0:12:05.97,Default,Kuzu,0000,0000,0000,,Uh... So...
+Dialogue: 0,0:12:05.97,0:12:09.05,Default,Kuzu,0000,0000,0000,,As for the actual figures, Towada will \Nreport them, since he's in charge.
+Dialogue: 0,0:12:09.05,0:12:09.54,Default,Towa,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:17.02,0:12:20.66,Default,Chit,0000,0000,0000,,Make everyone ooh and aah with the gold card.
+Dialogue: 0,0:12:20.66,0:12:23.84,Default,Chit,0000,0000,0000,,The bill's going to the creator, anyway.
+Dialogue: 0,0:12:24.22,0:12:27.55,Default,Koto,0000,0000,0000,,Chi-sama, you really love \Ninnocently making up songs, huh?
+Dialogue: 0,0:12:27.80,0:12:31.52,Default,Yaee,0000,0000,0000,,Is it really okay for us to eat so much for free?
+Dialogue: 0,0:12:32.14,0:12:34.84,Default,Koto,0000,0000,0000,,Yeah... If only we could contribute
+Dialogue: 0,0:12:34.84,0:12:36.86,Default,Koto,0000,0000,0000,,to the sales a bit more...
+Dialogue: 0,0:12:36.86,0:12:39.34,Default,Yae,0000,0000,0000,,Maybe we can find a way to help...
+Dialogue: 0,0:12:39.34,0:12:41.02,Default,Chit,0000,0000,0000,,You're too naïve, Yae.
+Dialogue: 0,0:12:41.02,0:12:43.48,Default,Chit,0000,0000,0000,,Butting into other people's \Nbusiness is how students think.
+Dialogue: 0,0:12:43.48,0:12:46.95,Default,Chit,0000,0000,0000,,Out in the real world, you need to \Nseparate yourself from others.
+Dialogue: 0,0:12:47.21,0:12:48.68,Default,Yae,0000,0000,0000,,You think so?
+Dialogue: 0,0:12:48.68,0:12:50.75,Default,Chit,0000,0000,0000,,That's just how things are when you're working.
+Dialogue: 0,0:12:50.75,0:12:51.91,Default,Chit,0000,0000,0000,,By the way...
+Dialogue: 0,0:12:52.77,0:12:55.42,Default,Chit,0000,0000,0000,,I wonder what they'll treat us to next. \NMaybe it'll be sushi!
+Dialogue: 0,0:13:00.44,0:13:01.34,Default,Chit,0000,0000,0000,,Yow!
+Dialogue: 0,0:13:08.49,0:13:10.06,Default,Gojo,0000,0000,0000,,How long are you gonna listen to that?
+Dialogue: 0,0:13:10.06,0:13:12.46,Default,Gojo,0000,0000,0000,,You've got your next job to do, \Nso get into work mode.
+Dialogue: 0,0:13:12.85,0:13:15.46,Default,Chit,0000,0000,0000,,My next job? Did I have something lined up?
+Dialogue: 0,0:13:15.46,0:13:16.19,Default,Gojo,0000,0000,0000,,A handout event.
+Dialogue: 0,0:13:16.80,0:13:17.65,Default,Chit,0000,0000,0000,,What's that?
+Dialogue: 0,0:13:17.98,0:13:21.04,Default,Gojo,0000,0000,0000,,The first volume Blu-ray celebration \Nevent at the summer Comiket.
+Dialogue: 0,0:13:21.04,0:13:22.89,Default,Gojo,0000,0000,0000,,You're going to be handing out novelties
+Dialogue: 0,0:13:22.89,0:13:24.86,Default,Gojo,0000,0000,0000,,to people who preordered \Nand paid in advance.
+Dialogue: 0,0:13:25.08,0:13:27.01,Default,Chit,0000,0000,0000,,Aww... What the heck?
+Dialogue: 0,0:13:27.94,0:13:29.28,Default,Chit,0000,0000,0000,,Blu-ray...
+Dialogue: 0,0:13:29.60,0:13:31.83,Default,Chit,0000,0000,0000,,Uh, sorry. What title were you referring to?
+Dialogue: 0,0:13:31.83,0:13:32.70,Default,Gojo,0000,0000,0000,,What title?
+Dialogue: 0,0:13:32.70,0:13:34.77,Default,Chit,0000,0000,0000,,Oh, right. I guess the only thing
+Dialogue: 0,0:13:34.77,0:13:36.96,Default,Chit,0000,0000,0000,,I've worked with you on was {\i1}Kusure{\i0}.
+Dialogue: 0,0:13:36.96,0:13:38.89,Default,Chit,0000,0000,0000,,I might have gotten a bit mixed up.
+Dialogue: 0,0:13:39.19,0:13:41.71,Default,Gojo,0000,0000,0000,,With what? What else could \Nyou possibly mix it up with?
+Dialogue: 0,0:13:41.97,0:13:44.42,Default,Chit,0000,0000,0000,,It's been a while since I recorded that, too...
+Dialogue: 0,0:13:44.66,0:13:46.38,Default,Chit,0000,0000,0000,,Man, it totally slipped my mind.
+Dialogue: 0,0:13:48.36,0:13:50.62,Default,Chit,0000,0000,0000,,Well, how much we sell is a matter of chance.
+Dialogue: 0,0:13:50.62,0:13:53.24,Default,Chit,0000,0000,0000,,Don't dwell on it too much. \NJust think about the next thing.
+Dialogue: 0,0:13:53.24,0:13:55.27,Default,Chit,0000,0000,0000,,Let's hurry up and get my next job, Gojo-kun!
+Dialogue: 0,0:13:57.36,0:13:59.69,Default,Chit,0000,0000,0000,,Ow, ow, ow!
+Dialogue: 0,0:13:59.69,0:14:01.60,Default,Chit,0000,0000,0000,,What are you doing, Gojo-kun?
+Dialogue: 0,0:14:01.60,0:14:03.93,Default,Chit,0000,0000,0000,,Being violent to the voice actress \Nyou're in charge of...
+Dialogue: 0,0:14:03.93,0:14:06.15,Default,Chit,0000,0000,0000,,Do you not not not realize you're a professional?
+Dialogue: 0,0:14:06.43,0:14:08.36,Default,Gojo,0000,0000,0000,,Shut up. Don't underestimate \Nme, you damn newbie.
+Dialogue: 0,0:14:11.13,0:14:12.68,Default,Chit,0000,0000,0000,,What novelties?
+Dialogue: 0,0:14:12.68,0:14:14.42,Default,Gojo,0000,0000,0000,,Autographed postcards.
+Dialogue: 0,0:14:14.42,0:14:16.52,Default,Chit,0000,0000,0000,,No one's going to buy
+Dialogue: 0,0:14:16.52,0:14:18.58,Default,Chit,0000,0000,0000,,the expensive Blu-rays just for that.
+Dialogue: 0,0:14:19.15,0:14:21.88,Default,Chit,0000,0000,0000,,I feel like there's not not not \Nany point in an event like that.
+Dialogue: 0,0:14:23.44,0:14:25.58,Default,Gojo,0000,0000,0000,,Everyone's doing what they can.
+Dialogue: 0,0:14:25.58,0:14:28.15,Default,Gojo,0000,0000,0000,,This is your job, so take responsibility \Nfor it until the end.
+Dialogue: 0,0:14:28.15,0:14:29.42,Default,Chit,0000,0000,0000,,Right...
+Dialogue: 0,0:14:37.31,0:14:39.27,Kusure(big)-14:37(Ep 05),Sign,0000,0000,0000,,Kusure Voice Actress Handout Event\N\N\N\N\NBD, DVD Preorder Extras
+Dialogue: 0,0:14:39.27,0:14:41.23,Kusure(little)-14:37(Ep 05),Sign,0000,0000,0000,,Kusure Voice Actress Handout Event\NBD, DVD Preorder Extras
+Dialogue: 0,0:14:42.02,0:14:43.82,Default,Chit,0000,0000,0000,,Momoka-chan and Kazuha-chan aren't coming?
+Dialogue: 0,0:14:43.82,0:14:47.04,Default,Yae,0000,0000,0000,,I heard they're working another event.
+Dialogue: 0,0:14:47.04,0:14:49.55,Default,Chit,0000,0000,0000,,Huh... Must be nice being super popular.
+Dialogue: 0,0:14:49.85,0:14:52.45,Default,Koto,0000,0000,0000,,Hey, maybe that's the event over there.
+Dialogue: 0,0:14:57.71,0:14:59.71,Entrance_14:57(Ep 05),Sign,0000,0000,0000,,Entrance
+Dialogue: 0,0:15:00.00,0:15:02.71,Default,Chit,0000,0000,0000,,Wow... I doubt they'll even\Nget through all that today.
+Dialogue: 0,0:15:03.28,0:15:05.97,Default,Chit,0000,0000,0000,,Hey, Gojo-kun, how many \Npeople are coming here?
+Dialogue: 0,0:15:05.97,0:15:09.36,Default,Gojo,0000,0000,0000,,We've estimated about a hundred \Nand distributed numbered tickets.
+Dialogue: 0,0:15:09.36,0:15:11.43,Default,Gojo,0000,0000,0000,,But we'll also be live streaming this.
+Dialogue: 0,0:15:11.72,0:15:15.35,Default,Chit,0000,0000,0000,,Huh? So that's replacing the usual radio format?
+Dialogue: 0,0:15:15.35,0:15:17.89,Default,Gojo,0000,0000,0000,,Right. Just like the screening \Nof the first episode.
+Dialogue: 0,0:15:18.11,0:15:20.98,Default,Chit,0000,0000,0000,,Yay! I'm going to get praised again!
+Dialogue: 0,0:15:20.98,0:15:22.35,Default,Chit,0000,0000,0000,,Gotta timeshift reserve this!
+Dialogue: 0,0:15:30.67,0:15:32.42,Default,Yae,0000,0000,0000,,Th-Thank you very much!
+Dialogue: 0,0:15:36.08,0:15:37.50,Default,Koto,0000,0000,0000,,I'm so happy!
+Dialogue: 0,0:15:37.50,0:15:38.54,Default,Koto,0000,0000,0000,,Thank you!
+Dialogue: 0,0:15:39.31,0:15:41.17,Default - Italics,Chit,0000,0000,0000,,Huh. I guess quite a few fans showed up.
+Dialogue: 0,0:15:42.02,0:15:43.63,Default,Chit,0000,0000,0000,,Thank you!
+Dialogue: 0,0:15:43.89,0:15:45.75,Default,Yae,0000,0000,0000,,Th-Thank you very much!
+Dialogue: 0,0:15:45.75,0:15:47.25,Default,Koto,0000,0000,0000,,Thank you so much!
+Dialogue: 0,0:15:47.71,0:15:48.96,Default,Chit,0000,0000,0000,,Thank you.
+Dialogue: 0,0:15:53.97,0:15:56.22,Ended_15:53(Ep 05),Sign,0000,0000,0000,,Ended
+Dialogue: 0,0:15:57.19,0:15:58.65,Default,Yae,0000,0000,0000,,So many people came.
+Dialogue: 0,0:15:58.65,0:16:01.30,Default,Koto,0000,0000,0000,,Some even said they enjoyed the series!
+Dialogue: 0,0:16:01.30,0:16:04.52,Default,Koto,0000,0000,0000,,There were people who watched, \Nand so many who even bought the Blu-ray!
+Dialogue: 0,0:16:04.78,0:16:06.61,Default,Koto,0000,0000,0000,,Maybe I was underestimating this.
+Dialogue: 0,0:16:07.35,0:16:09.63,Default,Yae,0000,0000,0000,,We can't get discouraged!
+Dialogue: 0,0:16:09.63,0:16:11.70,Default,Koto,0000,0000,0000,,Yeah! It's not over yet!
+Dialogue: 0,0:16:11.94,0:16:14.05,Default,Both,0000,0000,0000,,Hip, hip, hooray!
+Dialogue: 0,0:16:14.35,0:16:15.48,Default,Chit,0000,0000,0000,,Hooray...
+Dialogue: 0,0:16:16.15,0:16:18.88,Default - Italics,Chit,0000,0000,0000,,Well, I don't mind getting more fans.
+Dialogue: 0,0:16:19.53,0:16:20.16,Default,Yae,0000,0000,0000,,Chi-chan?
+Dialogue: 0,0:16:20.68,0:16:24.12,Default,Chit,0000,0000,0000,,Nothing! Let's get even more fans, \Nand become popular voice actresses!
+Dialogue: 0,0:16:24.63,0:16:26.09,Default,Both,0000,0000,0000,,Yep, yep.
+Dialogue: 0,0:16:27.41,0:16:30.21,Default,Gojo,0000,0000,0000,,I still have to greet some people, \Nso you can head home first.
+Dialogue: 0,0:16:33.05,0:16:36.44,Default - Italics,Chit,0000,0000,0000,,Then maybe I won't be treated like crap.
+Dialogue: 0,0:16:41.27,0:16:45.77,Anime_Title_16:41(Ep 05),Sign,0000,0000,0000,,{\c&H030C7B&}Tales \N{\c&HB70B85&}of the {\c&HE684FA&}Bizarre \N{\c&H1B5BDC&}Animal {\c&H9CFF5B&}Times!\N{\c&H0A21B9&}Special!
+Dialogue: 0,0:16:41.55,0:16:43.97,Default,Tv,0000,0000,0000,,This is the popular corner \Nyou've all been waiting for!
+Dialogue: 0,0:16:43.97,0:16:46.10,Default,Tv,0000,0000,0000,,We'll be showing you footage of
+Dialogue: 0,0:16:46.10,0:16:48.73,Default,Tv,0000,0000,0000,,bizarre creatures we've found \Nall over the world.
+Dialogue: 0,0:16:50.44,0:16:53.40,officialch,Sign,0000,0000,0000,,Official/ch\NLive\N\NLive Streaming
+Dialogue: 0,0:16:50.44,0:16:53.40,userupcoming,Sign,0000,0000,0000,,User\N{\fs16}Live\N\N{\fs13}Upcoming Live Broadcasts
+Dialogue: 0,0:16:50.44,0:16:53.40,broadcast live,Sign,0000,0000,0000,,Broadcast Live
+Dialogue: 0,0:16:50.44,0:16:53.40,pastprograms,Sign,0000,0000,0000,,Past Programs
+Dialogue: 0,0:16:50.44,0:16:53.40,popularity,Sign,0000,0000,0000,,Popularity
+Dialogue: 0,0:16:50.44,0:16:53.40,on air,Sign,0000,0000,0000,,On Air
+Dialogue: 0,0:16:50.44,0:16:53.40,officialanime,Sign,0000,0000,0000,,Official    Anime\N{\b1}Millennium Princess x Kowloon Overlord\NBD, DVD Preorder Extras Voice Actor Handout Event
+Dialogue: 0,0:16:54.00,0:16:56.70,Default,Chit,0000,0000,0000,,Man, it feels great being able see
+Dialogue: 0,0:16:56.70,0:16:58.37,Default,Chit,0000,0000,0000,,the results of all my hard work.
+Dialogue: 0,0:16:58.83,0:17:00.33,Default,Chit,0000,0000,0000,,Working is great.
+Dialogue: 0,0:17:05.78,0:17:06.44,Default,Chit,0000,0000,0000,,Huh?
+Dialogue: 0,0:17:09.95,0:17:11.86,Default - Top,Tv,0000,0000,0000,,First, we have this creature!
+Dialogue: 0,0:17:10.86,0:17:14.73,Default,Guy,0000,0000,0000,,Director, you haven't been \Nhome in a while, have you?
+Dialogue: 0,0:17:11.86,0:17:15.37,Default - Top,Tv,0000,0000,0000,,This is a bug that everyone knows about,
+Dialogue: 0,0:17:15.03,0:17:15.91,Default,Dire,0000,0000,0000,,Mm-hmm.
+Dialogue: 0,0:17:15.37,0:17:18.35,Default - Top,Tv,0000,0000,0000,,but it actually doesn't have a mouth.
+Dialogue: 0,0:17:15.91,0:17:17.38,Default,Guy,0000,0000,0000,,Isn't that rough?
+Dialogue: 0,0:17:17.66,0:17:18.35,Default,Dire,0000,0000,0000,,Mm-hmm.
+Dialogue: 0,0:17:18.65,0:17:20.53,Default,Guy,0000,0000,0000,,Of course there's no way it wouldn't be...
+Dialogue: 0,0:17:20.90,0:17:21.43,Default,Dire,0000,0000,0000,,Mm-hmm.
+Dialogue: 0,0:17:23.04,0:17:25.37,Default,Guy,0000,0000,0000,,Let's just quit.
+Dialogue: 0,0:17:27.61,0:17:30.06,Default,Dire,0000,0000,0000,,We can't. This is our job.
+Dialogue: 0,0:17:30.59,0:17:31.48,Default,Guy,0000,0000,0000,,Director...
+Dialogue: 0,0:17:32.14,0:17:34.24,Default - Top,Tv,0000,0000,0000,,They only live to provide
+Dialogue: 0,0:17:32.46,0:17:33.16,Default,Dire,0000,0000,0000,,Mm-hmm.
+Dialogue: 0,0:17:34.24,0:17:36.91,Default - Top,Tv,0000,0000,0000,,the continuation of life to the future.
+Dialogue: 0,0:17:38.37,0:17:41.08,Default - Top,Tv,0000,0000,0000,,Next up, we have the tardigrade.
+Dialogue: 0,0:17:41.41,0:17:44.03,Default - Top,Edit,0000,0000,0000,,Despite also being called "water bears,"
+Dialogue: 0,0:17:42.93,0:17:46.13,Default,Edit,0000,0000,0000,,The editor-in-chief said it'd be \Ndifficult to delay the release.
+Dialogue: 0,0:17:44.03,0:17:46.13,Default - Top,Edit,0000,0000,0000,,their shape doesn't resemble a bear very much.
+Dialogue: 0,0:17:47.61,0:17:51.09,Default - Top,Tv,0000,0000,0000,,This creature has the ability to regenerate
+Dialogue: 0,0:17:51.09,0:17:54.05,Default - Top,Tv,0000,0000,0000,,in the most extreme of conditions!
+Dialogue: 0,0:17:54.05,0:17:55.63,Default,Edit,0000,0000,0000,,But in my opinion,
+Dialogue: 0,0:17:55.63,0:17:58.42,Default,Edit,0000,0000,0000,,if the anime is making you suffer that much...
+Dialogue: 0,0:17:59.09,0:18:00.23,Default,Guy,0000,0000,0000,,Anime?
+Dialogue: 0,0:18:00.86,0:18:03.64,Default,Guy,0000,0000,0000,,Wow! My work is going to be made into an anime?
+Dialogue: 0,0:18:04.19,0:18:05.52,Default,Edit,0000,0000,0000,,S-Sensei?
+Dialogue: 0,0:18:05.89,0:18:08.48,Default,Guy,0000,0000,0000,,Yay! It's like a dream!
+Dialogue: 0,0:18:08.95,0:18:11.79,Default,Guy,0000,0000,0000,,My first anime series... I'm so happy.
+Dialogue: 0,0:18:12.29,0:18:14.85,Default,Guy,0000,0000,0000,,I hope it gets made...
+Dialogue: 0,0:18:15.68,0:18:17.82,Default,Guy,0000,0000,0000,,into a fun anime!
+Dialogue: 0,0:18:18.67,0:18:20.83,Default,Guy,0000,0000,0000,,I see... An anime, huh?
+Dialogue: 0,0:18:20.83,0:18:21.60,Default,Edit,0000,0000,0000,,Sensei...
+Dialogue: 0,0:18:21.90,0:18:23.79,Default - Top,Tv,0000,0000,0000,,Apparently, they are easy to squish.
+Dialogue: 0,0:18:24.60,0:18:26.92,Default - Top,Tv,0000,0000,0000,,There are still many more
+Dialogue: 0,0:18:26.92,0:18:29.32,Default - Top,Tv,0000,0000,0000,,bizarre creatures in the world!
+Dialogue: 0,0:18:29.32,0:18:30.25,Default - Top,Tv,0000,0000,0000,,I can't wait to see!
+Dialogue: 0,0:18:30.70,0:18:34.67,Default - Top,Tv,0000,0000,0000,,The female of this extremely
+Dialogue: 0,0:18:34.67,0:18:38.65,Default - Top,Tv,0000,0000,0000,,rare animal that lives in Australia
+Dialogue: 0,0:18:35.17,0:18:36.69,Default,Towa,0000,0000,0000,,I want to go home...
+Dialogue: 0,0:18:38.65,0:18:42.30,Default - Top,Tv,0000,0000,0000,,doesn't help with the rearing of young at all.
+Dialogue: 0,0:18:42.30,0:18:46.21,Default - Top,Tv,0000,0000,0000,,Huh? Does that mean only the\Nmales take care of the young?
+Dialogue: 0,0:18:46.21,0:18:47.96,Default - Top,Tv,0000,0000,0000,,That's correct.
+Dialogue: 0,0:18:47.96,0:18:51.60,Default - Top,Tv,0000,0000,0000,,Of course, that means \Nfeeding them, making nests,
+Dialogue: 0,0:18:51.60,0:18:55.57,Default - Top,Tv,0000,0000,0000,,and warming up the eggs \Nare all jobs for the male.
+Dialogue: 0,0:18:55.57,0:18:57.89,Default - Top,Tv,0000,0000,0000,,Wow! That's amazing.
+Dialogue: 0,0:18:56.80,0:18:58.58,Default,Towa,0000,0000,0000,,What do you want, Kuzu-san?
+Dialogue: 0,0:18:59.25,0:19:01.81,Default,Kuzu,0000,0000,0000,,Sorry about the other day.
+Dialogue: 0,0:19:02.27,0:19:03.24,Default,Kuzu,0000,0000,0000,,Are you mad?
+Dialogue: 0,0:19:03.50,0:19:04.98,Default,Towa,0000,0000,0000,,I'm not mad.
+Dialogue: 0,0:19:04.98,0:19:06.80,Default,Kuzu,0000,0000,0000,,But you are, right?
+Dialogue: 0,0:19:06.80,0:19:08.17,Default,Towa,0000,0000,0000,,I'm not mad.
+Dialogue: 0,0:19:08.17,0:19:10.70,Default,Kuzu,0000,0000,0000,,You say that, but you're mad, right?
+Dialogue: 0,0:19:10.70,0:19:12.34,Default,Towa,0000,0000,0000,,I said I'm not mad!
+Dialogue: 0,0:19:12.34,0:19:14.07,Default,Kuzu,0000,0000,0000,,See? You're mad!
+Dialogue: 0,0:19:18.43,0:19:21.27,Default,Towa,0000,0000,0000,,I don't think anything of it.
+Dialogue: 0,0:19:21.64,0:19:24.10,Default,Towa,0000,0000,0000,,It can't be helped. \NI'm an employee of this company.
+Dialogue: 0,0:19:25.29,0:19:28.41,Default,Towa,0000,0000,0000,,No matter how hard it is, \Nand no matter how much I suffer,
+Dialogue: 0,0:19:28.75,0:19:31.06,Default,Towa,0000,0000,0000,,I still have to work. That's what a job is.
+Dialogue: 0,0:19:41.77,0:19:44.84,Default,Kuzu,0000,0000,0000,,Let's go somewhere else. I have something \Nimportant to discuss with you.
+Dialogue: 0,0:19:44.84,0:19:46.83,Default,Towa,0000,0000,0000,,But I've still got work left.
+Dialogue: 0,0:19:46.83,0:19:49.25,Default,Kuzu,0000,0000,0000,,Just leave it!
+Dialogue: 0,0:19:50.07,0:19:51.00,Default,Towa,0000,0000,0000,,Okay...
+Dialogue: 0,0:19:51.00,0:19:54.81,Default - Top,Tv,0000,0000,0000,,Not only that, it also takes care of the eggs
+Dialogue: 0,0:19:54.81,0:19:58.12,Default - Top,Tv,0000,0000,0000,,that the female made with another male.
+Dialogue: 0,0:19:58.12,0:19:59.67,Default - Top,Tv,0000,0000,0000,,Wow...
+Dialogue: 0,0:20:03.42,0:20:05.39,Default,Gojo,0000,0000,0000,,I'm home... Huh?
+Dialogue: 0,0:20:07.20,0:20:08.95,Default,Chit,0000,0000,0000,,Gojo-kun...
+Dialogue: 0,0:20:16.84,0:20:18.99,Default,Gojo,0000,0000,0000,,What? What's wrong with you?
+Dialogue: 0,0:20:21.28,0:20:23.32,Default,Chit,0000,0000,0000,,Th-This...
+Dialogue: 0,0:20:25.03,0:20:28.99,Texts/tweets(Ep 05),Sign,0000,0000,0000,,I really hate her. \NGuys! Let's all stop bashing Karasuma Amateur-san!\NI'm better than her\NVoice actors who think they're hot shit are gross\NI'm never watching an anime with her in it again\NShe's a pro amateur lolololololol\NThis voice actress isn't bad for an amateur\N{\c&H2D0EC1&}Take that, Kadokura\N{\c&H271817&}Karasuma Chitose is a shit voice actress who only got this role because of Nan Pro's massive push\NYou can't just be good at events...\N{\c&H2D0EC1&}Incoming Spam
+Dialogue: 0,0:20:28.99,0:20:33.00,Texts/tweets(Ep 05),Sign,0000,0000,0000,,She's about the 7th cutest in class\N Don't underestimate voice actors. Die, die, die!\NVoice actress from a bombed series\NPiece of trash with a big head\NLow-level stiff acting\NHer attitude is trash, so she's got nothing going for her\NLick, lick, lick, lick, lick, lick, lick, lick... ugh\N{\c&H2D0EC1&}Kusure: war criminal forever
+Dialogue: 0,0:20:31.17,0:20:33.00,Default,Gojo,0000,0000,0000,,These are pretty accurate...
+Dialogue: 0,0:20:38.07,0:20:40.54,Default,Gojo,0000,0000,0000,,There's no point in getting upset over these.
+Dialogue: 0,0:20:40.54,0:20:43.26,Default,Chit,0000,0000,0000,,But, but...
+Dialogue: 0,0:20:43.56,0:20:46.97,Default,Gojo,0000,0000,0000,,We'll filter out comments next time, \Nso forget about the Internet.
+Dialogue: 0,0:20:48.70,0:20:51.43,Default,Gojo,0000,0000,0000,,More importantly, I got surveys from today.
+Dialogue: 0,0:20:51.82,0:20:55.83,Default,Gojo,0000,0000,0000,,There may be stuff about how you are \Nat these events that you can improve,
+Dialogue: 0,0:20:55.83,0:20:57.28,Default,Gojo,0000,0000,0000,,so make use of them.
+Dialogue: 0,0:20:57.70,0:21:00.15,Default,Chit,0000,0000,0000,,No. I don't wanna read those.
+Dialogue: 0,0:21:00.15,0:21:02.38,Default,Chit,0000,0000,0000,,I only wanna see the ones \Nthat are praising me.
+Dialogue: 0,0:21:03.31,0:21:04.96,Default,Gojo,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:21:07.16,0:21:09.24,Default,Chit,0000,0000,0000,,Why am I the only one getting bashed?
+Dialogue: 0,0:21:09.70,0:21:11.20,Default,Chit,0000,0000,0000,,I didn't even do anything!
+Dialogue: 0,0:21:11.62,0:21:12.78,Default,Gojo,0000,0000,0000,,That's...
+Dialogue: 0,0:21:15.05,0:21:17.33,Default,Chit,0000,0000,0000,,Gojo-kun, bye-bye. Goodnight.
+Dialogue: 0,0:21:27.62,0:21:30.14,Default - Italics,Gojo,0000,0000,0000,,That's because you're
+Dialogue: 0,0:21:30.44,0:21:33.50,Default - Italics,Gojo,0000,0000,0000,,the only one who's not doing anything...
+Dialogue: 0,0:21:39.65,0:21:42.76,Default,Kuzu,0000,0000,0000,,Bashed on the Internet, grilled by the vendors,
+Dialogue: 0,0:21:42.76,0:21:44.77,Default,Kuzu,0000,0000,0000,,and squeezed totally dry.
+Dialogue: 0,0:21:45.20,0:21:47.21,Default,Kuzu,0000,0000,0000,,This is bad.
+Dialogue: 0,0:21:48.46,0:21:50.83,Default,Towa,0000,0000,0000,,Well, yeah, this is bad...
+Dialogue: 0,0:21:51.39,0:21:53.12,Default,Kuzu,0000,0000,0000,,Yes, it's bad.
+Dialogue: 0,0:21:53.12,0:21:55.18,Default,Kuzu,0000,0000,0000,,If we do end up in the red,
+Dialogue: 0,0:21:55.18,0:21:57.58,Default,Kuzu,0000,0000,0000,,I won't be able to use up all of the budget.
+Dialogue: 0,0:22:00.17,0:22:00.85,Default,Towa,0000,0000,0000,,What?
+Dialogue: 0,0:22:01.21,0:22:03.55,Default,Kuzu,0000,0000,0000,,But... but...
+Dialogue: 0,0:22:03.82,0:22:06.26,Default,Kuzu,0000,0000,0000,,But fear not, Towada-kun!
+Dialogue: 0,0:22:06.93,0:22:09.31,Default,Kuzu,0000,0000,0000,,I have a secret plan.
+Dialogue: 0,0:23:40.89,0:24:10.97,Preview,Sign,0000,0000,0000,,Preview
+Dialogue: 0,0:23:42.23,0:23:44.28,Default,Towa,0000,0000,0000,,What's your secret plan, Kuzu-san?
+Dialogue: 0,0:23:44.28,0:23:46.69,Default,Kuzu,0000,0000,0000,,When talking about promoting anime, \Nthere's nothing else!
+Dialogue: 0,0:23:46.69,0:23:47.69,Default,Kuzu,0000,0000,0000,,Whisper, whisper...
+Dialogue: 0,0:23:47.69,0:23:49.54,Default,Towa,0000,0000,0000,,What? You're going to get in trouble!
+Dialogue: 0,0:23:49.54,0:23:50.57,Default,Kuzu,0000,0000,0000,,But if I get in trouble,
+Dialogue: 0,0:23:50.57,0:23:53.68,Default,Kuzu,0000,0000,0000,,I just need to trick them by smiling and \Ngoing "teehee," and have you apologize.
+Dialogue: 0,0:23:53.68,0:23:55.85,Default,Towa,0000,0000,0000,,You're not fooling anyone... hm?
+Dialogue: 0,0:23:55.85,0:23:58.08,Default,Towa,0000,0000,0000,,Wait, did I somehow end up \Nbeing the one in trouble?
+Dialogue: 0,0:23:58.08,0:24:00.67,Default,Kuzu,0000,0000,0000,,Don't worry, don't worry. \NRemember what I taught you before?
+Dialogue: 0,0:24:00.67,0:24:02.59,Default,Kuzu,0000,0000,0000,,Do you still remember that day?
+Dialogue: 0,0:24:02.59,0:24:04.06,Default,Towa,0000,0000,0000,,Huh? What are you talking about?
+Dialogue: 0,0:24:04.06,0:24:07.67,Default,Kuzu,0000,0000,0000,,Oh, come on! What else? The time I \Nshowed you how to write a formal apology!
+Dialogue: 0,0:24:07.67,0:24:09.58,Default,Kuzu,0000,0000,0000,,A formal apology!

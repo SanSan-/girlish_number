@@ -1,0 +1,426 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Default - Margin,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default - Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default - Flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default - Song,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Default - Onscreen,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,3,0,0,28,1
+Style: Ep_Title,Open Sans Semibold,30,&H00F6F6F4,&H000000FF,&H0016120A,&H00110B06,1,0,0,0,100,100,0,0,1,2,0,1,85,13,100,0
+Style: Next_Ep_Title,Open Sans Semibold,33,&H006500BC,&H000000FF,&H00FBF0FD,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,44,36,87,0
+Style: Next_Time,Open Sans Semibold,30,&H00000000,&H000000FF,&H00E9EEEE,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,107,13,53,1
+Style: Default - Flashback Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default - MC,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Default - Top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Preview,Open Sans Semibold,30,&H00FFFDFE,&H000000FF,&H005B5353,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,27,629,100,1
+Style: Girlish Number - Ep Title,Open Sans Semibold,30,&H00F6F6F4,&H000000FF,&H0016120A,&H00110B06,1,0,0,0,100,100,0,0,1,2,0,1,87,27,91,0
+Style: Locations_00:00(Ep 08),Open Sans Semibold,36,&H00FAFAFA,&H000000FF,&H00473728,&H00461004,1,0,0,0,100,100,0,0,1,2,0,8,553,13,165,0
+Style: Text_Messages(green)(Ep 08),Open Sans Semibold,27,&H00366C44,&H000000FF,&H0052F088,&H00461004,1,0,0,0,100,100,0,0,1,4,0,7,280,13,53,0
+Style: Hiss!_00:26(Ep 08),Open Sans Semibold,36,&H000A0F15,&H000000FF,&H004430D7,&H00461004,1,0,0,0,100,100,0,0,1,4,0,8,220,27,27,0
+Style: Incoming_Call_00:48(Ep 08),Open Sans Semibold,33,&H00FAFAFA,&H000000FF,&H00473728,&H00461004,1,0,0,0,100,100,0,5,1,2,0,7,232,67,133,0
+Style: Incoming_Call_09:50(Ep 08),Open Sans Semibold,33,&H00FAFAFA,&H000000FF,&H00473728,&H00461004,1,0,0,0,100,100,0,2,1,2,0,7,193,13,140,0
+Style: Cell_phone_buttons00:48(Ep 08),Open Sans Semibold,30,&H00FAFAFA,&H000000FF,&H00473728,&H00461004,1,0,0,0,100,100,0,5,1,2,0,2,80,13,113,0
+Style: Cell_phone_buttons_09:50(Ep 08),Open Sans Semibold,30,&H00FAFAFA,&H000000FF,&H00473728,&H00461004,1,0,0,0,100,100,0,0,1,2,0,2,13,13,80,0
+Style: Text_Messages(green)_00:31(Ep 08),Open Sans Semibold,27,&H00366C44,&H000000FF,&H0052F088,&H00461004,1,0,0,0,100,100,0,0,1,4,0,7,280,13,80,0
+Style: Manju_02:40(Ep 08),Open Sans Semibold,36,&H00EFC6C6,&H000000FF,&H00754072,&H00461004,1,0,0,0,100,100,0,0,1,4,0,9,27,133,67,0
+Style: Girlish Number - Ep 08 Title,Open Sans Semibold,30,&H00F6F6F4,&H000000FF,&H0016120A,&H00110B06,1,0,0,0,100,100,0,0,1,2,0,3,27,67,91,0
+Style: Banner_poem_06:09(Ep 08),Open Sans Semibold,26,&H00787172,&H000000FF,&H00F6F6F6,&H00461004,1,0,0,0,100,100,0,0,1,3,0,9,27,43,27,0
+Style: Snow_soft_serv_08:36(Ep 08),Open Sans Semibold,24,&H00FFF7E7,&H000000FF,&H005F5136,&H00461004,1,0,0,0,100,100,0,0,1,3,0,7,453,13,27,0
+Style: Text_Messages(blue)(Ep 08),Open Sans Semibold,30,&H00F8EFEF,&H000000FF,&H00FFC948,&H00461004,1,0,0,0,100,100,0,0,1,4,0,7,240,13,213,0
+Style: Mom_15:51(Ep 08),Open Sans Semibold,36,&H00F4E0BF,&H000000FF,&H00391E15,&H00461004,1,0,0,0,100,100,0,0,1,3,0,8,27,27,93,0
+Style: Call_15:51(Ep 08),Open Sans Semibold,30,&H00F4E0BF,&H000000FF,&H00391E15,&H00461004,1,0,0,0,100,100,0,0,1,3,0,8,27,173,267,0
+Style: Work_15:51(Ep 08),Open Sans Semibold,30,&H00F4E0BF,&H000000FF,&H00391E15,&H00461004,1,0,0,0,100,100,0,0,1,3,0,2,233,27,27,0
+Style: Tokyo_21:20(Ep 08),Open Sans Semibold,39,&H00FAFAFA,&H000000FF,&H00473728,&H00461004,1,0,0,0,100,100,0,0,1,2,0,8,213,13,151,0
+Style: Read_21:57(Ep 08),Open Sans Semibold,27,&H006D616B,&H000000FF,&H00E7DBF9,&H00461004,1,0,0,0,100,100,0,0,1,2,0,1,260,27,193,0
+Style: Text_Messages(green)_21:58(Ep 08),Open Sans Semibold,27,&H00366C44,&H000000FF,&H0052F088,&H00461004,1,0,0,0,100,100,0,0,1,4,0,1,280,13,87,0
+Style: Hiss!_21:59(Ep 08),Open Sans Semibold,36,&H000A0F15,&H000000FF,&H004430D7,&H00461004,1,0,0,0,100,100,0,0,1,4,0,8,487,27,93,0
+Style: Katakura,Open Sans Semibold,30,&H00F8EFEF,&H000000FF,&H006C422B,&H00461004,1,0,0,0,100,100,0,0,1,0,0,8,27,320,33,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.98,0:00:02.69,Locations_00:00(Ep 08),Sign,0000,0000,0000,,Kanazawa\N\NShinjo\N\NNiigata\N\NKanazawa
+Dialogue: 0,0:00:07.15,0:00:08.90,Default,Kuzu,0000,0000,0000,,Jet shumai are so good!
+Dialogue: 0,0:00:14.82,0:00:17.41,Text_Messages(green)(Ep 08),Sign,0000,0000,0000,,Sorry! I can't go today! \NI suddenly got, like,\Nwork, or something?
+Dialogue: 0,0:00:17.41,0:00:19.91,Text_Messages(green)(Ep 08),Sign,0000,0000,0000,,Actually, I don't have work, but... \NNo, really, I was totally planning on going.
+Dialogue: 0,0:00:19.91,0:00:22.37,Text_Messages(green)(Ep 08),Sign,0000,0000,0000,,But like, Gojo-kun broke \Nhis promise, or something?
+Dialogue: 0,0:00:24.12,0:00:26.67,Text_Messages(green)(Ep 08),Sign,0000,0000,0000,,Yeah, it's totally unforgivable! \NIt's all Gojo-kun's fault! I'm so pissed!
+Dialogue: 0,0:00:26.67,0:00:28.79,Hiss!_00:26(Ep 08),Sfx,0000,0000,0000,,Hiss!
+Dialogue: 0,0:00:31.26,0:00:33.30,Text_Messages(green)_00:31(Ep 08),Sign,0000,0000,0000,,This is a super popular local souvenir. \NI recommend this. I totally recommend this.
+Dialogue: 0,0:00:35.13,0:00:37.34,Default,Momo,0000,0000,0000,,She really is a character...
+Dialogue: 0,0:00:37.34,0:00:38.55,Default,Kazu,0000,0000,0000,,More importantly...
+Dialogue: 0,0:00:38.55,0:00:39.18,Default,Momo,0000,0000,0000,,What?
+Dialogue: 0,0:00:39.62,0:00:42.14,Default,Kazu,0000,0000,0000,,You didn't really have to come, either.
+Dialogue: 0,0:00:42.37,0:00:44.10,Default,Momo,0000,0000,0000,,Well, we're friends, aren't we?
+Dialogue: 0,0:00:44.47,0:00:46.06,Default,Kaz,0000,0000,0000,,We don't have time for that.
+Dialogue: 0,0:00:46.56,0:00:47.83,Default,Momo,0000,0000,0000,,Yeah, well...
+Dialogue: 0,0:00:48.77,0:00:50.77,Incoming_Call_00:48(Ep 08),Sign,0000,0000,0000,,Kawahara Mutsumi\N{\fs18}Incoming Call...
+Dialogue: 0,0:00:53.49,0:00:57.08,Default,Momo,0000,0000,0000,,I'm not doing this for you. \NI'm doing this for myself.
+Dialogue: 0,0:01:00.33,0:01:03.09,Default,Kuzu,0000,0000,0000,,We're here! Haisai, Yamagata!
+Dialogue: 0,0:01:03.09,0:01:06.05,Default,Towa,0000,0000,0000,,You're going to piss off people \Nfrom both Yamagata and Okinawa.
+Dialogue: 0,0:01:06.05,0:01:08.67,Default,Kazu,0000,0000,0000,,It's still two hours from \Nhere on trains and buses.
+Dialogue: 0,0:01:08.89,0:01:09.93,Default,Kuzu,0000,0000,0000,,Haisai?!
+Dialogue: 0,0:02:40.38,0:02:42.64,Manju_02:40(Ep 08),Sign,0000,0000,0000,,Manju
+Dialogue: 0,0:02:40.97,0:02:44.93,Girlish Number - Ep 08 Title,Title,0000,0000,0000,,{\fad(858,1)}#08 Oversleeping Chitose and a Steamy Travel Mood
+Dialogue: 0,0:02:45.17,0:02:47.43,Default,Kuzu,0000,0000,0000,,Oh, this is {\i1}so{\i0} Japan!
+Dialogue: 0,0:02:47.73,0:02:50.14,Default,Kuzu,0000,0000,0000,,Geisha, onsen, harakiri!
+Dialogue: 0,0:02:50.47,0:02:52.79,Default,Towa,0000,0000,0000,,I wonder if he'd really consider \Nslicing his stomach open...
+Dialogue: 0,0:02:52.79,0:02:53.69,Default,Mana,0000,0000,0000,,His neck, too.
+Dialogue: 0,0:02:58.62,0:03:01.66,Default,Mom,0000,0000,0000,,Kazu-chan! We've been waiting \Nfor you. Welcome home.
+Dialogue: 0,0:03:02.76,0:03:03.37,Default,Kazu,0000,0000,0000,,Yeah...
+Dialogue: 0,0:03:03.78,0:03:07.44,Default,Mom,0000,0000,0000,,Thank you all for coming this far.
+Dialogue: 0,0:03:07.44,0:03:08.63,Default,Mom,0000,0000,0000,,Please, come in.
+Dialogue: 0,0:03:14.74,0:03:16.46,Default,Mom,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:03:16.80,0:03:19.88,Default,Mom,0000,0000,0000,,I told him that all of you were coming...
+Dialogue: 0,0:03:19.88,0:03:22.13,Default,Mana,0000,0000,0000,,No, no. Please, don't worry about us.
+Dialogue: 0,0:03:22.40,0:03:25.18,Default,Kuzu,0000,0000,0000,,These sweets are delicious, ma'am!
+Dialogue: 0,0:03:25.18,0:03:28.00,Default,Kuzu,0000,0000,0000,,I'm so glad I came! Haisai, Yamagata!
+Dialogue: 0,0:03:28.00,0:03:28.94,Default,Towa,0000,0000,0000,,Kuzu-san!
+Dialogue: 0,0:03:30.24,0:03:32.21,Default,Mom,0000,0000,0000,,Oh, is he home how?
+Dialogue: 0,0:03:33.24,0:03:35.77,Default,Mom,0000,0000,0000,,Welcome home. Kazu-chan \Nand her guests are here.
+Dialogue: 0,0:03:37.94,0:03:38.78,Default,Kuzu,0000,0000,0000,,Honored Papa!
+Dialogue: 0,0:03:40.43,0:03:41.08,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:03:44.39,0:03:47.50,Default,Mana,0000,0000,0000,,I'm truly sorry for what happened.
+Dialogue: 0,0:04:03.80,0:04:07.47,Default,Dad,0000,0000,0000,,Thank you for looking after my daughter.
+Dialogue: 0,0:04:10.68,0:04:11.61,Default,Both,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:16.04,0:04:19.55,Default,Mom,0000,0000,0000,,How nice of them to come \Nall the way out here. Right?
+Dialogue: 0,0:04:20.54,0:04:24.06,Default,Mom,0000,0000,0000,,You even brought our daughter. \NWe're truly grateful.
+Dialogue: 0,0:04:25.57,0:04:28.40,Default,Mana,0000,0000,0000,,U-Um... Our agency truly looks forward
+Dialogue: 0,0:04:28.40,0:04:31.62,Default,Mana,0000,0000,0000,,to seeing Kazuha-san's continued hard work.
+Dialogue: 0,0:04:31.92,0:04:34.06,Default,Mom,0000,0000,0000,,Do you think she'll last?
+Dialogue: 0,0:04:34.06,0:04:37.98,Default,Mana,0000,0000,0000,,It's definitely a business of chance, \Nso I can't make any guarantees...
+Dialogue: 0,0:04:37.98,0:04:39.96,Default,Mana,0000,0000,0000,,But I think she's very talented.
+Dialogue: 0,0:04:40.27,0:04:43.17,Default,Mom,0000,0000,0000,,Did you hear that? \NIsn't that wonderful, darling?
+Dialogue: 0,0:04:44.99,0:04:47.77,Default,Dad,0000,0000,0000,,She's a rather imperfect and foolish girl,
+Dialogue: 0,0:04:47.77,0:04:49.64,Default,Dad,0000,0000,0000,,but please, continue to guide her.
+Dialogue: 0,0:04:51.98,0:04:54.02,Default,Mom,0000,0000,0000,,Your dad doesn't seem opposed.
+Dialogue: 0,0:04:54.02,0:04:57.56,Default,Kazu,0000,0000,0000,,That's just a front. I'm going to go end this.
+Dialogue: 0,0:05:00.48,0:05:01.39,Default,Kazu,0000,0000,0000,,Hello.
+Dialogue: 0,0:05:01.39,0:05:03.53,Default,dad,0000,0000,0000,,Can't you even say hello properly?
+Dialogue: 0,0:05:04.02,0:05:06.49,Default,Kazu,0000,0000,0000,,What do you mean? You're no better.
+Dialogue: 0,0:05:06.49,0:05:07.51,Default,Mom,0000,0000,0000,,Kazu-chan!
+Dialogue: 0,0:05:07.51,0:05:08.45,Default,Kazu,0000,0000,0000,,Well...
+Dialogue: 0,0:05:08.75,0:05:11.61,Default,Mom,0000,0000,0000,,Come, now, don't leave your friend waiting.
+Dialogue: 0,0:05:14.19,0:05:17.14,Default,Momo,0000,0000,0000,,It's a pleasure to meet you. \NMy name is Sono Momoka.
+Dialogue: 0,0:05:17.57,0:05:21.14,Default,Momo,0000,0000,0000,,I work together with \NShibasaki-san on this anime.
+Dialogue: 0,0:05:21.14,0:05:23.09,Default,Kazu,0000,0000,0000,,Why did you bring that?
+Dialogue: 0,0:05:26.07,0:05:27.76,Default,Mana,0000,0000,0000,,Please, take these, if you'd like...
+Dialogue: 0,0:05:27.76,0:05:29.33,Default,Kazu,0000,0000,0000,,Stop it!
+Dialogue: 0,0:05:29.33,0:05:32.72,Default,Mana,0000,0000,0000,,Your mother seemed relieved \Nafter she saw you at work,
+Dialogue: 0,0:05:33.05,0:05:36.69,Default,Mana,0000,0000,0000,,so I thought it'd be nice for your father \Nto see what you were in, at least.
+Dialogue: 0,0:05:36.98,0:05:39.40,Default,Kazu,0000,0000,0000,,There were better ones you could have picked.
+Dialogue: 0,0:05:40.67,0:05:41.74,Default,Towa,0000,0000,0000,,Sorry about that...
+Dialogue: 0,0:05:41.74,0:05:45.11,Default,Kazu,0000,0000,0000,,Oh, no... I'm not blaming you, Towada-san.
+Dialogue: 0,0:05:45.55,0:05:47.32,Default,Kazu,0000,0000,0000,,It's more...
+Dialogue: 0,0:05:47.68,0:05:49.57,Default,Kuzu,0000,0000,0000,,I heard someone call my name.
+Dialogue: 0,0:05:50.29,0:05:51.47,Default,Kuzu,0000,0000,0000,,Huh? What?
+Dialogue: 0,0:05:59.42,0:06:01.26,Default,Kazu,0000,0000,0000,,You don't have to watch those.
+Dialogue: 0,0:06:01.26,0:06:02.39,Default,Dad,0000,0000,0000,,Kazuha.
+Dialogue: 0,0:06:03.20,0:06:06.84,Default,Dad,0000,0000,0000,,If you're truly an actress, \Ndon't belittle a project you appeared in.
+Dialogue: 0,0:06:09.05,0:06:19.77,Banner_poem_06:09(Ep 08),Sign,0000,0000,0000,,How do I hate you so, \Nwhen I am so happy to see you, \Njust like the first blossom \Nof the autumn bush clover?
+Dialogue: 0,0:06:09.69,0:06:12.53,Default,Kazu,0000,0000,0000,,I've acted on those projects, \Nso I know what they're worth.
+Dialogue: 0,0:06:12.84,0:06:16.10,Default,Kazu,0000,0000,0000,,They're all the same. They're just \Nmass-produced generic shows.
+Dialogue: 0,0:06:16.46,0:06:19.77,Default,Kazu,0000,0000,0000,,What I want to work on isn't \Nsomething so worthless. It's more...
+Dialogue: 0,0:06:19.77,0:06:23.73,Default,Dad,0000,0000,0000,,Then what does that make you, \Nif you're in something so worthless?
+Dialogue: 0,0:06:26.36,0:06:27.42,Default,Kazu,0000,0000,0000,,That's right.
+Dialogue: 0,0:06:27.72,0:06:30.33,Default,Kazu,0000,0000,0000,,I'm just a worthless voice \Nactress who's perfect for
+Dialogue: 0,0:06:30.33,0:06:33.08,Default,Kazu,0000,0000,0000,,showing up in all these \Nworthless template anime.
+Dialogue: 0,0:06:34.49,0:06:35.97,Default,Kazu,0000,0000,0000,,That's why I have to resort to something
+Dialogue: 0,0:06:35.97,0:06:37.64,Default,Kazu,0000,0000,0000,,so mindless as wearing a swimsuit to sell them.
+Dialogue: 0,0:06:37.64,0:06:40.48,Default,Kazu,0000,0000,0000,,I'm sorry for being such an \Nimperfect, foolish daughter!
+Dialogue: 0,0:06:40.48,0:06:41.75,Default,Kazu,0000,0000,0000,,Are you happy now?
+Dialogue: 0,0:06:40.82,0:06:41.75,Default,Mom,0000,0000,0000,,Kazu-chan!
+Dialogue: 0,0:06:50.05,0:06:51.86,Default,Dad,0000,0000,0000,,You should go back there.
+Dialogue: 0,0:06:51.86,0:06:55.85,Default,Kazu,0000,0000,0000,,Go back? You're the one who\Ntold me to come home!
+Dialogue: 0,0:06:56.71,0:07:00.31,Default,Dad,0000,0000,0000,,Go back to Tokyo. You're one of \Nthem Tokyo folk now, aren't you?
+Dialogue: 0,0:07:00.69,0:07:04.52,Default,Dad,0000,0000,0000,,You wanted to be an actress so bad \Nthat you left Yamagata behind.
+Dialogue: 0,0:07:06.48,0:07:09.95,Default,Dad,0000,0000,0000,,Stop your yammering and go do \Nwhat you can, you foolish daughter.
+Dialogue: 0,0:07:11.84,0:07:13.66,Default,Kazu,0000,0000,0000,,I don't need you to tell me to go back.
+Dialogue: 0,0:07:14.00,0:07:15.33,Default,Kazu,0000,0000,0000,,I hate this place!
+Dialogue: 0,0:07:15.33,0:07:16.40,Default,Mom,0000,0000,0000,,Kazu-chan!
+Dialogue: 0,0:07:23.44,0:07:24.58,Default,Kuzu,0000,0000,0000,,Are you done? Did you win?
+Dialogue: 0,0:07:24.58,0:07:26.71,Default,Kuzu,0000,0000,0000,,Are you already going back? \NWas this a day trip?
+Dialogue: 0,0:07:26.71,0:07:29.30,Default,Kuzu,0000,0000,0000,,What about the hot springs? \NWhat about table tennis...
+Dialogue: 0,0:07:30.20,0:07:32.09,Default,Momo,0000,0000,0000,,Shibasaki, wait a minute.
+Dialogue: 0,0:07:32.09,0:07:32.97,Default,Kazu,0000,0000,0000,,Let go of me!
+Dialogue: 0,0:07:33.53,0:07:35.68,Default,Kazu,0000,0000,0000,,I don't want to spend another second here.
+Dialogue: 0,0:07:36.94,0:07:39.58,Default,Momo,0000,0000,0000,,I think you've got the wrong idea.
+Dialogue: 0,0:07:39.58,0:07:40.39,Default,Kazu,0000,0000,0000,,What?
+Dialogue: 0,0:07:40.86,0:07:44.86,Default,Mom,0000,0000,0000,,Kazuha, I'm going to prepare rooms \Nfor all of you, so stay the night.
+Dialogue: 0,0:07:44.86,0:07:47.32,Default,Dad,0000,0000,0000,,Just leave her be and let her go on back.
+Dialogue: 0,0:07:47.57,0:07:50.53,Default,Mom,0000,0000,0000,,Oh, hush yer mouth! \NIf they're paying, they're customers!
+Dialogue: 0,0:07:50.93,0:07:53.03,Default,Mom,0000,0000,0000,,Or what? Do you have a problem with that, too?
+Dialogue: 0,0:07:54.23,0:07:55.24,Default,Dad,0000,0000,0000,,No.
+Dialogue: 0,0:07:55.61,0:07:57.45,Default,Kuzu,0000,0000,0000,,Where are you from, ma'am?
+Dialogue: 0,0:07:57.76,0:08:00.36,Default,Momo,0000,0000,0000,,Then we'll take you up on that, just for tonight.
+Dialogue: 0,0:08:00.36,0:08:02.16,Default,Kazu,0000,0000,0000,,What are you thinking?
+Dialogue: 0,0:08:02.89,0:08:05.99,Default,Momo,0000,0000,0000,,I don't really want to say the \Nsame thing as Kuzu-san, but...
+Dialogue: 0,0:08:06.39,0:08:08.13,Default,Momo,0000,0000,0000,,I haven't even gone sightseeing yet.
+Dialogue: 0,0:08:31.78,0:08:33.35,Default,Momo,0000,0000,0000,,Look what they gave me.
+Dialogue: 0,0:08:34.25,0:08:36.35,Default,Kazu,0000,0000,0000,,I always think this at our handout events,
+Dialogue: 0,0:08:36.35,0:08:39.01,Default,Kazu,0000,0000,0000,,but you're really good at talking \Nto people you don't know.
+Dialogue: 0,0:08:36.70,0:08:51.42,Snow_soft_serv_08:36(Ep 08),Sign,0000,0000,0000,,Snow Soft Serve
+Dialogue: 0,0:08:39.31,0:08:42.08,Default,Momo,0000,0000,0000,,How many years do you think \NI've been in this business?
+Dialogue: 0,0:08:42.08,0:08:44.78,Default,Momo,0000,0000,0000,,You should talk casually to people more.
+Dialogue: 0,0:08:45.08,0:08:46.17,Default,Kazu,0000,0000,0000,,I hate it...
+Dialogue: 0,0:08:46.17,0:08:46.71,Default,,0000,0000,0000,,O-Oh?
+Dialogue: 0,0:08:47.16,0:08:49.21,Default,Kazu,0000,0000,0000,,Dealing with people in the country.
+Dialogue: 0,0:08:49.21,0:08:51.42,Default,Kazu,0000,0000,0000,,They're always giving and exchanging things.
+Dialogue: 0,0:08:51.65,0:08:52.92,Default,Momo,0000,0000,0000,,Oh, that.
+Dialogue: 0,0:08:53.22,0:08:56.15,Default,Momo,0000,0000,0000,,I thought you were dissing \Nour handout events.
+Dialogue: 0,0:08:56.15,0:08:57.39,Default,Kazu,0000,0000,0000,,Seriously...
+Dialogue: 0,0:08:57.81,0:08:59.89,Default,Kazu,0000,0000,0000,,Though I don't like those at all, either.
+Dialogue: 0,0:09:00.13,0:09:01.35,Default,Momo,0000,0000,0000,,Blunt, aren't you?
+Dialogue: 0,0:09:01.80,0:09:03.85,Default,Kazu,0000,0000,0000,,Always smiling awkwardly
+Dialogue: 0,0:09:03.85,0:09:06.92,Default,Kazu,0000,0000,0000,,and just doing your best \Nto keep up appearances...
+Dialogue: 0,0:09:07.23,0:09:10.05,Default,Kazu,0000,0000,0000,,That kind of thing is like...
+Dialogue: 0,0:09:10.35,0:09:11.19,Default,Momo,0000,0000,0000,,Is like?
+Dialogue: 0,0:09:16.72,0:09:19.42,Default,Kazu,0000,0000,0000,,I and everyone in this town \Nare all the same...
+Dialogue: 0,0:09:20.04,0:09:21.04,Default,Kazu,0000,0000,0000,,It's stupid.
+Dialogue: 0,0:09:32.20,0:09:33.75,Default,Kazu,0000,0000,0000,,It's a small town, isn't it?
+Dialogue: 0,0:09:34.05,0:09:37.06,Default,Kazu,0000,0000,0000,,It's such a small country town, we could \Nprobably circle it all while talking.
+Dialogue: 0,0:09:37.98,0:09:41.15,Default,Kazu,0000,0000,0000,,Though I'm sure you probably \Nwouldn't understand that.
+Dialogue: 0,0:09:41.47,0:09:44.18,Default,Momo,0000,0000,0000,,Yeah, I don't understand at all.
+Dialogue: 0,0:09:44.18,0:09:45.89,Default,Kazu,0000,0000,0000,,Are you mocking me?
+Dialogue: 0,0:09:50.56,0:09:52.52,Incoming_Call_09:50(Ep 08),Sign,0000,0000,0000,,Kawahara Mutsumi\N{\fs18}Incoming Call...
+Dialogue: 0,0:09:56.04,0:09:57.18,Default,Kazu,0000,0000,0000,,You're not answering?
+Dialogue: 0,0:09:57.18,0:09:58.73,Default,Momo,0000,0000,0000,,I don't feel like it.
+Dialogue: 0,0:10:02.74,0:10:03.72,Default,Kazu,0000,0000,0000,,I see.
+Dialogue: 0,0:10:10.16,0:10:14.13,Default,Kazu,0000,0000,0000,,I don't recommend climbing those. \NThere's only a shrine at the top.
+Dialogue: 0,0:10:14.69,0:10:16.27,Default,Kazu,0000,0000,0000,,There's nothing else.
+Dialogue: 0,0:10:16.27,0:10:17.73,Default,Momo,0000,0000,0000,,Hey, Shibasaki.
+Dialogue: 0,0:10:17.73,0:10:18.34,Default,Kazu,0000,0000,0000,,What?
+Dialogue: 0,0:10:18.73,0:10:22.61,Default,Momo,0000,0000,0000,,I really don't understand \Nanything that you say.
+Dialogue: 0,0:10:23.37,0:10:26.81,Default,Momo,0000,0000,0000,,Because I'm envious of you.
+Dialogue: 0,0:10:27.44,0:10:28.17,Default,Kazu,0000,0000,0000,,Huh?
+Dialogue: 0,0:10:29.69,0:10:30.63,Default,Kazu,0000,0000,0000,,Hey...
+Dialogue: 0,0:10:31.88,0:10:33.05,Default,Kazu,0000,0000,0000,,What's with you?
+Dialogue: 0,0:10:33.35,0:10:34.83,Default,Kazu,0000,0000,0000,,Don't say I didn't warn you!
+Dialogue: 0,0:10:35.13,0:10:37.33,Default,Kazu,0000,0000,0000,,I'm gonna head back!
+Dialogue: 0,0:10:52.42,0:10:54.96,Default,Kuzu,0000,0000,0000,,I love hot springs!
+Dialogue: 0,0:10:55.83,0:10:58.02,Default,Mana,0000,0000,0000,,By the way, I was really surprised.
+Dialogue: 0,0:10:57.63,0:10:58.62,Default - Top,Kuzu,0000,0000,0000,,Don't push me!
+Dialogue: 0,0:10:58.02,0:10:59.22,Default,Towa,0000,0000,0000,,About what?
+Dialogue: 0,0:10:59.22,0:11:00.93,Default - Top,Kuzu,0000,0000,0000,,Don't you dare push me! Don't do it!
+Dialogue: 0,0:10:59.70,0:11:03.18,Default,Mana,0000,0000,0000,,Sono-san. Asking her to come along \Nfor support was a great idea.
+Dialogue: 0,0:11:02.94,0:11:04.10,Default - Top,Kuzu,0000,0000,0000,,Hot!
+Dialogue: 0,0:11:03.49,0:11:06.14,Default,Towa,0000,0000,0000,,Huh? Wasn't it Iroha Pro \Nthat asked her to come?
+Dialogue: 0,0:11:06.14,0:11:07.42,Default,Mana,0000,0000,0000,,Of course not.
+Dialogue: 0,0:11:07.42,0:11:10.83,Default,Mana,0000,0000,0000,,There's no way we could have \Nasked her when she's so busy.
+Dialogue: 0,0:11:10.83,0:11:12.35,Default,Towa,0000,0000,0000,,That goes for us, too...
+Dialogue: 0,0:11:13.45,0:11:15.62,Default,Towa,0000,0000,0000,,Wait... Isn't this bad?
+Dialogue: 0,0:11:15.62,0:11:18.04,Default,Kuzu,0000,0000,0000,,Hey, Towada, are you listening to me?
+Dialogue: 0,0:11:18.04,0:11:20.03,Default,Kuzu,0000,0000,0000,,I should've brought Mai Mai-chan, too.
+Dialogue: 0,0:11:20.29,0:11:21.38,Default,Towa,0000,0000,0000,,Yeah, sure.
+Dialogue: 0,0:11:21.38,0:11:22.47,Default,Mana,0000,0000,0000,,Who's Mai Mai-chan?
+Dialogue: 0,0:11:22.47,0:11:24.49,Default,Towa,0000,0000,0000,,A hostess he's fond of.
+Dialogue: 0,0:11:24.81,0:11:26.19,Default,Mana,0000,0000,0000,,Ah...
+Dialogue: 0,0:11:26.19,0:11:29.19,Default,Kuzu,0000,0000,0000,,This is great! Now if I only had a hot girl,
+Dialogue: 0,0:11:29.19,0:11:31.96,Default,Kuzu,0000,0000,0000,,I'd be in paradise... heaven... \Nand this world would be bliss.
+Dialogue: 0,0:11:33.50,0:11:35.28,Default,Towa,0000,0000,0000,,Despite how he looks now,
+Dialogue: 0,0:11:35.28,0:11:37.92,Default,Towa,0000,0000,0000,,he really was amazing at his previous job.
+Dialogue: 0,0:11:38.31,0:11:39.88,Default,Mana,0000,0000,0000,,Why don't we have some drinks tonight?
+Dialogue: 0,0:11:40.87,0:11:42.00,Default,Towa,0000,0000,0000,,Yeah.
+Dialogue: 0,0:11:54.68,0:11:57.07,Default,Kazu,0000,0000,0000,,Come here, meow.
+Dialogue: 0,0:12:02.96,0:12:04.89,Default,Kazu,0000,0000,0000,,It must be great being you.
+Dialogue: 0,0:12:04.89,0:12:07.33,Default,Kazu,0000,0000,0000,,You don't have to keep meowing to be cute.
+Dialogue: 0,0:12:07.93,0:12:09.23,Default,Kazu,0000,0000,0000,,Right, meow?
+Dialogue: 0,0:12:10.61,0:12:13.24,Default,Kazu,0000,0000,0000,,How do you stay so {\i1}purr{\i0}fectly cute?
+Dialogue: 0,0:12:14.48,0:12:17.00,Default,Kazu,0000,0000,0000,,I really don't know what to do, meow.
+Dialogue: 0,0:12:22.40,0:12:25.89,Default,Momo,0000,0000,0000,,I-I'm going to die. What's with those stairs?
+Dialogue: 0,0:12:26.26,0:12:28.60,Default,Kazu,0000,0000,0000,,I told you I didn't recommend them.
+Dialogue: 0,0:12:29.27,0:12:31.97,Default,Momo,0000,0000,0000,,But you didn't have to beat me here.
+Dialogue: 0,0:12:34.86,0:12:36.74,Default,Momo,0000,0000,0000,,Were you just talking to someone?
+Dialogue: 0,0:12:37.15,0:12:39.70,Default,Kazu,0000,0000,0000,,Who knows? You were probably \Njust hearing things.
+Dialogue: 0,0:12:39.70,0:12:40.59,Default,Momo,0000,0000,0000,,Oh, really?
+Dialogue: 0,0:12:41.33,0:12:43.53,Default,Momo,0000,0000,0000,,I really don't know what to do, meow.
+Dialogue: 0,0:12:44.40,0:12:45.74,Default,Kazu,0000,0000,0000,,You heard me?
+Dialogue: 0,0:12:46.08,0:12:50.26,Default,Momo,0000,0000,0000,,You really are childish in the weirdest \Nways, like talking to a cat.
+Dialogue: 0,0:12:59.73,0:13:01.30,Default,Kazu,0000,0000,0000,,You're not going back to the inn?
+Dialogue: 0,0:13:01.71,0:13:03.26,Default,Momo,0000,0000,0000,,You don't want to go back, do you?
+Dialogue: 0,0:13:03.58,0:13:06.40,Default,Kazu,0000,0000,0000,,Well, I don't need you to keep me company.
+Dialogue: 0,0:13:08.01,0:13:09.18,Default,Momo,0000,0000,0000,,I'm the same way.
+Dialogue: 0,0:13:14.85,0:13:16.90,Katakura,Sign,0000,0000,0000,,Katakura-san
+Dialogue: 0,0:13:14.85,0:13:16.94,Text_Messages(blue)(Ep 08),Sign,0000,0000,0000,,Do you happen to know where Momoka-chan is?
+Dialogue: 0,0:13:16.94,0:13:19.82,Text_Messages(blue)(Ep 08),Sign,0000,0000,0000,,She has something important to be at, \Nand they can't get a hold of her...
+Dialogue: 0,0:13:23.78,0:13:26.07,Text_Messages(blue)(Ep 08),Sign,0000,0000,0000,,Gojo-san said that \Nher manager was super worried.
+Dialogue: 0,0:13:26.07,0:13:28.74,Text_Messages(blue)(Ep 08),Sign,0000,0000,0000,,She wanted to know if \Nany of us had any information.
+Dialogue: 0,0:13:29.85,0:13:30.65,Default,Momo,0000,0000,0000,,Phone call?
+Dialogue: 0,0:13:30.95,0:13:32.95,Default,Kazu,0000,0000,0000,,No... I mean, yes.
+Dialogue: 0,0:13:33.39,0:13:34.79,Default,Kazu,0000,0000,0000,,From Karasuma-san.
+Dialogue: 0,0:13:34.79,0:13:36.29,Default,Momo,0000,0000,0000,,Is she asking about her souvenir?
+Dialogue: 0,0:13:36.58,0:13:37.93,Default,Kzu,0000,0000,0000,,Something like that.
+Dialogue: 0,0:13:38.56,0:13:39.20,Default,Kazu,0000,0000,0000,,Hey.
+Dialogue: 0,0:13:40.08,0:13:41.95,Default,Kazu,0000,0000,0000,,The view is much nicer over here.
+Dialogue: 0,0:14:17.85,0:14:19.01,Default,Momo,0000,0000,0000,,This is nice.
+Dialogue: 0,0:14:19.64,0:14:20.67,Default,Kazu,0000,0000,0000,,Is it?
+Dialogue: 0,0:14:21.08,0:14:23.25,Default,Kazu,0000,0000,0000,,I honestly prefer Tokyo.
+Dialogue: 0,0:14:25.11,0:14:28.27,Default,Kazu,0000,0000,0000,,Because that's the only place I have.
+Dialogue: 0,0:14:32.19,0:14:35.91,Default,Momo,0000,0000,0000,,But this is a nice town, \Nwith nice people, and nice parents.
+Dialogue: 0,0:14:36.23,0:14:37.05,Default,Kazu,0000,0000,0000,,Parents?
+Dialogue: 0,0:14:37.42,0:14:38.65,Default,Momo,0000,0000,0000,,Your dad.
+Dialogue: 0,0:14:38.65,0:14:41.02,Default,Kazu,0000,0000,0000,,Where are you even looking?
+Dialogue: 0,0:14:41.90,0:14:45.54,Default,Kazu,0000,0000,0000,,He's naggy, and he pushes his \Nown values onto other people.
+Dialogue: 0,0:14:46.06,0:14:47.38,Default,Kazu,0000,0000,0000,,What's so good about that?
+Dialogue: 0,0:14:48.75,0:14:51.03,Default,Momo,0000,0000,0000,,The part where he's naggy and pushes
+Dialogue: 0,0:14:51.03,0:14:54.24,Default,Momo,0000,0000,0000,,his own values onto other people, I think.
+Dialogue: 0,0:14:57.50,0:14:59.88,Default,Momo,0000,0000,0000,,My parents used to be decent.
+Dialogue: 0,0:15:00.18,0:15:02.78,Default,Momo,0000,0000,0000,,They would take me to dubbing sessions a lot.
+Dialogue: 0,0:15:03.14,0:15:04.70,Default,Kazu,0000,0000,0000,,You're rather fortunate.
+Dialogue: 0,0:15:05.12,0:15:08.58,Default,Momo,0000,0000,0000,,Then, one time, I was in an anime, \Nthough just as part of the crowd dialogue.
+Dialogue: 0,0:15:08.58,0:15:11.11,Default,Momo,0000,0000,0000,,My mom showed me how to use my voice,
+Dialogue: 0,0:15:11.11,0:15:13.67,Default,Momo,0000,0000,0000,,and my dad was the series \Ndirector for that project.
+Dialogue: 0,0:15:13.67,0:15:15.75,Default,Momo,0000,0000,0000,,My debut role that no one knows about.
+Dialogue: 0,0:15:17.23,0:15:19.34,Default,Momo,0000,0000,0000,,But once I debuted,
+Dialogue: 0,0:15:19.34,0:15:21.61,Default,Momo,0000,0000,0000,,they stopped telling me anything anymore.
+Dialogue: 0,0:15:22.45,0:15:25.13,Default,Kazu,0000,0000,0000,,I have no clue what you're talking about.
+Dialogue: 0,0:15:25.44,0:15:26.97,Default,Kazu,0000,0000,0000,,I'm almost envious.
+Dialogue: 0,0:15:27.85,0:15:30.86,Default,Momo,0000,0000,0000,,Right. That's what I thought about you earlier.
+Dialogue: 0,0:15:46.06,0:15:46.88,Default,Momo,0000,0000,0000,,One sec.
+Dialogue: 0,0:15:47.21,0:15:48.42,Default,Kazu,0000,0000,0000,,Sure.
+Dialogue: 0,0:15:51.68,0:15:54.64,Mom_15:51(Ep 08),Sign,0000,0000,0000,,Mom
+Dialogue: 0,0:15:51.68,0:15:54.64,Call_15:51(Ep 08),Sign,0000,0000,0000,,Call
+Dialogue: 0,0:15:51.68,0:15:54.64,Work_15:51(Ep 08),Sign,0000,0000,0000,,Work
+Dialogue: 0,0:15:57.76,0:15:59.43,Default,Momo,0000,0000,0000,,Hello, Kawahara-san?
+Dialogue: 0,0:15:59.73,0:16:01.25,Default,Momo,0000,0000,0000,,It's me, Momoka.
+Dialogue: 0,0:16:02.79,0:16:04.65,Default,Momo,0000,0000,0000,,I'm very sorry for making you worry.
+Dialogue: 0,0:16:05.42,0:16:07.56,Default,Momo,0000,0000,0000,,I'm at a friend's place right now.
+Dialogue: 0,0:16:08.95,0:16:11.11,Default,Momo,0000,0000,0000,,Huh? My mom's there?
+Dialogue: 0,0:16:14.42,0:16:15.37,Default,Momo,0000,0000,0000,,Mom?
+Dialogue: 0,0:16:15.99,0:16:18.24,Default,Momo,0000,0000,0000,,Yeah, I'm not going to the dinner.
+Dialogue: 0,0:16:19.42,0:16:20.82,Default,Momo,0000,0000,0000,,No, it's not that.
+Dialogue: 0,0:16:21.12,0:16:22.29,Default,Momo,0000,0000,0000,,I'm not going to be in {\i1}Pure Para{\i0}.
+Dialogue: 0,0:16:22.54,0:16:23.43,Default,Kazu,0000,0000,0000,,{\i1}Pure Para{\i0}?
+Dialogue: 0,0:16:25.98,0:16:26.65,Default,Momo,0000,0000,0000,,Yeah.
+Dialogue: 0,0:16:27.27,0:16:29.71,Default,Momo,0000,0000,0000,,If they personally offer me \Na role, I'll consider it.
+Dialogue: 0,0:16:30.27,0:16:32.70,Default,Mom,0000,0000,0000,,You're talking like a beginner.
+Dialogue: 0,0:16:33.24,0:16:37.13,Default,Mom,0000,0000,0000,,But I guess you have a point. \NYou're only seventeen.
+Dialogue: 0,0:16:38.56,0:16:39.90,Default,Mom,0000,0000,0000,,I'd forgotten about that.
+Dialogue: 0,0:16:40.33,0:16:42.78,Default,Momo,0000,0000,0000,,You could at least remember \Nhow old your own kid is.
+Dialogue: 0,0:16:42.78,0:16:45.15,Default,Mom,0000,0000,0000,,Age doesn't matter with professionals.
+Dialogue: 0,0:16:46.13,0:16:48.86,Default,Momo,0000,0000,0000,,You're right. I guess we're both professionals.
+Dialogue: 0,0:16:49.48,0:16:51.69,Default,Momo,0000,0000,0000,,I'm sorry for being selfish.
+Dialogue: 0,0:16:51.69,0:16:54.82,Default,Mom,0000,0000,0000,,No, it's something that you, \Nas the actress, decided.
+Dialogue: 0,0:16:56.04,0:16:58.09,Default,Momo,0000,0000,0000,,Yeah, I'm sorry.
+Dialogue: 0,0:16:58.09,0:17:00.91,Default,Mom,0000,0000,0000,,Then I'll just have to tell them \Nthat I'll play the heroine.
+Dialogue: 0,0:17:00.91,0:17:01.47,Default,Momo,0000,0000,0000,,Huh?
+Dialogue: 0,0:17:02.42,0:17:04.83,Default,Mom,0000,0000,0000,,I guess our second project \Ntogether will have to wait.
+Dialogue: 0,0:17:05.38,0:17:08.25,Default,Mom,0000,0000,0000,,I'll be waiting, my rival.
+Dialogue: 0,0:17:11.56,0:17:12.20,Default,Momo,0000,0000,0000,,Right.
+Dialogue: 0,0:17:13.67,0:17:15.03,Default,Momo,0000,0000,0000,,I'll catch up to you soon.
+Dialogue: 0,0:17:15.61,0:17:17.18,Default,Momo,0000,0000,0000,,Wait for me, Senpai.
+Dialogue: 0,0:17:18.39,0:17:20.89,Default,Kazu,0000,0000,0000,,You declined {\i1}Pure Para{\i0}?
+Dialogue: 0,0:17:21.51,0:17:23.56,Default,Momo,0000,0000,0000,,Oh, well, yeah...
+Dialogue: 0,0:17:23.56,0:17:25.71,Default,Kazu,0000,0000,0000,,What a waste. It's a Sunday morning show!
+Dialogue: 0,0:17:25.71,0:17:27.60,Default,Momo,0000,0000,0000,,My mom said she'd do it instead.
+Dialogue: 0,0:17:28.00,0:17:28.81,Default,Kazu,0000,0000,0000,,Huh?
+Dialogue: 0,0:17:29.15,0:17:32.03,Default,Momo,0000,0000,0000,,It's sort of amazing that my mom \Nwill be playing a middle-schooler.
+Dialogue: 0,0:17:36.38,0:17:37.42,Default,Kazu,0000,0000,0000,,Let's head back.
+Dialogue: 0,0:17:38.52,0:17:39.14,Default,Momo,0000,0000,0000,,Sure.
+Dialogue: 0,0:17:50.73,0:17:52.50,Default,Kuzu,0000,0000,0000,,Bring me more sake!
+Dialogue: 0,0:17:52.83,0:17:56.13,Default,Towa,0000,0000,0000,,Seriously, my boss is so hopeless!
+Dialogue: 0,0:17:56.42,0:17:59.07,Default,Mana,0000,0000,0000,,Yeah, there are worthless bosses like that!
+Dialogue: 0,0:17:59.07,0:18:01.68,Default,Mana,0000,0000,0000,,Guys who never try fail at everything they do.
+Dialogue: 0,0:18:01.95,0:18:05.03,Default,Towa,0000,0000,0000,,Seriously. Isn't there anything \Nwe can do about him?
+Dialogue: 0,0:18:05.03,0:18:05.81,Default,Mana,0000,0000,0000,,No way!
+Dialogue: 0,0:18:05.81,0:18:07.85,Default,Kuzu,0000,0000,0000,,Yeah, I totally feel you.
+Dialogue: 0,0:18:07.85,0:18:10.90,Default,Kuzu,0000,0000,0000,,Once they dry up, there's no coming back.
+Dialogue: 0,0:18:10.90,0:18:12.47,Default,Towa,0000,0000,0000,,It's hopeless!
+Dialogue: 0,0:18:13.22,0:18:15.65,Default,Mana,0000,0000,0000,,Just get rid of him! \NYou need to just take over!
+Dialogue: 0,0:18:15.65,0:18:18.82,Default,Kuzu,0000,0000,0000,,Yeah! You're the only one \Nwho can do it, Towadacchi!
+Dialogue: 0,0:18:19.45,0:18:21.23,Default,Towa,0000,0000,0000,,I guess I have no choice, then...
+Dialogue: 0,0:18:21.23,0:18:24.21,Default,Mna,0000,0000,0000,,Yeah! Make him lose his position at work!
+Dialogue: 0,0:18:24.21,0:18:26.40,Default,Kuzu,0000,0000,0000,,Okay, here's to Towadacchi \Nmoving up in the world!
+Dialogue: 0,0:18:26.40,0:18:27.59,Default,Kuzu,0000,0000,0000,,Cheers!
+Dialogue: 0,0:18:27.59,0:18:28.75,Default,Both,0000,0000,0000,,Cheers!
+Dialogue: 0,0:18:31.24,0:18:32.47,Default,Kzu,0000,0000,0000,,Awful...
+Dialogue: 0,0:18:32.47,0:18:34.42,Default,Mom,0000,0000,0000,,You need to watch how much you drink, too.
+Dialogue: 0,0:18:34.85,0:18:37.08,Default,Kazu,0000,0000,0000,,I don't get drunk like that.
+Dialogue: 0,0:18:37.38,0:18:37.94,Default,Momo,0000,0000,0000,,What?
+Dialogue: 0,0:18:38.49,0:18:41.14,Default,Mom,0000,0000,0000,,Momoka-chan! How did you like this town?
+Dialogue: 0,0:18:41.62,0:18:43.07,Default,Momo,0000,0000,0000,,It was a lot of fun!
+Dialogue: 0,0:18:44.44,0:18:45.56,Default,Mom,0000,0000,0000,,That's good to hear.
+Dialogue: 0,0:18:48.66,0:18:51.00,Default,Mom,0000,0000,0000,,You seemed a bit down, so...
+Dialogue: 0,0:18:51.00,0:18:52.35,Default,Kazu,0000,0000,0000,,How could you tell?
+Dialogue: 0,0:18:52.76,0:18:55.74,Default,Mom,0000,0000,0000,,Well, I am a mother. I can tell just by looking.
+Dialogue: 0,0:18:55.74,0:18:56.81,Default,Kazu,0000,0000,0000,,What does that mean?
+Dialogue: 0,0:18:56.81,0:18:58.95,Default,Mom,0000,0000,0000,,I mean, even with the swimsuits...
+Dialogue: 0,0:18:59.25,0:19:02.48,Default,Mom,0000,0000,0000,,Your father was saying how \Nyour smile seemed odd.
+Dialogue: 0,0:19:02.81,0:19:04.03,Default,Kazu,0000,0000,0000,,Odd?
+Dialogue: 0,0:19:04.42,0:19:07.13,Default,Mom,0000,0000,0000,,You love being a voice actress, don't you?
+Dialogue: 0,0:19:07.13,0:19:09.16,Default,Mom,0000,0000,0000,,So he was just saying it must be hard on you
+Dialogue: 0,0:19:09.16,0:19:11.51,Default,Mom,0000,0000,0000,,if they were forcing you to do things like that.
+Dialogue: 0,0:19:11.51,0:19:13.92,Default,Kazu,0000,0000,0000,,Well, that's...
+Dialogue: 0,0:19:14.22,0:19:17.26,Default,Mom,0000,0000,0000,,It's your job. Of course it's not always fun.
+Dialogue: 0,0:19:17.26,0:19:19.96,Default,Mom,0000,0000,0000,,There'll be many tough times and\Nthings you don't want to do,
+Dialogue: 0,0:19:19.96,0:19:23.46,Default,Mom,0000,0000,0000,,but that's your job.
+Dialogue: 0,0:19:24.85,0:19:27.69,Default,Mom,0000,0000,0000,,Your father's pretty knowledgeable \Nabout voice actors.
+Dialogue: 0,0:19:28.69,0:19:31.15,Default,Mom,0000,0000,0000,,When you said that you were \Ngoing to become a voice actor,
+Dialogue: 0,0:19:31.15,0:19:33.84,Default,Mom,0000,0000,0000,,he did so much research.
+Dialogue: 0,0:19:34.29,0:19:37.35,Default,Kazu,0000,0000,0000,,Why? He didn't say anything about that...
+Dialogue: 0,0:19:37.35,0:19:40.58,Default,Mom,0000,0000,0000,,He has a hard time saying \Nhow he feels... Just like you.
+Dialogue: 0,0:19:40.58,0:19:42.59,Default,Mom,0000,0000,0000,,Because you're both from this town.
+Dialogue: 0,0:19:44.48,0:19:46.83,Default,Mom,0000,0000,0000,,Your parents will always be your parents.
+Dialogue: 0,0:19:47.23,0:19:49.37,Default,Mom,0000,0000,0000,,It's our job to say things to motivate you,
+Dialogue: 0,0:19:49.37,0:19:52.25,Default,Mom,0000,0000,0000,,and it's also our job to believe in you and wait.
+Dialogue: 0,0:19:58.44,0:19:59.73,Default,Momo,0000,0000,0000,,See? You're loved.
+Dialogue: 0,0:20:00.78,0:20:02.18,Default,Kazu,0000,0000,0000,,You, too.
+Dialogue: 0,0:20:02.77,0:20:06.01,Default,Kaz,0000,0000,0000,,I have an easier time \Nunderstanding your family.
+Dialogue: 0,0:20:06.34,0:20:10.15,Default,Kazu,0000,0000,0000,,The grump at my house \Njust looks mad all the time.
+Dialogue: 0,0:20:12.38,0:20:13.19,Default,Kazu,0000,0000,0000,,What?
+Dialogue: 0,0:20:13.19,0:20:15.20,Default,Momo,0000,0000,0000,,Well, you're also a grump!
+Dialogue: 0,0:20:15.20,0:20:17.14,Default,Momo,0000,0000,0000,,I guess the apple doesn't fall far from the tree.
+Dialogue: 0,0:20:17.69,0:20:18.80,Default,Kazu,0000,0000,0000,,Shut up!
+Dialogue: 0,0:20:19.91,0:20:21.84,Default,Momo,0000,0000,0000,,Now you've done it!
+Dialogue: 0,0:20:21.84,0:20:23.04,Default,Momo,0000,0000,0000,,Take that!
+Dialogue: 0,0:20:24.35,0:20:25.32,Default,Kazu,0000,0000,0000,,Jeez!
+Dialogue: 0,0:20:25.61,0:20:27.79,Default,Momo,0000,0000,0000,,What do you think you're doing, you dunce?
+Dialogue: 0,0:20:27.79,0:20:29.24,Default,Kazu,0000,0000,0000,,I am not a dunce!
+Dialogue: 0,0:20:29.61,0:20:32.07,Default,Mom,0000,0000,0000,,Goodness, you can hear them loud and clear.
+Dialogue: 0,0:20:35.96,0:20:39.85,Default,Dad,0000,0000,0000,,Her voice always did carry well.
+Dialogue: 0,0:20:46.69,0:20:49.88,Default,Towa,0000,0000,0000,,If it's too hard on you, \Nwhy don't you stay here forever?
+Dialogue: 0,0:20:50.37,0:20:53.48,Default,Kuzu,0000,0000,0000,,Isn't that a bit cold? \NIsn't that really cold? So cold!
+Dialogue: 0,0:20:57.44,0:20:58.15,Default,Mom,0000,0000,0000,,Kazu-chan.
+Dialogue: 0,0:21:01.23,0:21:02.36,Default,Kazu,0000,0000,0000,,I'm heading out.
+Dialogue: 0,0:21:03.80,0:21:05.57,Default,Dad,0000,0000,0000,,Make sure you don't catch a cold.
+Dialogue: 0,0:21:08.05,0:21:09.33,Default,Kazu,0000,0000,0000,,You too, Dad!
+Dialogue: 0,0:21:20.38,0:21:22.13,Tokyo_21:20(Ep 08),Sign,0000,0000,0000,,Tokyo\N\N\N\NTokyo\N\N\N\NTokyo
+Dialogue: 0,0:21:24.19,0:21:26.32,Default,Kazu,0000,0000,0000,,I forgot about Karasuma-san's souvenir.
+Dialogue: 0,0:21:26.32,0:21:28.35,Default,Momo,0000,0000,0000,,"Chitose" is good enough \Nfor someone like her.
+Dialogue: 0,0:21:28.69,0:21:30.31,Default,Kazu,0000,0000,0000,,Someone like her?
+Dialogue: 0,0:21:30.85,0:21:32.27,Default,Momo,0000,0000,0000,,People like her,
+Dialogue: 0,0:21:32.94,0:21:35.79,Default,Mom,0000,0000,0000,,and people like you... \NThis business is filled with them.
+Dialogue: 0,0:21:36.68,0:21:37.86,Default,Kazu,0000,0000,0000,,You're right.
+Dialogue: 0,0:21:38.67,0:21:40.32,Default,Kazu,0000,0000,0000,,It's filled with people like you.
+Dialogue: 0,0:21:44.38,0:21:46.66,Default,Kazu,0000,0000,0000,,I wonder what I should do \Nfor Chitose's souvenir.
+Dialogue: 0,0:21:47.08,0:21:49.41,Default,Momo,0000,0000,0000,,I don't really think she needs one.
+Dialogue: 0,0:21:49.77,0:21:51.15,Default,Kazu,0000,0000,0000,,You've got a point.
+Dialogue: 0,0:21:55.47,0:21:57.71,Default,Chit,0000,0000,0000,,Hot springs, shabu-shabu...
+Dialogue: 0,0:21:57.71,0:21:58.40,Read_21:57(Ep 08),Sign,0000,0000,0000,,Read by 4
+Dialogue: 0,0:21:58.21,0:21:59.92,Text_Messages(green)_21:58(Ep 08),Sign,0000,0000,0000,,Yeah, it's totally unforgivable! \NIt's all Gojo-kun's fault!  I'm so pissed!
+Dialogue: 0,0:21:59.92,0:22:01.67,Hiss!_21:59(Ep 08),Sign,0000,0000,0000,,Hiss
+Dialogue: 0,0:22:03.05,0:22:05.52,Default,Chit,0000,0000,0000,,Reading and ignoring my \Nmessages from Yamagata...
+Dialogue: 0,0:22:07.51,0:22:09.62,Default,Chit,0000,0000,0000,,Is it because of the time difference?
+Dialogue: 0,0:23:40.64,0:23:43.37,Default,Chit,0000,0000,0000,,A time difference, huh... \NWell, Yamagata is pretty far.
+Dialogue: 0,0:23:40.64,0:24:10.13,Preview,Sign,0000,0000,0000,,Preview
+Dialogue: 0,0:23:43.37,0:23:45.11,Default,Gojo,0000,0000,0000,,Do you even know what \Na time difference is?
+Dialogue: 0,0:23:45.11,0:23:46.51,Default,Chit,0000,0000,0000,,Of course I do.
+Dialogue: 0,0:23:46.51,0:23:49.15,Default,Chit,0000,0000,0000,,The reason I couldn't get up this \Nmorning was because of jet lag.
+Dialogue: 0,0:23:49.38,0:23:51.66,Default,Gojo,0000,0000,0000,,No, you're just an idiot.
+Dialogue: 0,0:23:51.66,0:23:54.11,Default,Gojo,0000,0000,0000,,You didn't go to Yamagata, \Nso you need to practice more.
+Dialogue: 0,0:23:54.11,0:23:56.73,Default,Chit,0000,0000,0000,,Practice? Despite how I look, \NI practice quite a bit.
+Dialogue: 0,0:23:56.73,0:23:58.11,Default,Gojo,0000,0000,0000,,And I'm telling you it's not enough.
+Dialogue: 0,0:23:58.11,0:24:00.49,Default,Gojo,0000,0000,0000,,At this rate, you're going to lose your job.
+Dialogue: 0,0:24:00.49,0:24:01.60,Default,Chit,0000,0000,0000,,What the heck? That's hilarious.
+Dialogue: 0,0:24:01.60,0:24:03.42,Default,Gojo,0000,0000,0000,,I haven't said a single hilarious thing.
+Dialogue: 0,0:24:03.42,0:24:06.34,Default,Chit,0000,0000,0000,,Oh, come on. That's not happening. \NI'm the main heroine.
+Dialogue: 0,0:24:07.06,0:24:08.76,Default,Gojo,0000,0000,0000,,I wonder if that's actually the case...
+Dialogue: 0,0:24:08.76,0:24:10.13,Default,Chit,0000,0000,0000,,Wait, I'm not?
