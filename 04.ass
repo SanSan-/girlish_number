@@ -15,65 +15,65 @@ Video File: ../../Anime (ongoing)/Girlish Number/[Leopard-Raws] Girlish Number -
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 122
-Active Line: 132
-Video Position: 10360
+Scroll Position: 127
+Active Line: 133
+Video Position: 10418
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Open Sans Semibold,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,1
-Style: Default - Margin,Open Sans Semibold,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
-Style: Default - Italics,Open Sans Semibold,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,-1,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
-Style: Default - Flashback,Open Sans Semibold,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
-Style: Default - Song,Open Sans Semibold,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,-1,0,0,100,100,0,0,1,2.55,0,8,0,0,42,0
-Style: Default - Onscreen,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,3,0,0,42,1
-Style: Ep_Title,Open Sans Semibold,45,&H00F6F6F4,&H000000FF,&H0016120A,&H00110B06,-1,0,0,0,100,100,0,0,1,3,0,1,128,20,150,0
-Style: Next_Ep_Title,Open Sans Semibold,50,&H006500BC,&H000000FF,&H00FBF0FD,&H00000000,0,0,0,0,100,100,0,0,1,3,0,9,66,54,131,0
-Style: Next_Time,Open Sans Semibold,45,&H00000000,&H000000FF,&H00E9EEEE,&H00000000,0,0,0,0,100,100,0,0,1,3,0,7,162,20,80,1
-Style: Default - Flashback Italics,Open Sans Semibold,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,-1,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
-Style: Default - MC,Open Sans Semibold,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,-1,0,0,100,100,0,0,1,2.55,0,8,0,0,42,0
-Style: Default - Top,Open Sans Semibold,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,8,0,0,42,0
-Style: Preview,Open Sans Semibold,45,&H00FFFDFE,&H000000FF,&H005B5353,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,41,949,150,1
-Style: Girlish Number - Ep Title,Open Sans Semibold,45,&H00F6F6F4,&H000000FF,&H0016120A,&H00110B06,-1,0,0,0,100,100,0,0,1,3,0,1,41,41,101,0
-Style: Ep_Title - Ep 03,Open Sans Semibold,45,&H00F6F6F4,&H000000FF,&H0016120A,&H00110B06,-1,0,0,0,100,100,0,0,1,3,0,3,41,97,144,0
-Style: Millenium_00:00(Ep 04),Open Sans Semibold,36,&H00EEF3A8,&H000000FF,&H00DEA579,&H00461004,-1,0,0,0,100,100,0,0,1,3,0,3,60,60,170,0
-Style: Титосэ_for_Life_00:03(Ep 04),Open Sans Semibold,32,&H008E457A,&H000000FF,&H00BD67C8,&H00461004,-1,0,0,0,100,100,0,0,1,3,0,3,41,60,71,0
-Style: Green_Room_00:41(Ep 04),Open Sans Semibold,41,&H00271817,&H000000FF,&H00EEEDE6,&H00461004,-1,0,0,0,100,100,0,0,1,4.5,0,1,80,80,330,0
-Style: Millenium_02:54(Ep 04),Open Sans Semibold,32,&H00EEF3A8,&H000000FF,&H00DEA579,&H00461004,-1,-1,0,0,100,100,0,0,1,3,0,3,430,41,170,0
-Style: Момока_for_Life_02:56(Ep 04),Open Sans Semibold,32,&H007EDBE2,&H000000FF,&H004E2820,&H00461004,-1,0,0,0,100,100,0,0,1,3,0,3,41,41,290,0
+Style: Default,PT Sans,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,1
+Style: Default - Margin,PT Sans,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
+Style: Default - Italics,PT Sans,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,-1,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
+Style: Default - Flashback,PT Sans,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
+Style: Default - Song,PT Sans,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,-1,0,0,100,100,0,0,1,2.55,0,8,0,0,42,0
+Style: Default - Onscreen,PT Sans,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,3,0,0,42,1
+Style: Ep_Title,PT Sans,45,&H00F6F6F4,&H000000FF,&H0016120A,&H00110B06,-1,0,0,0,100,100,0,0,1,3,0,1,128,20,150,0
+Style: Next_Ep_Title,PT Sans,50,&H006500BC,&H000000FF,&H00FBF0FD,&H00000000,0,0,0,0,100,100,0,0,1,3,0,9,66,54,131,0
+Style: Next_Time,PT Sans,45,&H00000000,&H000000FF,&H00E9EEEE,&H00000000,0,0,0,0,100,100,0,0,1,3,0,7,162,20,80,1
+Style: Default - Flashback Italics,PT Sans,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,-1,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
+Style: Default - MC,PT Sans,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,-1,0,0,100,100,0,0,1,2.55,0,8,0,0,42,0
+Style: Default - Top,PT Sans,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,8,0,0,42,0
+Style: Preview,PT Sans,45,&H00FFFDFE,&H000000FF,&H005B5353,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,41,949,150,1
+Style: Girlish Number - Ep Title,PT Sans,45,&H00F6F6F4,&H000000FF,&H0016120A,&H00110B06,-1,0,0,0,100,100,0,0,1,3,0,1,41,41,101,0
+Style: Ep_Title - Ep 03,PT Sans,45,&H00F6F6F4,&H000000FF,&H0016120A,&H00110B06,-1,0,0,0,100,100,0,0,1,3,0,3,41,97,144,0
+Style: Millenium_00:00(Ep 04),PT Sans,36,&H00EEF3A8,&H000000FF,&H00DEA579,&H00461004,-1,0,0,0,100,100,0,0,1,3,0,3,60,60,170,0
+Style: Титосэ_for_Life_00:03(Ep 04),PT Sans,32,&H008E457A,&H000000FF,&H00BD67C8,&H00461004,-1,0,0,0,100,100,0,0,1,3,0,3,41,60,71,0
+Style: Green_Room_00:41(Ep 04),PT Sans,41,&H00271817,&H000000FF,&H00EEEDE6,&H00461004,-1,0,0,0,100,100,0,0,1,4.5,0,1,80,80,330,0
+Style: Millenium_02:54(Ep 04),PT Sans,32,&H00EEF3A8,&H000000FF,&H00DEA579,&H00461004,-1,-1,0,0,100,100,0,0,1,3,0,3,430,41,170,0
+Style: Момока_for_Life_02:56(Ep 04),PT Sans,32,&H007EDBE2,&H000000FF,&H004E2820,&H00461004,-1,0,0,0,100,100,0,0,1,3,0,3,41,41,290,0
 Style: Green_Room_02:58(Ep 04),PT Sans,41,&H00271817,&H000000FF,&H00FCFCFC,&H00461004,-1,0,0,0,100,100,0,0,1,4.5,0,1,80,80,150,0
-Style: #04_03:00(Ep 04),Open Sans Semibold,41,&H00271817,&H000000FF,&H00EEEDE6,&H00461004,-1,0,0,0,100,100,0,0,1,4.5,0,3,41,41,149,0
-Style: Ep_Title (#04),Open Sans Semibold,45,&H00F6F6F4,&H000000FF,&H0016120A,&H00110B06,-1,0,0,0,100,100,0,0,1,3,0,3,20,101,150,0
-Style: Tea_05:59(Ep 04),Open Sans Semibold,41,&H00094930,&H000000FF,&H001EFFAE,&H00461004,-1,0,0,0,100,100,0,0,1,4.5,0,8,41,543,260,0
-Style: Tea_PET_06:05(Ep 04),Open Sans Semibold,41,&H00271817,&H000000FF,&H00EEEDE6,&H00461004,-1,0,0,0,100,100,0,0,1,4.5,0,3,80,80,521,0
-Style: Bento_Bos_Trash_06:05(Ep 04),Open Sans Semibold,32,&H00271817,&H000000FF,&H00EEEDE6,&H00461004,-1,0,0,0,100,100,0,0,1,4.5,0,5,41,181,41,0
-Style: Talking_desk_06:11(Ep 04),Open Sans Semibold,41,&H00473D34,&H000000FF,&H00D4D6CC,&H00461004,-1,0,0,0,100,100,0,0,1,4.5,0,7,91,41,192,0
-Style: Tea_PET_08:26(Ep 04),Open Sans Semibold,41,&H00EEECF1,&H000000FF,&H00DA65AB,&H00461004,-1,0,0,0,100,100,0,0,1,4.5,0,9,134,41,149,0
-Style: Anime_event_08:26(Ep 04),Open Sans Semibold,41,&H00EEECF1,&H000000FF,&H00DA65AB,&H00461004,-1,0,0,0,100,100,0,0,1,4.5,0,9,134,41,101,0
-Style: Anime_title_08:28(Ep 04),Open Sans Semibold,41,&H00EEECF1,&H000000FF,&H00DA65AB,&H00461004,-1,0,0,0,100,100,0,0,1,4.5,0,7,134,41,41,0
+Style: #04_03:00(Ep 04),PT Sans,41,&H00271817,&H000000FF,&H00EEEDE6,&H00461004,-1,0,0,0,100,100,0,0,1,4.5,0,3,41,41,149,0
+Style: Ep_Title (#04),PT Sans,45,&H00F6F6F4,&H000000FF,&H0016120A,&H00110B06,-1,0,0,0,100,100,0,0,1,3,0,3,20,101,150,0
+Style: Tea_05:59(Ep 04),PT Sans,41,&H00094930,&H000000FF,&H001EFFAE,&H00461004,-1,0,0,0,100,100,0,0,1,4.5,0,8,41,543,260,0
+Style: Tea_PET_06:05(Ep 04),PT Sans,41,&H00271817,&H000000FF,&H00EEEDE6,&H00461004,-1,0,0,0,100,100,0,0,1,4.5,0,3,80,80,521,0
+Style: Bento_Bos_Trash_06:05(Ep 04),PT Sans,32,&H00271817,&H000000FF,&H00EEEDE6,&H00461004,-1,0,0,0,100,100,0,0,1,4.5,0,5,41,181,41,0
+Style: Talking_desk_06:11(Ep 04),PT Sans,41,&H00473D34,&H000000FF,&H00D4D6CC,&H00461004,-1,0,0,0,100,100,0,0,1,4.5,0,7,91,41,192,0
+Style: Tea_PET_08:26(Ep 04),PT Sans,41,&H00EEECF1,&H000000FF,&H00DA65AB,&H00461004,-1,0,0,0,100,100,0,0,1,4.5,0,9,134,41,149,0
+Style: Anime_event_08:26(Ep 04),PT Sans,41,&H00EEECF1,&H000000FF,&H00DA65AB,&H00461004,-1,0,0,0,100,100,0,0,1,4.5,0,9,134,41,101,0
+Style: Anime_title_08:28(Ep 04),PT Sans,41,&H00EEECF1,&H000000FF,&H00DA65AB,&H00461004,-1,0,0,0,100,100,0,0,1,4.5,0,7,134,41,41,0
 Style: Anime_Title_08:26(Ep 04),PT Sans,32,&H00EEF3A8,&H000000FF,&H00DEA579,&H00461004,-1,0,0,0,100,100,0,0,1,3,0,7,41,41,90,0
-Style: Anime_event_08:30(Ep 04),Open Sans Semibold,41,&H00EEECF1,&H000000FF,&H00DA65AB,&H00461004,-1,0,0,0,100,100,0,0,1,4.5,0,3,134,41,320,0
-Style: Anime_Title_08:30(Ep 04),Open Sans Semibold,32,&H00EEF3A8,&H000000FF,&H00DEA579,&H00461004,-1,0,0,0,100,100,0,0,1,3,0,7,41,41,140,0
-Style: Anime_event_08:28(Ep 04),Open Sans Semibold,41,&H00EEECF1,&H000000FF,&H00DA65AB,&H00461004,-1,0,0,0,100,100,0,0,1,4.5,0,9,134,41,270,0
-Style: Anime_Title_08:32(Ep 04),Open Sans Semibold,32,&H00EEF3A8,&H000000FF,&H00DEA579,&H00461004,-1,0,0,0,100,100,0,0,1,3,0,7,41,41,230,0
-Style: Anime_event_08:32(Ep 04),Open Sans Semibold,41,&H00EEECF1,&H000000FF,&H00DA65AB,&H00461004,-1,0,0,0,100,100,0,0,1,4.5,0,3,134,41,251,0
-Style: Early_screening_07:02(Ep 04),Open Sans Semibold,45,&H00C5EFF2,&H000000FF,&H00247396,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,162,60,170,0
-Style: Millenium_10:26(Ep 04),Open Sans Semibold,45,&H00EEF3A8,&H000000FF,&H00BB594D,&H00461004,-1,-1,0,0,100,100,0,10,1,3,0,3,41,463,170,0
-Style: Takoyaki_16:27(Ep 04),Open Sans Semibold,41,&H002F5172,&H000000FF,&H00678CA2,&H00000000,-1,0,0,0,100,100,0,0,1,4.5,0,1,201,60,350,0
-Style: Lessen_17:38(Ep 04),Open Sans Semibold,41,&H005D6C95,&H000000FF,&H00C3BEF6,&H00461004,-1,0,0,0,100,100,0,0,1,3,0,2,946,50,71,0
-Style: Bakugeki_Editing_Dept(Ep 04),Open Sans Semibold,41,&H00FCF4FE,&H000000FF,&H00A73732,&H00000000,-1,0,0,0,100,100,0,0,1,4.5,0,8,60,60,41,0
-Style: R's_Comic_19:31(Ep 04),Open Sans Semibold,45,&H00030000,&H000000FF,&H00B8C3C1,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,60,60,210,0
-Style: Broadcast_starting_19:31(Ep 04),Open Sans Semibold,35,&H00F8FAF5,&H000000FF,&H00B8C3C1,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,60,483,476,0
-Style: Next_Time MPxKO,Open Sans Semibold,32,&H00FFD4E6,&H000000FF,&H00965C7C,&H00000000,0,0,0,0,100,100,0,-5,1,3,0,7,261,875,170,1
-Style: Millenium_22:07(Ep 04),Open Sans Semibold,32,&H00FADFDD,&H000000FF,&H00DB7E81,&H00461004,-1,0,0,0,100,100,0,-5,1,3,0,3,483,472,401,0
-Style: MPxKO_Ep_Title_22:07(Ep 04),Open Sans Semibold,41,&H00E8C9DA,&H000000FF,&H008E397E,&H00461004,-1,0,0,0,100,100,0,-4,1,3,0,2,121,201,257,0
-Style: Starting_broadcast_10:52(Ep 04),Open Sans Semibold,59,&H0047E7F7,&H000000FF,&H00216073,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,60,60,330,0
-Style: Texts/tweets(Ep 04),Open Sans Semibold,41,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,8,0,0,42,0
-Style: Horikita_Yui_19:05(Ep 04),Open Sans Semibold,45,&H00FAF6FE,&H000000FF,&H0084757A,&H00461004,-1,0,0,0,100,100,0,-18,1,3,0,2,169,41,497,0
-Style: Cell_phone_19:05(Ep 04),Open Sans Semibold,45,&H008B8B8B,&H000000FF,&H00F7F5F7,&H00461004,-1,0,0,0,100,100,0,-18,1,3,0,3,41,331,140,0
-Style: Cell_phone_19:06(Ep 04),Open Sans Semibold,45,&H008B8B8B,&H000000FF,&H00F7F5F7,&H00461004,-1,0,0,0,100,100,0,-20,1,3,0,1,80,875,221,0
-Style: Карасума_Титосэ_19:06(Ep 04),Open Sans Semibold,45,&H00FAF6FE,&H000000FF,&H0084757A,&H00461004,-1,0,0,0,100,100,0,-17,1,3,0,1,352,442,620,0
-Style: Followers_21:13(Ep 04),Open Sans Semibold,63,&H008B8B8B,&H000000FF,&H00F7F5F7,&H00461004,-1,0,0,0,100,100,0,15,1,3,0,2,201,41,161,0
+Style: Anime_event_08:30(Ep 04),PT Sans,41,&H00EEECF1,&H000000FF,&H00DA65AB,&H00461004,-1,0,0,0,100,100,0,0,1,4.5,0,3,134,41,320,0
+Style: Anime_Title_08:30(Ep 04),PT Sans,32,&H00EEF3A8,&H000000FF,&H00DEA579,&H00461004,-1,0,0,0,100,100,0,0,1,3,0,7,41,41,140,0
+Style: Anime_event_08:28(Ep 04),PT Sans,41,&H00EEECF1,&H000000FF,&H00DA65AB,&H00461004,-1,0,0,0,100,100,0,0,1,4.5,0,9,134,41,270,0
+Style: Anime_Title_08:32(Ep 04),PT Sans,32,&H00EEF3A8,&H000000FF,&H00DEA579,&H00461004,-1,0,0,0,100,100,0,0,1,3,0,7,41,41,230,0
+Style: Anime_event_08:32(Ep 04),PT Sans,41,&H00EEECF1,&H000000FF,&H00DA65AB,&H00461004,-1,0,0,0,100,100,0,0,1,4.5,0,3,134,41,251,0
+Style: Early_screening_07:02(Ep 04),PT Sans,45,&H00C5EFF2,&H000000FF,&H00247396,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,162,60,170,0
+Style: Millenium_10:26(Ep 04),PT Sans,45,&H00EEF3A8,&H000000FF,&H00BB594D,&H00461004,-1,-1,0,0,100,100,0,10,1,3,0,3,41,463,170,0
+Style: Takoyaki_16:27(Ep 04),PT Sans,41,&H002F5172,&H000000FF,&H00678CA2,&H00000000,-1,0,0,0,100,100,0,0,1,4.5,0,1,201,60,350,0
+Style: Lessen_17:38(Ep 04),PT Sans,41,&H005D6C95,&H000000FF,&H00C3BEF6,&H00461004,-1,0,0,0,100,100,0,0,1,3,0,2,946,50,71,0
+Style: Bakugeki_Editing_Dept(Ep 04),PT Sans,41,&H00FCF4FE,&H000000FF,&H00A73732,&H00000000,-1,0,0,0,100,100,0,0,1,4.5,0,8,60,60,41,0
+Style: R's_Comic_19:31(Ep 04),PT Sans,45,&H00030000,&H000000FF,&H00B8C3C1,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,60,60,210,0
+Style: Broadcast_starting_19:31(Ep 04),PT Sans,35,&H00F8FAF5,&H000000FF,&H00B8C3C1,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,60,483,476,0
+Style: Next_Time MPxKO,PT Sans,32,&H00FFD4E6,&H000000FF,&H00965C7C,&H00000000,0,0,0,0,100,100,0,-5,1,3,0,7,261,875,170,1
+Style: Millenium_22:07(Ep 04),PT Sans,32,&H00FADFDD,&H000000FF,&H00DB7E81,&H00461004,-1,0,0,0,100,100,0,-5,1,3,0,3,483,472,401,0
+Style: MPxKO_Ep_Title_22:07(Ep 04),PT Sans,41,&H00E8C9DA,&H000000FF,&H008E397E,&H00461004,-1,0,0,0,100,100,0,-4,1,3,0,2,121,201,257,0
+Style: Starting_broadcast_10:52(Ep 04),PT Sans,59,&H0047E7F7,&H000000FF,&H00216073,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,60,60,330,0
+Style: Texts/tweets(Ep 04),PT Sans,41,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,8,0,0,42,0
+Style: Horikita_Yui_19:05(Ep 04),PT Sans,45,&H00FAF6FE,&H000000FF,&H0084757A,&H00461004,-1,0,0,0,100,100,0,-18,1,3,0,2,169,41,497,0
+Style: Cell_phone_19:05(Ep 04),PT Sans,45,&H008B8B8B,&H000000FF,&H00F7F5F7,&H00461004,-1,0,0,0,100,100,0,-18,1,3,0,3,41,331,140,0
+Style: Cell_phone_19:06(Ep 04),PT Sans,45,&H008B8B8B,&H000000FF,&H00F7F5F7,&H00461004,-1,0,0,0,100,100,0,-20,1,3,0,1,80,875,221,0
+Style: Карасума_Титосэ_19:06(Ep 04),PT Sans,45,&H00FAF6FE,&H000000FF,&H0084757A,&H00461004,-1,0,0,0,100,100,0,-17,1,3,0,1,352,442,620,0
+Style: Followers_21:13(Ep 04),PT Sans,63,&H008B8B8B,&H000000FF,&H00F7F5F7,&H00461004,-1,0,0,0,100,100,0,15,1,3,0,2,201,41,161,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -183,8 +183,8 @@ Dialogue: 0,0:06:08.72,0:06:14.56,Tea_05:59(Ep 04),Надпись,0,0,0,,Зел�
 Dialogue: 0,0:06:09.30,0:06:10.93,Default,Кудзу,0,0,0,,Момока-тян, Казуха-тян и, ах...
 Dialogue: 0,0:06:10.93,0:06:14.22,Default,Кудзу,0,0,0,,Эм... Т-Титосэ {\i1}Кактамтебя{\i0}-тян...
 Dialogue: 0,0:06:14.56,0:06:15.81,Default,Годзё,0,0,0,,Её зовут Карасума Титосэ.
-Dialogue: 0,0:06:14.56,0:06:20.77,Tea_PET_06:05(Ep 04),Надпись,0,0,0,,ПОЖАЛУЙСТА, ВЫБРАСЫВАЙТЕ \NОСТАТКИ ИЗ КОРОБОК ИЗ-ПОД ЕДЫ СЮДА
-Dialogue: 0,0:06:14.56,0:06:20.77,Bento_Bos_Trash_06:05(Ep 04),Надпись,0,0,0,,ЧАЙ, КОРЗИНА ДЛЯ ПЭТ-БУТЫЛОК
+Dialogue: 0,0:06:14.56,0:06:20.77,Tea_PET_06:05(Ep 04),Надпись,0,0,0,,ПОЖАЛУЙСТА, ВЫБРАСЫВАЙТЕ ОСТАТКИ\NИЗ КОРОБОК ИЗ-ПОД ЕДЫ СЮДА
+Dialogue: 0,0:06:14.56,0:06:20.77,Bento_Bos_Trash_06:05(Ep 04),Надпись,0,0,0,,ЧАЙ\NКОРЗИНА ДЛЯ\NПЭТ-БУТЫЛОК
 Dialogue: 0,0:06:15.81,0:06:17.85,Default,Кудзу,0,0,0,,Точно! Титосэ Карасума.
 Dialogue: 0,0:06:17.85,0:06:20.77,Default,Кудзу,0,0,0,,Я точно слышал, как она сказала, \Nчто сможешь спеть полную версию.
 Dialogue: 0,0:06:20.77,0:06:21.31,Default,Годзё,0,0,0,,Но…
@@ -208,9 +208,9 @@ Dialogue: 0,0:06:58.93,0:07:01.44,Default,Годзё,0,0,0,,Так… А как�
 Dialogue: 0,0:07:02.56,0:07:05.90,Default,Кудзу,0,0,0,,Прости! Мне так жаль! Похоже, в итоге, они не успеют \Nзакончить первую серию вовремя!
 Dialogue: 0,0:07:07.40,0:07:08.36,Default,Годзё,0,0,0,,Что?!
 Dialogue: 0,0:07:08.65,0:07:11.82,Default,Кудзу,0,0,0,,Хотя, они должны успеть к \Nпоказу по ТВ, так что не беспокойся.
-Dialogue: 0,0:07:11.82,0:07:13.78,Early_screening_07:02(Ep 04),Надпись,0,0,0,,Серия 1: Предпоказ
-Dialogue: 0,0:07:12.07,0:07:14.49,Default,Кудзу,0,0,0,,So we're just going to be screening
-Dialogue: 0,0:07:14.49,0:07:17.29,Default,Кудзу,0,0,0,,the PV with bits and pieces of episode 1.
+Dialogue: 0,0:07:11.82,0:07:15.78,Early_screening_07:02(Ep 04),Надпись,0,0,0,,Серия 1: Предпоказ
+Dialogue: 0,0:07:12.07,0:07:14.49,Default,Кудзу,0,0,0,,Итак, мы собираемся показывать
+Dialogue: 0,0:07:14.49,0:07:17.29,Default,Кудзу,0,0,0,,промо-ролик с кусками и отрывками из первой серии.
 Dialogue: 0,0:07:17.58,0:07:20.91,Default,Годзё,0,0,0,,But isn't the audience expecting a \Ncompleted episode 1 from the series?
 Dialogue: 0,0:07:21.54,0:07:24.13,Default,Кудзу,0,0,0,,No, no. They're all fans of the cast,
 Dialogue: 0,0:07:24.13,0:07:27.34,Default,Кудзу,0,0,0,,so they'll be ecstatic, and it'll \Nbe a win-win situation for us.
