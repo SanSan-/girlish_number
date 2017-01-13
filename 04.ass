@@ -301,41 +301,41 @@ Dialogue: 0,0:11:57.69,0:11:59.53,Default - Song,Песня,0,0,0,,Это всё
 Dialogue: 0,0:11:59.53,0:12:05.16,Default - Song,Песня,0,0,0,,И светлое будущее нас ждёт!
 Dialogue: 0,0:12:06.53,0:12:07.28,Default,Титосэ,0,0,0,,Ура!
 Dialogue: 0,0:12:07.28,0:12:08.41,Default,Кудзу,0,0,0,,Ура! Ура!
-Dialogue: 0,0:12:08.41,0:12:10.66,Default,Товада,0,0,0,,Doesn't this song not really fit?
-Dialogue: 0,0:12:10.66,0:12:13.46,Default,Кудзу,0,0,0,,Isn't it great? I asked a friend to make it for me.
+Dialogue: 0,0:12:08.41,0:12:10.66,Default,Товада,0,0,0,,Есть ощущение, что песня немного не подходит?
+Dialogue: 0,0:12:10.66,0:12:13.46,Default,Кудзу,0,0,0,,Разве она не великолепна?\NЯ попросил своего друга написать её специально для меня.
 Dialogue: 0,0:12:13.21,0:12:18.25,Default - Song,Песня,0,0,0,,Чувства, которые сидят внутри, внезапно…
-Dialogue: 0,0:12:28.76,0:12:31.43,Default,Кудзу,0,0,0,,Man, aren't those girls amazing?
-Dialogue: 0,0:12:31.43,0:12:32.89,Default,Кудзу,0,0,0,,The crowd's completely hyped up!
-Dialogue: 0,0:12:32.89,0:12:36.61,Default,Президент,0,0,0,,Though they are fresh-picked, lively newbies.
-Dialogue: 0,0:12:36.61,0:12:39.44,Default,Кудзу,0,0,0,,Nah, they're doing amazing.
-Dialogue: 0,0:12:39.44,0:12:40.98,Default,Кудзу,0,0,0,,Which means…
-Dialogue: 0,0:12:40.98,0:12:42.28,Default,Президент,0,0,0,,Which means…
-Dialogue: 0,0:12:42.28,0:12:45.03,Default,Кудзу,0,0,0,,I think this way of promoting stuff works!
-Dialogue: 0,0:12:45.03,0:12:46.62,Default,Президент,0,0,0,,Looks like it does!
-Dialogue: 0,0:12:46.62,0:12:48.45,Default,Президент,0,0,0,,Keep it going. Keep it going, eh?
-Dialogue: 0,0:12:49.95,0:12:52.37,Default,Президент,0,0,0,,Maybe I'll hold an
-Dialogue: 0,0:12:52.37,0:12:54.79,Default,Президент,0,0,0,,agency-sponsored event, too!
-Dialogue: 0,0:13:03.84,0:13:06.18,Default,Титосэ,0,0,0,,Great job, everyone!
-Dialogue: 0,0:13:07.59,0:13:10.93,Default,Яэ,0,0,0,,Ти-тян! Thank you! Thank you!
-Dialogue: 0,0:13:11.31,0:13:13.35,Default,Кото,0,0,0,,You sure helped us out.
-Dialogue: 0,0:13:13.35,0:13:16.23,Default,Кото,0,0,0,,My heart wouldn't stop pounding.
-Dialogue: 0,0:13:16.23,0:13:19.90,Default,Титосэ,0,0,0,,Nah, it was just coincidence. \NI ended up nervous, too.
-Dialogue: 0,0:13:20.23,0:13:22.40,Default,Годзё,0,0,0,,You really are a little shit,
-Dialogue: 0,0:13:22.40,0:13:24.61,Default,Годзё,0,0,0,,but your damn guts never cease to amaze me.
-Dialogue: 0,0:13:26.86,0:13:29.99,Default,Кудзу,0,0,0,,Hey, great job, you Пареньs. Great job!
-Dialogue: 0,0:13:29.99,0:13:32.54,Default,Кудзу,0,0,0,,Титосэ-тян, you really do have talent.
-Dialogue: 0,0:13:32.79,0:13:34.75,Default,Титосэ,0,0,0,,Really? I do?
-Dialogue: 0,0:13:35.04,0:13:39.54,Default,Кудзу,0,0,0,,And I'm talented for seeing that in you. JK!
-Dialogue: 0,0:13:40.92,0:13:43.51,Default,Кудзу,0,0,0,,The live stream was hyped up, too.
-Dialogue: 0,0:13:43.51,0:13:46.59,Default,Кудзу,0,0,0,,Everyone was gushing over how \Ncute you were, Ти-сама.
-Dialogue: 0,0:13:46.59,0:13:49.30,Default,Титосэ,0,0,0,,Oh, come on. Really?
-Dialogue: 0,0:13:49.30,0:13:52.64,Default,Кудзу,0,0,0,,For real! A producer never lies!
-Dialogue: 0,0:13:52.64,0:13:54.52,Default,Титосэ,0,0,0,,Oh, come on…
-Dialogue: 0,0:14:01.77,0:14:04.36,Default,Кудзу,0,0,0,,I just got another bright idea, Годзё-тян!
-Dialogue: 0,0:14:04.36,0:14:05.94,Default,Годзё,0,0,0,,What is it now?
-Dialogue: 0,0:14:06.19,0:14:09.53,Default,Кудзу,0,0,0,,Since this was such a big success, \Nlet's stream every month.
+Dialogue: 0,0:12:28.76,0:12:31.43,Default,Кудзу,0,0,0,,Чувак, разве эти девочки не восхитительны?
+Dialogue: 0,0:12:31.43,0:12:32.89,Default,Кудзу,0,0,0,,Толпа полностью прогрелась!
+Dialogue: 0,0:12:32.89,0:12:36.61,Default,Президент,0,0,0,,Хотя, они не сработаны, да ещё и с новичками.
+Dialogue: 0,0:12:36.61,0:12:39.44,Default,Кудзу,0,0,0,,Не-а, они работают великолепно.
+Dialogue: 0,0:12:39.44,0:12:40.98,Default,Кудзу,0,0,0,,А это значит…
+Dialogue: 0,0:12:40.98,0:12:42.28,Default,Президент,0,0,0,,А это значит…
+Dialogue: 0,0:12:42.28,0:12:45.03,Default,Кудзу,0,0,0,,Я считаю, что такой способ продвижения контента работает!
+Dialogue: 0,0:12:45.03,0:12:46.62,Default,Президент,0,0,0,,Похоже на правду!
+Dialogue: 0,0:12:46.62,0:12:48.45,Default,Президент,0,0,0,,Продолжайте. Продолжайте в том же духе, а?
+Dialogue: 0,0:12:49.95,0:12:52.37,Default,Президент,0,0,0,,Может, я останусь ещё и на
+Dialogue: 0,0:12:52.37,0:12:54.79,Default,Президент,0,0,0,,корпоратив от агенства!
+Dialogue: 0,0:13:03.84,0:13:06.18,Default,Титосэ,0,0,0,,Отличная работа, ребята!
+Dialogue: 0,0:13:07.59,0:13:10.93,Default,Яэ,0,0,0,,Ти-тян! Спасибо! Спасибо тебе!
+Dialogue: 0,0:13:11.31,0:13:13.35,Default,Кото,0,0,0,,Ти нас таки виручила.
+Dialogue: 0,0:13:13.35,0:13:16.23,Default,Кото,0,0,0,,Моє серці не може перестати калатає.
+Dialogue: 0,0:13:16.23,0:13:19.90,Default,Титосэ,0,0,0,,Не-е, это было просто совпадение. \NВ конце концов, я тоже переживала.
+Dialogue: 0,0:13:20.23,0:13:22.40,Default,Годзё,0,0,0,,Ты всё такая же маленькая козявка,
+Dialogue: 0,0:13:22.40,0:13:24.61,Default,Годзё,0,0,0,,но твоя сила духа не перестаёт меня поражать.
+Dialogue: 0,0:13:26.86,0:13:29.99,Default,Кудзу,0,0,0,,Эй, девчонки, отлично поработали. Отличная работа! 
+Dialogue: 0,0:13:29.99,0:13:32.54,Default,Кудзу,0,0,0,,Титосэ-тян, у тебя внатуре есть талант.
+Dialogue: 0,0:13:32.79,0:13:34.75,Default,Титосэ,0,0,0,,Правда? У меня?
+Dialogue: 0,0:13:35.04,0:13:39.54,Default,Кудзу,0,0,0,,А у меня талант находить его в тебе. Шутка!
+Dialogue: 0,0:13:40.92,0:13:43.51,Default,Кудзу,0,0,0,,Прямая трансляция тоже прошла ошеломительно.
+Dialogue: 0,0:13:43.51,0:13:46.59,Default,Кудзу,0,0,0,,Каждый захлёбывался от того, \Nкакая ты была милая, Ти-сама.
+Dialogue: 0,0:13:46.59,0:13:49.30,Default,Титосэ,0,0,0,,Ой, да бросьте вы. Правда?
+Dialogue: 0,0:13:49.30,0:13:52.64,Default,Кудзу,0,0,0,,Всенепременно! Продюссер никогда не врёт!
+Dialogue: 0,0:13:52.64,0:13:54.52,Default,Титосэ,0,0,0,,Ох, ну перестаньте…
+Dialogue: 0,0:14:01.77,0:14:04.36,Default,Кудзу,0,0,0,,Меня только что посетила очередная гениальная мысль, Годзё-тян!
+Dialogue: 0,0:14:04.36,0:14:05.94,Default,Годзё,0,0,0,,И какая на этот раз?
+Dialogue: 0,0:14:06.19,0:14:09.53,Default,Кудзу,0,0,0,,Учитывая такой оглушительный успех, \Nможет будем транслироваться каждый месяц.
 Dialogue: 0,0:14:09.53,0:14:13.20,Default,Кудзу,0,0,0,,We'll film along with the after-recording \Nsessions and hype this up even more!
-Dialogue: 0,0:14:13.20,0:14:15.12,Default,Годзё,0,0,0,,There you go with your sudden whims again…
+Dialogue: 0,0:14:13.20,0:14:15.12,Default,Годзё,0,0,0,,А не пойти бы тебе со своими внезапными причудами…
 Dialogue: 0,0:14:15.12,0:14:18.25,Default,Кудзу,0,0,0,,No, no, I've been playing \Nwith this idea for a while.
 Dialogue: 0,0:14:18.25,0:14:20.96,Default,Кудзу,0,0,0,,It's all about increasing \Nthe exposure of a title.
 Dialogue: 0,0:14:20.96,0:14:23.63,Default,Кудзу,0,0,0,,We have to keep up the hype regularly.
