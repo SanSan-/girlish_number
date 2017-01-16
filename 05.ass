@@ -16,9 +16,9 @@ Video File: [Leopard-Raws] Girlish Number - 05 RAW (TBS 1280x720 x264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 25
-Active Line: 33
-Video Position: 4640
+Scroll Position: 34
+Active Line: 42
+Video Position: 5681
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -67,58 +67,58 @@ Style: officialanime,PT Sans,35,&H005F513E,&H000000FF,&H00EDEBEB,&H00461004,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:03.27,0:00:06.36,Default,ТВ,0,0,0,,Сейчас для чарта хитов этой недели…
+Dialogue: 0,0:00:03.27,0:00:06.36,Default,ТВ,0,0,0,,Итак, чарт хитов этой недели…
 Dialogue: 0,0:00:06.36,0:00:08.40,Default,ТВ,0,0,0,,Начинаем отсчёт!
 Dialogue: 0,0:00:08.69,0:00:09.86,Our_Ballad_00:09(Ep 05),Надпись,0,0,0,,Наша Утраченная Баллада
 Dialogue: 0,0:00:11.28,0:00:12.32,Rainbow_00:12(Ep 05),Надпись,0,0,0,,Радужный Восход
-Dialogue: 0,0:00:14.86,0:00:16.45,Default,Титосэ,0,0,0,,Ты видел, Годзё-кун?
-Dialogue: 0,0:00:16.45,0:00:18.87,Default,Титосэ,0,0,0,,As of this week, we've shipped out \Nan estimated 10,000 copies!
-Dialogue: 0,0:00:18.87,0:00:19.91,Default,Титосэ,0,0,0,,I'm so good!
-Dialogue: 0,0:00:19.91,0:00:21.25,Default,Годзё,0,0,0,,Whose estimate is that?
-Dialogue: 0,0:00:21.62,0:00:23.33,Default,Годзё,0,0,0,,It doesn't mean you did a good job.
-Dialogue: 0,0:00:23.33,0:00:25.71,Default,Годзё,0,0,0,,It means the people who \Nwrote the song did a good job.
-Dialogue: 0,0:00:25.71,0:00:29.30,Default,Титосэ,0,0,0,,Годзё-кун, I'm a pro, too. \NI totally understand that.
-Dialogue: 0,0:00:29.30,0:00:30.59,Default,Годзё,0,0,0,,I hope so.
-Dialogue: 0,0:00:30.59,0:00:33.05,Ghost_Kitten(little)_00:31(Ep 05),Надпись,0,0,0,,The Ghost Kitten Connection
-Dialogue: 0,0:00:30.59,0:00:33.05,Playing_00:31(Ep 05),Надпись,0,0,0,,Playing
-Dialogue: 0,0:00:31.17,0:00:33.05,Default - Top,Титосэ,0,0,0,,By the way, what I have here is…
-Dialogue: 0,0:00:35.26,0:00:39.01,Default,Титосэ,0,0,0,,Ta-da! The drama CD starring the \Ngenius voice actor, Карасума Годзё!
-Dialogue: 0,0:00:39.01,0:00:40.72,Ghost_Kitten(big)_00:40(Ep 05),Надпись,0,0,0,,The Ghost Kitten Connection
-Dialogue: 0,0:00:39.01,0:00:40.72,Playing(big)_00:40(Ep 05),Надпись,0,0,0,,Playing
-Dialogue: 0,0:00:39.01,0:00:40.72,Default,Титосэ,0,0,0,,Its sales figures are immeasurable.
-Dialogue: 0,0:00:40.93,0:00:42.68,Default,Годзё,0,0,0,,You actually have that?
-Dialogue: 0,0:00:43.10,0:00:46.81,Default,Титосэ,0,0,0,,Avenging you with a force of 10,000 \Nsince the times weren't on your side…
-Dialogue: 0,0:00:47.15,0:00:49.36,Default,Титосэ,0,0,0,,Who's the sister who cares \Nthat much about her brother?
-Dialogue: 0,0:00:49.82,0:00:50.86,Default,Титосэ,0,0,0,,Me!
-Dialogue: 0,0:00:51.23,0:00:54.82,Default,Титосэ,0,0,0,,Годзё-кун, Годзё-кун. \NSee? I'm great, aren't I?
-Dialogue: 0,0:00:55.65,0:00:57.16,Default,Годзё,0,0,0,,Episode 5 airs later today.
-Dialogue: 0,0:00:57.16,0:00:58.70,Default,Годзё,0,0,0,,You Пареньs aren't meeting up again?
-Dialogue: 0,0:00:58.70,0:01:00.70,Default,Титосэ,0,0,0,,We've been replying back \Nand forth, so it's fine.
-Dialogue: 0,0:01:00.70,0:01:02.95,Default,Титосэ,0,0,0,,We just need to look like we \Nget along to people online.
-Dialogue: 0,0:01:02.95,0:01:05.37,Default,Годзё,0,0,0,,You haven't even been watching \Nit on air lately, have you?
-Dialogue: 0,0:01:07.37,0:01:10.21,Default,Титосэ,0,0,0,,Годзё-кун, I told you that I'm a pro, didn't I?
-Dialogue: 0,0:01:10.21,0:01:12.46,Default,Титосэ,0,0,0,,I know most of the story \Nfrom the recording sessions.
-Dialogue: 0,0:01:12.46,0:01:15.55,Default,Титосэ,0,0,0,,If I watch my timeline and say things \Nin line with what's being said, I'm fine.
-Dialogue: 0,0:01:16.01,0:01:17.30,Default,Годзё,0,0,0,,You really are trash.
-Dialogue: 0,0:02:58.52,0:03:03.40,Girlish Number - Ep Title,Заголовок,0,0,0,,{\fad(863,730)}#05 Cocky Титосэ and Shattered Popularity
-Dialogue: 0,0:03:31.51,0:03:33.47,Cast_03:22(Ep 05),Надпись,0,0,0,,Cast: Юна (CV: Карасума Титосэ), Нанака (CV : Сибасаки Кадзуха), \NMao (CV: Кугаяма Яэ), Yuzu (CV: Соно Момока), Ria (CV: Катакура Кото)
+Dialogue: 0,0:00:14.86,0:00:16.45,Default,Титосэ,0,0,0,,Видел? Видел, Годзё-кун?
+Dialogue: 0,0:00:16.45,0:00:18.87,Default,Титосэ,0,0,0,,На этой неделе, мы продали \Nоколо 10,000 копий!
+Dialogue: 0,0:00:18.87,0:00:19.91,Default,Титосэ,0,0,0,,Хорошая работа!
+Dialogue: 0,0:00:19.91,0:00:21.25,Default,Годзё,0,0,0,,Кто подсчитал?
+Dialogue: 0,0:00:21.62,0:00:23.33,Default,Годзё,0,0,0,,Это не значит, что именно ты славно поработала.
+Dialogue: 0,0:00:23.33,0:00:25.71,Default,Годзё,0,0,0,,Это значит, что люди, которые\Nнаписали песню постарались на славу.
+Dialogue: 0,0:00:25.71,0:00:29.30,Default,Титосэ,0,0,0,,Годзё-кун, я тоже про. \NЯ отчётливо осознаю это.
+Dialogue: 0,0:00:29.30,0:00:30.59,Default,Годзё,0,0,0,,Надеюсь.
+Dialogue: 0,0:00:30.59,0:00:33.05,Ghost_Kitten(little)_00:31(Ep 05),Надпись,0,0,0,,Подключение Котёнка-Призрака
+Dialogue: 0,0:00:30.59,0:00:33.05,Playing_00:31(Ep 05),Надпись,0,0,0,,Играет
+Dialogue: 0,0:00:31.17,0:00:33.05,Default - Top,Титосэ,0,0,0,,Кстати, смотри, что у меня есть…
+Dialogue: 0,0:00:35.26,0:00:39.01,Default,Титосэ,0,0,0,,Та-дам! Аудиодрама и в главной роли \Nгениальный сэйю, Карасума Годзё!
+Dialogue: 0,0:00:39.01,0:00:40.72,Ghost_Kitten(big)_00:40(Ep 05),Надпись,0,0,0,,Подключение Котёнка-Призрака
+Dialogue: 0,0:00:39.01,0:00:40.72,Playing(big)_00:40(Ep 05),Надпись,0,0,0,,Играет
+Dialogue: 0,0:00:39.01,0:00:40.72,Default,Титосэ,0,0,0,,Показатели её продаж непревзойдены.
+Dialogue: 0,0:00:40.93,0:00:42.68,Default,Годзё,0,0,0,,Ты уже сделала это?
+Dialogue: 0,0:00:43.10,0:00:46.81,Default,Титосэ,0,0,0,,Воздать тебе силой 10,000 проданных копий\Nза всё время, будучи не на твоей стороне…
+Dialogue: 0,0:00:47.15,0:00:49.36,Default,Титосэ,0,0,0,,Кто та сестра, что так сильно \Nпечётся о своём братике?
+Dialogue: 0,0:00:49.82,0:00:50.86,Default,Титосэ,0,0,0,,Я!
+Dialogue: 0,0:00:51.23,0:00:54.82,Default,Титосэ,0,0,0,,Годзё-кун, Годзё-кун. \NВсё таки, я крута?
+Dialogue: 0,0:00:55.65,0:00:57.16,Default,Годзё,0,0,0,,Пятую серию сегодня поздно покажут.
+Dialogue: 0,0:00:57.16,0:00:58.70,Default,Годзё,0,0,0,,Ты, разве, не собиралась к подругам, снова?
+Dialogue: 0,0:00:58.70,0:01:00.70,Default,Титосэ,0,0,0,,Мы уже отвечали туда и \Nсюда, так что всё норм.
+Dialogue: 0,0:01:00.70,0:01:02.95,Default,Титосэ,0,0,0,,Просто нужно, чтобы для людей в онлайне \Nвсё выглядело так, будто мы вместе.
+Dialogue: 0,0:01:02.95,0:01:05.37,Default,Годзё,0,0,0,,Ты ведь даже уже не смотришь\Nсам сериал, я прав?
+Dialogue: 0,0:01:07.37,0:01:10.21,Default,Титосэ,0,0,0,,Годзё-кун, я тебе ведь уже говорила, что я — про?
+Dialogue: 0,0:01:10.21,0:01:12.46,Default,Титосэ,0,0,0,,Я знаю многое из истории \Nпо нашим сессиям звукозаписи.
+Dialogue: 0,0:01:12.46,0:01:15.55,Default,Титосэ,0,0,0,,Если, я смотрю в свой таймлайн и говорю фразы \Nиз него, как было указано, то всё пучком.
+Dialogue: 0,0:01:16.01,0:01:17.30,Default,Годзё,0,0,0,,Ты такая дрянь.
+Dialogue: 0,0:02:58.52,0:03:03.40,Girlish Number - Ep Title,Заголовок,0,0,0,,{\fad(863,730)}#05「Дерзкая Титосэ и растаявшая популярность」
+Dialogue: 0,0:03:31.51,0:03:33.47,Cast_03:22(Ep 05),Надпись,0,0,0,,В ролях: Юна (CV: Карасума Титосэ), Нанака (CV : Сибасаки Кадзуха), \NМао (CV: Кугаяма Яэ), Юдзу (CV: Соно Момока), Рия (CV: Катакура Кото)
 Dialogue: 0,0:03:33.47,0:03:34.93,Cast_con't_03:24(Ep 05),Надпись,0,0,0,,(CV: Карасума Титосэ)
-Dialogue: 0,0:03:39.18,0:03:42.48,Default,Титосэ,0,0,0,,A great song, great lyrics, and a great me.
+Dialogue: 0,0:03:39.18,0:03:42.48,Default,Титосэ,0,0,0,,Отличная песня, отличные стихи и отличная я.
 Dialogue: 0,0:03:42.81,0:03:43.60,Default,Яэ,0,0,0,,Ти-тян.
 Dialogue: 0,0:03:43.60,0:03:46.36,Default,Титосэ,0,0,0,,Oh! I'm sorry! I'm off the clock, \Nand I'm heading to a recording session,
 Dialogue: 0,0:03:46.36,0:03:48.57,Default,Титосэ,0,0,0,,so if you'd like an autograph, \Nplease go through my agency.
 Dialogue: 0,0:03:48.57,0:03:50.44,Default,Титосэ,0,0,0,,If you'd like a handshake, \Nthere's a limit of one per person.
-Dialogue: 0,0:03:55.66,0:03:56.91,Default,Титосэ,0,0,0,,Oh, it's just you two.
-Dialogue: 0,0:03:56.91,0:03:59.37,Default,Кото,0,0,0,,You really are amusing, Ти-сама.
+Dialogue: 0,0:03:55.66,0:03:56.91,Default,Титосэ,0,0,0,,А, это всего лишь вы двое.
+Dialogue: 0,0:03:56.91,0:03:59.37,Default,Кото,0,0,0,,А ти и правда потишна, Ти-сама.
 Dialogue: 0,0:03:59.37,0:04:00.83,Default,Яэ,0,0,0,,Were you curious about it, too?
-Dialogue: 0,0:04:01.08,0:04:02.29,Default,Cit,0,0,0,,Curious?
+Dialogue: 0,0:04:01.08,0:04:02.29,Default,Титосэ,0,0,0,,Curious?
 Dialogue: 0,0:04:02.54,0:04:05.25,Default,Кото,0,0,0,,You know, about how popular our \Nseries is or what the shops look like.
 Dialogue: 0,0:04:05.50,0:04:08.21,Default,Титосэ,0,0,0,,Right! Congrats to us for getting 10,000! Yay!
 Dialogue: 0,0:04:09.05,0:04:10.21,Default,Яэ,0,0,0,,Yay.
 Dialogue: 0,0:04:10.55,0:04:13.51,Default,Титосэ,0,0,0,,Let's see… The single costs \N1,400 yen without tax,
 Dialogue: 0,0:04:13.51,0:04:15.68,Default,Титосэ,0,0,0,,multiply the percentage… \Nclick, click, lick, lick…
 Dialogue: 0,0:04:15.89,0:04:19.06,Default,Титосэ,0,0,0,,Aww… I should have gone for royalties \Ninstead of taking a lump sum!
-Dialogue: 0,0:04:19.06,0:04:22.02,Default,Яэ,0,0,0,,Ch-Ти-тян! Don't write on my hand!
+Dialogue: 0,0:04:19.06,0:04:22.02,Default,Яэ,0,0,0,,Т-Ти-тян! Не пиши на руке!
 Dialogue: 0,0:04:20.93,0:04:22.85,Default,Кото,0,0,0,,Maybe it's not doing well, after all…
 Dialogue: 0,0:04:25.31,0:04:26.27,Default,Яэ,0,0,0,,Ти-тян?
 Dialogue: 0,0:04:26.52,0:04:27.86,Default,Титосэ,0,0,0,,Яэ, where are your sunglasses?
@@ -149,7 +149,7 @@ Dialogue: 0,0:05:18.20,0:05:21.49,Default,Юна,0,0,0,,Y-You idiot! G-Get out!
 Dialogue: 0,0:05:21.49,0:05:24.16,Default,Парень,0,0,0,,And there's the show everyone's \Ntalking about this season.
 Dialogue: 0,0:05:24.16,0:05:27.12,Default,Парень,0,0,0,,You want to drop it by the start of the OP, \Nright? I saw that on a portal site.
 Dialogue: 0,0:05:27.12,0:05:29.92,Default,Парень,0,0,0,,This is hilarious. That poor Авторor.
-Dialogue: 0,0:05:29.92,0:05:31.63,Default,Gy,0,0,0,,But the original story is crap too, right?
+Dialogue: 0,0:05:29.92,0:05:31.63,Default,Парень,0,0,0,,But the original story is crap too, right?
 Dialogue: 0,0:05:31.63,0:05:33.42,Default,Парень,0,0,0,,I haven't read it, but I saw \Nthat on a portal site.
 Dialogue: 0,0:05:33.67,0:05:34.72,Default,Парень,0,0,0,,Right.
 Dialogue: 0,0:05:34.72,0:05:37.80,Default,Парень,0,0,0,,Actually, I feel bad for the \Nvoice actors on this series.
@@ -247,7 +247,7 @@ Dialogue: 0,0:09:42.00,0:09:43.21,Default,Яэ,0,0,0,,Ah…
 Dialogue: 0,0:09:43.21,0:09:47.05,Default,Титосэ,0,0,0,,It must be hard on the anime studio, \Nthe Авторor, and the distributor.
 Dialogue: 0,0:09:47.05,0:09:48.89,Default,Титосэ,0,0,0,,Since we're all part of the same business,
 Dialogue: 0,0:09:48.89,0:09:50.85,Default,Титосэ,0,0,0,,we just have to make things better together.
-Dialogue: 0,0:09:50.85,0:09:54.81,Default,Ya,0,0,0,,I-Isn't it pretty presumptuous \Nof us to say that?
+Dialogue: 0,0:09:50.85,0:09:54.81,Default,Яэ,0,0,0,,I-Isn't it pretty presumptuous \Nof us to say that?
 Dialogue: 0,0:09:54.81,0:09:56.89,Default,Титосэ,0,0,0,,You're too naïve, Яэ!
 Dialogue: 0,0:09:56.89,0:09:59.44,Default,Титосэ,0,0,0,,Making humility a virtue \Nis how a student thinks.
 Dialogue: 0,0:09:59.44,0:10:02.44,Default,Титосэ,0,0,0,,Out in the real world, no matter how \Nimportant the person you're working with,
