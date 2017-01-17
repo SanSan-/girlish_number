@@ -105,58 +105,58 @@ Dialogue: 0,0:03:31.51,0:03:33.47,Cast_03:22(Ep 05),Надпись,0,0,0,,В р�
 Dialogue: 0,0:03:33.47,0:03:34.93,Cast_con't_03:24(Ep 05),Надпись,0,0,0,,(CV: Карасума Титосэ)
 Dialogue: 0,0:03:39.18,0:03:42.48,Default,Титосэ,0,0,0,,Отличная песня, отличные стихи и отличная я.
 Dialogue: 0,0:03:42.81,0:03:43.60,Default,Яэ,0,0,0,,Ти-тян.
-Dialogue: 0,0:03:43.60,0:03:46.36,Default,Титосэ,0,0,0,,Oh! I'm sorry! I'm off the clock, \Nand I'm heading to a recording session,
-Dialogue: 0,0:03:46.36,0:03:48.57,Default,Титосэ,0,0,0,,so if you'd like an autograph, \Nplease go through my agency.
-Dialogue: 0,0:03:48.57,0:03:50.44,Default,Титосэ,0,0,0,,If you'd like a handshake, \Nthere's a limit of one per person.
+Dialogue: 0,0:03:43.60,0:03:46.36,Default,Титосэ,0,0,0,,Ох! Простите! Уже нет времени, \Nя очень спешу на сессию звукозаписи,
+Dialogue: 0,0:03:46.36,0:03:48.57,Default,Титосэ,0,0,0,,но если вы хотите автограф, \Nпожалуйста, обращайтесь в моё агенство.
+Dialogue: 0,0:03:48.57,0:03:50.44,Default,Титосэ,0,0,0,,Если вы хотите пожать руку, \Nто максимум одно рукопожатие на человека.
 Dialogue: 0,0:03:55.66,0:03:56.91,Default,Титосэ,0,0,0,,А, это всего лишь вы двое.
 Dialogue: 0,0:03:56.91,0:03:59.37,Default,Кото,0,0,0,,А ти и правда потишна, Ти-сама.
-Dialogue: 0,0:03:59.37,0:04:00.83,Default,Яэ,0,0,0,,Were you curious about it, too?
-Dialogue: 0,0:04:01.08,0:04:02.29,Default,Титосэ,0,0,0,,Curious?
-Dialogue: 0,0:04:02.54,0:04:05.25,Default,Кото,0,0,0,,You know, about how popular our \Nseries is or what the shops look like.
-Dialogue: 0,0:04:05.50,0:04:08.21,Default,Титосэ,0,0,0,,Right! Congrats to us for getting 10,000! Yay!
-Dialogue: 0,0:04:09.05,0:04:10.21,Default,Яэ,0,0,0,,Yay.
-Dialogue: 0,0:04:10.55,0:04:13.51,Default,Титосэ,0,0,0,,Let's see… The single costs \N1,400 yen without tax,
-Dialogue: 0,0:04:13.51,0:04:15.68,Default,Титосэ,0,0,0,,multiply the percentage… \Nclick, click, lick, lick…
-Dialogue: 0,0:04:15.89,0:04:19.06,Default,Титосэ,0,0,0,,Aww… I should have gone for royalties \Ninstead of taking a lump sum!
+Dialogue: 0,0:03:59.37,0:04:00.83,Default,Яэ,0,0,0,,Ты тоже беспокоилась об этом?
+Dialogue: 0,0:04:01.08,0:04:02.29,Default,Титосэ,0,0,0,,Беспокоилась?
+Dialogue: 0,0:04:02.54,0:04:05.25,Default,Кото,0,0,0,,Ти ж сама знаэш, як популярний наш тайтл\Nабо як вин продаэться.
+Dialogue: 0,0:04:05.50,0:04:08.21,Default,Титосэ,0,0,0,,Именно! Поздравляю нас с достижением 10,000 копий! Ура!
+Dialogue: 0,0:04:09.05,0:04:10.21,Default,Яэ,0,0,0,,Ура.
+Dialogue: 0,0:04:10.55,0:04:13.51,Default,Титосэ,0,0,0,,А ну-ка подсчитаем… Наш сингл стоит\N1,400 йен без НДС,
+Dialogue: 0,0:04:13.51,0:04:15.68,Default,Титосэ,0,0,0,,умножаем на процент от продаж… \Nтыц, тыц, тц, тц…
+Dialogue: 0,0:04:15.89,0:04:19.06,Default,Титосэ,0,0,0,,Оуу… Надо было просить гонорар\Nвместо единовременных выплат!
 Dialogue: 0,0:04:19.06,0:04:22.02,Default,Яэ,0,0,0,,Т-Ти-тян! Не пиши на руке!
-Dialogue: 0,0:04:20.93,0:04:22.85,Default,Кото,0,0,0,,Maybe it's not doing well, after all…
+Dialogue: 0,0:04:20.93,0:04:22.85,Default,Кото,0,0,0,,Можливо, це не дуже добре, в конце концов…
 Dialogue: 0,0:04:25.31,0:04:26.27,Default,Яэ,0,0,0,,Ти-тян?
-Dialogue: 0,0:04:26.52,0:04:27.86,Default,Титосэ,0,0,0,,Яэ, where are your sunglasses?
-Dialogue: 0,0:04:27.86,0:04:29.98,Default,Яэ,0,0,0,,Huh? But it's not that bright out…
-Dialogue: 0,0:04:30.28,0:04:33.15,Default,Титосэ,0,0,0,,That's not what I mean. You need \Nto make sure you're not recognized.
-Dialogue: 0,0:04:33.15,0:04:34.66,Default,Титосэ,0,0,0,,Act more professional.
-Dialogue: 0,0:04:34.66,0:04:37.03,Default,Яэ,0,0,0,,Do people even know us that well?
-Dialogue: 0,0:04:37.28,0:04:39.33,Default,Титосэ,0,0,0,,We're voice actresses \Nwho've sold 10,000 copies.
-Dialogue: 0,0:04:39.33,0:04:41.58,Default,Титосэ,0,0,0,,You never know when people are watching us.
-Dialogue: 0,0:04:41.91,0:04:44.04,Default,Парень,0,0,0,,Hey, isn't that…
-Dialogue: 0,0:04:45.54,0:04:46.08,Default,Титосэ,0,0,0,,See?
-Dialogue: 0,0:04:48.21,0:04:51.46,Default,Титосэ,0,0,0,,It really feels like we just \Nsuddenly got super popular.
-Dialogue: 0,0:04:50.92,0:04:52.97,Default,Парень,0,0,0,,{\a6}Hey, I knew it.
-Dialogue: 0,0:04:51.46,0:04:52.97,Default,Яэ,0,0,0,,You think so?
-Dialogue: 0,0:04:52.97,0:04:54.72,Default,Парень,0,0,0,,{\a6}It's the girl from the commercial!
-Dialogue: 0,0:04:52.97,0:04:55.59,Default,Титосэ,0,0,0,,At this rate, we'll be singing at the\NBudokan by the end of the year!
-Dialogue: 0,0:04:55.59,0:04:57.09,Default,Яэ,0,0,0,,You really think so?
-Dialogue: 0,0:04:57.09,0:05:00.01,Default,Титосэ,0,0,0,,JK. I'm just kidding. Come on, let's go.
-Dialogue: 0,0:05:00.01,0:05:01.27,Default,Титосэ,0,0,0,,It's our super fun work time!
-Dialogue: 0,0:05:01.56,0:05:03.35,Default,Кото,0,0,0,,Er, right…
-Dialogue: 0,0:05:03.64,0:05:05.27,Default,Титосэ,0,0,0,,Кото-тян, what's wrong?
-Dialogue: 0,0:05:05.27,0:05:08.23,Default,Титосэ,0,0,0,,A voice actress who's sold 10,000 \Ncopies shouldn't look like that.
-Dialogue: 0,0:05:09.15,0:05:11.69,Default,Кото,0,0,0,,Yeah, but considering how the \Nmost important thing looks…
-Dialogue: 0,0:05:11.69,0:05:12.57,Default,Титосэ,0,0,0,,Most important thing?
-Dialogue: 0,0:05:12.57,0:05:13.69,Default,Кото,0,0,0,,The anime itself.
-Dialogue: 0,0:05:14.15,0:05:15.45,Default,Титосэ,0,0,0,,By "anime," you mean…
-Dialogue: 0,0:05:18.20,0:05:21.49,Default,Юна,0,0,0,,Y-You idiot! G-Get out!
-Dialogue: 0,0:05:21.49,0:05:24.16,Default,Парень,0,0,0,,And there's the show everyone's \Ntalking about this season.
-Dialogue: 0,0:05:24.16,0:05:27.12,Default,Парень,0,0,0,,You want to drop it by the start of the OP, \Nright? I saw that on a portal site.
-Dialogue: 0,0:05:27.12,0:05:29.92,Default,Парень,0,0,0,,This is hilarious. That poor Авторor.
-Dialogue: 0,0:05:29.92,0:05:31.63,Default,Парень,0,0,0,,But the original story is crap too, right?
-Dialogue: 0,0:05:31.63,0:05:33.42,Default,Парень,0,0,0,,I haven't read it, but I saw \Nthat on a portal site.
-Dialogue: 0,0:05:33.67,0:05:34.72,Default,Парень,0,0,0,,Right.
-Dialogue: 0,0:05:34.72,0:05:37.80,Default,Парень,0,0,0,,Actually, I feel bad for the \Nvoice actors on this series.
-Dialogue: 0,0:05:37.80,0:05:39.47,Default,Парень,0,0,0,,But the voice actors are crap too, right?
-Dialogue: 0,0:05:39.47,0:05:41.26,Default,Парень,0,0,0,,I haven't heard them, \Nbut I saw that on a portal site.
-Dialogue: 0,0:05:41.26,0:05:43.97,Default,Парень,0,0,0,,Right. Who was the lead again?
-Dialogue: 0,0:05:48.81,0:05:50.40,Default,Титосэ,0,0,0,,We worked so hard…
+Dialogue: 0,0:04:26.52,0:04:27.86,Default,Титосэ,0,0,0,,Яэ, а где твои очки?
+Dialogue: 0,0:04:27.86,0:04:29.98,Default,Яэ,0,0,0,,Ха? Но солнце сегодня не такое яркое…
+Dialogue: 0,0:04:30.28,0:04:33.15,Default,Титосэ,0,0,0,,Я не об этом. Ты должна\Nбыть уверена, что тебя не раскрыли.
+Dialogue: 0,0:04:33.15,0:04:34.66,Default,Титосэ,0,0,0,,Действуй более профессионально.
+Dialogue: 0,0:04:34.66,0:04:37.03,Default,Яэ,0,0,0,,Разве люди знают нас настолько хорошо?
+Dialogue: 0,0:04:37.28,0:04:39.33,Default,Титосэ,0,0,0,,Мы сэйю, которые продали \Nуже 10,000 копий.
+Dialogue: 0,0:04:39.33,0:04:41.58,Default,Титосэ,0,0,0,,Никогда не знаешь, кто за тобой наблюдает.
+Dialogue: 0,0:04:41.91,0:04:44.04,Default,Парень,0,0,0,,Смотри, разве это не…
+Dialogue: 0,0:04:45.54,0:04:46.08,Default,Титосэ,0,0,0,,Вот видишь?
+Dialogue: 0,0:04:48.21,0:04:51.46,Default,Титосэ,0,0,0,,То самое чувство, когда мы,\Nв одночасье, стали супер-популярными.
+Dialogue: 0,0:04:50.92,0:04:52.97,Default,Парень,0,0,0,,{\a6}Эй, Я знаю её.
+Dialogue: 0,0:04:51.46,0:04:52.97,Default,Яэ,0,0,0,,Ты так думаешь?
+Dialogue: 0,0:04:52.97,0:04:54.72,Default,Парень,0,0,0,,{\a6}Та самая девочка из рекламы!
+Dialogue: 0,0:04:52.97,0:04:55.59,Default,Титосэ,0,0,0,,Таким темпом, уже в концу года,\Nмы будем выступать на Будокане!
+Dialogue: 0,0:04:55.59,0:04:57.09,Default,Яэ,0,0,0,,Ты правда так считаешь?
+Dialogue: 0,0:04:57.09,0:05:00.01,Default,Титосэ,0,0,0,,Шучу-шуткую. Давайте, пойдём уже.
+Dialogue: 0,0:05:00.01,0:05:01.27,Default,Титосэ,0,0,0,,Самое время оторваться на работе по-полной!
+Dialogue: 0,0:05:01.56,0:05:03.35,Default,Кото,0,0,0,,И то верно…
+Dialogue: 0,0:05:03.64,0:05:05.27,Default,Титосэ,0,0,0,,Кото-тян, что-то случилось?
+Dialogue: 0,0:05:05.27,0:05:08.23,Default,Титосэ,0,0,0,,Сэйю, продавшаяся 10,000 копиями,\Nне должна так выглядеть.
+Dialogue: 0,0:05:09.15,0:05:11.69,Default,Кото,0,0,0,,Так-то воно так, але з огляду на,\Nяк виглядаэ найважливиша частина…
+Dialogue: 0,0:05:11.69,0:05:12.57,Default,Титосэ,0,0,0,,Наиважнейшая?
+Dialogue: 0,0:05:12.57,0:05:13.69,Default,Кото,0,0,0,,Я про само аниме.
+Dialogue: 0,0:05:14.15,0:05:15.45,Default,Титосэ,0,0,0,,Под "аниме" ты имеешь ввиду…
+Dialogue: 0,0:05:18.20,0:05:21.49,Default,Юна,0,0,0,,Т-Ты, придурок! У-Убирайся!
+Dialogue: 0,0:05:21.49,0:05:24.16,Default,Парень,0,0,0,,И это то самое, о чём все\Nталдычат в этом сезоне.
+Dialogue: 0,0:05:24.16,0:05:27.12,Default,Парень,0,0,0,,Хочется же бросить смотреть с первых кадров\Nопенинга? Я прочёл это на сайте портала.
+Dialogue: 0,0:05:27.12,0:05:29.92,Default,Парень,0,0,0,,Столько шума. Бедный автор.
+Dialogue: 0,0:05:29.92,0:05:31.63,Default,Парень,0,0,0,,Но ведь и оригинал то ещё дерьмо?
+Dialogue: 0,0:05:31.63,0:05:33.42,Default,Парень,0,0,0,,Не читал его, но видел, что про него\Nпишут на сайте портала.
+Dialogue: 0,0:05:33.67,0:05:34.72,Default,Парень,0,0,0,,Точняк.
+Dialogue: 0,0:05:34.72,0:05:37.80,Default,Парень,0,0,0,,На самом деле, мне так жаль \Nсэйю, которые озвучивают этот сериал.
+Dialogue: 0,0:05:37.80,0:05:39.47,Default,Парень,0,0,0,,Но ведь и они тоже дерьмо?
+Dialogue: 0,0:05:39.47,0:05:41.26,Default,Парень,0,0,0,,Не слышал их, но видел, что про них\Nпишут на сайте портала.
+Dialogue: 0,0:05:41.26,0:05:43.97,Default,Парень,0,0,0,,Точняк. Кто там был ведущим?
+Dialogue: 0,0:05:48.81,0:05:50.40,Default,Титосэ,0,0,0,,Мы так стараемся…
 Dialogue: 0,0:05:50.40,0:05:52.94,Default,Титосэ,0,0,0,,I wish they'd try to see more of the good parts.
 Dialogue: 0,0:05:54.69,0:05:58.03,Default,Кото,0,0,0,,Yeah, but there probably isn't much \Nanyone can do when it looks like that.
 Dialogue: 0,0:05:58.36,0:06:00.78,Default,Яэ,0,0,0,,Кото-тян, did you see the newest episode?
@@ -263,7 +263,7 @@ Dialogue: 0,0:10:22.84,0:10:25.26,Default,Парень,0,0,0,,Right, but…
 Dialogue: 0,0:10:26.42,0:10:30.39,Default,Парень,0,0,0,,All right… If you'll excuse me…
 Dialogue: 0,0:10:30.89,0:10:32.39,Default,Парень,0,0,0,,Um… Director?
 Dialogue: 0,0:10:32.68,0:10:33.47,Default,Ужас,0,0,0,,Mm-hmm.
-Dialogue: 0,0:10:33.47,0:10:36.73,Default,Парень,0,0,0,,Кудзу-san was wondering if we \Ncould Редактор the final storyboards…
+Dialogue: 0,0:10:33.47,0:10:36.73,Default,Парень,0,0,0,,Кудзу-сан was wondering if we \Ncould Редактор the final storyboards…
 Dialogue: 0,0:10:37.10,0:10:37.93,Default,Ужас,0,0,0,,Mm-hmm.
 Dialogue: 0,0:10:37.93,0:10:40.31,Default,Парень,0,0,0,,We've been releasing the \Nstoryboards on schedule,
 Dialogue: 0,0:10:40.31,0:10:43.48,Default,Парень,0,0,0,,so I told him we'd need earlier notice, but…
@@ -305,7 +305,7 @@ Dialogue: 0,0:11:49.63,0:11:51.09,In_Use_11:40(Ep 05),Надпись,0,0,0,,In U
 Dialogue: 0,0:11:51.68,0:11:54.01,Default,Товада,0,0,0,,If we actually report all of this red,
 Dialogue: 0,0:11:54.39,0:11:56.64,Default,Товада,0,0,0,,everyone's going to be super pissed…
 Dialogue: 0,0:11:56.64,0:11:57.72,Default,Кудзу,0,0,0,,It'll be fine.
-Dialogue: 0,0:11:59.02,0:12:00.18,Default,Товада,0,0,0,,Кудзу-san…
+Dialogue: 0,0:11:59.02,0:12:00.18,Default,Товада,0,0,0,,Кудзу-сан…
 Dialogue: 0,0:12:04.40,0:12:06.27,Default,Кудзу,0,0,0,,Because of these mounting demands,
 Dialogue: 0,0:12:06.27,0:12:08.90,Default,Кудзу,0,0,0,,the initial cost slightly… \Nslightly, just somewhat,
 Dialogue: 0,0:12:08.90,0:12:11.74,Default,Кудзу,0,0,0,,had no choice but to take a turn for the worse…
@@ -460,7 +460,7 @@ Dialogue: 0,0:18:55.22,0:18:56.93,Default - Top,ТВ,0,0,0,,That's correct.
 Dialogue: 0,0:18:56.93,0:19:00.60,Default - Top,ТВ,0,0,0,,Of course, that means \Nfeeding them, making nests,
 Dialogue: 0,0:19:00.60,0:19:04.57,Default - Top,ТВ,0,0,0,,and warming up the eggs \Nare all jobs for the male.
 Dialogue: 0,0:19:04.57,0:19:06.90,Default - Top,ТВ,0,0,0,,Wow! That's amazing.
-Dialogue: 0,0:19:05.78,0:19:07.57,Default,Товада,0,0,0,,What do you want, Кудзу-san?
+Dialogue: 0,0:19:05.78,0:19:07.57,Default,Товада,0,0,0,,What do you want, Кудзу-сан?
 Dialogue: 0,0:19:08.24,0:19:10.82,Default,Кудзу,0,0,0,,Sorry about the other day.
 Dialogue: 0,0:19:11.28,0:19:12.24,Default,Кудзу,0,0,0,,Are you mad?
 Dialogue: 0,0:19:12.49,0:19:13.99,Default,Товада,0,0,0,,I'm not mad.
@@ -484,7 +484,7 @@ Dialogue: 0,0:20:12.43,0:20:14.39,Default,Годзё,0,0,0,,I'm home… Huh?
 Dialogue: 0,0:20:16.18,0:20:17.93,Default,Титосэ,0,0,0,,Годзё-кун…
 Dialogue: 0,0:20:25.81,0:20:27.98,Default,Годзё,0,0,0,,What? What's wrong with you?
 Dialogue: 0,0:20:30.28,0:20:32.32,Default,Титосэ,0,0,0,,Th-This…
-Dialogue: 0,0:20:34.03,0:20:37.99,Texts/tweets(Ep 05),Надпись,0,0,0,,I really hate her. \NПареньs! Let's all stop bashing Карасума Amateur-san!\NI'm better than her\NVoice actors who think they're hot shit are gross\NI'm never watching an anime with her in it again\NShe's a pro amateur lolololololol\NThis voice actress isn't bad for an amateur\N{\c&H2D0EC1&}Take that, Kadokura\N{\c&H271817&}Карасума Титосэ is a shit voice actress who only got this role because of Nan Pro's massive push\NYou can't just be good at events…\N{\c&H2D0EC1&}Incoming Spam
+Dialogue: 0,0:20:34.03,0:20:37.99,Texts/tweets(Ep 05),Надпись,0,0,0,,I really hate her. \NПареньs! Let's all stop bashing Карасума Amateur-сан!\NI'm better than her\NVoice actors who think they're hot shit are gross\NI'm never watching an anime with her in it again\NShe's a pro amateur lolololololol\NThis voice actress isn't bad for an amateur\N{\c&H2D0EC1&}Take that, Kadokura\N{\c&H271817&}Карасума Титосэ is a shit voice actress who only got this role because of Nan Pro's massive push\NYou can't just be good at events…\N{\c&H2D0EC1&}Incoming Spam
 Dialogue: 0,0:20:37.99,0:20:42.00,Texts/tweets(Ep 05),Надпись,0,0,0,,She's about the 7th cutest in class\N Don't underestimate voice actors. Die, die, die!\NVoice actress from a bombed series\NPiece of trash with a big head\NLow-level stiff acting\NHer attitude is trash, so she's got nothing going for her\NLick, lick, lick, lick, lick, lick, lick, lick… ugh\N{\c&H2D0EC1&}Kusure: war criminal forever
 Dialogue: 0,0:20:40.16,0:20:42.00,Default,Годзё,0,0,0,,These are pretty accurate…
 Dialogue: 0,0:20:47.04,0:20:49.55,Default,Годзё,0,0,0,,There's no point in getting upset over these.
@@ -514,7 +514,7 @@ Dialogue: 0,0:22:10.21,0:22:12.55,Default,Кудзу,0,0,0,,But… but…
 Dialogue: 0,0:22:12.80,0:22:15.26,Default,Кудзу,0,0,0,,But fear not, Towada-кун!
 Dialogue: 0,0:22:15.92,0:22:18.30,Default,Кудзу,0,0,0,,I have a secret plan.
 Dialogue: 0,0:23:49.89,0:24:19.96,Preview,Надпись,0,0,0,,Preview
-Dialogue: 0,0:23:51.23,0:23:53.27,Default,Товада,0,0,0,,What's your secret plan, Кудзу-san?
+Dialogue: 0,0:23:51.23,0:23:53.27,Default,Товада,0,0,0,,What's your secret plan, Кудзу-сан?
 Dialogue: 0,0:23:53.27,0:23:55.69,Default,Кудзу,0,0,0,,When talking about promoting anime, \Nthere's nothing else!
 Dialogue: 0,0:23:55.69,0:23:56.69,Default,Кудзу,0,0,0,,Whisper, whisper…
 Dialogue: 0,0:23:56.69,0:23:58.53,Default,Товада,0,0,0,,What? You're going to get in trouble!
