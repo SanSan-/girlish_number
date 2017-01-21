@@ -16,9 +16,9 @@ Audio File: [Leopard-Raws] Girlish Number - 02 RAW (TBS 1280x720 x264 AAC).mp4
 Video File: [Leopard-Raws] Girlish Number - 02 RAW (TBS 1280x720 x264 AAC).mp4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 209
-Active Line: 217
-Video Position: 34024
+Scroll Position: 121
+Active Line: 131
+Video Position: 33686
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,8 +36,8 @@ Dialogue: 0,0:01:00.03,0:01:00.74,OP_Rom,,0,0,0,,{\c&H88B4E1&}Kuyashii (namida){
 Dialogue: 0,0:01:00.74,0:01:01.45,OP_Rom,,0,0,0,,{\c&HA7EAF0&}Kuyashii (namida) kurushii{\alphaFF} (ano hi)
 Dialogue: 0,0:01:01.45,0:01:02.12,OP_Rom,,0,0,0,,{\c&H9FC8DD&}Kuyashii (namida) kurushii (ano hi)
 Dialogue: 0,0:01:02.12,0:01:07.96,OP_Rom,,0,0,0,,{\fad(0,2000)\c&H8E61C3&\t(4071,0,(\fs44)}Koete saku darou
-Dialogue: 0,0:01:07.21,0:01:12.92,Надпись,,0,0,0,,{\fad(100,0)\blur1\fs50\fscx80\fscy75\t(\fs36)\c&H464241&\fsp25\fnTahoma\move(618.743,112.914,618.743,131.2,23,5696)}деви{\fsp2}(а{\fsp25})чий номер
-Dialogue: 0,0:01:12.92,0:01:13.01,Надпись,,0,0,0,,{\blur1\fscx80\fscy75\fs36\c&H464241&\fsp25\fnTahoma\pos(618.762,131.2)\iclip(m 516 142 l 510 128 503 109 501 80 502 52 963 47 950 190 522 155)}деви{\fsp2}(а{\fsp25})чий номер
+Dialogue: 0,0:01:07.21,0:01:12.92,Надпись,,0,0,0,,{\fad(100,0)\blur1\fs50\fscx80\fscy75\t(\fs36)\c&H464241&\fsp25\fnTahoma\move(618.743,112.914,618.743,131.2,23,5696)}девч{\fsp2}(а{\fsp25})чий номер
+Dialogue: 0,0:01:12.92,0:01:13.01,Надпись,,0,0,0,,{\blur1\fscx80\fscy75\fs36\c&H464241&\fsp25\fnTahoma\pos(618.762,131.2)\iclip(m 516 142 l 510 128 503 109 501 80 502 52 963 47 950 190 522 155)}девч{\fsp2}(а{\fsp25})чий номер
 Dialogue: 0,0:01:15.14,0:01:20.39,OP_Rom,,0,0,0,,{\fad(200,220)\fax-0.3\t(1770,2062,(\fax0)}Chiisana yume no tane wo maku
 Dialogue: 0,0:01:20.39,0:01:21.26,OP_Rom,,0,100,0,,{\an9\fad(150,150)\fscx80\fscy80\t(0,620,(\fscx100\fscy100))}Donna
 Dialogue: 0,0:01:21.18,0:01:22.01,OP_Rom,,100,0,0,,{\an7\fad(150,150)\fscx80\fscy80\t(0,620,(\fscx100\fscy100))}Donna
@@ -141,6 +141,14 @@ Dialogue: 0,0:22:21.69,0:22:21.98,ED_Rom,,0,0,0,,Furē! Furē! {\alphaFF}Furē! 
 Dialogue: 0,0:22:21.98,0:22:22.27,ED_Rom,,0,0,0,,Furē! Furē! Furē! {\alphaFF}☆
 Dialogue: 0,0:22:22.27,0:22:22.61,ED_Rom,,0,0,0,,Furē! Furē! Furē! ☆
 Dialogue: 0,0:22:22.61,0:22:24.61,ED_Rom,,0,0,0,,Yumemiyo otome
+Dialogue: 0,0:22:24.61,0:22:28.36,Надпись,,0,0,0,,{\alpha&H80&\fad(750,0)\blur3\fs170\fscx80\fscy75\t(\fs46\blur1)\c&H464241&\fsp25\fnTahoma\move(630.743,725.914,630.743,465.2,145,2520)}девч{\fsp2}(а{\fsp25})чий номер
+Dialogue: 0,0:22:28.36,0:22:31.66,Надпись,,0,0,0,,{\alpha&H88&\blur1\fs46\fscx80\fscy75\t(\fs46)\c&H464241&\fsp25\fnTahoma\pos(630.743,465.2)}девч{\fsp2}(а{\fsp25})чий номер
+Dialogue: 0,0:22:31.66,0:22:31.74,Надпись,,0,0,0,,{\alpha&H88&\blur1\fs46\fs46\fscx80\fscy75\t(\fs46)\c&H464241&\fsp25\fnTahoma\fscx86\fscy86\pos(626.743,467.2)\frz358.7}девч{\fsp2}(а{\fsp25})чий номер
+Dialogue: 0,0:22:31.74,0:22:31.82,Надпись,,0,0,0,,{\alpha&H80&\blur1\fs48\pos(630.743,465.2)\fscx86\fscy86\t(\fs46)\c&H464241&\fsp25\fnTahoma\pos(594.743,483.2)\fscx89\fscy89\org(484.743,249.2)\frz350.7}девч{\fsp2}(а{\fsp25})чий номер
+Dialogue: 0,0:22:31.82,0:22:31.91,Надпись,,0,0,0,,{\alpha&H78&\blur1.5\fs48\pos(594.743,483.2)\fscx89\fscy89\t(\fs46)\c&H464241&\fsp25\fnTahoma\pos(542.743,517.2)\fscx98\fscy98\org(518.743,305.2)\frx2\fry0\frz333.5}девч{\fsp2}(а{\fsp25})чий номер
+Dialogue: 0,0:22:31.91,0:22:31.99,Надпись,,0,0,0,,{\alpha&H78&\blur2.5\fs48\pos(542.743,517.2)\fscx98\fscy98\frx2\fry0\t(\fs46)\c&H464241&\fsp25\fnTahoma\fscx162\fscy162\frx0\fry0\pos(426.743,611.2)\frz305\org(550.743,261.2)}девч{\fsp2}(а{\fsp25})чий номер
+Dialogue: 0,0:22:31.99,0:22:32.08,Надпись,,0,0,0,,{\alpha&H64&\blur3.5\fs48\fscx162\fscy162\frx0\fry0\org(550.743,261.2)\t(\fs46)\c&H464241&\fsp25\fnTahoma\fscx175\fscy175\frx0\fry0\org(212.743,351.2)\pos(564.743,607.2)\frz261.9}девч{\fsp2}(а{\fsp25})чий номер
+Dialogue: 0,0:22:32.08,0:22:32.24,Надпись,,0,0,0,,{\alpha&H68&\blur7\fs48\fscx175\fscy175\frx0\fry0\org(212.743,351.2)\pos(564.743,607.2)\frz261.9\t(\fs46)\c&H464241&\fsp25\fnTahoma\fscx275\fscy275\frx0\fry0\org(212.743,351.2)\frz202.2\pos(62.743,685.2)}девч{\fsp2}(а{\fsp25})чий номер
 Dialogue: 0,0:22:32.24,0:22:34.70,ED_Rom,,0,0,0,,{\c&H8E61C3&}Nantoka naru noda tensai
 Dialogue: 0,0:22:37.25,0:22:39.37,ED_Rom,,0,0,0,,{\c&H9FC8DD&}Kawai-sa datte sainōdesho
 Dialogue: 0,0:22:42.09,0:22:44.38,ED_Rom,,0,0,0,,{\c&H8F5E68&}Zuru-sa mo {\i1}spice essence{\i0}
@@ -152,6 +160,8 @@ Dialogue: 0,0:23:05.82,0:23:10.74,ED_Rom,,0,0,0,,{\fad(0,700)}{\i1}Ne~e Ne~e {\i
 Dialogue: 0,0:23:11.11,0:23:15.99,ED_Rom,,0,0,0,,{\i1}Come on ☆ future{\i0} igaito majina yume
 Dialogue: 0,0:23:16.08,0:23:22.33,ED_Rom,,0,0,0,,{\fad(0,1056)\t(5074,0,(\fs32))}Kake dashita shunkan kujīta hāto ga moe teru no~
 Dialogue: 0,0:23:21.29,0:23:25.34,ED_Rom,,0,0,0,,{\move(640,60,639.822,20.178,26,2528)}Dokidokidoki itai kurai iki teru
+Dialogue: 0,0:23:21.71,0:23:25.00,Надпись,,0,0,0,,{\fad(250,250)\an9\fnConstantia Regular)\fs36\pos(1010,85)\blur3\bord.5\shad0.5\c&HFFFFFF\3c&H000000\4c&HFFFFFF}Перевод\NТаймкод\NОформление\N\N\N\NПри поддержке
+Dialogue: 0,0:23:21.71,0:23:25.00,Надпись,,0,0,0,,{\fad(250,250)\an7\fnConstantia Regular)\fs36\pos(1010,85)\blur3\bord.5\shad0.5\c&HFFFFFF\3c&H000000\4c&HFFFFFF} \N\N\N\N\NSanSan\N\N\N\NKaschenka
 Dialogue: 0,0:23:25.34,0:23:28.80,ED_Rom,,0,0,0,,Doryoku nante shinai no~ {\alphaFF}shi chau no
 Dialogue: 0,0:23:28.80,0:23:29.80,ED_Rom,,0,0,0,,{\c&H8E61C3&}Doryoku nante shinai no~ shi chau no
 Dialogue: 0,0:23:29.80,0:23:30.09,ED_Rom,,0,0,0,,Furē! {\alphaFF}Furē! Furē! ☆
