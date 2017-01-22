@@ -16,9 +16,9 @@ Audio File: [Leopard-Raws] Girlish Number - 02 RAW (TBS 1280x720 x264 AAC).mp4
 Video File: [Leopard-Raws] Girlish Number - 02 RAW (TBS 1280x720 x264 AAC).mp4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 144
-Active Line: 149
-Video Position: 33690
+Scroll Position: 127
+Active Line: 132
+Video Position: 32366
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -141,22 +141,64 @@ Dialogue: 0,0:22:21.69,0:22:21.98,ED_Rom,,0,0,0,,Furē! Furē! {\alphaFF}Furē! 
 Dialogue: 0,0:22:21.98,0:22:22.27,ED_Rom,,0,0,0,,Furē! Furē! Furē! {\alphaFF}☆
 Dialogue: 0,0:22:22.27,0:22:22.61,ED_Rom,,0,0,0,,Furē! Furē! Furē! ☆
 Dialogue: 0,0:22:22.61,0:22:24.61,ED_Rom,,0,0,0,,Yumemiyo otome
-Dialogue: 1,0:22:25.15,0:22:25.23,Надпись,,0,0,0,,{\alpha&H39&\blur2.1\fs265\fscx80\fscy75\c&H464241&\fsp25\fnTahoma\pos(636,757)}{\fsp2}а{\fsp45})чий   ном 
-Dialogue: 1,0:22:25.23,0:22:25.32,Надпись,,0,0,0,,{\alpha&H39&\blur1.9\fs235\fscx80\fscy75\c&H464241&\fsp25\fnTahoma\pos(636,707)}{\fsp2}а{\fsp15})ч и й    н о м
-Dialogue: 1,0:22:25.32,0:22:25.40,Надпись,,0,0,0,,{\alpha&H39&\blur1.7\fs215\fscx80\fscy75\c&H464241&\fsp25\fnTahoma\pos(636,662)}{\fsp2}а{\fsp28})ч и й   н о м
+Dialogue: 1,0:22:25.15,0:22:25.23,Надпись,,0,0,0,,{\alpha&H39&\blur2.1\fs265\fscx80\fscy75\c&H464241&\fsp35\fnTahoma\pos(577,757)}{\fsp2}а{\fsp35})чий   ном 
+Dialogue: 1,0:22:25.23,0:22:25.32,Надпись,,0,0,0,,{\alpha&H39&\blur1.9\fs215\fscx80\fscy75\c&H464241&\fsp25\fnTahoma\pos(617,707)}{\fsp2}а{\fsp25}) ч и й   н о м
+Dialogue: 1,0:22:25.32,0:22:25.40,Надпись,,0,0,0,,{\alpha&H39&\blur1.7\fs211\fscx80\fscy75\c&H464241&\fsp26\fnTahoma\pos(617,658)}{\fsp2}(а{\fsp26}) ч и й  н о м
+Dialogue: 1,0:22:25.40,0:22:25.49,Надпись,,0,0,0,,{\alpha&H39&\blur1.7\fs165\fscx80\fscy75\c&H464241&\fsp26\fnTahoma\pos(676,628)}{\fsp2}(а{\fsp26}) ч и й   н о м е
+Dialogue: 1,0:22:25.49,0:22:25.57,Надпись,,0,0,0,,{\alpha&H39&\blur1.6\fs147\fscx80\fscy75\c&H464241&\fsp25\fnTahoma\pos(626,602)}ч {\fsp2}(а{\fsp25}) ч и й   н о м е 
+Dialogue: 1,0:22:25.57,0:22:25.65,Надпись,,0,0,0,,{\alpha&H39&\blur1.6\fs117\fscx80\fscy75\c&H464241&\fsp24\fnTahoma\pos(619,582)}в ч {\fsp2}(а{\fsp24}) ч и й   н о м е р
+Dialogue: 1,0:22:25.65,0:22:25.74,Надпись,,0,0,0,,{\alpha&H40&\blur1.6\fs121\fscx80\fscy75\c&H464241&\fsp23\fnTahoma\pos(619,557)}в ч {\fsp2}(а{\fsp22}) ч и й   н о м е р
+Dialogue: 1,0:22:25.74,0:22:25.82,Надпись,,0,0,0,,{\alpha&H44&\blur1.6\fs108\fscx80\fscy75\c&H464241&\fsp22\fnTahoma\pos(619,546)}в ч {\fsp2}(а{\fsp22}) ч и й   н о м е р
+Dialogue: 1,0:22:25.82,0:22:25.90,Надпись,,0,0,0,,{\alpha&H44&\blur1.6\fs101\fscx80\fscy75\c&H464241&\fsp21\fnTahoma\pos(619,530)}в ч {\fsp2}(а{\fsp21}) ч и й   н о м е р
+Dialogue: 1,0:22:25.90,0:22:25.99,Надпись,,0,0,0,,{\alpha&H48&\blur1.5\fs95\fscx80\fscy75\c&H464241&\fsp20\fnTahoma\pos(597,520)}е в ч {\fsp2}(а{\fsp20}) ч и й   н о м е р
+Dialogue: 1,0:22:25.99,0:22:26.07,Надпись,,0,0,0,,{\alpha&H48&\blur1.5\fs90\fscx80\fscy75\c&H464241&\fsp18\fnTahoma\pos(577,510)}д е в ч {\fsp2}(а{\fsp18}) ч и й   н о м е р
+Dialogue: 1,0:22:26.07,0:22:26.15,Надпись,,0,0,0,,{\alpha&H50&\blur1.4\fs85\fscx80\fscy75\c&H464241&\fsp17\fnTahoma\pos(577,500)}д е в ч {\fsp2}(а{\fsp17}) ч и й   н о м е р
+Dialogue: 1,0:22:26.15,0:22:26.24,Надпись,,0,0,0,,{\alpha&H55&\blur1.4\fs80\fscx80\fscy75\c&H464241&\fsp16\fnTahoma\pos(577,494)}д е в ч {\fsp2}(а{\fsp16}) ч и й   н о м е р
+Dialogue: 1,0:22:26.24,0:22:26.32,Надпись,,0,0,0,,{\alpha&H55&\blur1.3\fs75\fscx80\fscy75\c&H464241&\fsp15\fnTahoma\pos(577,486)}д е в ч {\fsp2}(а{\fsp15}) ч и й   н о м е р
+Dialogue: 1,0:22:26.32,0:22:26.40,Надпись,,0,0,0,,{\alpha&H55&\blur1.3\fs70\fscx80\fscy75\c&H464241&\fsp15\fnTahoma\pos(577,480)}д е в ч {\fsp2}(а{\fsp15}) ч и й   н о м е р
+Dialogue: 1,0:22:26.40,0:22:26.49,Надпись,,0,0,0,,{\alpha&H55&\blur1.2\fs65\fscx80\fscy75\c&H464241&\fsp14\fnTahoma\pos(577,476)}д е в ч {\fsp2}(а{\fsp14}) ч и й   н о м е р
+Dialogue: 1,0:22:26.49,0:22:26.57,Надпись,,0,0,0,,{\alpha&H55&\blur1.2\fs60\fscx80\fscy75\c&H464241&\fsp13\fnTahoma\pos(577,472)}д е в ч {\fsp2}(а{\fsp13}) ч и й   н о м е р
+Dialogue: 1,0:22:26.57,0:22:26.65,Надпись,,0,0,0,,{\alpha&H58&\blur1.1\fs59\fscx80\fscy75\c&H464241&\fsp13\fnTahoma\pos(577,468)}д е в ч {\fsp2}(а{\fsp13}) ч и й   н о м е р
+Dialogue: 1,0:22:26.65,0:22:26.74,Надпись,,0,0,0,,{\alpha&H58&\blur1.1\fs58\fscx80\fscy75\c&H464241&\fsp13\fnTahoma\pos(577,462)}д е в ч {\fsp2}(а{\fsp13}) ч и й   н о м е р
+Dialogue: 1,0:22:26.74,0:22:26.82,Надпись,,0,0,0,,{\alpha&H58&\blur1.1\fs57\fscx80\fscy75\c&H464241&\fsp13\fnTahoma\pos(577,458)}д е в ч {\fsp2}(а{\fsp13}) ч и й   н о м е р
+Dialogue: 1,0:22:26.82,0:22:26.90,Надпись,,0,0,0,,{\alpha&H58&\blur1.1\fs56\fscx80\fscy75\c&H464241&\fsp13\fnTahoma\pos(577,454)}д е в ч {\fsp2}(а{\fsp13}) ч и й   н о м е р
 Dialogue: 0,0:22:25.15,0:22:25.23,Надпись,,0,0,0,,{\p1\blur1\c&fafafa&\pos(636,677)\org(636,679)}m 0 0 l 1272 0 l 1272 236 l 0 236
-Dialogue: 0,0:22:25.23,0:22:25.32,Надпись,,0,0,0,,{\p1\blur1\c&fafafa&\pos(636,677)\org(636,679)}m 0 0 l 1297 0 l 1297 236 l 0 236
-Dialogue: 0,0:22:25.32,0:22:25.40,Надпись,,0,0,0,,{\p1\blur1\c&fafafa&\pos(636,677)\org(636,679)}m 0 0 l 1297 0 l 1297 236 l 0 236
-Dialogue: 1,0:22:26.90,0:22:28.36,Надпись,,0,0,0,,{\alpha&H80&\blur1\fs55\t(\fs36)\fscx80\fscy75\c&H464241&\fsp13\fnTahoma\move(606.743,452.2,626.743,427.2,0,0)}д е в ч{\fsp2}( а {\fsp13})ч и й     н о м е р
+Dialogue: 0,0:22:25.23,0:22:25.32,Надпись,,0,0,0,,{\p1\blur1\c&fafafa&\pos(638,685)\org(638,683)}m 0 0 l 1297 0 l 1297 236 l 0 236
+Dialogue: 0,0:22:25.32,0:22:25.40,Надпись,,0,0,0,,{\p1\blur1\c&fafafa&\pos(636,667)\org(636,679)}m 0 0 l 1297 0 l 1297 236 l 0 236
+Dialogue: 0,0:22:25.40,0:22:25.49,Надпись,,0,0,0,,{\p1\blur1\c&fafafa&\pos(636,667)\org(636,679)}m 0 0 l 1297 0 l 1297 236 l 0 236
+Dialogue: 0,0:22:25.49,0:22:25.57,Надпись,,0,0,0,,{\p1\blur1\c&fafafa&\pos(636,657)\org(636,679)}m 0 0 l 1297 0 l 1297 236 l 0 236
+Dialogue: 0,0:22:25.57,0:22:25.65,Надпись,,0,0,0,,{\p1\blur1\c&fafafa&\pos(636,645)\org(636,679)}m 0 0 l 1297 0 l 1297 236 l 0 236
+Dialogue: 0,0:22:25.65,0:22:25.74,Надпись,,0,0,0,,{\p1\blur1\c&fafafa&\pos(636,631)\org(636,679)}m 0 0 l 1297 0 l 1297 236 l 0 236
+Dialogue: 0,0:22:25.74,0:22:25.82,Надпись,,0,0,0,,{\p1\blur1\c&fafafa&\pos(636,621)\org(636,679)}m 0 0 l 1297 0 l 1297 236 l 0 236
+Dialogue: 0,0:22:25.82,0:22:25.90,Надпись,,0,0,0,,{\p1\blur1\c&fafafa&\pos(636,611)\org(636,679)}m 0 0 l 1297 0 l 1297 236 l 0 236
+Dialogue: 0,0:22:25.90,0:22:25.99,Надпись,,0,0,0,,{\p1\blur1\c&fafafa&\pos(636,601)\org(636,679)}m 0 0 l 1297 0 l 1297 236 l 0 236
+Dialogue: 0,0:22:25.99,0:22:26.07,Надпись,,0,0,0,,{\p1\blur1\c&fafafa&\pos(636,590)\org(636,679)}m 0 0 l 1297 0 l 1297 236 l 0 236
+Dialogue: 0,0:22:26.07,0:22:26.15,Надпись,,0,0,0,,{\p1\blur1\c&fafafa&\pos(636,585)\org(636,679)}m 0 0 l 1297 0 l 1297 236 l 0 236
+Dialogue: 0,0:22:26.15,0:22:26.24,Надпись,,0,0,0,,{\p1\blur1\c&fafafa&\pos(636,585)\org(636,679)}m 0 0 l 1297 0 l 1297 236 l 0 236
+Dialogue: 0,0:22:26.24,0:22:26.32,Надпись,,0,0,0,,{\p1\blur1\c&fafafa&\pos(636,580)\org(636,679)}m 0 0 l 1297 0 l 1297 236 l 0 236
+Dialogue: 0,0:22:26.32,0:22:26.40,Надпись,,0,0,0,,{\p1\blur1\c&fafafa&\pos(636,575)\org(636,679)}m 0 0 l 1297 0 l 1297 236 l 0 236
+Dialogue: 0,0:22:26.40,0:22:26.49,Надпись,,0,0,0,,{\p1\blur1\c&fafafa&\pos(636,570)\org(636,679)}m 0 0 l 1297 0 l 1297 236 l 0 236
+Dialogue: 0,0:22:26.49,0:22:26.57,Надпись,,0,0,0,,{\p1\blur1\c&fafafa&\pos(636,565)\org(636,679)}m 0 0 l 1297 0 l 1297 236 l 0 236
+Dialogue: 0,0:22:26.57,0:22:26.65,Надпись,,0,0,0,,{\p1\blur1\c&fafafa&\pos(636,565)\org(636,679)}m 0 0 l 1297 0 l 1297 236 l 0 236
+Dialogue: 0,0:22:26.65,0:22:26.74,Надпись,,0,0,0,,{\p1\blur1\c&fafafa&\pos(636,560)\org(636,679)}m 0 0 l 1297 0 l 1297 236 l 0 236
+Dialogue: 0,0:22:26.74,0:22:26.82,Надпись,,0,0,0,,{\p1\blur1\c&fafafa&\pos(636,555)\org(636,679)}m 0 0 l 1297 0 l 1297 236 l 0 236
+Dialogue: 0,0:22:26.82,0:22:26.90,Надпись,,0,0,0,,{\p1\blur1\c&fafafa&\pos(636,555)\org(636,679)}m 0 0 l 1297 0 l 1297 236 l 0 236
+Dialogue: 1,0:22:26.90,0:22:28.36,Надпись,,0,0,0,,{\alpha&H60&\blur1\fs55\t(\fs36)\fscx80\fscy75\c&H464241&\fsp13\fnTahoma\move(577.743,452.2,588.743,428.2,0,0)}д е в ч {\fsp2}(а{\fsp13}) ч и й   н о м е р
 Dialogue: 0,0:22:26.90,0:22:28.36,Надпись,,0,0,0,,{\p1\blur1\c&fafafa&\move(636,547,636,532)\org(636,679)}m 0 0 l 1297 0 l 1297 236 l 0 236
-Dialogue: 1,0:22:28.36,0:22:31.66,Надпись,,0,0,0,,{\alpha&H80&\blur1\fs36\fscx80\fscy75\c&H464241&\fsp13\fnTahoma\pos(626.743,427.2)}д е в ч{\fsp2}( а {\fsp13})ч и й     н о м е р
-Dialogue: 0,0:22:28.36,0:22:31.66,Надпись,,0,0,0,,{\p1\blur1\c&fafafa&\fscx108\fscy18\pos(631.33,426.83)}m 0 0 l 1297 0 l 1297 236 l 0 236
-Dialogue: 0,0:22:31.66,0:22:31.74,Надпись,,0,0,0,,{\alpha&H88&\blur1\fs46\fs45\fscx80\fscy75\t(\fs46)\c&H464241&\fsp25\fnTahoma\fscx86\fscy86\frz358.7\pos(612.743,427.2)}девч{\fsp2}(а{\fsp25})чий номер
-Dialogue: 0,0:22:31.74,0:22:31.82,Надпись,,0,0,0,,{\alpha&H80&\blur1\fs48\pos(630.743,465.2)\fscx86\fscy86\t(\fs46)\c&H464241&\fsp25\fnTahoma\pos(594.743,483.2)\fscx89\fscy89\org(484.743,249.2)\frz350.7}девч{\fsp2}(а{\fsp25})чий номер
-Dialogue: 0,0:22:31.82,0:22:31.91,Надпись,,0,0,0,,{\alpha&H78&\blur1.5\fs48\pos(594.743,483.2)\fscx89\fscy89\t(\fs46)\c&H464241&\fsp25\fnTahoma\pos(542.743,517.2)\fscx98\fscy98\org(518.743,305.2)\frx2\fry0\frz333.5}девч{\fsp2}(а{\fsp25})чий номер
-Dialogue: 0,0:22:31.91,0:22:31.99,Надпись,,0,0,0,,{\alpha&H78&\blur2.5\fs48\pos(542.743,517.2)\fscx98\fscy98\frx2\fry0\t(\fs46)\c&H464241&\fsp25\fnTahoma\fscx162\fscy162\frx0\fry0\pos(426.743,611.2)\frz305\org(550.743,261.2)}девч{\fsp2}(а{\fsp25})чий номер
-Dialogue: 0,0:22:31.99,0:22:32.08,Надпись,,0,0,0,,{\alpha&H64&\blur3.5\fs48\fscx162\fscy162\frx0\fry0\org(550.743,261.2)\t(\fs46)\c&H464241&\fsp25\fnTahoma\fscx175\fscy175\frx0\fry0\org(212.743,351.2)\pos(564.743,607.2)\frz261.9}девч{\fsp2}(а{\fsp25})чий номер
-Dialogue: 0,0:22:32.08,0:22:32.24,Надпись,,0,0,0,,{\alpha&H68&\blur7\fs48\fscx175\fscy175\frx0\fry0\org(212.743,351.2)\pos(564.743,607.2)\frz261.9\t(\fs46)\c&H464241&\fsp25\fnTahoma\fscx275\fscy275\frx0\fry0\org(212.743,351.2)\frz202.2\pos(62.743,685.2)}девч{\fsp2}(а{\fsp25})чий номер
+Dialogue: 1,0:22:28.36,0:22:31.66,Надпись,,0,0,0,,{\alpha&H60&\blur1\fs36\fscx80\fscy75\c&H464241&\fsp13\fnTahoma\pos(588.743,428.2)}д е в ч {\fsp2}(а{\fsp13}) ч и й   н о м е р
+Dialogue: 0,0:22:28.36,0:22:31.66,Надпись,,0,0,0,,{\p1\blur1\c&fafafa&\fscx108\fscy18\pos(617.33,428.83)}m 0 0 l 1297 0 l 1297 236 l 0 236
+Dialogue: 1,0:22:31.66,0:22:31.74,Надпись,,0,0,0,,{\alpha&H60&\blur1\fs46\fs45\fscx80\fscy75\t(\fs46)\c&H464241&\fsp13\fnTahoma\fscx86\fscy86\frz359.1\pos(566.743,423.2)}д е в ч {\fsp2}(а{\fsp13}) ч и й   н о м е р
+Dialogue: 0,0:22:31.66,0:22:31.74,Надпись,,0,0,0,,{\p1\blur1\c&fafafa&\fscx108\fscy18\pos(617.33,428.83)}m 0 0 l 1297 0 l 1297 236 l 0 236
+Dialogue: 1,0:22:31.74,0:22:31.82,Надпись,,0,0,0,,{\alpha&H70&\blur1\fs48\fscx86\fscy86\t(\fs46)\c&H464241&\fsp14\fnTahoma\fscx89\fscy89\org(484.743,249.2)\pos(566.743,419.2)\frz355.6}д е в ч {\fsp2}(а{\fsp14}) ч и й   н о м е р
+Dialogue: 0,0:22:31.74,0:22:31.82,Надпись,,0,0,0,,{\p1\blur1\c&fafafa&\fscx108\fscy18\pos(617.33,428.83)\frz357.1}m 0 0 l 1297 0 l 1297 236 l 0 236
+Dialogue: 1,0:22:31.82,0:22:31.91,Надпись,,0,0,0,,{\alpha&H78&\blur1.5\fs48\fscx89\fscy89\t(\fs46)\c&H464241&\fsp14\fnTahoma\fscx98\fscy98\org(518.743,305.2)\frx2\fry0\pos(564.743,403.2)\frz342.9}д е в ч {\fsp2}(а{\fsp14}) ч и й   н о м е р
+Dialogue: 0,0:22:31.82,0:22:31.91,Надпись,,0,0,0,,{\p1\blur1\c&fafafa&\fscx108\fscy25\pos(609.33,442.83)\frz342.4}m 0 0 l 1297 0 l 1297 236 l 0 236
+Dialogue: 1,0:22:31.91,0:22:31.99,Надпись,,0,0,0,,{\alpha&H78&\blur2.5\fs39\fscx98\fscy98\frx2\fry0\t(\fs46)\c&H464241&\fsp13\fnTahoma\fscx162\fscy162\frx0\fry0\org(550.743,261.2)\frz320.2\pos(546.743,387.2)}д е в ч {\fsp2}(а{\fsp13}) ч и й   н о м е р
+Dialogue: 0,0:22:31.91,0:22:31.99,Надпись,,0,0,0,,{\p1\blur1\c&fafafa&\fscx108\fscy35\pos(589.33,462.83)\frz322.8}m 0 0 l 1297 0 l 1297 236 l 0 236
+Dialogue: 1,0:22:31.99,0:22:32.08,Надпись,,0,0,0,,{\alpha&H64&\blur3.5\fs48\fscx162\fscy162\frx0\fry0\org(550.743,261.2)\t(\fs46)\c&H464241&\fsp13\fnTahoma\fscx175\fscy175\frx0\fry0\org(212.743,351.2)\frz286.1\pos(678.743,353.2)} ч {\fsp2}(а{\fsp13}) ч и й   н о м е р
+Dialogue: 0,0:22:31.99,0:22:32.08,Надпись,,0,0,0,,{\p1\blur1\c&fafafa&\fscx108\fscy35\frz287.8\pos(507.33,452.83)}m 0 0 l 1297 0 l 1297 236 l 0 236
+Dialogue: 1,0:22:32.08,0:22:32.16,Надпись,,0,0,0,,{\alpha&H68&\blur7\fs48\fscx175\fscy175\frx0\fry0\t(\fs46)\c&H464241&\fsp14\fnTahoma\fscx275\fscy275\frx0\fry0\pos(-17.257,275.2)\frz233.7\org(216.743,347.2)}{\fsp2}{\fsp14}) ч и й   н о м
+Dialogue: 0,0:22:32.08,0:22:32.16,Надпись,,0,0,0,,{\p1\blur1\c&fafafa&\fscx108\fscy55\pos(353.33,280.83)\frz233.3}m 0 0 l 1297 0 l 1297 236 l 0 236
 Dialogue: 0,0:22:32.24,0:22:34.70,ED_Rom,,0,0,0,,{\c&H8E61C3&}Nantoka naru noda tensai
 Dialogue: 0,0:22:37.25,0:22:39.37,ED_Rom,,0,0,0,,{\c&H9FC8DD&}Kawai-sa datte sainōdesho
 Dialogue: 0,0:22:42.09,0:22:44.38,ED_Rom,,0,0,0,,{\c&H8F5E68&}Zuru-sa mo {\i1}spice essence{\i0}
