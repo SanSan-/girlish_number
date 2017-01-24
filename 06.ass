@@ -16,9 +16,9 @@ Video File: [Leopard-Raws] Girlish Number - 06 RAW (TBS 1280x720 x264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 59
-Active Line: 69
-Video Position: 7074
+Scroll Position: 119
+Active Line: 127
+Video Position: 9519
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -66,8 +66,8 @@ Style: Status_Board(Towada-1)_00:18(Ep 06),PT Sans,50,&H00000000,&H000000FF,&H00
 Style: Status_Board(Towada-2)_00:18(Ep 06),PT Sans,54,&H00000000,&H000000FF,&H00F8F8F8,&H00461004,-1,0,0,0,100,100,0,0,1,3,0,7,453,41,470,0
 Style: Status_Board(Tominaga)_00:18(Ep 06)real,PT Sans,54,&H00000000,&H000000FF,&H00F8F8F8,&H00461004,-1,0,0,0,100,100,0,0,1,6,0,1,453,41,71,0
 Style: Cell_Phone(Ep 06)v2,PT Sans,32,&H00F4DCDE,&H000000FF,&H004B3231,&H00461004,-1,0,0,0,100,100,0,0,1,3,0,8,557,20,230,0
-Style: Song_Rom,PF Din Text Cond Pro,46,&H00524C48,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,45,45,20,204
-Style: Song_Ru,PF Din Text Cond Pro,46,&H00524C48,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,45,45,20,204
+Style: Song_Rom,PF Din Text Cond Pro,46,&H00C07947,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,0.5,8,45,45,20,204
+Style: Song_Ru,PF Din Text Cond Pro,46,&H00C07947,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,45,45,20,204
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -161,9 +161,46 @@ Dialogue: 0,0:05:27.47,0:05:29.93,Default,Годзё,0,0,0,,тот самый, �
 Dialogue: 0,0:05:30.26,0:05:32.51,Default,Годзё,0,0,0,,Остальные девушки собираются\Nвзять свои собственные, тоже.
 Dialogue: 0,0:05:32.85,0:05:34.98,Default,Кадзуха,0,0,0,,Ну, если вы настаиваете…
 Dialogue: 0,0:05:45.15,0:05:49.66,High_Tension_05:35(Ep 06),Надпись,0,0,0,,{\c&H8261E0&}Всё моё!\N{\c&H00FFFF&}☆\N{\c&HC5F36A&}Высокое напряжение!
-Dialogue: 0,0:05:53.95,0:05:56.66,Song_Rom,Песня,0,0,0,,Kokoro odoru {\alpha&HFF&\t(1420,-30,\alpha&H00&)} kaze ga hakobu
+Dialogue: 0,0:05:53.95,0:05:56.66,Song_Rom,Песня,0,0,0,,Kokoro odoru {\alpha&HFF&\t(1420,-30,\alpha&H00&)}kaze ga hakobu
+Dialogue: 0,0:05:56.78,0:05:59.29,Song_Rom,Песня,0,0,0,,Kimi to hashagi HAI-TACCHI
+Dialogue: 0,0:05:59.71,0:06:03.88,Song_Rom,Песня,0,0,0,,Kotoshi mo mata {\alpha&HFF&\t(2150,-30,\alpha&H00&)}kongari kisetsu
+Dialogue: 0,0:06:04.91,0:06:08.05,Song_Rom,Песня,0,0,0,,TIISHATSU ima nugisutetara
+Dialogue: 0,0:06:08.05,0:06:10.55,Song_Rom,Песня,0,0,0,,Kimi no mune ni DAIBINGU
+Dialogue: 0,0:06:10.84,0:06:15.10,Song_Rom,Песня,0,0,0,,Hito natsu dake no {\alpha&HFF&\t(2350,-30,\alpha&H00&)}HIROIN ni naru
+Dialogue: 0,0:06:16.18,0:06:21.73,Song_Rom,Песня,0,0,0,,Taiyō ni nureta kami ga KIRA KIRA
+Dialogue: 0,0:06:21.77,0:06:25.53,Song_Rom,Песня,0,0,0,,Hikenakya mottainai (i~ei i~ei)
+Dialogue: 0,0:06:25.53,0:06:29.24,Song_Rom,Песня,0,0,0,,Oide (i~ei i~ei) asobo u~tsu
+Dialogue: 0,0:06:30.24,0:06:32.74,Song_Rom,Песня,0,0,0,,Fun {\alpha&HFF&\t(380,-30,\alpha&H00&)}Fun {\alpha&HFF&\t(735,-30,\alpha&H00&)}Fun {\alpha&HFF&\t(1260,-30,\alpha&H00&)}kokona nda
+Dialogue: 0,0:06:33.08,0:06:37.04,Song_Rom,Песня,0,0,0,,{\fad(0,356)\t(3574,0,(\fs12))}Fun {\alpha&HFF&\t(380,-30,\alpha&H00&)}Fun {\alpha&HFF&\t(735,-30,\alpha&H00&)}Fun {\alpha&HFF&\t(1260,-30,\alpha&H00&)}tokonatsuna nda (oh~oh)
+Dialogue: 0,0:06:36.91,0:06:41.54,Song_Rom,Песня,0,0,0,,Itsumo (oh~oh) yori mo daitan'na REMON aji
+Dialogue: 0,0:06:41.54,0:06:44.21,Song_Rom,Песня,0,0,0,,Fun {\alpha&HFF&\t(380,-30,\alpha&H00&)}Fun {\alpha&HFF&\t(735,-30,\alpha&H00&)}Fun {\alpha&HFF&\t(1260,-30,\alpha&H00&)}ima nanda
+Dialogue: 0,0:06:44.29,0:06:47.84,Song_Rom,Песня,0,0,0,,{\fad(0,356)\t(3274,0,(\fs12))}Fun {\alpha&HFF&\t(380,-30,\alpha&H00&)}Fun {\alpha&HFF&\t(735,-30,\alpha&H00&)}Fun {\alpha&HFF&\t(1260,-30,\alpha&H00&)}ima dakena nda
+Dialogue: 0,0:06:47.71,0:06:52.89,Song_Rom,Песня,0,0,0,,Tsukamaete ne (ah~) nagisa no tenshi
+Dialogue: 0,0:06:52.89,0:06:55.18,Song_Rom,Песня,0,0,0,,KYUN {\alpha&HFF&\t(255,-30,\alpha&H00&)}KYUN ☆ {\alpha&HFF&\t(510,-30,\alpha&H00&)}KYUN {\alpha&HFF&\t(765,-30,\alpha&H00&)}KYUN ☆ {\alpha&HFF&\t(1325,-30,\alpha&H00&)}hane teru
+Dialogue: 0,0:06:55.18,0:06:58.06,Song_Rom,Песня,0,0,0,,Boku-ra saikō saikō KARAFURU
+Dialogue: 0,0:06:58.56,0:07:00.89,Song_Rom,Песня,0,0,0,,RAN{\alpha&HFF&\t(260,-30,\alpha&H00&)}RAN ☆ {\alpha&HFF&\t(520,-30,\alpha&H00&)}RAN{\alpha&HFF&\t(780,-30,\alpha&H00&)}RAN ☆ {\alpha&HFF&\t(1345,-30,\alpha&H00&)}tsutawaru
+Dialogue: 0,0:07:00.89,0:07:04.61,Song_Rom,Песня,0,0,0,,Natsu o itadaki ☆ HAI TENSHON!
+Dialogue: 0,0:05:53.95,0:05:56.66,Song_Ru,Песня,0,0,0,,Сердце пляшет в груди {\alpha&HFF&\t(1420,-30,\alpha&H00&)}и с моря дует ветер 
+Dialogue: 0,0:05:56.78,0:05:59.29,Song_Ru,Песня,0,0,0,,Нас с тобой стянуло морской сетью
+Dialogue: 0,0:05:59.71,0:06:03.88,Song_Ru,Песня,0,0,0,,Полыхает лето {\alpha&HFF&\t(2150,-30,\alpha&H00&)}лучшее на свете
+Dialogue: 0,0:06:04.91,0:06:08.05,Song_Ru,Песня,0,0,0,,Футболку долой! Ты же знаешь, порой,
+Dialogue: 0,0:06:08.05,0:06:10.55,Song_Ru,Песня,0,0,0,,Синим волнам нужно всю себя отдать,
+Dialogue: 0,0:06:10.84,0:06:15.10,Song_Ru,Песня,0,0,0,,Чтобы, непременно, {\alpha&HFF&\t(2350,-30,\alpha&H00&)}героиней лета стать
+Dialogue: 0,0:06:16.18,0:06:21.73,Song_Ru,Песня,0,0,0,,Наши мокрые волосы искрятся на солнце
+Dialogue: 0,0:06:21.77,0:06:25.53,Song_Ru,Песня,0,0,0,,Нам хорошо, не думай о конце (й~ей й~ей)
+Dialogue: 0,0:06:25.53,0:06:29.24,Song_Ru,Песня,0,0,0,,Давай (й~ей й~ей) играть~ у~хуу
+Dialogue: 0,0:06:30.24,0:06:32.74,Song_Ru,Песня,0,0,0,,ВЕ~{\alpha&HFF&\t(380,-30,\alpha&H00&)}СЕ~{\alpha&HFF&\t(735,-30,\alpha&H00&)}ЛЬЕ {\alpha&HFF&\t(1260,-30,\alpha&H00&)}а вот и я!
+Dialogue: 0,0:06:33.08,0:06:37.04,Song_Ru,Песня,0,0,0,,{\fad(0,356)\t(3574,0,(\fs12))}ВЕ~{\alpha&HFF&\t(380,-30,\alpha&H00&)}СЕ~{\alpha&HFF&\t(735,-30,\alpha&H00&)}ЛЬЕ {\alpha&HFF&\t(1260,-30,\alpha&H00&)}всё лето для меня (о~оу)
+Dialogue: 0,0:06:36.91,0:06:41.54,Song_Ru,Песня,0,0,0,,Навсегда (о~оу) моря вкус стал острее лимона
+Dialogue: 0,0:06:41.54,0:06:44.21,Song_Ru,Песня,0,0,0,,ВЕ~{\alpha&HFF&\t(380,-30,\alpha&H00&)}СЕ~{\alpha&HFF&\t(735,-30,\alpha&H00&)}ЛЬЯ {\alpha&HFF&\t(1260,-30,\alpha&H00&)}пробил час
+Dialogue: 0,0:06:44.29,0:06:47.84,Song_Ru,Песня,0,0,0,,{\fad(0,356)\t(3274,0,(\fs12))}ВЕ~{\alpha&HFF&\t(380,-30,\alpha&H00&)}СЕ~{\alpha&HFF&\t(735,-30,\alpha&H00&)}ЛЬЕ{\alpha&HFF&\t(1260,-30,\alpha&H00&)}, как раз, только сейчас
+Dialogue: 0,0:06:47.71,0:06:52.89,Song_Ru,Песня,0,0,0,,Словим на берегу (ах~) ангела с иконы
+Dialogue: 0,0:06:52.89,0:06:55.18,Song_Ru,Песня,0,0,0,,Кюн~{\alpha&HFF&\t(255,-30,\alpha&H00&)}Кюн ☆ {\alpha&HFF&\t(510,-30,\alpha&H00&)}Кюн~{\alpha&HFF&\t(765,-30,\alpha&H00&)}Кюн ☆ {\alpha&HFF&\t(1325,-30,\alpha&H00&)}Поехали!
+Dialogue: 0,0:06:55.18,0:06:58.06,Song_Ru,Песня,0,0,0,,Девочки-припевочки, цветастые!
+Dialogue: 0,0:06:58.56,0:07:00.89,Song_Ru,Песня,0,0,0,,Ран~{\alpha&HFF&\t(260,-30,\alpha&H00&)}Ран ☆ {\alpha&HFF&\t(520,-30,\alpha&H00&)}Ран~{\alpha&HFF&\t(780,-30,\alpha&H00&)}Ран ☆ {\alpha&HFF&\t(1345,-30,\alpha&H00&)}Уже в пути!
+Dialogue: 0,0:07:00.89,0:07:04.61,Song_Ru,Песня,0,0,0,,Это лето подарило ☆ Тока разряд! {после перевода ушёл слушать Linkin Park — High Voltage, потому что эта песня унылое говно ;(}
 Dialogue: 0,0:07:05.27,0:07:06.61,Default,Кудзу,0,0,0,,Стоп, снято!
-Dialogue: 0,0:07:06.61,0:07:08.07,Default,Товада,0,0,0,,Great job, everyone!
+Dialogue: 0,0:07:06.61,0:07:08.07,Default,Товада,0,0,0,,Отлично потрудились!
 Dialogue: 0,0:07:09.65,0:07:11.49,Default,Титосэ,0,0,0,,Did you take some photos so I can check?
 Dialogue: 0,0:07:11.49,0:07:12.28,Default,Годзё,0,0,0,,Yeah.
 Dialogue: 0,0:07:12.78,0:07:14.03,Default,Титосэ,0,0,0,,So, how'd I look?
@@ -278,7 +315,7 @@ Dialogue: 0,0:12:21.67,0:12:25.34,Default,Яэ,0,0,0,,Ch-Ти-тян, that's pre
 Dialogue: 0,0:12:25.34,0:12:29.06,Default,Титосэ,0,0,0,,Huh? But they did that to me all \Nthe time back in high school…
 Dialogue: 0,0:12:31.98,0:12:33.77,Default,Момока,0,0,0,,I don't think so!
 Dialogue: 0,0:12:34.44,0:12:35.19,Default,Момока,0,0,0,,Why, you…
-Dialogue: 0,0:12:35.19,0:12:36.02,Default,,0,0,0,,Whoa, wait!
+Dialogue: 0,0:12:35.19,0:12:36.02,Default,Момока,0,0,0,,Whoa, wait!
 Dialogue: 0,0:12:42.36,0:12:44.82,Salt_12:32(Ep 06),Надпись,0,0,0,,Salt
 Dialogue: 0,0:12:42.36,0:12:44.82,Chinsuko_12:32(Ep 06),Надпись,0,0,0,,Chinsuko
 Dialogue: 0,0:12:43.45,0:12:44.82,Default,Парень,0,0,0,,Кудзу-кун…
