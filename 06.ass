@@ -198,131 +198,132 @@ Dialogue: 0,0:06:47.71,0:06:52.89,Song_Ru,Песня,0,0,0,,Словим на б
 Dialogue: 0,0:06:52.89,0:06:55.18,Song_Ru,Песня,0,0,0,,Кюн~{\alpha&HFF&\t(255,-30,\alpha&H00&)}Кюн ☆ {\alpha&HFF&\t(510,-30,\alpha&H00&)}Кюн~{\alpha&HFF&\t(765,-30,\alpha&H00&)}Кюн ☆ {\alpha&HFF&\t(1325,-30,\alpha&H00&)}Поехали!
 Dialogue: 0,0:06:55.18,0:06:58.06,Song_Ru,Песня,0,0,0,,Девочки-припевочки, цветастые!
 Dialogue: 0,0:06:58.56,0:07:00.89,Song_Ru,Песня,0,0,0,,Ран~{\alpha&HFF&\t(260,-30,\alpha&H00&)}Ран ☆ {\alpha&HFF&\t(520,-30,\alpha&H00&)}Ран~{\alpha&HFF&\t(780,-30,\alpha&H00&)}Ран ☆ {\alpha&HFF&\t(1345,-30,\alpha&H00&)}Уже в пути!
-Dialogue: 0,0:07:00.89,0:07:04.61,Song_Ru,Песня,0,0,0,,Это лето подарило ☆ Тока разряд! {после перевода ушёл слушать Linkin Park — High Voltage, потому что эта песня унылое говно ;(}
+Dialogue: 0,0:07:00.89,0:07:04.61,Song_Ru,Песня,0,0,0,,Мне лето подарило ☆ Тока разряд! {Пикачу, я выбираю тебя! Пфее.. После перевода ушёл слушать Linkin Park — High Voltage, потому что песня унылое говно ;()}
 Dialogue: 0,0:07:05.27,0:07:06.61,Default,Кудзу,0,0,0,,Стоп, снято!
 Dialogue: 0,0:07:06.61,0:07:08.07,Default,Товада,0,0,0,,Отлично потрудились!
-Dialogue: 0,0:07:09.65,0:07:11.49,Default,Титосэ,0,0,0,,Did you take some photos so I can check?
-Dialogue: 0,0:07:11.49,0:07:12.28,Default,Годзё,0,0,0,,Yeah.
-Dialogue: 0,0:07:12.78,0:07:14.03,Default,Титосэ,0,0,0,,So, how'd I look?
-Dialogue: 0,0:07:14.53,0:07:17.24,Default,Годзё,0,0,0,,Huh? Yeah, I'm sure whatever's fine.
-Dialogue: 0,0:07:17.58,0:07:19.00,Default,Титосэ,0,0,0,,There must be more to say than that.
-Dialogue: 0,0:07:19.00,0:07:21.33,Default,Титосэ,0,0,0,,Like how cute I was or how super cute I was.
-Dialogue: 0,0:07:21.33,0:07:23.92,Default,Годзё,0,0,0,,Nope. You look like you normally do.
-Dialogue: 0,0:07:23.92,0:07:26.13,Default,Титосэ,0,0,0,,Like I normally do… So I'm naturally cute?
-Dialogue: 0,0:07:26.42,0:07:28.34,Default,Годзё,0,0,0,,Yeah, yeah. You're the cutest in the world.
-Dialogue: 0,0:07:28.55,0:07:30.17,Default,Титосэ,0,0,0,,That was vague.
-Dialogue: 0,0:07:30.17,0:07:31.26,Default,Яэ,0,0,0,,How does it look?
-Dialogue: 0,0:07:31.26,0:07:33.18,Default,Титосэ,0,0,0,,Yeah, I look super cute.
-Dialogue: 0,0:07:33.18,0:07:34.72,Default,Кото,0,0,0,,We didn't ask that.
-Dialogue: 0,0:07:34.72,0:07:37.31,Default,Титосэ,0,0,0,,Hey, you're in this shot, \Ntoo, Сибасаки-сан. Look!
-Dialogue: 0,0:07:38.35,0:07:39.81,Default,Кадзуха,0,0,0,,You're very strange.
-Dialogue: 0,0:07:40.23,0:07:41.27,Default,Титосэ,0,0,0,,Strange?!
-Dialogue: 0,0:07:41.52,0:07:45.23,Default,Кадзуха,0,0,0,,Oh, um… I was just wondering \Nhow you could be so confident.
-Dialogue: 0,0:07:45.52,0:07:46.48,Default,Титосэ,0,0,0,,Confident?
-Dialogue: 0,0:07:51.36,0:07:52.32,Default,Титосэ,0,0,0,,Confident…
-Dialogue: 0,0:07:54.11,0:07:57.03,Default,Кадзуха,0,0,0,,I was wondering how you can look \Nlike you're having so much fun…
-Dialogue: 0,0:07:57.33,0:08:00.00,Default,Титосэ,0,0,0,,Huh? Uh… I-Isn't it fun?
-Dialogue: 0,0:08:00.58,0:08:02.96,Default,Кадзуха,0,0,0,,I think the photos look good.
-Dialogue: 0,0:08:06.38,0:08:07.88,Default,Момока,0,0,0,,Let me see, too!
-Dialogue: 0,0:08:07.88,0:08:10.21,Default,Титосэ,0,0,0,,Момока-тян, you look fairly cute, too!
-Dialogue: 0,0:08:10.21,0:08:12.22,Default,Момока,0,0,0,,You know just how to piss someone off, huh?
-Dialogue: 0,0:08:18.64,0:08:19.89,Default,Кадзуха,0,0,0,,What an awful expression.
-Dialogue: 0,0:08:25.27,0:08:26.27,Default,Титосэ,0,0,0,,A huge room…
-Dialogue: 0,0:08:26.27,0:08:29.48,Default,Кото,0,0,0,,All right, let's drink! Beer! Beer!
-Dialogue: 0,0:08:29.48,0:08:31.03,Default,Яэ,0,0,0,,Rafute! Rafute!
-Dialogue: 0,0:08:31.03,0:08:32.28,Default,Титосэ,0,0,0,,Beer! Beer!
-Dialogue: 0,0:08:32.28,0:08:34.36,Default,Яэ,0,0,0,,Tebichi! Tebichi!
-Dialogue: 0,0:08:34.36,0:08:35.95,Default,Момока,0,0,0,,I'm going to pass.
-Dialogue: 0,0:08:35.95,0:08:37.49,Default,Кадзуха,0,0,0,,I don't feel like it, either.
-Dialogue: 0,0:08:38.08,0:08:40.33,Default,Кото,0,0,0,,Oh, come on, now. Let's have a drink.
-Dialogue: 0,0:08:40.33,0:08:42.16,Default,Кото,0,0,0,,Oh, but Momocchi, you get root beer.
-Dialogue: 0,0:08:42.16,0:08:43.71,Default,Момока,0,0,0,,Why do you say that?
-Dialogue: 0,0:08:43.71,0:08:45.42,Default,Кото,0,0,0,,And Kazuha-сама, you get this.
-Dialogue: 0,0:08:56.05,0:08:57.55,Default,Все,0,0,0,,Cheers!
-Dialogue: 0,0:09:00.68,0:09:02.06,Default,Кудзу,0,0,0,,Good work!
-Dialogue: 0,0:09:03.18,0:09:04.94,Default,Президент,0,0,0,,Okinawa is great!
-Dialogue: 0,0:09:04.94,0:09:08.11,Default,Кудзу,0,0,0,,Man, I'm glad we were able to use our budget.
-Dialogue: 0,0:09:08.11,0:09:10.27,Default,Кудзу,0,0,0,,And there were no problems with the shoot!
-Dialogue: 0,0:09:10.57,0:09:13.03,Default,Парень,0,0,0,,Yes, there were! There were lots!
-Dialogue: 0,0:09:13.03,0:09:15.28,Default,Парень,0,0,0,,Next time you pull something \Nlike that, I'll kill you!
-Dialogue: 0,0:09:15.28,0:09:17.91,Default,Кудзу,0,0,0,,Hey, come on. No need for jokes like that.
-Dialogue: 0,0:09:17.91,0:09:19.24,Default,Парень,0,0,0,,It's not a joke…
-Dialogue: 0,0:09:19.66,0:09:23.41,Default,Товада,0,0,0,,Thank you so much. \NYou really helped us out this time.
-Dialogue: 0,0:09:23.41,0:09:25.46,Default,Годзё,0,0,0,,Er, I didn't really do anything…
-Dialogue: 0,0:09:25.46,0:09:26.96,Default,Товада,0,0,0,,Seriously, you saved us.
-Dialogue: 0,0:09:27.37,0:09:30.21,Default,Товада,0,0,0,,Кудзу-сан really is trash, isn't he?
-Dialogue: 0,0:09:30.21,0:09:33.67,Default,Товада,0,0,0,,So just having someone decent\Naround… Seriously, I just…
-Dialogue: 0,0:09:33.67,0:09:36.13,Default,Годзё,0,0,0,,Well, we both have it rough.
-Dialogue: 0,0:09:38.84,0:09:41.10,Default,Титосэ,0,0,0,,Who is it? Who is it?
-Dialogue: 0,0:09:41.10,0:09:43.64,Default,Титосэ,0,0,0,,Who's the ordinary Парень?
-Dialogue: 0,0:09:43.64,0:09:45.81,Default,Титосэ,0,0,0,,The places for encounters are limited,
-Dialogue: 0,0:09:45.81,0:09:48.73,Default,Титосэ,0,0,0,,but a light novel author isn't happening.
-Dialogue: 0,0:09:48.73,0:09:51.77,Default,Яэ,0,0,0,,L-Light novel authors aren't ordinary Пареньs.
-Dialogue: 0,0:09:52.02,0:09:54.36,Default,Момока,0,0,0,,So you're saying they're beneath ordinary Пареньs?
-Dialogue: 0,0:09:54.82,0:09:56.99,Default,Яэ,0,0,0,,N-No!
-Dialogue: 0,0:09:56.99,0:09:59.07,Default,Кото,0,0,0,,Anyone need more sake?
-Dialogue: 0,0:09:59.53,0:10:00.66,Default,Кадзуха,0,0,0,,Thanks…
-Dialogue: 0,0:10:02.20,0:10:05.54,Default,Кото,0,0,0,,I guess you're the type that can drink \Nwhatever, huh, Kazuha-сама?
-Dialogue: 0,0:10:05.54,0:10:08.33,Default,Кадзуха,0,0,0,,I don't really care, \Nas long as I can get drunk.
-Dialogue: 0,0:10:08.62,0:10:09.67,Default,Кадзуха,0,0,0,,But since you're here…
-Dialogue: 0,0:10:10.08,0:10:11.67,Default,Кото,0,0,0,,Oh, thanks.
-Dialogue: 0,0:10:15.21,0:10:18.55,Default,Кото,0,0,0,,I never thought we'd come \Nall the way to Okinawa.
-Dialogue: 0,0:10:18.55,0:10:23.06,Default,Кадзуха,0,0,0,,I never thought I'd be doing \Nanything like this, either.
-Dialogue: 0,0:10:23.06,0:10:26.06,Default,Кото,0,0,0,,But this was my last chance, \Nso I'm actually happy about it.
-Dialogue: 0,0:10:26.48,0:10:28.85,Default,Кото,0,0,0,,You know, since I'm 26.
-Dialogue: 0,0:10:28.85,0:10:31.15,Default,Кадзуха,0,0,0,,Right. Swimsuit shoots would be…
-Dialogue: 0,0:10:31.15,0:10:33.02,Default,Кото,0,0,0,,Not just that…
-Dialogue: 0,0:10:33.61,0:10:34.86,Default,Koyo,0,0,0,,Work, too.
-Dialogue: 0,0:10:35.57,0:10:39.28,Default,Кото,0,0,0,,If I couldn't get a main role on my next try, \NI was going to go back home.
-Dialogue: 0,0:10:39.61,0:10:42.24,Default,Кото,0,0,0,,And then maybe try getting married.
-Dialogue: 0,0:10:42.53,0:10:44.33,Default,Кото,0,0,0,,"The country is in ruins, yet the \Nmountains and rivers remain."
-Dialogue: 0,0:10:44.33,0:10:46.70,Default,Кото,0,0,0,,"My dreams may be ruined, \Nbut I've still got my home," they say.
-Dialogue: 0,0:10:46.70,0:10:48.00,Default,Кадзуха,0,0,0,,No one says that.
-Dialogue: 0,0:10:48.00,0:10:49.33,Default,Кото,0,0,0,,They don't, huh?
-Dialogue: 0,0:10:50.54,0:10:52.75,Default,Кадзуха,0,0,0,,Were you told to come back home?
-Dialogue: 0,0:10:53.17,0:10:55.55,Default,Кото,0,0,0,,Neither my mom nor my dad said anything.
-Dialogue: 0,0:10:55.92,0:10:59.34,Default,Кото,0,0,0,,They weren't against me doing this job…
-Dialogue: 0,0:10:59.63,0:11:02.30,Default,Кото,0,0,0,,Though they didn't actually support me, either.
-Dialogue: 0,0:11:02.64,0:11:05.76,Default,Кото,0,0,0,,They only talk about the silliest stuff.
-Dialogue: 0,0:11:06.47,0:11:08.98,Default,Кото,0,0,0,,So I figured I needed to decide for myself.
-Dialogue: 0,0:11:10.02,0:11:11.69,Default,Кадзуха,0,0,0,,You're very mature.
-Dialogue: 0,0:11:11.69,0:11:12.73,Default,Кото,0,0,0,,I know, right?
-Dialogue: 0,0:11:12.73,0:11:15.27,Default,Кото,0,0,0,,Older means wiser— Hey!
-Dialogue: 0,0:11:15.27,0:11:16.90,Default,Кото,0,0,0,,Who are you sayin' is almost thirty?
-Dialogue: 0,0:11:16.90,0:11:18.36,Default,Кото,0,0,0,,I mean, I {\i1}am{\i0} almost thirty, but…
-Dialogue: 0,0:11:20.24,0:11:21.95,Default,Кадзуха,0,0,0,,And meddlesome.
-Dialogue: 0,0:11:21.95,0:11:22.91,Default,Кото,0,0,0,,Aren't I?
-Dialogue: 0,0:11:27.74,0:11:31.21,Default,Яэ,0,0,0,,Hey, hey, Кото-тян-who's-almost-thirty, isn't there any more beer?
-Dialogue: 0,0:11:31.46,0:11:33.54,Default,Кото,0,0,0,,There's only Awamori left.
-Dialogue: 0,0:11:33.54,0:11:34.67,Default,Титосэ,0,0,0,,Huh? What'd you just say?
-Dialogue: 0,0:11:35.09,0:11:37.75,Default,Титосэ,0,0,0,,Then let's have Годзё-кун buy us more.
-Dialogue: 0,0:11:37.75,0:11:39.38,Default,Титосэ,0,0,0,,He's only useful at times like this.
-Dialogue: 0,0:11:43.84,0:11:47.01,Default,Кадзуха,0,0,0,,Титосэ! You dun' understan' a thing!
-Dialogue: 0,0:11:47.60,0:11:49.60,Default,Титосэ,0,0,0,,Huh? Uh, right, I'm sorry.
-Dialogue: 0,0:11:50.06,0:11:50.85,Default,Титосэ,0,0,0,,What?
-Dialogue: 0,0:11:50.85,0:11:53.40,Default,Кадзуха,0,0,0,,Both you and Момока dun' understan' a thing.
-Dialogue: 0,0:11:53.40,0:11:54.15,Default,Титосэ,0,0,0,,R-Right…
-Dialogue: 0,0:11:54.15,0:11:56.65,Default,Момока,0,0,0,,Сибасаки, your Yamagata \Naccent's coming out.
-Dialogue: 0,0:11:56.65,0:11:57.57,Default,Кадзуха,0,0,0,,No, it's not!
-Dialogue: 0,0:11:57.82,0:11:58.98,Default,Момока,0,0,0,,It is..
-Dialogue: 0,0:11:59.57,0:12:03.20,Default,Кото,0,0,0,,Oh, a pillow fight? You're so young!
-Dialogue: 0,0:12:03.74,0:12:06.16,Default,Яэ,0,0,0,,I've never seen one in real life.
-Dialogue: 0,0:12:07.12,0:12:08.74,Default,Титосэ,0,0,0,,Wanna do this? You wanna do this?
-Dialogue: 0,0:12:10.25,0:12:12.50,Default,Титосэ,0,0,0,,Take this, you prissy little rich girl!
-Dialogue: 0,0:12:12.50,0:12:15.42,Default,Титосэ,0,0,0,,Special move: Титосэ Attack!
-Dialogue: 0,0:12:20.55,0:12:21.67,Default,Кото,0,0,0,,So cruel!
-Dialogue: 0,0:12:21.67,0:12:25.34,Default,Яэ,0,0,0,,Ch-Ти-тян, that's pretty underhanded…
-Dialogue: 0,0:12:25.34,0:12:29.06,Default,Титосэ,0,0,0,,Huh? But they did that to me all \Nthe time back in high school…
-Dialogue: 0,0:12:31.98,0:12:33.77,Default,Момока,0,0,0,,I don't think so!
-Dialogue: 0,0:12:34.44,0:12:35.19,Default,Момока,0,0,0,,Why, you…
-Dialogue: 0,0:12:35.19,0:12:36.02,Default,Момока,0,0,0,,Whoa, wait!
-Dialogue: 0,0:12:42.36,0:12:44.82,Salt_12:32(Ep 06),Надпись,0,0,0,,Salt
-Dialogue: 0,0:12:42.36,0:12:44.82,Chinsuko_12:32(Ep 06),Надпись,0,0,0,,Chinsuko
+Dialogue: 0,0:07:09.65,0:07:11.49,Default,Титосэ,0,0,0,,Ты фоткал? Я могу посмотреть?
+Dialogue: 0,0:07:11.49,0:07:12.28,Default,Годзё,0,0,0,,Ага.
+Dialogue: 0,0:07:12.78,0:07:14.03,Default,Титосэ,0,0,0,,Ну, и как я смотрелась?
+Dialogue: 0,0:07:14.53,0:07:17.24,Default,Годзё,0,0,0,,А? Да, нормально ты смотрелась.
+Dialogue: 0,0:07:17.58,0:07:19.00,Default,Титосэ,0,0,0,,Нужно было сказать нечто большее, чем это.
+Dialogue: 0,0:07:19.00,0:07:21.33,Default,Титосэ,0,0,0,,Типа, насколько милой я была или насколько убер-милой я была.
+Dialogue: 0,0:07:21.33,0:07:23.92,Default,Годзё,0,0,0,,Не-а. Ты выглядела так же, как и всегда.
+Dialogue: 0,0:07:23.92,0:07:26.13,Default,Титосэ,0,0,0,,Как и всегда… Получается, я естественно мила?
+Dialogue: 0,0:07:26.42,0:07:28.34,Default,Годзё,0,0,0,,Да, да. Ты наимилейшая во всём мире.
+Dialogue: 0,0:07:28.55,0:07:30.17,Default,Титосэ,0,0,0,,Как-то туманно ты выразился.
+Dialogue: 0,0:07:30.17,0:07:31.26,Default,Яэ,0,0,0,,Как оно смотрелось?
+Dialogue: 0,0:07:31.26,0:07:33.18,Default,Титосэ,0,0,0,,Круто, я была убер-милой.
+Dialogue: 0,0:07:33.18,0:07:34.72,Default,Кото,0,0,0,,Ми не це спрашивали.
+Dialogue: 0,0:07:34.72,0:07:37.31,Default,Титосэ,0,0,0,,Эй, ты тоже есть на этом кадре,\NСибасаки-сан. Смотри!
+Dialogue: 0,0:07:38.35,0:07:39.81,Default,Кадзуха,0,0,0,,Ты слишком странная.
+Dialogue: 0,0:07:40.23,0:07:41.27,Default,Титосэ,0,0,0,,Странная?!
+Dialogue: 0,0:07:41.52,0:07:45.23,Default,Кадзуха,0,0,0,,Оу, эм… Я просто поражаюсь,\Nкак ты можешь оставаться такой самонадеянной.
+Dialogue: 0,0:07:45.52,0:07:46.48,Default,Титосэ,0,0,0,,Самонадеянной?
+Dialogue: 0,0:07:51.36,0:07:52.32,Default,Титосэ,0,0,0,,Самонадеянной…
+Dialogue: 0,0:07:54.11,0:07:57.03,Default,Кадзуха,0,0,0,,Мне стало интересно, как ты можешь\Nвыглядеть, будто тебе жутко весело…
+Dialogue: 0,0:07:57.33,0:08:00.00,Default,Титосэ,0,0,0,,А? Ох… Р-Разве было не весело?
+Dialogue: 0,0:08:00.58,0:08:02.96,Default,Кадзуха,0,0,0,,Мне кажется, что фотки выглядят отлично.
+Dialogue: 0,0:08:06.38,0:08:07.88,Default,Момока,0,0,0,,Дайте мне тоже посмотреть!
+Dialogue: 0,0:08:07.88,0:08:10.21,Default,Титосэ,0,0,0,,Момока-тян, ты тоже выглядишь волшебно!
+Dialogue: 0,0:08:10.21,0:08:12.22,Default,Момока,0,0,0,,Ха? Сказала, как нахер послала.
+Dialogue: 0,0:08:18.64,0:08:19.89,Default,Кадзуха,0,0,0,,Что за ужасное выражение.
+Dialogue: 0,0:08:25.27,0:08:26.27,Default,Титосэ,0,0,0,,Вот это комнатища…
+Dialogue: 0,0:08:26.27,0:08:29.48,Default,Кото,0,0,0,,От-так, давайте бухнём! Пыво! Пыво!
+Dialogue: 0,0:08:29.48,0:08:31.03,Default,Яэ,0,0,0,,Хватит! Хватит!
+Dialogue: 0,0:08:31.03,0:08:32.28,Default,Титосэ,0,0,0,,Пиво! Пиво!
+Dialogue: 0,0:08:32.28,0:08:34.36,Default,Яэ,0,0,0,,Бессилие! Бессилие!
+Dialogue: 0,0:08:34.36,0:08:35.95,Default,Момока,0,0,0,,Я пропущу.
+Dialogue: 0,0:08:35.95,0:08:37.49,Default,Кадзуха,0,0,0,,Мне тоже не очень хочется.
+Dialogue: 0,0:08:38.08,0:08:40.33,Default,Кото,0,0,0,,Ой, та шо с вами сталось. Давайте бухать.
+Dialogue: 0,0:08:40.33,0:08:42.16,Default,Кото,0,0,0,,Ой, но Момотти, у тебя есть пивасик.
+Dialogue: 0,0:08:42.16,0:08:43.71,Default,Момока,0,0,0,,Кто те такое сказал?
+Dialogue: 0,0:08:43.71,0:08:45.42,Default,Кото,0,0,0,,И Кадзуха-сама, у тебя есть это.
+Dialogue: 0,0:08:56.05,0:08:57.55,Default,Все,0,0,0,,Будем!
+Dialogue: 0,0:09:00.68,0:09:02.06,Default,Кудзу,0,0,0,,Хорошая работа!
+Dialogue: 0,0:09:03.18,0:09:04.94,Default,Президент,0,0,0,,Окинава - великолепна!
+Dialogue: 0,0:09:04.94,0:09:08.11,Default,Кудзу,0,0,0,,Чувак, я так рад, что мы смогли освоить наш бюджет.
+Dialogue: 0,0:09:08.11,0:09:10.27,Default,Кудзу,0,0,0,,И не было никаких проблем со съёмками!
+Dialogue: 0,0:09:10.57,0:09:13.03,Default,Парень,0,0,0,,Да, они были! И было много!
+Dialogue: 0,0:09:13.03,0:09:15.28,Default,Парень,0,0,0,,В следующий раз, когда ты выкинешь\Nчто-то подобное, я прикончу тебя!
+Dialogue: 0,0:09:15.28,0:09:17.91,Default,Кудзу,0,0,0,,Ой, да ладно. Не надо так шутить.
+Dialogue: 0,0:09:17.91,0:09:19.24,Default,Парень,0,0,0,,Я не шучу…
+Dialogue: 0,0:09:19.66,0:09:23.41,Default,Товада,0,0,0,,Спасибо вам большое. \NТы реально помог нам в этот раз.
+Dialogue: 0,0:09:23.41,0:09:25.46,Default,Годзё,0,0,0,,Эу, Я ж ничего такого не сделал…
+Dialogue: 0,0:09:25.46,0:09:26.96,Default,Товада,0,0,0,,Серьёзно, ты спас нас.
+Dialogue: 0,0:09:27.37,0:09:30.21,Default,Товада,0,0,0,,Разве Кудзу-сан не кусок дерьма?
+Dialogue: 0,0:09:30.21,0:09:33.67,Default,Товада,0,0,0,,Так, чтобы рядом находился кто-то приличный…\NСерьёзно, У меня просто…
+Dialogue: 0,0:09:33.67,0:09:36.13,Default,Годзё,0,0,0,,Ну, мы оба находим это грубым.
+Dialogue: 0,0:09:38.84,0:09:41.10,Default,Титосэ,0,0,0,,Кто это? Кто это?
+Dialogue: 0,0:09:41.10,0:09:43.64,Default,Титосэ,0,0,0,,Чё за заурядная личность?
+Dialogue: 0,0:09:43.64,0:09:45.81,Default,Титосэ,0,0,0,,Места для встреч ограничены,
+Dialogue: 0,0:09:45.81,0:09:48.73,Default,Титосэ,0,0,0,,но авторы ранобэ не случаются.
+Dialogue: 0,0:09:48.73,0:09:51.77,Default,Яэ,0,0,0,,А-Авторы ранобэ - не заурядные личности.
+Dialogue: 0,0:09:52.02,0:09:54.36,Default,Момока,0,0,0,,Т.е., ты имеешь ввиду, что они даже хуже заурядностей?
+Dialogue: 0,0:09:54.82,0:09:56.99,Default,Яэ,0,0,0,,Н-Нет!
+Dialogue: 0,0:09:56.99,0:09:59.07,Default,Кото,0,0,0,,Кому щё горилки подлити?
+Dialogue: 0,0:09:59.53,0:10:00.66,Default,Кадзуха,0,0,0,,Благодарствую…
+Dialogue: 0,0:10:02.20,0:10:05.54,Default,Кото,0,0,0,,Да я смотрю, ты могёшь пить\Nхоть шо угодно, так, Кадзуха-сама?
+Dialogue: 0,0:10:05.54,0:10:08.33,Default,Кадзуха,0,0,0,,Да пофиг мне сколько пить,\Nпока есть что выпить.
+Dialogue: 0,0:10:08.62,0:10:09.67,Default,Кадзуха,0,0,0,,Но, так как ты тут…
+Dialogue: 0,0:10:10.08,0:10:11.67,Default,Кото,0,0,0,,Ох, дякую.
+Dialogue: 0,0:10:15.21,0:10:18.55,Default,Кото,0,0,0,,Никогда не думала, що ми проделаем\Nтакий шлях до Окинави.
+Dialogue: 0,0:10:18.55,0:10:23.06,Default,Кадзуха,0,0,0,,Никогда не думала, что когда-нибудь\Nбуду заниматься чем-то подобным.
+Dialogue: 0,0:10:23.06,0:10:26.06,Default,Кото,0,0,0,,Правда, це бил мой последний шанс,\Nтак що я, справди, рада цьому.
+Dialogue: 0,0:10:26.48,0:10:28.85,Default,Кото,0,0,0,,Чи знаэш, мене вже 26.
+Dialogue: 0,0:10:28.85,0:10:31.15,Default,Кадзуха,0,0,0,,Верно. Фото в купальниках было бы…
+Dialogue: 0,0:10:31.15,0:10:33.02,Default,Кото,0,0,0,,Не тильки тому…
+Dialogue: 0,0:10:33.61,0:10:34.86,Default,Кото,0,0,0,,Из-за работы, теж.
+Dialogue: 0,0:10:35.57,0:10:39.28,Default,Кото,0,0,0,,Коли б я не здобыла головну роль в моий предыдущей спроби,\Nя б повернулася додому.
+Dialogue: 0,0:10:39.61,0:10:42.24,Default,Кото,0,0,0,,А потом може бути спробувала вийти замуж.
+Dialogue: 0,0:10:42.53,0:10:44.33,Default,Кото,0,0,0,,"Страна находится в руинах,\Nно горы и реки остаются"
+Dialogue: 0,0:10:44.33,0:10:46.70,Default,Кото,0,0,0,,"Мои мечты могут быть разрушены,\Nно у меня всё ещё есть мой дом," - так говорять.
+Dialogue: 0,0:10:46.70,0:10:48.00,Default,Кадзуха,0,0,0,,Никто так не говорит.
+Dialogue: 0,0:10:48.00,0:10:49.33,Default,Кото,0,0,0,,Не говорят, хах?
+Dialogue: 0,0:10:50.54,0:10:52.75,Default,Кадзуха,0,0,0,,Кто тебе сказал, что нужно возвращаться домой?
+Dialogue: 0,0:10:53.17,0:10:55.55,Default,Кото,0,0,0,,Ни моя мама, ни мой батько ничого не сказали.
+Dialogue: 0,0:10:55.92,0:10:59.34,Default,Кото,0,0,0,,Вони никогда не були проти моэй роботи…
+Dialogue: 0,0:10:59.63,0:11:02.30,Default,Кото,0,0,0,,Хоча, вони, так же, по сути не поддерживали мене.
+Dialogue: 0,0:11:02.64,0:11:05.76,Default,Кото,0,0,0,,Вони просто брешуть про бессмысленные вещи.
+Dialogue: 0,0:11:06.47,0:11:08.98,Default,Кото,0,0,0,,Так що я подумала, що прийму ришення сама.
+Dialogue: 0,0:11:10.02,0:11:11.69,Default,Кадзуха,0,0,0,,А ты очень зрелая.
+Dialogue: 0,0:11:11.69,0:11:12.73,Default,Кото,0,0,0,,Та знаю я, ясно?
+Dialogue: 0,0:11:12.73,0:11:15.27,Default,Кото,0,0,0,,Старше значить мудрише— Гэй!
+Dialogue: 0,0:11:15.27,0:11:16.90,Default,Кото,0,0,0,,Хто сказав "почти тридцатник"?
+Dialogue: 0,0:11:16.90,0:11:18.36,Default,Кото,0,0,0,,Я имею в виду, що {\i1}мене{\i0} почти тридцатник, але…
+Dialogue: 0,0:11:20.24,0:11:21.95,Default,Кадзуха,0,0,0,,и занудная.
+Dialogue: 0,0:11:21.95,0:11:22.91,Default,Кото,0,0,0,,Разве?
+Dialogue: 0,0:11:27.74,0:11:31.21,Default,Яэ,0,0,0,,Эй, эй, Кото-тян-которой-почти-тридцатник, там есть ещё пивко?
+Dialogue: 0,0:11:31.46,0:11:33.54,Default,Кото,0,0,0,,Там тильки Awamori завалялося.
+Dialogue: 0,0:11:33.54,0:11:34.67,Default,Титосэ,0,0,0,,Чё? Что ты сказала?
+Dialogue: 0,0:11:35.09,0:11:37.75,Default,Титосэ,0,0,0,,Тогда давайте Годзё-кун сгоняет купит ещё.
+Dialogue: 0,0:11:37.75,0:11:39.38,Default,Титосэ,0,0,0,,Он полезен только в такие моменты.
+Dialogue: 0,0:11:43.84,0:11:47.01,Default,Кадзуха,0,0,0,,Титосэ! Ты ничё не понимашь~ик.
+Dialogue: 0,0:11:47.60,0:11:49.60,Default,Титосэ,0,0,0,,Чё? Ах, верно, мне так жаль.
+Dialogue: 0,0:11:50.06,0:11:50.85,Default,Титосэ,0,0,0,,Что?
+Dialogue: 0,0:11:50.85,0:11:53.40,Default,Кадзуха,0,0,0,,Ни ты, ни Момока ничё не понимайте~ик.
+Dialogue: 0,0:11:53.40,0:11:54.15,Default,Титосэ,0,0,0,,Т-точно…
+Dialogue: 0,0:11:54.15,0:11:56.65,Default,Момока,0,0,0,,Сибасаки, твой Ямагатский\Nакцент вырывается наружу.
+Dialogue: 0,0:11:56.65,0:11:57.57,Default,Кадзуха,0,0,0,,Нет, не вырывайцо!
+Dialogue: 0,0:11:57.82,0:11:58.98,Default,Момока,0,0,0,,Прям как щас..
+Dialogue: 0,0:11:59.57,0:12:03.20,Default,Кото,0,0,0,,Ох, бой подушками? Добре бути молодим!
+Dialogue: 0,0:12:03.74,0:12:06.16,Default,Яэ,0,0,0,,Никогда ни одной, в жизни, не видела.
+Dialogue: 0,0:12:07.12,0:12:08.74,Default,Титосэ,0,0,0,,Хочешь этого? Ты же хочешь этого?
+Dialogue: 0,0:12:10.25,0:12:12.50,Default,Титосэ,0,0,0,,Получи, маленькая чопорная богатенькая сучка!
+Dialogue: 0,0:12:12.50,0:12:15.42,Default,Титосэ,0,0,0,,Спец. приём: Атака Титосэ!
+Dialogue: 0,0:12:20.55,0:12:21.67,Default,Кото,0,0,0,,Жесть!
+Dialogue: 0,0:12:21.67,0:12:25.34,Default,Яэ,0,0,0,,Т-Ти-тян, это довольно коварно…
+Dialogue: 0,0:12:25.34,0:12:29.06,Default,Титосэ,0,0,0,,А? Но со мной так делали всё время,\Nещё с средней школы…
+Dialogue: 0,0:12:31.98,0:12:33.77,Default,Момока,0,0,0,,Мне так не кажется!
+Dialogue: 0,0:12:34.44,0:12:35.19,Default,Момока,0,0,0,,Шта, ты…
+Dialogue: 0,0:12:35.19,0:12:36.02,Default,Момока,0,0,0,,Вау, стой!
+Dialogue: 0,0:12:42.36,0:12:44.82,Salt_12:32(Ep 06),Надпись,0,0,0,,Соль
+Dialogue: 0,0:12:42.36,0:12:44.82,Default - Top,Примечание,0,0,0,,Примечание: Тинско - небольшой бисквит, в основном состоящий из свиного сала и муки, с мягким и сладким вкусом{сладкое сало? ШТА?}, очень похожим на песочное печенье. Традиционная сладость на Окинаве. Часто продаются как сувенир.
+Dialogue: 0,0:12:42.36,0:12:44.82,Chinsuko_12:32(Ep 06),Надпись,0,0,0,,Тинско
 Dialogue: 0,0:12:43.45,0:12:44.82,Default,Парень,0,0,0,,Кудзу-кун…
-Dialogue: 0,0:12:45.07,0:12:45.86,Default,Кудзу,0,0,0,,Yes…
-Dialogue: 0,0:12:46.53,0:12:47.66,Default,Парень,0,0,0,,You know…
-Dialogue: 0,0:12:48.53,0:12:49.37,Default,Кудзу,0,0,0,,Yes…
-Dialogue: 0,0:12:51.54,0:12:52.83,Default,Момока,0,0,0,,I'm home.
+Dialogue: 0,0:12:45.07,0:12:45.86,Default,Кудзу,0,0,0,,Да…
+Dialogue: 0,0:12:46.53,0:12:47.66,Default,Парень,0,0,0,,Ты знаешь…
+Dialogue: 0,0:12:48.53,0:12:49.37,Default,Кудзу,0,0,0,,Да…
+Dialogue: 0,0:12:51.54,0:12:52.83,Default,Момока,0,0,0,,Я дома.
 Dialogue: 0,0:12:52.83,0:12:55.79,Default,Парень,0,0,0,,Hey, Момока-тян, it's been a while. \NDo you remember me?
 Dialogue: 0,0:12:56.58,0:12:58.75,Default,Момока,0,0,0,,Oh, from {\i1}Pure Para{\i0}…
 Dialogue: 0,0:12:59.09,0:13:02.34,Default,Парень,0,0,0,,Right! Wow, you've gotten so big.
