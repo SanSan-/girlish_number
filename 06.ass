@@ -16,9 +16,9 @@ Video File: [Leopard-Raws] Girlish Number - 06 RAW (TBS 1280x720 x264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 119
-Active Line: 127
-Video Position: 9519
+Scroll Position: 264
+Active Line: 265
+Video Position: 23937
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -180,7 +180,7 @@ Dialogue: 0,0:06:52.89,0:06:55.18,Song_Rom,Песня,0,0,0,,KYUN {\alpha&HFF&\t
 Dialogue: 0,0:06:55.18,0:06:58.06,Song_Rom,Песня,0,0,0,,Boku-ra saikō saikō KARAFURU
 Dialogue: 0,0:06:58.56,0:07:00.89,Song_Rom,Песня,0,0,0,,RAN{\alpha&HFF&\t(260,-30,\alpha&H00&)}RAN ☆ {\alpha&HFF&\t(520,-30,\alpha&H00&)}RAN{\alpha&HFF&\t(780,-30,\alpha&H00&)}RAN ☆ {\alpha&HFF&\t(1345,-30,\alpha&H00&)}tsutawaru
 Dialogue: 0,0:07:00.89,0:07:04.61,Song_Rom,Песня,0,0,0,,Natsu o itadaki ☆ HAI TENSHON!
-Dialogue: 0,0:05:53.95,0:05:56.66,Song_Ru,Песня,0,0,0,,Сердце пляшет в груди {\alpha&HFF&\t(1420,-30,\alpha&H00&)}и с моря дует ветер 
+Dialogue: 0,0:05:53.95,0:05:56.66,Song_Ru,Песня,0,0,0,,Сердце пляшет в груди {\alpha&HFF&\t(1420,-30,\alpha&H00&)}и с моря дует ветер
 Dialogue: 0,0:05:56.78,0:05:59.29,Song_Ru,Песня,0,0,0,,Нас с тобой стянуло морской сетью
 Dialogue: 0,0:05:59.71,0:06:03.88,Song_Ru,Песня,0,0,0,,Полыхает лето {\alpha&HFF&\t(2150,-30,\alpha&H00&)}лучшее на свете
 Dialogue: 0,0:06:04.91,0:06:08.05,Song_Ru,Песня,0,0,0,,Футболку долой! Ты же знаешь, порой,
@@ -243,11 +243,11 @@ Dialogue: 0,0:09:00.68,0:09:02.06,Default,Кудзу,0,0,0,,Хорошая ра�
 Dialogue: 0,0:09:03.18,0:09:04.94,Default,Президент,0,0,0,,Окинава - великолепна!
 Dialogue: 0,0:09:04.94,0:09:08.11,Default,Кудзу,0,0,0,,Чувак, я так рад, что мы смогли освоить наш бюджет.
 Dialogue: 0,0:09:08.11,0:09:10.27,Default,Кудзу,0,0,0,,И не было никаких проблем со съёмками!
-Dialogue: 0,0:09:10.57,0:09:13.03,Default,Парень,0,0,0,,Да, они были! И было много!
-Dialogue: 0,0:09:13.03,0:09:15.28,Default,Парень,0,0,0,,В следующий раз, когда ты выкинешь\Nчто-то подобное, я прикончу тебя!
+Dialogue: 0,0:09:10.57,0:09:13.03,Default,Менеджер Момо,0,0,0,,Да, они были! И было много!
+Dialogue: 0,0:09:13.03,0:09:15.28,Default,Менеджер Момо,0,0,0,,В следующий раз, когда ты выкинешь\Nчто-то подобное, я прикончу тебя!
 Dialogue: 0,0:09:15.28,0:09:17.91,Default,Кудзу,0,0,0,,Ой, да ладно. Не надо так шутить.
 Dialogue: 0,0:09:17.91,0:09:19.24,Default,Парень,0,0,0,,Я не шучу…
-Dialogue: 0,0:09:19.66,0:09:23.41,Default,Товада,0,0,0,,Спасибо вам большое. \NТы реально помог нам в этот раз.
+Dialogue: 0,0:09:19.66,0:09:23.41,Default,Товада,0,0,0,,Спасибо тебе большое. \NТы реально помог нам в этот раз.
 Dialogue: 0,0:09:23.41,0:09:25.46,Default,Годзё,0,0,0,,Эу, Я ж ничего такого не сделал…
 Dialogue: 0,0:09:25.46,0:09:26.96,Default,Товада,0,0,0,,Серьёзно, ты спас нас.
 Dialogue: 0,0:09:27.37,0:09:30.21,Default,Товада,0,0,0,,Разве Кудзу-сан не кусок дерьма?
@@ -316,252 +316,253 @@ Dialogue: 0,0:12:25.34,0:12:29.06,Default,Титосэ,0,0,0,,А? Но со мн
 Dialogue: 0,0:12:31.98,0:12:33.77,Default,Момока,0,0,0,,Мне так не кажется!
 Dialogue: 0,0:12:34.44,0:12:35.19,Default,Момока,0,0,0,,Шта, ты…
 Dialogue: 0,0:12:35.19,0:12:36.02,Default,Момока,0,0,0,,Вау, стой!
-Dialogue: 0,0:12:42.36,0:12:44.82,Salt_12:32(Ep 06),Надпись,0,0,0,,Соль
-Dialogue: 0,0:12:42.36,0:12:44.82,Default - Top,Примечание,0,0,0,,Примечание: Тинско - небольшой бисквит, в основном состоящий из свиного сала и муки, с мягким и сладким вкусом{сладкое сало? ШТА?}, очень похожим на песочное печенье. Традиционная сладость на Окинаве. Часто продаются как сувенир.
-Dialogue: 0,0:12:42.36,0:12:44.82,Chinsuko_12:32(Ep 06),Надпись,0,0,0,,Тинско
-Dialogue: 0,0:12:43.45,0:12:44.82,Default,Парень,0,0,0,,Кудзу-кун…
-Dialogue: 0,0:12:45.07,0:12:45.86,Default,Кудзу,0,0,0,,Да…
-Dialogue: 0,0:12:46.53,0:12:47.66,Default,Парень,0,0,0,,Ты знаешь…
-Dialogue: 0,0:12:48.53,0:12:49.37,Default,Кудзу,0,0,0,,Да…
-Dialogue: 0,0:12:51.54,0:12:52.83,Default,Момока,0,0,0,,Я дома.
-Dialogue: 0,0:12:52.83,0:12:55.79,Default,Парень,0,0,0,,Hey, Момока-тян, it's been a while. \NDo you remember me?
-Dialogue: 0,0:12:56.58,0:12:58.75,Default,Момока,0,0,0,,Oh, from {\i1}Pure Para{\i0}…
-Dialogue: 0,0:12:59.09,0:13:02.34,Default,Парень,0,0,0,,Right! Wow, you've gotten so big.
-Dialogue: 0,0:13:02.34,0:13:03.13,Default,Момока,0,0,0,,Thanks…
-Dialogue: 0,0:13:04.63,0:13:09.22,Default,Мама,0,0,0,,He brought me the theatrical all-stars version.
-Dialogue: 0,0:13:09.22,0:13:10.14,Default,Момока,0,0,0,,I see…
-Dialogue: 0,0:13:10.39,0:13:11.97,Default,Парень,0,0,0,,Oh, yeah. I've been thinking about
-Dialogue: 0,0:13:11.97,0:13:14.43,Default,Парень,0,0,0,,the casting for {\i1}Pure Para{\i0} next year.
-Dialogue: 0,0:13:14.43,0:13:15.48,Default,Парень,0,0,0,,Interested, Момока-тян?
-Dialogue: 0,0:13:15.48,0:13:19.19,Default,Парень,0,0,0,,I was thinking of having Сакура-сан \Nappear as the boss character, too.
-Dialogue: 0,0:13:19.19,0:13:21.86,Default,Парень,0,0,0,,Like, having the mother of the \Nnew {\i1}Pure Para{\i0} be the boss
-Dialogue: 0,0:13:21.86,0:13:24.40,Default,Парень,0,0,0,,so mother and daughter \Ncan star in it together.
-Dialogue: 0,0:13:24.40,0:13:27.03,Default,Мама,0,0,0,,My, that's lovely. It's like a dream.
-Dialogue: 0,0:13:27.45,0:13:28.99,Default,Момока,0,0,0,,That's only if we could do it.
-Dialogue: 0,0:13:29.28,0:13:33.20,Default,Парень,0,0,0,,Of course you can. I mean, \Nyou're Сакура-сан's daughter.
-Dialogue: 0,0:13:33.20,0:13:36.08,Default,Парень,0,0,0,,It's great that you have your \Nown acting talent, too.
-Dialogue: 0,0:13:36.08,0:13:39.21,Default,Парень,0,0,0,,Once I make up my mind, \Nit's pretty much a done deal.
-Dialogue: 0,0:13:39.71,0:13:42.50,Default,Мама,0,0,0,,I don't mind either way,
-Dialogue: 0,0:13:42.50,0:13:45.67,Default,Мама,0,0,0,,but it's up to the actors \Nto make their own decision.
-Dialogue: 0,0:13:45.92,0:13:49.55,Default,Dad,0,0,0,,Момока, you're a professional now. \NYou can choose for yourself.
-Dialogue: 0,0:13:49.55,0:13:51.76,Default,Dad,0,0,0,,We'll support your decision.
-Dialogue: 0,0:13:53.35,0:13:54.47,Default,Момока,0,0,0,,Thanks…
-Dialogue: 0,0:13:55.52,0:13:57.44,Default,Момока,0,0,0,,I've got an early start tomorrow, \Nso I'm going to bed.
-Dialogue: 0,0:13:57.44,0:13:59.44,Musashi-seki_13:47(Ep 06),Надпись,0,0,0,,"Musashi-seki, Tokyo, to Another World?!"
-Dialogue: 0,0:13:57.44,0:13:59.44,Lively_13:47(Ep 06),Надпись,0,0,0,,~A Lively Corporate Slave Life Starting From Minus~
-Dialogue: 0,0:13:57.44,0:13:59.44,Voice_Actor_Audition_13:47(Ep 06),Надпись,0,0,0,,Voice Actor Audition
-Dialogue: 0,0:14:07.11,0:14:08.82,Default,Яэ,0,0,0,,G-Good morning.
-Dialogue: 0,0:14:09.32,0:14:10.78,Default,Титосэ,0,0,0,,Яэ! Haitai!
-Dialogue: 0,0:14:10.78,0:14:13.54,Default,Яэ,0,0,0,,Ти-тян, good morning. You're here early.
-Dialogue: 0,0:14:13.54,0:14:15.29,Default,Титосэ,0,0,0,,Actually, you're late, Яэ.
-Dialogue: 0,0:14:15.29,0:14:16.54,Default,Титосэ,0,0,0,,You're up next.
-Dialogue: 0,0:14:17.41,0:14:20.00,Default,Титосэ,0,0,0,,A-ha! This must be what they call "island time."
-Dialogue: 0,0:14:20.00,0:14:21.96,Default,Титосэ,0,0,0,,You still feel like you're at a resort, don't you?
-Dialogue: 0,0:14:22.34,0:14:24.05,Default,Яэ,0,0,0,,Th-That's not true…
-Dialogue: 0,0:14:24.05,0:14:26.30,Default,Яэ,0,0,0,,My last job ran a little late.
-Dialogue: 0,0:14:25.30,0:14:26.76,Default,Кото,0,0,0,,Thank you very much!
-Dialogue: 0,0:14:26.30,0:14:28.68,Default,Титосэ,0,0,0,,Oh, please. You're an islander now, huh?
-Dialogue: 0,0:14:28.68,0:14:30.80,Default,Титосэ,0,0,0,,Stuck in the Яэyama Islands?
-Dialogue: 0,0:14:30.80,0:14:33.51,Default,Кото,0,0,0,,Oh, you're already here, Яэ-pon.
-Dialogue: 0,0:14:33.51,0:14:35.72,Default,Кото,0,0,0,,Годзё-сан's been pretty anxious.
-Dialogue: 0,0:14:35.72,0:14:38.10,Default,Яэ,0,0,0,,Yeah, I somehow made it.
-Dialogue: 0,0:14:38.10,0:14:39.31,Default,Парень,0,0,0,,Kugayama-сан.
-Dialogue: 0,0:14:39.31,0:14:42.11,Default,Яэ,0,0,0,,Y-Yes! O-Okay, I'm gonna go.
-Dialogue: 0,0:14:42.73,0:14:44.07,Default,Титосэ,0,0,0,,Okay, go for it.
-Dialogue: 0,0:14:44.07,0:14:45.53,Default,Яэ,0,0,0,,It'll all work out!
-Dialogue: 0,0:14:45.53,0:14:47.90,Default,Титосэ,0,0,0,,Anyway, you took a pretty long time, Кото-тян.
-Dialogue: 0,0:14:47.90,0:14:51.87,Default,Кото,0,0,0,,Yeah, they ended up askin' me to try out \Nfor some roles I wasn't tryin' for, too.
-Dialogue: 0,0:14:51.87,0:14:55.12,Default,Титосэ,0,0,0,,Yeah? Hey, once we're done, \Nwhy don't the three of us go get dinner?
-Dialogue: 0,0:14:55.45,0:14:56.66,Default,Титосэ,0,0,0,,At an Okinawan restaurant!
-Dialogue: 0,0:14:56.66,0:14:59.83,Default,Кото,0,0,0,,Sorry! I have another job after this, \Nso I have to leave right away.
-Dialogue: 0,0:15:00.08,0:15:02.50,Default,Титосэ,0,0,0,,I-I see. Nah, that's totally fine.
-Dialogue: 0,0:15:02.50,0:15:05.17,Default,Титосэ,0,0,0,,Come to think of it, I might \Nhave to do other roles, too,
-Dialogue: 0,0:15:05.17,0:15:06.84,Default,Титосэ,0,0,0,,so I might take a while, too.
-Dialogue: 0,0:15:06.84,0:15:10.18,Default,Кото,0,0,0,,It's great to hear that. \NDo your best, Ти-сама!
-Dialogue: 0,0:15:10.93,0:15:11.64,Default,Титосэ,0,0,0,,Right-o!
-Dialogue: 0,0:15:15.06,0:15:16.85,Default,Титосэ,0,0,0,,Okay, I guess I'll get to work, too.
-Dialogue: 0,0:15:17.93,0:15:20.02,Default,Парень,0,0,0,,Okay, that's good.
-Dialogue: 0,0:15:20.56,0:15:21.31,Default,Титосэ,0,0,0,,Huh?
-Dialogue: 0,0:15:24.23,0:15:26.65,Default,Титосэ,0,0,0,,I-It ended in an instant…
-Dialogue: 0,0:15:29.11,0:15:30.36,Default,Титосэ,0,0,0,,But, well… yeah.
-Dialogue: 0,0:15:30.36,0:15:32.91,Default,Титосэ,0,0,0,,I mean, I've had experience as a protagonist.
-Dialogue: 0,0:15:32.91,0:15:33.70,Default,Титосэ,0,0,0,,I'll be popular!
-Dialogue: 0,0:15:38.12,0:15:41.37,Default,Момока,0,0,0,,Hey, do I have an audition \Nfor {\i1}Pure Para{\i0} right now?
-Dialogue: 0,0:15:41.37,0:15:43.75,Default,mane,0,0,0,,Huh? No. Why?
-Dialogue: 0,0:15:43.75,0:15:46.54,Default,Момока,0,0,0,,Well, someone pretty high up \Nat Hokuei told me about it.
-Dialogue: 0,0:15:46.54,0:15:48.21,Default,Момока,0,0,0,,Apparently, my mom might be in it.
-Dialogue: 0,0:15:48.21,0:15:49.05,Default,mana,0,0,0,,Huh…
-Dialogue: 0,0:15:49.26,0:15:51.55,Default,Момока,0,0,0,,So he asked me if I wanted to be in it, too.
-Dialogue: 0,0:15:51.55,0:15:52.97,Default,mana,0,0,0,,So he chose you…
-Dialogue: 0,0:15:53.39,0:15:56.39,Default,mana,0,0,0,,If that's the case, we might have \Nto adjust your work load a bit.
-Dialogue: 0,0:15:56.39,0:15:58.89,Default,Mana,0,0,0,,We may have to put your musical career on hold.
-Dialogue: 0,0:15:59.18,0:16:02.52,Default,Mana,0,0,0,,But your mom's been on {\i1}Pure Para{\i0} in the past,
-Dialogue: 0,0:16:02.52,0:16:05.23,Default,Mana,0,0,0,,so I'm sure it'd be huge if you two \Nappeared as mother and daughter.
-Dialogue: 0,0:16:05.23,0:16:08.15,Default,mana,0,0,0,,It should be a great opportunity\Nfor you as an actress.
-Dialogue: 0,0:16:08.15,0:16:09.40,Default,mana,0,0,0,,What did your mom say?
-Dialogue: 0,0:16:09.94,0:16:11.36,Default,Момока,0,0,0,,She hasn't said anything.
-Dialogue: 0,0:16:11.74,0:16:13.70,Default,Момока,0,0,0,,My dad said I could do what I want, too.
-Dialogue: 0,0:16:14.20,0:16:17.08,Default,mana,0,0,0,,Huh… And what do you want to do?
-Dialogue: 0,0:16:20.50,0:16:21.66,Default,Момока,0,0,0,,I don't know.
-Dialogue: 0,0:16:22.50,0:16:24.33,Congrats_16:13(Ep 06),Надпись,0,0,0,,Congratulations\N{\c&H1A222C&}Big Hit
-Dialogue: 0,0:16:22.50,0:16:24.33,Pajama_Ninja_16:13(Ep 06),Надпись,0,0,0,,Pajama Ninja Tomomi
-Dialogue: 0,0:16:24.33,0:16:27.38,Default,Парень,0,0,0,,Now, if we could have Shakujii-сама \Nfrom Anipro Entertainment come up?
-Dialogue: 0,0:16:28.55,0:16:32.22,Default,Ish,0,0,0,,I've just been introduced, but I'm \NShakujii from Anipro Entertainment.
-Dialogue: 0,0:16:32.47,0:16:33.84,Default,Some,0,0,0,,30,000 copies!
-Dialogue: 0,0:16:33.01,0:16:34.51,Default,Some,0,0,0,,Hit-maker!
-Dialogue: 0,0:16:33.84,0:16:35.14,Default,Some,0,0,0,,CEO!
-Dialogue: 0,0:16:34.51,0:16:36.93,Default,Ishi,0,0,0,,Thank you. The reason this was
-Dialogue: 0,0:16:37.26,0:16:39.35,Default,Ishi,0,0,0,,such a hit is because of all of you.
-Dialogue: 0,0:16:39.35,0:16:42.39,Default - Top,Ishi,0,0,0,,It's not much, but I'd like
-Dialogue: 0,0:16:40.72,0:16:43.35,Default,Титосэ,0,0,0,,Why do wrap parties always fall on the same day?
-Dialogue: 0,0:16:42.39,0:16:45.81,Default - Top,Ishi,0,0,0,,to start the prize drawing.
-Dialogue: 0,0:16:44.31,0:16:46.81,Default,Годзё,0,0,0,,Титосэ, we're gonna head \Nto the {\i1}Кусурэ{\i0} wrap party.
-Dialogue: 0,0:16:47.19,0:16:49.02,Default,Титосэ,0,0,0,,Huh? Do I have to go?
-Dialogue: 0,0:16:49.36,0:16:51.57,Default,Годзё,0,0,0,,Actually, you didn't have to come to this one.
-Dialogue: 0,0:16:51.57,0:16:53.65,Default,Годзё,0,0,0,,You had a mob role here, \Nbut you're a main character there.
-Dialogue: 0,0:16:53.65,0:16:55.99,Default,Титосэ,0,0,0,,Yeah, I guess you're right…
-Dialogue: 0,0:16:56.36,0:16:57.24,Default,Годзё,0,0,0,,What's wrong?
-Dialogue: 0,0:16:57.24,0:16:59.33,Default,Титосэ,0,0,0,,Hey, the audition the other day…
-Dialogue: 0,0:16:59.33,0:17:02.70,Default,Годзё,0,0,0,,Oh, that. They picked someone already. \NYou lost. Totally failed.
-Dialogue: 0,0:17:02.95,0:17:05.92,Default,Титосэ,0,0,0,,Tch. Political casting, eh? \NDeath to record companies.
-Dialogue: 0,0:17:05.92,0:17:07.42,Default,Годзё,0,0,0,,It's your own lack of ability, dumbass.
-Dialogue: 0,0:17:09.13,0:17:11.92,Default,Титосэ,0,0,0,,Годзё-кун, do you think I could be in trouble?
-Dialogue: 0,0:17:11.92,0:17:13.92,Default,Годзё,0,0,0,,So you've finally gained a sense of danger…
-Dialogue: 0,0:17:14.38,0:17:15.93,Default,Годзё,0,0,0,,Well, yeah, I'd say you're in trouble.
-Dialogue: 0,0:17:16.22,0:17:19.14,Default,Титосэ,0,0,0,,Yeah. My luck totally sucks.
-Dialogue: 0,0:17:19.14,0:17:21.93,Default,Годзё,0,0,0,,Actually, I'm pretty sure you\Ngot this far on pure luck.
-Dialogue: 0,0:17:21.93,0:17:23.73,Default,Титосэ,0,0,0,,Yeah, I don't need jokes like that.
-Dialogue: 0,0:17:23.73,0:17:24.60,Default,Годзё,0,0,0,,That wasn't a joke.
-Dialogue: 0,0:17:23.98,0:17:27.44,Default - Top,Парень,0,0,0,,{\a6}All right, next… We have a huge TV \Nfrom Anipro Entertainment.
-Dialogue: 0,0:17:24.93,0:17:27.06,Default,Титосэ,0,0,0,,Maybe I'll go get purified…
-Dialogue: 0,0:17:27.44,0:17:29.65,Default,Годзё,0,0,0,,We're going to the next wrap party first.
-Dialogue: 0,0:17:28.73,0:17:31.78,Default - Top,Парень,0,0,0,,Let's see… Pink 57.
-Dialogue: 0,0:17:32.19,0:17:35.07,Default,Титосэ,0,0,0,,Yes! Me, me! That's me!
-Dialogue: 0,0:17:35.07,0:17:37.49,Default,Cht,0,0,0,,Huh… I guess I'm lucky after all!
-Dialogue: 0,0:17:37.91,0:17:39.70,Default,Титосэ,0,0,0,,I won!
-Dialogue: 0,0:17:40.37,0:17:43.33,Default,Годзё,0,0,0,,That's called being useless…
-Dialogue: 0,0:17:43.91,0:17:46.37,Wrap_Venue(Ep 06),Надпись,0,0,0,,Wrap Party Venue
-Dialogue: 0,0:17:45.71,0:17:49.33,Default,Товада,0,0,0,,Please… There are plenty \Nof open seats up front,
-Dialogue: 0,0:17:49.33,0:17:52.55,Default,Товада,0,0,0,,so if the cast would, um… come up here?
-Dialogue: 0,0:17:54.71,0:17:58.68,Default - Top,Товада,0,0,0,,There's still a bit of time before \Nwe start, so please hang tight.
-Dialogue: 0,0:17:54.71,0:17:56.55,Default,Ya,0,0,0,,Good to see you, Ти-тян!
-Dialogue: 0,0:17:56.55,0:17:59.34,Default,Кото,0,0,0,,And Ти-сама arrives fashionably late.
-Dialogue: 0,0:17:59.34,0:18:00.93,Default,Титосэ,0,0,0,,More importantly, listen to this!
-Dialogue: 0,0:18:00.05,0:18:03.43,Default - Top,Товада,0,0,0,,Huh? I can start? I see. Well…
-Dialogue: 0,0:18:00.93,0:18:03.43,Default,Титосэ,0,0,0,,I just won a TV at another wrap party!
-Dialogue: 0,0:18:03.68,0:18:05.64,Default,Титосэ,0,0,0,,I wonder what I'll win here.
-Dialogue: 0,0:18:04.85,0:18:07.35,Default - Top,Товада,0,0,0,,Now, if we can get right to it, I'd like
-Dialogue: 0,0:18:05.89,0:18:08.60,Default,Момока,0,0,0,,People don't usually win those that often, right?
-Dialogue: 0,0:18:07.35,0:18:09.60,Default - Top,Товада,0,0,0,,to start this wrap party.
-Dialogue: 0,0:18:09.90,0:18:12.27,Default - Top,Товада,0,0,0,,First, let's have a toast.
-Dialogue: 0,0:18:10.56,0:18:11.90,Cell_Phone(Ep 06),Надпись,0,0,0,,Mother\NCalling…
-Dialogue: 0,0:18:11.90,0:18:12.27,Cell_Phone(Ep 06),Надпись,0,0,0,,Mother\NCall Ended
-Dialogue: 0,0:18:12.27,0:18:16.19,Default - Top,Товада,0,0,0,,I heard that the author's \Neditor-in-chief is here…
-Dialogue: 0,0:18:13.73,0:18:14.98,Default,Кадзуха,0,0,0,,I'm not sure.
-Dialogue: 0,0:18:15.86,0:18:18.11,Default,Титосэ,0,0,0,,The possibility seems low to begin with…
-Dialogue: 0,0:18:18.70,0:18:20.16,Default,Товада,0,0,0,,Now, then…
-Dialogue: 0,0:18:20.49,0:18:22.37,Default,Товада,0,0,0,,Producer Кудзу, from my company,
-Dialogue: 0,0:18:22.37,0:18:24.70,Default,Товада,0,0,0,,will be leading us in a toast.
-Dialogue: 0,0:18:25.12,0:18:28.21,Default,Кудзу,0,0,0,,You all did well bearing with the pain.
-Dialogue: 0,0:18:28.21,0:18:30.58,Default,Кудзу,0,0,0,,I'm moved! Cheers! Thats what I'd like to say,
-Dialogue: 0,0:18:31.04,0:18:32.50,Default,Кудзу,0,0,0,,but that might jinx us,
-Dialogue: 0,0:18:32.50,0:18:35.13,Default,Кудзу,0,0,0,,so I'd prefer to go with "total victory."
-Dialogue: 0,0:18:35.13,0:18:37.72,Default,Кудзу,0,0,0,,Everyone, do you have your glasses ready?
-Dialogue: 0,0:18:37.72,0:18:38.59,Default,Кудзу,0,0,0,,Now, then…
-Dialogue: 0,0:18:38.93,0:18:40.34,Default,Кудзу,0,0,0,,Total victory!
-Dialogue: 0,0:18:40.64,0:18:42.47,Default,Все,0,0,0,,Cheers…
-Dialogue: 0,0:18:42.76,0:18:45.39,Default,Товада,0,0,0,,Right. Well, let's go right into
-Dialogue: 0,0:18:45.39,0:18:48.18,Default,Товада,0,0,0,,the introduction of the main Персонал.
-Dialogue: 0,0:18:51.06,0:18:53.02,Cell_Phone(Ep 06)v2,Надпись,0,0,0,,Mother\NCalling…
-Dialogue: 0,0:18:53.57,0:18:54.94,Default,Момока,0,0,0,,Your phone's ringing.
-Dialogue: 0,0:18:55.61,0:18:56.28,Default,Кадзуха,0,0,0,,I know.
-Dialogue: 0,0:18:56.86,0:18:57.94,Default,Момока,0,0,0,,You don't need to answer it?
-Dialogue: 0,0:18:58.82,0:19:00.32,Default,Кадзуха,0,0,0,,I'll call them back later.
-Dialogue: 0,0:19:02.99,0:19:04.20,Default,Кадзуха,0,0,0,,I'm going to get another drink.
-Dialogue: 0,0:19:04.87,0:19:06.62,Default,Персонал,0,0,0,,Thanks for all your hard work, Соно-сан.
-Dialogue: 0,0:19:07.08,0:19:09.58,Default,Персонал,0,0,0,,U-Um… Would it be okay to get your autograph?
-Dialogue: 0,0:19:09.58,0:19:12.38,Default,Момока,0,0,0,,Oh, sure. That's totally fine.
-Dialogue: 0,0:19:12.38,0:19:13.79,Default,Момока,0,0,0,,Thank you, too.
-Dialogue: 0,0:19:16.30,0:19:17.76,Default,Персонал,0,0,0,,Thank you very much!
-Dialogue: 0,0:19:17.76,0:19:19.88,Default,Персонал,0,0,0,,Now I've got both yours and your mom's!
-Dialogue: 0,0:19:19.88,0:19:23.39,Default,Персонал,0,0,0,,U-Um, I was doing key animation \Non a project Соно Сакура-сан was in,
-Dialogue: 0,0:19:23.39,0:19:25.76,Default,Персонал,0,0,0,,and she gave me her autograph \Nthen. I was so happy!
-Dialogue: 0,0:19:25.76,0:19:27.68,Default,Момока,0,0,0,,Oh, I see!
-Dialogue: 0,0:19:27.68,0:19:30.27,Default,Момока,0,0,0,,I'm sure my mom will be \Nhappy when I tell her that.
-Dialogue: 0,0:19:38.99,0:19:41.74,Default - Top,mana,0,0,0,,Total victory! Total victory!
-Dialogue: 0,0:19:38.99,0:19:41.74,Default,Парень,0,0,0,,Сибасаки never listens to a word I say…
-Dialogue: 0,0:19:42.11,0:19:43.70,Default,Титосэ,0,0,0,,Huh? There's no after-party?
-Dialogue: 0,0:19:43.99,0:19:45.62,Default,Момока,0,0,0,,That's not exactly rare.
-Dialogue: 0,0:19:45.62,0:19:48.16,Default,Момока,0,0,0,,There are some titles that \Ndon't even do wrap parties.
-Dialogue: 0,0:19:48.16,0:19:52.12,Default,Кудзу,0,0,0,,Well, I know that the party is in full schwing…
-Dialogue: 0,0:19:52.12,0:19:54.08,Default,Кудзу,0,0,0,,Oops, I mean full swing!
-Dialogue: 0,0:19:54.08,0:19:55.59,Default,Mana,0,0,0,,You suck!
-Dialogue: 0,0:19:56.00,0:19:59.05,Default,Кудзу,0,0,0,,Well, there will be a second season, \Nso let's keep doing our best.
-Dialogue: 0,0:19:59.51,0:20:01.13,Default,Кудзу,0,0,0,,Thanks, everyone!
-Dialogue: 0,0:20:01.76,0:20:04.51,Default,Титосэ,0,0,0,,A second season, huh? \NEven though the sales suck.
-Dialogue: 0,0:20:04.51,0:20:06.39,Default,Кадзуха,0,0,0,,Yer gosh darn annoying!
-Dialogue: 0,0:20:06.39,0:20:08.10,Default,Кадзуха,0,0,0,,Sales have nothin' to do with it!
-Dialogue: 0,0:20:08.10,0:20:10.35,Default,Момока,0,0,0,,"Gosh darn"… Where are you even from?
-Dialogue: 0,0:20:10.35,0:20:12.69,Default,Кадзуха,0,0,0,,I dun fergot where I'm from!
-Dialogue: 0,0:20:12.98,0:20:15.40,Default,Титосэ,0,0,0,,Did you just drink too much and forget?
-Dialogue: 0,0:20:15.77,0:20:17.94,Default,Момока,0,0,0,,If I could drink, I'd like to forget, too.
-Dialogue: 0,0:20:17.94,0:20:19.32,Default,Кадзуха,0,0,0,,Shut yer trap!
-Dialogue: 0,0:20:19.32,0:20:21.99,Default,Момока,0,0,0,,I know! I won't drink, and I can't drink.
-Dialogue: 0,0:20:22.36,0:20:25.95,Default,Кадзуха,0,0,0,,You dun' get it at all… You can't ferget, \Nno matter how much you drink…
-Dialogue: 0,0:20:26.28,0:20:28.74,Default,Кадзуха,0,0,0,,That's… That's why I keep drinkin'.
-Dialogue: 0,0:20:28.74,0:20:29.95,Default,Яэ,0,0,0,,Yeah!
-Dialogue: 0,0:20:30.25,0:20:32.96,Default,Яэ,0,0,0,,They're going to forget about this series, too!
-Dialogue: 0,0:20:32.96,0:20:34.54,Default,Титосэ,0,0,0,,Y-Яэ, are you okay?
-Dialogue: 0,0:20:36.54,0:20:38.50,Default,Яэ,0,0,0,,There are lots of Ти-тянs…
-Dialogue: 0,0:20:38.50,0:20:41.46,Default,Яэ,0,0,0,,There are lots of people to take \Nyour place, too, Ти-тян…
-Dialogue: 0,0:20:41.46,0:20:43.76,Default,Титосэ,0,0,0,,Oh? I guess that's how you really feel, huh?
-Dialogue: 0,0:20:43.97,0:20:47.18,Default,Кото,0,0,0,,Яэ-pon, you drank too much. \NYou should rest a bit.
-Dialogue: 0,0:20:48.10,0:20:51.43,Default,Яэ,0,0,0,,Most newbie voice actors are off all week…
-Dialogue: 0,0:20:53.81,0:20:55.48,Default,Момока,0,0,0,,This must be what Hell is like.
-Dialogue: 0,0:20:56.69,0:20:59.07,Default,Титосэ,0,0,0,,I'm gonna head out. Момока-тян, good job.
-Dialogue: 0,0:20:59.07,0:21:00.28,Default,Титосэ,0,0,0,,Let's go out to eat again sometime!
-Dialogue: 0,0:21:00.28,0:21:02.44,Default,Момока,0,0,0,,Титосэ! Your stop is Baba, right?
-Dialogue: 0,0:21:02.44,0:21:04.32,Default,Момока,0,0,0,,Hers is Ochiai, so I'll give you a ride.
-Dialogue: 0,0:21:04.53,0:21:06.74,Default,Титосэ,0,0,0,,Huh? Er, that's a bit…
-Dialogue: 0,0:21:06.74,0:21:09.70,Default,Титосэ,0,0,0,,I mean, if anyone saw us going home together \Nand started rumors, it'd be embarrassing…
-Dialogue: 0,0:21:08.53,0:21:09.87,Default,Момока,0,0,0,,{\a6}Come on, let's go.
-Dialogue: 0,0:21:11.08,0:21:12.75,Default,Кадзуха,0,0,0,,Yep. Gonna go home now.
-Dialogue: 0,0:21:13.45,0:21:15.21,Default,Момока,0,0,0,,Титосэ, hurry up.
-Dialogue: 0,0:21:15.62,0:21:16.71,Default,Титосэ,0,0,0,,Uh…
-Dialogue: 0,0:21:18.42,0:21:20.38,Default,Кудзу,0,0,0,,Great job, everyone!
-Dialogue: 0,0:21:20.63,0:21:23.26,Default,Кудзу,0,0,0,,Okay, I'd like to propose a toast to your eyes
-Dialogue: 0,0:21:23.26,0:21:24.92,Default,Кудзу,0,0,0,,to kick off this after-party.
-Dialogue: 0,0:21:24.92,0:21:26.09,Default,Президент,0,0,0,,Full of sun!
-Dialogue: 0,0:21:26.34,0:21:28.09,Default,Кудзу,0,0,0,,Well, we made it through this one.
-Dialogue: 0,0:21:28.09,0:21:30.18,Default,Кудзу,0,0,0,,Now let's do our best on the next one!
-Dialogue: 0,0:21:30.18,0:21:33.31,Default,Президент,0,0,0,,Right. I've been moving \Nthat one thing along, as well.
-Dialogue: 0,0:21:33.68,0:21:35.27,Default,Кудзу,0,0,0,,Oh? How's that going?
-Dialogue: 0,0:21:35.60,0:21:37.48,Default,Президент,0,0,0,,Годзё-кун, do you have the documents?
-Dialogue: 0,0:21:38.23,0:21:38.94,Default,Годзё,0,0,0,,Oh, yes, sir.
-Dialogue: 0,0:21:41.19,0:21:44.65,Default,Президент,0,0,0,,It's amazing. We're getting \Nauditions left and right.
-Dialogue: 0,0:21:44.65,0:21:46.86,Default,Кудзу,0,0,0,,Nice, nice. We won!
-Dialogue: 0,0:21:47.61,0:21:50.83,Default,Товада,0,0,0,,Uh, wait… What are we going to do \Nabout the second season of {\i1}Кусурэ{\i0}?
-Dialogue: 0,0:21:57.08,0:21:57.96,Default,Кудзу,0,0,0,,Towada…
-Dialogue: 0,0:21:59.83,0:22:00.88,Default,Toa,0,0,0,,Yes?
-Dialogue: 0,0:22:03.55,0:22:05.17,Default,Кудзу,0,0,0,,Can I leave the rest to you?
-Dialogue: 0,0:22:06.67,0:22:07.38,Default,Товада,0,0,0,,Huh?
-Dialogue: 0,0:22:07.38,0:22:09.18,Default,Кудзу,0,0,0,,It's time for you to set off on your own!
-Dialogue: 0,0:22:09.18,0:22:11.35,Default,Кудзу,0,0,0,,I have nothing left to teach you.
-Dialogue: 0,0:22:11.35,0:22:13.10,Default,Кудзу,0,0,0,,Go! Walk over my dead body!
-Dialogue: 0,0:22:13.10,0:22:14.77,Default,Президент,0,0,0,,Corpse of the dead.
-Dialogue: 0,0:22:16.64,0:22:19.35,Default,Годзё,0,0,0,,I think it's the series that just died…
-Dialogue: 0,0:23:49.36,0:24:18.89,Preview,Надпись,0,0,0,,Preview
-Dialogue: 0,0:23:49.74,0:23:51.36,Default,Яэ,0,0,0,,Ти-тян's not here…
-Dialogue: 0,0:23:51.36,0:23:54.62,Default,Кото,0,0,0,,Yes, yes. Ти-сама went home. \NWe're goin' home, too.
-Dialogue: 0,0:23:54.62,0:23:56.58,Default,Яэ,0,0,0,,Ти-тян's not in the next cour's cast,
-Dialogue: 0,0:23:56.58,0:23:58.58,Default,Яэ,0,0,0,,or the cour after that…
-Dialogue: 0,0:23:58.58,0:24:01.83,Default,Кото,0,0,0,,Oh, crap. She's drunk. Definitely drunk.
-Dialogue: 0,0:24:01.83,0:24:03.17,Default,Яэ,0,0,0,,Кото-тян, I'm sorry.
-Dialogue: 0,0:24:03.17,0:24:05.46,Default,Кото,0,0,0,,No worries. But it's strange \Nbecoming friends with
-Dialogue: 0,0:24:05.46,0:24:07.42,Default,Кото,0,0,0,,someone who's so much younger than me.
-Dialogue: 0,0:24:07.42,0:24:09.42,Default,Кото,0,0,0,,Voice acting is such a wonderful job.
-Dialogue: 0,0:24:09.42,0:24:10.17,Default,Яэ,0,0,0,,Friends?
-Dialogue: 0,0:24:10.17,0:24:11.34,Default,Кото,0,0,0,,What, we aren't?
-Dialogue: 0,0:24:11.34,0:24:15.30,Default,Яэ,0,0,0,,No, it's just that I've never had \Nfriends before, so I'm happy!
-Dialogue: 0,0:24:15.30,0:24:16.60,Default,Кото,0,0,0,,Huh? What about Ти-сама?
-Dialogue: 0,0:24:16.60,0:24:17.56,Default,Яэ,0,0,0,,Well, Ти-тян's…
+Dialogue: 0,0:12:42.94,0:12:45.41,Salt_12:32(Ep 06),Надпись,0,0,0,,Соль
+Dialogue: 0,0:12:42.94,0:12:45.41,Default - Top,Примечание,0,0,0,,Примечание: Тинско - небольшой бисквит, в основном состоящий из свиного сала и муки, с мягким и сладким вкусом{сладкое сало? ШТА?}, очень похожим на песочное печенье. Традиционная сладость на Окинаве. Часто продаются как сувенир.
+Dialogue: 0,0:12:42.94,0:12:45.41,Chinsuko_12:32(Ep 06),Надпись,0,0,0,,Тинско
+Dialogue: 0,0:12:44.03,0:12:45.41,Default,Парень,0,0,0,,Кудзу-кун…
+Dialogue: 0,0:12:45.66,0:12:46.45,Default,Кудзу,0,0,0,,Да…
+Dialogue: 0,0:12:47.12,0:12:48.24,Default,Парень,0,0,0,,Ты знаешь…
+Dialogue: 0,0:12:49.12,0:12:49.95,Default,Кудзу,0,0,0,,Да…
+Dialogue: 0,0:12:52.12,0:12:53.41,Default,Момока,0,0,0,,Я дома.
+Dialogue: 0,0:12:53.41,0:12:56.37,Default,Парень,0,0,0,,Привет, Момока-тян, давно не виделись. \NПомнишь меня?
+Dialogue: 0,0:12:57.17,0:12:59.34,Default,Момока,0,0,0,,А… Из {\i1}Пури Пара{\i0}…
+Dialogue: 0,0:12:59.67,0:13:02.92,Default,Парень,0,0,0,,Угу-угу! Ух ты, а ты выросла.
+Dialogue: 0,0:13:02.92,0:13:03.72,Default,Момока,0,0,0,,Спасибо…
+Dialogue: 0,0:13:05.22,0:13:09.81,Default,Мама,0,0,0,,Смотри, нам принесли театральную версию аля «все-звёзды».
+Dialogue: 0,0:13:09.81,0:13:10.72,Default,Момока,0,0,0,,Вот как…
+Dialogue: 0,0:13:10.97,0:13:12.56,Default,Парень,0,0,0,,Ах, да. Я тут подумал
+Dialogue: 0,0:13:12.56,0:13:15.02,Default,Парень,0,0,0,,о наборе в {\i1}Пури Пара{\i0} на следующий год.
+Dialogue: 0,0:13:15.02,0:13:16.06,Default,Парень,0,0,0,,Хочешь, Момока-тян?
+Dialogue: 0,0:13:16.06,0:13:19.77,Default,Парень,0,0,0,,Я подумывал, так же, назначить Сакуру-сан\Nглавной по персонажам.
+Dialogue: 0,0:13:19.77,0:13:22.44,Default,Парень,0,0,0,,Получится сделаем маму\Nглавной в новой {\i1}Пури Паре{\i0}
+Dialogue: 0,0:13:22.44,0:13:24.99,Default,Парень,0,0,0,,И мама с дочкой\Nзасияют в ней вместе.
+Dialogue: 0,0:13:24.99,0:13:27.61,Default,Мама,0,0,0,,Ах, это прекрасно. Похоже на сон.
+Dialogue: 0,0:13:28.03,0:13:29.57,Default,Момока,0,0,0,,Вот только, если бы мы могли это сделать.
+Dialogue: 0,0:13:29.87,0:13:33.79,Default,Парень,0,0,0,,Конечно же ты сможешь. Я о том,\Nты же дочь Сакуры-сан.
+Dialogue: 0,0:13:33.79,0:13:36.67,Default,Парень,0,0,0,,Просто отлично, что у тебя тоже\Nесть свой актёрский дар.
+Dialogue: 0,0:13:36.67,0:13:39.79,Default,Парень,0,0,0,,Как только я решусь,\Nэто в будет почти означать, что дело сделано.
+Dialogue: 0,0:13:40.29,0:13:43.09,Default,Мама,0,0,0,,Я не против, так или иначе,
+Dialogue: 0,0:13:43.09,0:13:46.26,Default,Мама,0,0,0,,но актёр должен сам принять\N своё собственное решение.
+Dialogue: 0,0:13:46.51,0:13:50.14,Default,Папа,0,0,0,,Момока, ты уже профессионал.\NМожешь выбирать сама за себя.
+Dialogue: 0,0:13:50.14,0:13:52.35,Default,Папа,0,0,0,,Мы поддержим любой твой выбор.
+Dialogue: 0,0:13:53.93,0:13:55.06,Default,Момока,0,0,0,,Спасибо…
+Dialogue: 0,0:13:56.10,0:13:58.02,Default,Момока,0,0,0,,Завтра рано вставать, \Nтак что я спать.
+Dialogue: 0,0:13:58.02,0:14:00.02,Musashi-seki_13:47(Ep 06),Надпись,0,0,0,,"Станция Мусаси-Секи, Токио, в другой мир?!"
+Dialogue: 0,0:13:58.02,0:14:00.02,Lively_13:47(Ep 06),Надпись,0,0,0,,~Оживлённая жизнь корпоративного раба начинается с неудачи~
+Dialogue: 0,0:13:58.02,0:14:00.02,Voice_Actor_Audition_13:47(Ep 06),Надпись,0,0,0,,Прослушивание Сэйю
+Dialogue: 0,0:14:07.70,0:14:09.41,Default,Яэ,0,0,0,,Д-Доброе утро.
+Dialogue: 0,0:14:09.91,0:14:11.37,Default,Титосэ,0,0,0,,Яэ! Хайтай!
+Dialogue: 0,0:14:11.37,0:14:14.12,Default,Яэ,0,0,0,,Ти-тян, утречка. А ты рано.
+Dialogue: 0,0:14:14.12,0:14:15.87,Default,Титосэ,0,0,0,,На самом деле, это ты поздно, Яэ.
+Dialogue: 0,0:14:15.87,0:14:17.12,Default,Титосэ,0,0,0,,Ты — следующая.
+Dialogue: 0,0:14:18.00,0:14:20.58,Default,Титосэ,0,0,0,,А-ха! Это то, что называют «островным временем».
+Dialogue: 0,0:14:18.00,0:14:20.58,Default - Top,Примечание,0,0,0,,Примечание: «островное время» — временной вакуум, создаваемый во время отдыха на островах в океане, когда всё течёт плавно и беззаботно. После возвращения к обычной жизни, создаёт ряд проблем с восприятием времени.
+Dialogue: 0,0:14:20.58,0:14:22.54,Default,Титосэ,0,0,0,,Всё так же чувствуешь себя, как на курорте?
+Dialogue: 0,0:14:22.92,0:14:24.63,Default,Яэ,0,0,0,,Н-Не правда…
+Dialogue: 0,0:14:24.63,0:14:26.88,Default,Яэ,0,0,0,,Вчера на работе припозднилась.
+Dialogue: 0,0:14:25.88,0:14:27.34,Default,Кото,0,0,0,,Спасибо вам большое!
+Dialogue: 0,0:14:26.88,0:14:29.26,Default,Титосэ,0,0,0,,Ой, да ладно. Ты же как островитянка сейчас?
+Dialogue: 0,0:14:29.26,0:14:31.39,Default,Титосэ,0,0,0,,Застряла на Яэгорных Островах?
+Dialogue: 0,0:14:31.39,0:14:34.10,Default,Кото,0,0,0,,О, а ось и ти, Яэ-пон.
+Dialogue: 0,0:14:34.10,0:14:36.31,Default,Кото,0,0,0,,Годзё-сан был довольно встревожен.
+Dialogue: 0,0:14:36.31,0:14:38.69,Default,Яэ,0,0,0,,Угу, как-то так вышло.
+Dialogue: 0,0:14:38.69,0:14:39.90,Default,Парень,0,0,0,,Кугаяма-сан.
+Dialogue: 0,0:14:39.90,0:14:42.69,Default,Яэ,0,0,0,,Д-Да! О-Окей, я пошла.
+Dialogue: 0,0:14:43.32,0:14:44.65,Default,Титосэ,0,0,0,,Ага, давай.
+Dialogue: 0,0:14:44.65,0:14:46.11,Default,Яэ,0,0,0,,Всё будет хорошо!
+Dialogue: 0,0:14:46.11,0:14:48.49,Default,Титосэ,0,0,0,,Всё же, ты там проторчала так много времени, Кото-тян.
+Dialogue: 0,0:14:48.49,0:14:52.45,Default,Кото,0,0,0,,Так, вони, в конечном итоге, попросили мене\Nспробувати щё трохи ролей.
+Dialogue: 0,0:14:52.45,0:14:55.70,Default,Титосэ,0,0,0,,Вот как? Эй, как всё закончим,\Nможет поужинаем втроём?
+Dialogue: 0,0:14:56.04,0:14:57.25,Default,Титосэ,0,0,0,,В Окинавском ресторане!
+Dialogue: 0,0:14:57.25,0:15:00.42,Default,Кото,0,0,0,,Прости! У мене щё робота зразу писля прослуховування,\Nтак що мени вже треба йти.
+Dialogue: 0,0:15:00.67,0:15:03.08,Default,Титосэ,0,0,0,,Я-Ясно. Не, всё в полном порядке.
+Dialogue: 0,0:15:03.08,0:15:05.75,Default,Титосэ,0,0,0,,Если подумать, меня возможно\Nтоже будут пробовать на разные роли,
+Dialogue: 0,0:15:05.75,0:15:07.42,Default,Титосэ,0,0,0,,так что и я могу задержаться.
+Dialogue: 0,0:15:07.42,0:15:10.76,Default,Кото,0,0,0,,Приятно слухать.\NПостарайся, Ти-сама!
+Dialogue: 0,0:15:11.51,0:15:12.22,Default,Титосэ,0,0,0,,Так точно-o!
+Dialogue: 0,0:15:15.64,0:15:17.43,Default,Титосэ,0,0,0,,Что ж, думаю, я тоже смогу получить работу.
+Dialogue: 0,0:15:18.52,0:15:20.60,Default,Парень,0,0,0,,Так, сейчас хорошо.
+Dialogue: 0,0:15:21.14,0:15:21.90,Default,Титосэ,0,0,0,,Чё?
+Dialogue: 0,0:15:24.81,0:15:27.23,Default,Титосэ,0,0,0,,О-Оно пролетело в мгновение…
+Dialogue: 0,0:15:29.69,0:15:30.95,Default,Титосэ,0,0,0,,Однако, ну… да.
+Dialogue: 0,0:15:30.95,0:15:33.49,Default,Титосэ,0,0,0,,Имею ввиду, у меня был опыт озвучки главного персонажа.
+Dialogue: 0,0:15:33.49,0:15:34.28,Default,Титосэ,0,0,0,,Должно получиться!
+Dialogue: 0,0:15:38.70,0:15:41.96,Default,Момока,0,0,0,,Эй, а разве, прямо сейчас, я не должна\N быть на прослушивании на {\i1}Пури Пару{\i0}?
+Dialogue: 0,0:15:41.96,0:15:44.33,Default,Менеджер Момо,0,0,0,,Э? Не должна. С чего вдруг?
+Dialogue: 0,0:15:44.33,0:15:47.13,Default,Момока,0,0,0,,Ну, мне так сказал кое-кто\Nочень важный в Хокуэй.
+Dialogue: 0,0:15:47.13,0:15:48.80,Default,Момока,0,0,0,,Судя по всему, моя мама может быть замешана.
+Dialogue: 0,0:15:48.80,0:15:49.63,Default,Менеджер Момо,0,0,0,,Ээ…
+Dialogue: 0,0:15:49.84,0:15:52.13,Default,Момока,0,0,0,,Так что он спросил, хочу ли я тоже участвовать.
+Dialogue: 0,0:15:52.13,0:15:53.55,Default,Менеджер Момо,0,0,0,,И он выбрал тебя…
+Dialogue: 0,0:15:53.97,0:15:56.97,Default,Менеджер Момо,0,0,0,,Если это так, нам придётся немного\Nскорректировать твою рабочую нагрузку.
+Dialogue: 0,0:15:56.97,0:15:59.47,Default,Менеджер Момо,0,0,0,,Возможно, придётся приостановить твою музыкальную карьеру.
+Dialogue: 0,0:15:59.77,0:16:03.10,Default,Менеджер Момо,0,0,0,,Ведь твоя мама была в {\i1}Пури Паре{\i0} в прошлом,
+Dialogue: 0,0:16:03.10,0:16:05.81,Default,Менеджер Момо,0,0,0,,поэтому я уверена, это будет жирно, если вы двое\Nпоявитесь в шоу как мать и дочь.
+Dialogue: 0,0:16:05.81,0:16:08.73,Default,Менеджер Момо,0,0,0,,Это будет прекрасная возможность\Nдля тебя, как для актрисы.
+Dialogue: 0,0:16:08.73,0:16:09.99,Default,Менеджер Момо,0,0,0,,А что сказала мама?
+Dialogue: 0,0:16:10.53,0:16:11.95,Default,Момока,0,0,0,,Она ничего не сказала.
+Dialogue: 0,0:16:12.32,0:16:14.28,Default,Момока,0,0,0,,Папа тоже сказал, что я могу делать всё, что хочу.
+Dialogue: 0,0:16:14.78,0:16:17.66,Default,Менеджер Момо,0,0,0,,Уу… А чего ты хочешь сама?
+Dialogue: 0,0:16:21.08,0:16:22.25,Default,Момока,0,0,0,,Я не знаю.
+Dialogue: 0,0:16:23.08,0:16:24.92,Congrats_16:13(Ep 06),Надпись,0,0,0,,Поздравления\N{\c&H1A222C&}Большой Хит
+Dialogue: 0,0:16:23.08,0:16:24.92,Pajama_Ninja_16:13(Ep 06),Надпись,0,0,0,,Пижамный Ниндзя Томоми
+Dialogue: 0,0:16:24.92,0:16:27.96,Default,Парень,0,0,0,,Now, if we could have Shakujii-сама \Nfrom Anipro Entertainment come up?
+Dialogue: 0,0:16:29.13,0:16:32.80,Default,Сякудзии,0,0,0,,Меня только что представили, но я\NСякудзии из Anipro Entertainment.
+Dialogue: 0,0:16:33.05,0:16:34.43,Default,Кто-то,0,0,0,,30,000 copies!
+Dialogue: 0,0:16:33.59,0:16:35.09,Default,кто-то,0,0,0,,Hit-maker!
+Dialogue: 0,0:16:34.43,0:16:35.72,Default,кто-то,0,0,0,,CEO!
+Dialogue: 0,0:16:35.09,0:16:37.51,Default,Сякудзии,0,0,0,,Thank you. The reason this was
+Dialogue: 0,0:16:37.85,0:16:39.93,Default,Сякудзии,0,0,0,,such a hit is because of all of you.
+Dialogue: 0,0:16:39.93,0:16:42.98,Default - Top,Сякудзии,0,0,0,,It's not much, but I'd like
+Dialogue: 0,0:16:41.31,0:16:43.94,Default,Титосэ,0,0,0,,Why do wrap parties always fall on the same day?
+Dialogue: 0,0:16:42.98,0:16:46.40,Default - Top,Сякудзии,0,0,0,,to start the prize drawing.
+Dialogue: 0,0:16:44.89,0:16:47.40,Default,Годзё,0,0,0,,Титосэ, we're gonna head \Nto the {\i1}Кусурэ{\i0} wrap party.
+Dialogue: 0,0:16:47.77,0:16:49.61,Default,Титосэ,0,0,0,,Huh? Do I have to go?
+Dialogue: 0,0:16:49.94,0:16:52.15,Default,Годзё,0,0,0,,Actually, you didn't have to come to this one.
+Dialogue: 0,0:16:52.15,0:16:54.24,Default,Годзё,0,0,0,,You had a mob role here, \Nbut you're a main character there.
+Dialogue: 0,0:16:54.24,0:16:56.57,Default,Титосэ,0,0,0,,Yeah, I guess you're right…
+Dialogue: 0,0:16:56.95,0:16:57.82,Default,Годзё,0,0,0,,What's wrong?
+Dialogue: 0,0:16:57.82,0:16:59.91,Default,Титосэ,0,0,0,,Hey, the audition the other day…
+Dialogue: 0,0:16:59.91,0:17:03.29,Default,Годзё,0,0,0,,Oh, that. They picked someone already. \NYou lost. Totally failed.
+Dialogue: 0,0:17:03.54,0:17:06.50,Default,Титосэ,0,0,0,,Tch. Political casting, eh? \NDeath to record companies.
+Dialogue: 0,0:17:06.50,0:17:08.00,Default,Годзё,0,0,0,,It's your own lack of ability, dumbass.
+Dialogue: 0,0:17:09.71,0:17:12.51,Default,Титосэ,0,0,0,,Годзё-кун, do you think I could be in trouble?
+Dialogue: 0,0:17:12.51,0:17:14.51,Default,Годзё,0,0,0,,So you've finally gained a sense of danger…
+Dialogue: 0,0:17:14.97,0:17:16.51,Default,Годзё,0,0,0,,Well, yeah, I'd say you're in trouble.
+Dialogue: 0,0:17:16.80,0:17:19.72,Default,Титосэ,0,0,0,,Yeah. My luck totally sucks.
+Dialogue: 0,0:17:19.72,0:17:22.52,Default,Годзё,0,0,0,,Actually, I'm pretty sure you\Ngot this far on pure luck.
+Dialogue: 0,0:17:22.52,0:17:24.31,Default,Титосэ,0,0,0,,Yeah, I don't need jokes like that.
+Dialogue: 0,0:17:24.31,0:17:25.19,Default,Годзё,0,0,0,,That wasn't a joke.
+Dialogue: 0,0:17:24.56,0:17:28.02,Default - Top,Парень,0,0,0,,{\a6}All right, next… We have a huge TV \Nfrom Anipro Entertainment.
+Dialogue: 0,0:17:25.52,0:17:27.65,Default,Титосэ,0,0,0,,Maybe I'll go get purified…
+Dialogue: 0,0:17:28.02,0:17:30.23,Default,Годзё,0,0,0,,We're going to the next wrap party first.
+Dialogue: 0,0:17:29.31,0:17:32.36,Default - Top,Парень,0,0,0,,Let's see… Pink 57.
+Dialogue: 0,0:17:32.78,0:17:35.65,Default,Титосэ,0,0,0,,Yes! Me, me! That's me!
+Dialogue: 0,0:17:35.65,0:17:38.07,Default,Титосэ,0,0,0,,Huh… I guess I'm lucky after all!
+Dialogue: 0,0:17:38.49,0:17:40.28,Default,Титосэ,0,0,0,,I won!
+Dialogue: 0,0:17:40.95,0:17:43.91,Default,Годзё,0,0,0,,That's called being useless…
+Dialogue: 0,0:17:44.50,0:17:46.96,Wrap_Venue(Ep 06),Надпись,0,0,0,,Wrap Party Venue
+Dialogue: 0,0:17:46.29,0:17:49.92,Default,Товада,0,0,0,,Please… There are plenty \Nof open seats up front,
+Dialogue: 0,0:17:49.92,0:17:53.13,Default,Товада,0,0,0,,so if the cast would, um… come up here?
+Dialogue: 0,0:17:55.30,0:17:59.26,Default - Top,Товада,0,0,0,,There's still a bit of time before \Nwe start, so please hang tight.
+Dialogue: 0,0:17:55.30,0:17:57.13,Default,Яэ,0,0,0,,Good to see you, Ти-тян!
+Dialogue: 0,0:17:57.13,0:17:59.93,Default,Кото,0,0,0,,And Ти-сама arrives fashionably late.
+Dialogue: 0,0:17:59.93,0:18:01.51,Default,Титосэ,0,0,0,,More importantly, listen to this!
+Dialogue: 0,0:18:00.64,0:18:04.02,Default - Top,Товада,0,0,0,,Huh? I can start? I see. Well…
+Dialogue: 0,0:18:01.51,0:18:04.02,Default,Титосэ,0,0,0,,I just won a TV at another wrap party!
+Dialogue: 0,0:18:04.27,0:18:06.23,Default,Титосэ,0,0,0,,I wonder what I'll win here.
+Dialogue: 0,0:18:05.43,0:18:07.94,Default - Top,Товада,0,0,0,,Now, if we can get right to it, I'd like
+Dialogue: 0,0:18:06.48,0:18:09.19,Default,Момока,0,0,0,,People don't usually win those that often, right?
+Dialogue: 0,0:18:07.94,0:18:10.19,Default - Top,Товада,0,0,0,,to start this wrap party.
+Dialogue: 0,0:18:10.48,0:18:12.86,Default - Top,Товада,0,0,0,,First, let's have a toast.
+Dialogue: 0,0:18:11.15,0:18:12.48,Cell_Phone(Ep 06),Надпись,0,0,0,,Mother\NCalling…
+Dialogue: 0,0:18:12.48,0:18:12.86,Cell_Phone(Ep 06),Надпись,0,0,0,,Mother\NCall Ended
+Dialogue: 0,0:18:12.86,0:18:16.78,Default - Top,Товада,0,0,0,,I heard that the author's \Neditor-in-chief is here…
+Dialogue: 0,0:18:14.32,0:18:15.57,Default,Кадзуха,0,0,0,,I'm not sure.
+Dialogue: 0,0:18:16.44,0:18:18.70,Default,Титосэ,0,0,0,,The possibility seems low to begin with…
+Dialogue: 0,0:18:19.28,0:18:20.74,Default,Товада,0,0,0,,Now, then…
+Dialogue: 0,0:18:21.07,0:18:22.95,Default,Товада,0,0,0,,Producer Кудзу, from my company,
+Dialogue: 0,0:18:22.95,0:18:25.29,Default,Товада,0,0,0,,will be leading us in a toast.
+Dialogue: 0,0:18:25.70,0:18:28.79,Default,Кудзу,0,0,0,,You all did well bearing with the pain.
+Dialogue: 0,0:18:28.79,0:18:31.17,Default,Кудзу,0,0,0,,I'm moved! Cheers! Thats what I'd like to say,
+Dialogue: 0,0:18:31.63,0:18:33.09,Default,Кудзу,0,0,0,,but that might jinx us,
+Dialogue: 0,0:18:33.09,0:18:35.71,Default,Кудзу,0,0,0,,so I'd prefer to go with "total victory."
+Dialogue: 0,0:18:35.71,0:18:38.30,Default,Кудзу,0,0,0,,Everyone, do you have your glasses ready?
+Dialogue: 0,0:18:38.30,0:18:39.18,Default,Кудзу,0,0,0,,Now, then…
+Dialogue: 0,0:18:39.51,0:18:40.93,Default,Кудзу,0,0,0,,Total victory!
+Dialogue: 0,0:18:41.22,0:18:43.05,Default,Все,0,0,0,,Cheers…
+Dialogue: 0,0:18:43.35,0:18:45.97,Default,Товада,0,0,0,,Right. Well, let's go right into
+Dialogue: 0,0:18:45.97,0:18:48.77,Default,Товада,0,0,0,,the introduction of the main Персонал.
+Dialogue: 0,0:18:51.65,0:18:53.61,Cell_Phone(Ep 06)v2,Надпись,0,0,0,,Mother\NCalling…
+Dialogue: 0,0:18:54.15,0:18:55.53,Default,Момока,0,0,0,,Your phone's ringing.
+Dialogue: 0,0:18:56.19,0:18:56.86,Default,Кадзуха,0,0,0,,I know.
+Dialogue: 0,0:18:57.44,0:18:58.53,Default,Момока,0,0,0,,You don't need to answer it?
+Dialogue: 0,0:18:59.40,0:19:00.91,Default,Кадзуха,0,0,0,,I'll call them back later.
+Dialogue: 0,0:19:03.58,0:19:04.78,Default,Кадзуха,0,0,0,,I'm going to get another drink.
+Dialogue: 0,0:19:05.45,0:19:07.20,Default,Персонал,0,0,0,,Thanks for all your hard work, Соно-сан.
+Dialogue: 0,0:19:07.66,0:19:10.17,Default,Персонал,0,0,0,,U-Um… Would it be okay to get your autograph?
+Dialogue: 0,0:19:10.17,0:19:12.96,Default,Момока,0,0,0,,Oh, sure. That's totally fine.
+Dialogue: 0,0:19:12.96,0:19:14.38,Default,Момока,0,0,0,,Thank you, too.
+Dialogue: 0,0:19:16.88,0:19:18.34,Default,Персонал,0,0,0,,Thank you very much!
+Dialogue: 0,0:19:18.34,0:19:20.47,Default,Персонал,0,0,0,,Now I've got both yours and your mom's!
+Dialogue: 0,0:19:20.47,0:19:23.97,Default,Персонал,0,0,0,,U-Um, I was doing key animation \Non a project Соно Сакура-сан was in,
+Dialogue: 0,0:19:23.97,0:19:26.35,Default,Персонал,0,0,0,,and she gave me her autograph \Nthen. I was so happy!
+Dialogue: 0,0:19:26.35,0:19:28.27,Default,Момока,0,0,0,,Oh, I see!
+Dialogue: 0,0:19:28.27,0:19:30.85,Default,Момока,0,0,0,,I'm sure my mom will be \Nhappy when I tell her that.
+Dialogue: 0,0:19:39.57,0:19:42.32,Default - Top,Менеджер Момо,0,0,0,,Total victory! Total victory!
+Dialogue: 0,0:19:39.57,0:19:42.32,Default,Парень,0,0,0,,Сибасаки never listens to a word I say…
+Dialogue: 0,0:19:42.70,0:19:44.28,Default,Титосэ,0,0,0,,Huh? There's no after-party?
+Dialogue: 0,0:19:44.57,0:19:46.20,Default,Момока,0,0,0,,That's not exactly rare.
+Dialogue: 0,0:19:46.20,0:19:48.75,Default,Момока,0,0,0,,There are some titles that \Ndon't even do wrap parties.
+Dialogue: 0,0:19:48.75,0:19:52.71,Default,Кудзу,0,0,0,,Well, I know that the party is in full schwing…
+Dialogue: 0,0:19:52.71,0:19:54.67,Default,Кудзу,0,0,0,,Oops, I mean full swing!
+Dialogue: 0,0:19:54.67,0:19:56.17,Default,Менеджер Момо,0,0,0,,You suck!
+Dialogue: 0,0:19:56.59,0:19:59.63,Default,Кудзу,0,0,0,,Well, there will be a second season, \Nso let's keep doing our best.
+Dialogue: 0,0:20:00.09,0:20:01.72,Default,Кудзу,0,0,0,,Thanks, everyone!
+Dialogue: 0,0:20:02.34,0:20:05.09,Default,Титосэ,0,0,0,,A second season, huh? \NEven though the sales suck.
+Dialogue: 0,0:20:05.09,0:20:06.97,Default,Кадзуха,0,0,0,,Yer gosh darn annoying!
+Dialogue: 0,0:20:06.97,0:20:08.68,Default,Кадзуха,0,0,0,,Sales have nothin' to do with it!
+Dialogue: 0,0:20:08.68,0:20:10.93,Default,Момока,0,0,0,,"Gosh darn"… Where are you even from?
+Dialogue: 0,0:20:10.93,0:20:13.27,Default,Кадзуха,0,0,0,,I dun fergot where I'm from!
+Dialogue: 0,0:20:13.56,0:20:15.98,Default,Титосэ,0,0,0,,Did you just drink too much and forget?
+Dialogue: 0,0:20:16.36,0:20:18.52,Default,Момока,0,0,0,,If I could drink, I'd like to forget, too.
+Dialogue: 0,0:20:18.52,0:20:19.90,Default,Кадзуха,0,0,0,,Shut yer trap!
+Dialogue: 0,0:20:19.90,0:20:22.57,Default,Момока,0,0,0,,I know! I won't drink, and I can't drink.
+Dialogue: 0,0:20:22.95,0:20:26.53,Default,Кадзуха,0,0,0,,You dun' get it at all… You can't ferget, \Nno matter how much you drink…
+Dialogue: 0,0:20:26.87,0:20:29.33,Default,Кадзуха,0,0,0,,That's… That's why I keep drinkin'.
+Dialogue: 0,0:20:29.33,0:20:30.54,Default,Яэ,0,0,0,,Yeah!
+Dialogue: 0,0:20:30.83,0:20:33.54,Default,Яэ,0,0,0,,They're going to forget about this series, too!
+Dialogue: 0,0:20:33.54,0:20:35.12,Default,Титосэ,0,0,0,,Y-Яэ, are you okay?
+Dialogue: 0,0:20:37.13,0:20:39.09,Default,Яэ,0,0,0,,There are lots of Ти-тянs…
+Dialogue: 0,0:20:39.09,0:20:42.05,Default,Яэ,0,0,0,,There are lots of people to take \Nyour place, too, Ти-тян…
+Dialogue: 0,0:20:42.05,0:20:44.34,Default,Титосэ,0,0,0,,Oh? I guess that's how you really feel, huh?
+Dialogue: 0,0:20:44.55,0:20:47.76,Default,Кото,0,0,0,,Яэ-pon, you drank too much. \NYou should rest a bit.
+Dialogue: 0,0:20:48.68,0:20:52.02,Default,Яэ,0,0,0,,Most newbie voice actors are off all week…
+Dialogue: 0,0:20:54.39,0:20:56.06,Default,Момока,0,0,0,,This must be what Hell is like.
+Dialogue: 0,0:20:57.27,0:20:59.65,Default,Титосэ,0,0,0,,I'm gonna head out. Момока-тян, good job.
+Dialogue: 0,0:20:59.65,0:21:00.86,Default,Титосэ,0,0,0,,Let's go out to eat again sometime!
+Dialogue: 0,0:21:00.86,0:21:03.03,Default,Момока,0,0,0,,Титосэ! Your stop is Baba, right?
+Dialogue: 0,0:21:03.03,0:21:04.90,Default,Момока,0,0,0,,Hers is Ochiai, so I'll give you a ride.
+Dialogue: 0,0:21:05.11,0:21:07.32,Default,Титосэ,0,0,0,,Huh? Er, that's a bit…
+Dialogue: 0,0:21:07.32,0:21:10.29,Default,Титосэ,0,0,0,,I mean, if anyone saw us going home together \Nand started rumors, it'd be embarrassing…
+Dialogue: 0,0:21:09.12,0:21:10.45,Default,Момока,0,0,0,,{\a6}Come on, let's go.
+Dialogue: 0,0:21:11.66,0:21:13.33,Default,Кадзуха,0,0,0,,Yep. Gonna go home now.
+Dialogue: 0,0:21:14.04,0:21:15.79,Default,Момока,0,0,0,,Титосэ, hurry up.
+Dialogue: 0,0:21:16.21,0:21:17.29,Default,Титосэ,0,0,0,,Uh…
+Dialogue: 0,0:21:19.00,0:21:20.96,Default,Кудзу,0,0,0,,Great job, everyone!
+Dialogue: 0,0:21:21.21,0:21:23.84,Default,Кудзу,0,0,0,,Okay, I'd like to propose a toast to your eyes
+Dialogue: 0,0:21:23.84,0:21:25.51,Default,Кудзу,0,0,0,,to kick off this after-party.
+Dialogue: 0,0:21:25.51,0:21:26.68,Default,Президент,0,0,0,,Full of sun!
+Dialogue: 0,0:21:26.93,0:21:28.68,Default,Кудзу,0,0,0,,Well, we made it through this one.
+Dialogue: 0,0:21:28.68,0:21:30.76,Default,Кудзу,0,0,0,,Now let's do our best on the next one!
+Dialogue: 0,0:21:30.76,0:21:33.89,Default,Президент,0,0,0,,Right. I've been moving \Nthat one thing along, as well.
+Dialogue: 0,0:21:34.27,0:21:35.85,Default,Кудзу,0,0,0,,Oh? How's that going?
+Dialogue: 0,0:21:36.19,0:21:38.06,Default,Президент,0,0,0,,Годзё-кун, do you have the documents?
+Dialogue: 0,0:21:38.81,0:21:39.52,Default,Годзё,0,0,0,,Oh, yes, sir.
+Dialogue: 0,0:21:41.77,0:21:45.24,Default,Президент,0,0,0,,It's amazing. We're getting \Nauditions left and right.
+Dialogue: 0,0:21:45.24,0:21:47.45,Default,Кудзу,0,0,0,,Nice, nice. We won!
+Dialogue: 0,0:21:48.20,0:21:51.41,Default,Товада,0,0,0,,Uh, wait… What are we going to do \Nabout the second season of {\i1}Кусурэ{\i0}?
+Dialogue: 0,0:21:57.67,0:21:58.54,Default,Кудзу,0,0,0,,Towada…
+Dialogue: 0,0:22:00.42,0:22:01.46,Default,Товада,0,0,0,,Yes?
+Dialogue: 0,0:22:04.13,0:22:05.76,Default,Кудзу,0,0,0,,Can I leave the rest to you?
+Dialogue: 0,0:22:07.26,0:22:07.97,Default,Товада,0,0,0,,Huh?
+Dialogue: 0,0:22:07.97,0:22:09.76,Default,Кудзу,0,0,0,,It's time for you to set off on your own!
+Dialogue: 0,0:22:09.76,0:22:11.93,Default,Кудзу,0,0,0,,I have nothing left to teach you.
+Dialogue: 0,0:22:11.93,0:22:13.68,Default,Кудзу,0,0,0,,Go! Walk over my dead body!
+Dialogue: 0,0:22:13.68,0:22:15.35,Default,Президент,0,0,0,,Corpse of the dead.
+Dialogue: 0,0:22:17.23,0:22:19.94,Default,Годзё,0,0,0,,I think it's the series that just died…
+Dialogue: 0,0:23:49.94,0:24:19.47,Preview,Надпись,0,0,0,,Preview
+Dialogue: 0,0:23:50.32,0:23:51.95,Default,Яэ,0,0,0,,Ти-тян's not here…
+Dialogue: 0,0:23:51.95,0:23:55.20,Default,Кото,0,0,0,,Yes, yes. Ти-сама went home. \NWe're goin' home, too.
+Dialogue: 0,0:23:55.20,0:23:57.16,Default,Яэ,0,0,0,,Ти-тян's not in the next cour's cast,
+Dialogue: 0,0:23:57.16,0:23:59.16,Default,Яэ,0,0,0,,or the cour after that…
+Dialogue: 0,0:23:59.16,0:24:02.42,Default,Кото,0,0,0,,Oh, crap. She's drunk. Definitely drunk.
+Dialogue: 0,0:24:02.42,0:24:03.75,Default,Яэ,0,0,0,,Кото-тян, I'm sorry.
+Dialogue: 0,0:24:03.75,0:24:06.04,Default,Кото,0,0,0,,No worries. But it's strange \Nbecoming friends with
+Dialogue: 0,0:24:06.04,0:24:08.00,Default,Кото,0,0,0,,someone who's so much younger than me.
+Dialogue: 0,0:24:08.00,0:24:10.01,Default,Кото,0,0,0,,Voice acting is such a wonderful job.
+Dialogue: 0,0:24:10.01,0:24:10.76,Default,Яэ,0,0,0,,Friends?
+Dialogue: 0,0:24:10.76,0:24:11.92,Default,Кото,0,0,0,,What, we aren't?
+Dialogue: 0,0:24:11.92,0:24:15.89,Default,Яэ,0,0,0,,No, it's just that I've never had \Nfriends before, so I'm happy!
+Dialogue: 0,0:24:15.89,0:24:17.18,Default,Кото,0,0,0,,Huh? What about Ти-сама?
+Dialogue: 0,0:24:17.18,0:24:18.14,Default,Яэ,0,0,0,,Well, Ти-тян's…
