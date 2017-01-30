@@ -16,8 +16,8 @@ Audio File: [Leopard-Raws] Girlish Number - 02 RAW (TBS 1280x720 x264 AAC).mp4
 Video File: [Leopard-Raws] Girlish Number - 02 RAW (TBS 1280x720 x264 AAC).mp4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 198
-Active Line: 206
+Scroll Position: 226
+Active Line: 236
 Video Position: 32161
 
 [V4+ Styles]
@@ -236,8 +236,8 @@ Dialogue: 0,0:23:41.77,0:23:43.86,ED_Rom,,0,0,0,,Yumemiyo otome
 Dialogue: 0,0:23:44.15,0:23:45.36,ED_Rom,,0,0,0,,Furē! {\alpha&HFF\t(290,-15,\alpha&H00)}Furē! {\alpha&HFF\t(580,-15,\alpha&H00)}Furē! {\alpha&HFF\t(880,-15,\alpha&H00)}☆
 Dialogue: 0,0:23:45.36,0:23:46.57,ED_Rom,,0,0,0,,Furē! {\alpha&HFF\t(290,-15,\alpha&H00)}Furē! {\alpha&HFF\t(580,-15,\alpha&H00)}Furē! {\alpha&HFF\t(880,-15,\alpha&H00)}☆
 Dialogue: 0,0:23:46.57,0:23:48.61,ED_Rom,,0,0,0,,Iza ike GO →
-Dialogue: 0,0:22:20.23,0:22:21.40,ED_Ru,,0,0,0,,Там! {\alpha&HFF\t(290,-15,\alpha&H00)}Там! {\alpha&HFF\t(580,-15,\alpha&H00)}Там! {\alpha&HFF\t(880,-15,\alpha&H00)}☆
-Dialogue: 0,0:22:21.40,0:22:22.61,ED_Ru,,0,0,0,,Там! {\alpha&HFF\t(290,-15,\alpha&H00)}Там! {\alpha&HFF\t(580,-15,\alpha&H00)}Там! {\alpha&HFF\t(880,-15,\alpha&H00)}☆
+Dialogue: 0,0:22:20.23,0:22:21.40,ED_Ru,,0,0,0,,Пам! {\alpha&HFF\t(290,-15,\alpha&H00)}Пам! {\alpha&HFF\t(580,-15,\alpha&H00)}Пам! {\alpha&HFF\t(880,-15,\alpha&H00)}☆
+Dialogue: 0,0:22:21.40,0:22:22.61,ED_Ru,,0,0,0,,Пам! {\alpha&HFF\t(290,-15,\alpha&H00)}Пам! {\alpha&HFF\t(580,-15,\alpha&H00)}Пам! {\alpha&HFF\t(880,-15,\alpha&H00)}☆
 Dialogue: 0,0:22:22.61,0:22:24.61,ED_Ru,,0,0,0,,Девушек мечта зовёт!
 Dialogue: 0,0:22:32.24,0:22:34.70,ED_Ru,,0,0,0,,{\c&H8E61C3&}Я — гениальна, так что, как-нибудь,
 Dialogue: 0,0:22:37.25,0:22:39.37,ED_Ru,,0,0,0,,{\c&H9FC8DD&}Милой мордашкой расчищу свой путь.
@@ -256,15 +256,15 @@ Dialogue: 0,0:23:17.45,0:23:18.08,ED_Ru,,0,0,0,,{\an3\fad(110,370)\fscx80\fscy80
 Dialogue: 0,0:23:18.70,0:23:19.12,ED_Ru,,0,0,0,,{\an1\fad(80,270)\fscx80\fscy80\t(0,230,(\fscx100\fscy100))}Ха~й
 Dialogue: 0,0:23:21.29,0:23:25.34,ED_Ru,,0,0,0,,{\move(640,660,640.2,700.2,26,2528)}Колотится сердце, до боли сжимаясь в груди!
 Dialogue: 0,0:23:25.34,0:23:29.80,ED_Ru,,0,0,0,,{\t(3460,-15,\c&H8E61C3&)}{Козёл позорный}Я не стану выкладываться {\alpha&HFF\t(3460,-15,\alpha&H00)}по-полной~
-Dialogue: 0,0:23:29.80,0:23:30.97,ED_Ru,,0,0,0,,Там! {\alpha&HFF\t(290,-15,\alpha&H00)}Там! {\alpha&HFF\t(580,-15,\alpha&H00)}Там! {\alpha&HFF\t(880,-15,\alpha&H00)}☆
-Dialogue: 0,0:23:30.97,0:23:32.18,ED_Ru,,0,0,0,,Там! {\alpha&HFF\t(290,-15,\alpha&H00)}Там! {\alpha&HFF\t(580,-15,\alpha&H00)}Там! {\alpha&HFF\t(880,-15,\alpha&H00)}☆
+Dialogue: 0,0:23:29.80,0:23:30.97,ED_Ru,,0,0,0,,Пам! {\alpha&HFF\t(290,-15,\alpha&H00)}Пам! {\alpha&HFF\t(580,-15,\alpha&H00)}Пам! {\alpha&HFF\t(880,-15,\alpha&H00)}☆
+Dialogue: 0,0:23:30.97,0:23:32.18,ED_Ru,,0,0,0,,Пам! {\alpha&HFF\t(290,-15,\alpha&H00)}Пам! {\alpha&HFF\t(580,-15,\alpha&H00)}Пам! {\alpha&HFF\t(880,-15,\alpha&H00)}☆
 Dialogue: 0,0:23:32.18,0:23:34.60,ED_Ru,,0,0,0,,То, что есть — недолговечно!
-Dialogue: 0,0:23:34.60,0:23:35.76,ED_Ru,,0,0,0,,Там! {\alpha&HFF\t(290,-15,\alpha&H00)}Там! {\alpha&HFF\t(580,-15,\alpha&H00)}Там! {\alpha&HFF\t(880,-15,\alpha&H00)}☆
-Dialogue: 0,0:23:35.76,0:23:36.97,ED_Ru,,0,0,0,,Там! {\alpha&HFF\t(290,-15,\alpha&H00)}Там! {\alpha&HFF\t(580,-15,\alpha&H00)}Там! {\alpha&HFF\t(880,-15,\alpha&H00)}☆
+Dialogue: 0,0:23:34.60,0:23:35.76,ED_Ru,,0,0,0,,Пам! {\alpha&HFF\t(290,-15,\alpha&H00)}Пам! {\alpha&HFF\t(580,-15,\alpha&H00)}Пам! {\alpha&HFF\t(880,-15,\alpha&H00)}☆
+Dialogue: 0,0:23:35.76,0:23:36.97,ED_Ru,,0,0,0,,Пам! {\alpha&HFF\t(290,-15,\alpha&H00)}Пам! {\alpha&HFF\t(580,-15,\alpha&H00)}Пам! {\alpha&HFF\t(880,-15,\alpha&H00)}☆
 Dialogue: 0,0:23:36.97,0:23:39.10,ED_Ru,,0,0,0,,Не предел, хоть, путь нам млечный!
-Dialogue: 0,0:23:39.39,0:23:40.60,ED_Ru,,0,0,0,,Там! {\alpha&HFF\t(290,-15,\alpha&H00)}Там! {\alpha&HFF\t(580,-15,\alpha&H00)}Там! {\alpha&HFF\t(880,-15,\alpha&H00)}☆
-Dialogue: 0,0:23:40.60,0:23:41.77,ED_Ru,,0,0,0,,Там! {\alpha&HFF\t(290,-15,\alpha&H00)}Там! {\alpha&HFF\t(580,-15,\alpha&H00)}Там! {\alpha&HFF\t(880,-15,\alpha&H00)}☆
+Dialogue: 0,0:23:39.39,0:23:40.60,ED_Ru,,0,0,0,,Пам! {\alpha&HFF\t(290,-15,\alpha&H00)}Пам! {\alpha&HFF\t(580,-15,\alpha&H00)}Пам! {\alpha&HFF\t(880,-15,\alpha&H00)}☆
+Dialogue: 0,0:23:40.60,0:23:41.77,ED_Ru,,0,0,0,,Пам! {\alpha&HFF\t(290,-15,\alpha&H00)}Пам! {\alpha&HFF\t(580,-15,\alpha&H00)}Пам! {\alpha&HFF\t(880,-15,\alpha&H00)}☆
 Dialogue: 0,0:23:41.77,0:23:43.86,ED_Ru,,0,0,0,,Девушек мечта зовёт!
-Dialogue: 0,0:23:44.15,0:23:45.36,ED_Ru,,0,0,0,,Там! {\alpha&HFF\t(290,-15,\alpha&H00)}Там! {\alpha&HFF\t(580,-15,\alpha&H00)}Там! {\alpha&HFF\t(880,-15,\alpha&H00)}☆
-Dialogue: 0,0:23:45.36,0:23:46.57,ED_Ru,,0,0,0,,Там! {\alpha&HFF\t(290,-15,\alpha&H00)}Там! {\alpha&HFF\t(580,-15,\alpha&H00)}Там! {\alpha&HFF\t(880,-15,\alpha&H00)}☆
+Dialogue: 0,0:23:44.15,0:23:45.36,ED_Ru,,0,0,0,,Пам! {\alpha&HFF\t(290,-15,\alpha&H00)}Пам! {\alpha&HFF\t(580,-15,\alpha&H00)}Пам! {\alpha&HFF\t(880,-15,\alpha&H00)}☆
+Dialogue: 0,0:23:45.36,0:23:46.57,ED_Ru,,0,0,0,,Пам! {\alpha&HFF\t(290,-15,\alpha&H00)}Пам! {\alpha&HFF\t(580,-15,\alpha&H00)}Пам! {\alpha&HFF\t(880,-15,\alpha&H00)}☆
 Dialogue: 0,0:23:46.57,0:23:48.61,ED_Ru,,0,0,0,,Продолжай идти вперёд →
