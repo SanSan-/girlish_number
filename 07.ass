@@ -187,9 +187,9 @@ Dialogue: 0,0:07:11.53,0:07:13.74,Default,Момока,0,0,0,,Ладно, дал
 Dialogue: 0,0:07:13.74,0:07:14.53,Default,Вместе,0,0,0,,Чтение писем!
 Dialogue: 0,0:07:14.91,0:07:16.95,Default,Момока,0,0,0,,Сегодня у нас, снова, море сообщений.
 Dialogue: 0,0:07:16.95,0:07:18.00,Default,Кадзуха,0,0,0,,Спасибо вам всем!
-Dialogue: 0,0:07:18.25,0:07:21.33,Default,Момока,0,0,0,,Посмотрим…  имя из Кусурэ, \N«Китайский Жаренный Кунжут Коротышка-сан».
-Dialogue: 0,0:07:21.33,0:07:24.33,Default,Момока,0,0,0,,«КууСайте всё, люди». Да, КууСайте всё. {Очевидно, что она хочет колбасу…}
-Dialogue: 0,0:07:24.59,0:07:25.79,Default,Все,0,0,0,,КууСайте всё!
+Dialogue: 0,0:07:18.25,0:07:21.33,Default,Момока,0,0,0,,Посмотрим…  имя из Кусурэ\N«Китайский Жаренный Кунжут Коротышка-сан».
+Dialogue: 0,0:07:21.33,0:07:24.33,Default,Момока,0,0,0,,«КууСайте, люди». Да, КууСайте. {Очевидно, что она хочет колбасу…}
+Dialogue: 0,0:07:24.59,0:07:25.79,Default,Все,0,0,0,,КууСайте!
 Dialogue: 0,0:07:25.79,0:07:28.17,Default - Italics,Титосэ,0,0,0,,{\a6}Всё не могу привыкнуть к этому глупому приветствию.
 Dialogue: 0,0:07:26.34,0:07:28.84,Default,Момока,0,0,0,,«Я тот, кто недавно писал вам,
 Dialogue: 0,0:07:28.84,0:07:31.13,Default,Момока,0,0,0,,что хочу признаться в любви\Nсвоей подруге детства».
@@ -199,36 +199,36 @@ Dialogue: 0,0:07:33.72,0:07:36.64,Default,Момока,0,0,0,,«Все вы ме
 Dialogue: 0,0:07:36.18,0:07:37.89,Default - Italics,Титосэ,0,0,0,,{\a6}Ты же фанат? Ты, серьёзно, наш фанат?
 Dialogue: 0,0:07:36.64,0:07:40.43,Default,Момока,0,0,0,,но я не могу побороть мужество, потому что\Nбоюсь, что могу так разрушить нашу дружбу.»
 Dialogue: 0,0:07:40.43,0:07:41.44,Default,Кото,0,0,0,,Как же я его понимаю.
-Dialogue: 0,0:07:41.44,0:07:44.90,Default,Момока,0,0,0,,"So I was wondering if I could get some \Nwords of encouragement from you again.
-Dialogue: 0,0:07:44.90,0:07:47.19,Default,Момока,0,0,0,,Please take care, \Nand keep up the good work.
-Dialogue: 0,0:07:47.19,0:07:48.19,Default,Момока,0,0,0,,Thank you."
-Dialogue: 0,0:07:48.73,0:07:50.90,Default,Кадзуха,0,0,0,,There are things you can't say, \Nhowever badly you want to.
-Dialogue: 0,0:07:51.15,0:07:54.66,Default - Italics,Титосэ,0,0,0,,{\a6}Totally. "You're being dramatic. \NYou're laying it on as much as Яэ does."
-Dialogue: 0,0:07:51.40,0:07:54.66,Default,Яэ,0,0,0,,But you might regret it if you don't!
-Dialogue: 0,0:07:54.66,0:07:56.70,Default - Italics,Титосэ,0,0,0,,{\a6}That's one thing I could never say.
-Dialogue: 0,0:07:54.66,0:07:57.53,Default,Кото,0,0,0,,Yeah. Since you've known each \Nother for more than ten years,
-Dialogue: 0,0:07:57.53,0:07:58.87,Default,Кото,0,0,0,,I'm sure you'll be fine.
-Dialogue: 0,0:07:58.87,0:08:00.83,Default,Момока,0,0,0,,Yeah! You can do it!
-Dialogue: 0,0:08:00.83,0:08:03.00,Default,Момока,0,0,0,,So, Chinese Fried Sesame Dumpling-сан…
-Dialogue: 0,0:08:03.29,0:08:04.46,Default,Все,0,0,0,,You can do it!
-Dialogue: 0,0:08:08.80,0:08:10.96,Default,Момока,0,0,0,,The next message we have is from
-Dialogue: 0,0:08:10.96,0:08:13.09,Default,Момока,0,0,0,,Kusure name "Tunamayo-сан."
-Dialogue: 0,0:08:13.76,0:08:15.80,Default,Кадзуха,0,0,0,,Is that their favorite rice ball filling?
-Dialogue: 0,0:08:15.80,0:08:19.77,Default,Момока,0,0,0,,"Nice to meet you. I'm a second-year \Nin high school, and I love anime.
-Dialogue: 0,0:08:20.14,0:08:23.02,Default,Момока,0,0,0,,After I graduate, I'm planning to go \Nto Tokyo and become a voice actor.
-Dialogue: 0,0:08:23.60,0:08:26.73,Default,Момока,0,0,0,,Why did all of you decide \Nto become voice actors?"
-Dialogue: 0,0:08:26.73,0:08:27.69,Default,Момока,0,0,0,,You, Кото-тян?
-Dialogue: 0,0:08:28.11,0:08:30.94,Default,Кото,0,0,0,,I've always liked anime,
-Dialogue: 0,0:08:30.94,0:08:33.15,Default,Кото,0,0,0,,and before I knew it, \NI'd decided I would be one.
-Dialogue: 0,0:08:33.15,0:08:34.82,Default,Титосэ,0,0,0,,Oh, you took that route?
-Dialogue: 0,0:08:34.82,0:08:38.16,Default,Титосэ,0,0,0,,I'm the same. The "I thought \NI could just become one" route.
-Dialogue: 0,0:08:38.16,0:08:40.20,Default,Кото,0,0,0,,Wait, isn't that different? \NI'm not sure that's the same.
-Dialogue: 0,0:08:40.20,0:08:41.91,Default,Титосэ,0,0,0,,No, it's totally the same.
-Dialogue: 0,0:08:41.91,0:08:44.29,Default,Титосэ,0,0,0,,Someone in my family was doing this job,
-Dialogue: 0,0:08:44.29,0:08:46.04,Default,Титосэ,0,0,0,,so I thought that I could do it, too.
+Dialogue: 0,0:07:41.44,0:07:44.90,Default,Момока,0,0,0,,«Поэтому, я хотел бы ещё раз\Nуслышать слова поддержки от вас.
+Dialogue: 0,0:07:44.90,0:07:47.19,Default,Момока,0,0,0,,Берегите себя и\Nпродолжайте держать планку.
+Dialogue: 0,0:07:47.19,0:07:48.19,Default,Момока,0,0,0,,Спасибо.»
+Dialogue: 0,0:07:48.73,0:07:50.90,Default,Кадзуха,0,0,0,,Есть вещи, которые трудно из себя выдавить,\Nкак сильно бы вы не старались.
+Dialogue: 0,0:07:51.15,0:07:54.66,Default - Italics,Титосэ,0,0,0,,{\a6}В точку. «Ты начинаешь драматизировать.\NТы переигрываешь так же силько как это делает Яэ».
+Dialogue: 0,0:07:51.40,0:07:54.66,Default,Яэ,0,0,0,,Но, потом, ты будешь жалеть, если не скажешь!
+Dialogue: 0,0:07:54.66,0:07:56.70,Default - Italics,Титосэ,0,0,0,,{\a6}Одна из тех вещей, которых я никогда не смогу сказать.
+Dialogue: 0,0:07:54.66,0:07:57.53,Default,Кото,0,0,0,,Так. Оскольки, вы знакомы друг с другом\Nуже бильше десятилеття,
+Dialogue: 0,0:07:57.53,0:07:58.87,Default,Кото,0,0,0,,уверена, всё буде добре.
+Dialogue: 0,0:07:58.87,0:08:00.83,Default,Момока,0,0,0,,Непременно! Ты сможешь!
+Dialogue: 0,0:08:00.83,0:08:03.00,Default,Момока,0,0,0,,Итак, Китайский Жаренный Кунжут Коротышка-сан…
+Dialogue: 0,0:08:03.29,0:08:04.46,Default,Все,0,0,0,,Ты сможешь!
+Dialogue: 0,0:08:08.80,0:08:10.96,Default,Момока,0,0,0,,Далее, пишет нам
+Dialogue: 0,0:08:10.96,0:08:13.09,Default,Момока,0,0,0,,имя из Кусурэ «Майонез с Тунцом-сан».
+Dialogue: 0,0:08:13.76,0:08:15.80,Default,Кадзуха,0,0,0,,Может это его любимая начинка для онигири?
+Dialogue: 0,0:08:15.80,0:08:19.77,Default,Момока,0,0,0,,«Приятно познакомиться. Учусь во втором классе\Nстаршей школы и люблю аниме.
+Dialogue: 0,0:08:20.14,0:08:23.02,Default,Момока,0,0,0,,После выпуска, планирую переехать\Nв {Москву}Токио и стать сэйю.
+Dialogue: 0,0:08:23.60,0:08:26.73,Default,Момока,0,0,0,,Почему каждая из вас решила\Nстать сэйю?»
+Dialogue: 0,0:08:26.73,0:08:27.69,Default,Момока,0,0,0,,Ты, Кото-тян?
+Dialogue: 0,0:08:28.11,0:08:30.94,Default,Кото,0,0,0,,Я всегда любила аниме,
+Dialogue: 0,0:08:30.94,0:08:33.15,Default,Кото,0,0,0,,до того, як я це поняла,\Nя решила, що буду одной из.
+Dialogue: 0,0:08:33.15,0:08:34.82,Default,Титосэ,0,0,0,,Ух, ты выбрала этот путь?
+Dialogue: 0,0:08:34.82,0:08:38.16,Default,Титосэ,0,0,0,,У меня тоже самое. «Я думала,\Nя смогу просто стать первой»-путь.
+Dialogue: 0,0:08:38.16,0:08:40.20,Default,Кото,0,0,0,,Погодь, разве вони похожи?\NЯ не уверена, що у них есть нечто общее.
+Dialogue: 0,0:08:40.20,0:08:41.91,Default,Титосэ,0,0,0,,Нет, абсолютно тоже самое.
+Dialogue: 0,0:08:41.91,0:08:44.29,Default,Титосэ,0,0,0,,Раз, кто-то в моей семье этим занимался,
+Dialogue: 0,0:08:44.29,0:08:46.04,Default,Титосэ,0,0,0,,то я и подумала, что тоже способна.
 Dialogue: 0,0:08:46.29,0:08:50.13,Default,Титосэ,0,0,0,,So I was influenced by those around me \Nand my surroundings. You know?
-Dialogue: 0,0:08:50.42,0:08:51.51,Default,Момока,0,0,0,,I guess…
-Dialogue: 0,0:08:51.51,0:08:53.84,Default,Титосэ,0,0,0,,See? That does happen.
+Dialogue: 0,0:08:50.42,0:08:51.51,Default,Момока,0,0,0,,Я полагаю…
+Dialogue: 0,0:08:51.51,0:08:53.84,Default,Титосэ,0,0,0,,Видишь? That does happen.
 Dialogue: 0,0:08:53.84,0:08:55.51,Default,Титосэ,0,0,0,,Was it the same for you, Момока-тян?
 Dialogue: 0,0:08:55.97,0:08:57.68,Default,Момока,0,0,0,,Hmm…
 Dialogue: 0,0:08:58.55,0:09:01.52,Default,Момока,0,0,0,,Yeah, well… I guess that was part of it, sort of.
