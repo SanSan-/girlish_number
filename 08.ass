@@ -16,9 +16,9 @@ Video File: [Leopard-Raws] Girlish Number - 08 RAW (TBS 1280x720 x264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 84
-Active Line: 92
-Video Position: 10104
+Scroll Position: 363
+Active Line: 372
+Video Position: 34800
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -169,271 +169,271 @@ Dialogue: 0,0:07:46.48,0:07:49.11,Default,Момока,0,0,0,,Мне кажет�
 Dialogue: 0,0:07:49.11,0:07:49.94,Default,Кадзуха,0,0,0,,Что?
 Dialogue: 0,0:07:50.40,0:07:54.41,Default,Мама,0,0,0,,Кадзуха, я приготовлю для всех комнаты,\Nостаньтесь хотя бы на ночь.
 Dialogue: 0,0:07:54.41,0:07:56.87,Default,Папа,0,0,0,,Оставь её в покое, пусть катится на все четыре.
-Dialogue: 0,0:07:57.12,0:08:00.08,Default,Мама,0,0,0,,Помолчи, э!\NЕсли они платят, они клиенты!
-Dialogue: 0,0:08:00.45,0:08:02.58,Default,Мама,0,0,0,,Или что? У тебя с этим проблемы?
+Dialogue: 0,0:07:57.12,0:08:00.08,Default,Мама,0,0,0,,Помолчи, э!\NЕсли они платят, они клиенты, э!
+Dialogue: 0,0:08:00.45,0:08:02.58,Default,Мама,0,0,0,,Или что, э? У тебя с этим проблемы, э?
 Dialogue: 0,0:08:03.75,0:08:04.79,Default,Папа,0,0,0,,Нет.
 Dialogue: 0,0:08:05.13,0:08:07.00,Default,Кудзу,0,0,0,,Мама, откуда же вы?
-Dialogue: 0,0:08:07.29,0:08:09.88,Default,Момока,0,0,0,,Тогда мы задержим тебя, только на одну ночь.
-Dialogue: 0,0:08:09.88,0:08:11.72,Default,Кадзуха,0,0,0,,И что ты думаешь?
+Dialogue: 0,0:08:07.29,0:08:09.88,Default,Момока,0,0,0,,Тогда мы задержимся на одну ночь.
+Dialogue: 0,0:08:09.88,0:08:11.72,Default,Кадзуха,0,0,0,,Что ты задумала?
 Dialogue: 0,0:08:12.42,0:08:15.51,Default,Момока,0,0,0,,Я, правда, не хочу выражаться\Nтем же языком, что и Кудзу-сан, но…
 Dialogue: 0,0:08:15.93,0:08:17.68,Default,Момока,0,0,0,,Я ещё не накупила сувениров.
 Dialogue: 0,0:08:41.33,0:08:42.87,Default,Момока,0,0,0,,Смотри, что они мне дали.
 Dialogue: 0,0:08:43.79,0:08:45.87,Default,Кадзуха,0,0,0,,Я всегда подмечаю это на наших раздаточных мероприятиях,
 Dialogue: 0,0:08:45.87,0:08:48.54,Default,Кадзуха,0,0,0,,но ты действительно умеешь находить язык\Nс незнакомыми людьми.
 Dialogue: 0,0:08:46.25,0:09:00.97,Snow_soft_serv_08:36(Ep 08),Надпись,0,0,0,,Снежная Мягкая Подача
-Dialogue: 0,0:08:48.84,0:08:51.63,Default,Момока,0,0,0,,Сколько лет, ты думаешь,\Nя уже в этом бизнессе?
-Dialogue: 0,0:08:51.63,0:08:54.30,Default,Момока,0,0,0,,Ты должна говорить с людьми более отвлечённо.
+Dialogue: 0,0:08:48.84,0:08:51.63,Default,Момока,0,0,0,,Ты думаешь, сколько лет, уже,\Nя в этом бизнессе?
+Dialogue: 0,0:08:51.63,0:08:54.30,Default,Момока,0,0,0,,Старайся общаться более непосредственно.
 Dialogue: 0,0:08:54.63,0:08:55.72,Default,Кадзуха,0,0,0,,Ненавижу, ну…
 Dialogue: 0,0:08:55.72,0:08:56.26,Default,Момока,0,0,0,,О-Оу?
-Dialogue: 0,0:08:56.68,0:08:58.76,Default,Кадзуха,0,0,0,,Иметь дело с деревенщинами.
-Dialogue: 0,0:08:58.76,0:09:00.97,Default,Кадзуха,0,0,0,,С ними всегда отдаёшь и меняешь.
+Dialogue: 0,0:08:56.68,0:08:58.76,Default,Кадзуха,0,0,0,,Иметь дело с этими {\i1}деревенщинами{\i0}.
+Dialogue: 0,0:08:58.76,0:09:00.97,Default,Кадзуха,0,0,0,,С ними, каждый раз, что-то не так.
 Dialogue: 0,0:09:01.18,0:09:02.47,Default,Момока,0,0,0,,Ах, это.
-Dialogue: 0,0:09:02.77,0:09:05.69,Default,Момока,0,0,0,,I thought you were dissing \Nour handout events.
-Dialogue: 0,0:09:05.69,0:09:06.94,Default,Кадзуха,0,0,0,,Seriously…
-Dialogue: 0,0:09:07.35,0:09:09.44,Default,Кадзуха,0,0,0,,Though I don't like those at all, either.
-Dialogue: 0,0:09:09.65,0:09:10.90,Default,Момока,0,0,0,,Blunt, aren't you?
-Dialogue: 0,0:09:11.32,0:09:13.40,Default,Кадзуха,0,0,0,,Always smiling awkwardly
-Dialogue: 0,0:09:13.40,0:09:16.45,Default,Кадзуха,0,0,0,,and just doing your best \Nto keep up appearances…
-Dialogue: 0,0:09:16.78,0:09:19.58,Default,Кадзуха,0,0,0,,That kind of thing is like…
-Dialogue: 0,0:09:19.87,0:09:20.74,Default,Момока,0,0,0,,Is like?
-Dialogue: 0,0:09:26.25,0:09:28.96,Default,Кадзуха,0,0,0,,I and everyone in this town \Nare all the same…
+Dialogue: 0,0:09:02.77,0:09:05.69,Default,Момока,0,0,0,,Мне кажется, ты наговариваешь\Nна наши раздаточные мероприятия.
+Dialogue: 0,0:09:05.69,0:09:06.94,Default,Кадзуха,0,0,0,,Да ладно…
+Dialogue: 0,0:09:07.35,0:09:09.44,Default,Кадзуха,0,0,0,,Хотя, я, действительно, их не люблю.
+Dialogue: 0,0:09:09.65,0:09:10.90,Default,Момока,0,0,0,,Дурная?
+Dialogue: 0,0:09:11.32,0:09:13.40,Default,Кадзуха,0,0,0,,Всегда неловко улыбаться
+Dialogue: 0,0:09:13.40,0:09:16.45,Default,Кадзуха,0,0,0,,и просто стараться\Nидти в ногу с выступлениями…
+Dialogue: 0,0:09:16.78,0:09:19.58,Default,Кадзуха,0,0,0,,Что-то вроде того…
+Dialogue: 0,0:09:19.87,0:09:20.74,Default,Момока,0,0,0,,Вроде того?
+Dialogue: 0,0:09:26.25,0:09:28.96,Default,Кадзуха,0,0,0,,В этом городе все такие\Nодинаковые…
 Dialogue: 0,0:09:29.59,0:09:30.59,Default,Кадзуха,0,0,0,,Что за глупость.
-Dialogue: 0,0:09:41.72,0:09:43.31,Default,Кадзуха,0,0,0,,It's a small town, isn't it?
-Dialogue: 0,0:09:43.60,0:09:46.60,Default,Кадзуха,0,0,0,,It's such a small country town, we could \Nprobably circle it all while talking.
-Dialogue: 0,0:09:47.52,0:09:50.69,Default,Кадзуха,0,0,0,,Though I'm sure you probably \Nwouldn't understand that.
-Dialogue: 0,0:09:51.02,0:09:53.73,Default,Момока,0,0,0,,Yeah, I don't understand at all.
-Dialogue: 0,0:09:53.73,0:09:55.44,Default,Кадзуха,0,0,0,,Are you mocking me?
+Dialogue: 0,0:09:41.72,0:09:43.31,Default,Кадзуха,0,0,0,,Это же небольшой городок?
+Dialogue: 0,0:09:43.60,0:09:46.60,Default,Кадзуха,0,0,0,,Настолько, что мы могли бы обойти\Nего целиком, пока говорим.
+Dialogue: 0,0:09:47.52,0:09:50.69,Default,Кадзуха,0,0,0,,Хотя, наверное, ты не сможешь\Nэтого понять.
+Dialogue: 0,0:09:51.02,0:09:53.73,Default,Момока,0,0,0,,Ну да, вообще ничего не понимаю.
+Dialogue: 0,0:09:53.73,0:09:55.44,Default,Кадзуха,0,0,0,,За дуру меня держишь?
 Dialogue: 0,0:10:00.12,0:10:02.08,Incoming_Call_09:50(Ep 08),Надпись,0,0,0,,Кавахара Муцуми\N{\fs27}Входящий звонок…
-Dialogue: 0,0:10:05.58,0:10:06.71,Default,Кадзуха,0,0,0,,You're not answering?
-Dialogue: 0,0:10:06.71,0:10:08.25,Default,Момока,0,0,0,,I don't feel like it.
-Dialogue: 0,0:10:12.29,0:10:13.25,Default,Кадзуха,0,0,0,,I see.
-Dialogue: 0,0:10:19.68,0:10:23.68,Default,Кадзуха,0,0,0,,I don't recommend climbing those. \NThere's only a shrine at the top.
-Dialogue: 0,0:10:24.22,0:10:25.81,Default,Кадзуха,0,0,0,,There's nothing else.
-Dialogue: 0,0:10:25.81,0:10:27.27,Default,Момока,0,0,0,,Hey, Сибасаки.
-Dialogue: 0,0:10:27.27,0:10:27.89,Default,Кадзуха,0,0,0,,What?
-Dialogue: 0,0:10:28.27,0:10:32.15,Default,Момока,0,0,0,,I really don't understand \Nanything that you say.
-Dialogue: 0,0:10:32.90,0:10:36.36,Default,Момока,0,0,0,,Because I'm envious of you.
-Dialogue: 0,0:10:36.99,0:10:37.69,Default,Кадзуха,0,0,0,,Huh?
-Dialogue: 0,0:10:39.24,0:10:40.16,Default,Кадзуха,0,0,0,,Hey…
-Dialogue: 0,0:10:41.41,0:10:42.57,Default,Кадзуха,0,0,0,,What's with you?
-Dialogue: 0,0:10:42.87,0:10:44.37,Default,Кадзуха,0,0,0,,Don't say I didn't warn you!
-Dialogue: 0,0:10:44.66,0:10:46.87,Default,Кадзуха,0,0,0,,I'm gonna head back!
-Dialogue: 0,0:11:01.97,0:11:04.51,Default,Кудзу,0,0,0,,I love hot springs!
-Dialogue: 0,0:11:05.35,0:11:07.56,Default,Менеджер,0,0,0,,By the way, I was really surprised.
-Dialogue: 0,0:11:07.18,0:11:08.14,Default - Top,Кудзу,0,0,0,,Don't push me!
-Dialogue: 0,0:11:07.56,0:11:08.77,Default,Товада,0,0,0,,About what?
-Dialogue: 0,0:11:08.77,0:11:10.48,Default - Top,Кудзу,0,0,0,,Don't you dare push me! Don't do it!
-Dialogue: 0,0:11:09.23,0:11:12.73,Default,Менеджер,0,0,0,,Соно-сан. Asking her to come along \Nfor support was a great idea.
-Dialogue: 0,0:11:12.48,0:11:13.65,Default - Top,Кудзу,0,0,0,,Hot!
-Dialogue: 0,0:11:13.02,0:11:15.69,Default,Товада,0,0,0,,Huh? Wasn't it Iroha Pro \Nthat asked her to come?
-Dialogue: 0,0:11:15.69,0:11:16.94,Default,Менеджер,0,0,0,,Of course not.
-Dialogue: 0,0:11:16.94,0:11:20.36,Default,Менеджер,0,0,0,,There's no way we could have \Nasked her when she's so busy.
-Dialogue: 0,0:11:20.36,0:11:21.91,Default,Товада,0,0,0,,That goes for us, too…
-Dialogue: 0,0:11:22.99,0:11:25.16,Default,Товада,0,0,0,,Wait… Isn't this bad?
-Dialogue: 0,0:11:25.16,0:11:27.58,Default,Кудзу,0,0,0,,Hey, Товада, are you listening to me?
-Dialogue: 0,0:11:27.58,0:11:29.58,Default,Кудзу,0,0,0,,I should've brought Mai Mai-тян, too.
-Dialogue: 0,0:11:29.83,0:11:30.91,Default,Товада,0,0,0,,Yeah, sure.
-Dialogue: 0,0:11:30.91,0:11:32.00,Default,Менеджер,0,0,0,,Who's Mai Mai-тян?
-Dialogue: 0,0:11:32.00,0:11:34.04,Default,Товада,0,0,0,,A hostess he's fond of.
-Dialogue: 0,0:11:34.33,0:11:35.71,Default,Менеджер,0,0,0,,Ah…
-Dialogue: 0,0:11:35.71,0:11:38.71,Default,Кудзу,0,0,0,,This is great! Now if I only had a hot girl,
-Dialogue: 0,0:11:38.71,0:11:41.51,Default,Кудзу,0,0,0,,I'd be in paradise… heaven… \Nand this world would be bliss.
-Dialogue: 0,0:11:43.05,0:11:44.80,Default,Товада,0,0,0,,Despite how he looks now,
-Dialogue: 0,0:11:44.80,0:11:47.47,Default,Товада,0,0,0,,he really was amazing at his previous job.
-Dialogue: 0,0:11:47.85,0:11:49.43,Default,Менеджер,0,0,0,,Why don't we have some drinks tonight?
-Dialogue: 0,0:11:50.39,0:11:51.52,Default,Товада,0,0,0,,Yeah.
-Dialogue: 0,0:12:04.20,0:12:06.62,Default,Кадзуха,0,0,0,,Come here, meow.
-Dialogue: 0,0:12:12.50,0:12:14.42,Default,Кадзуха,0,0,0,,It must be great being you.
-Dialogue: 0,0:12:14.42,0:12:16.88,Default,Кадзуха,0,0,0,,You don't have to keep meowing to be cute.
-Dialogue: 0,0:12:17.46,0:12:18.75,Default,Кадзуха,0,0,0,,Right, meow?
-Dialogue: 0,0:12:20.13,0:12:22.76,Default,Кадзуха,0,0,0,,How do you stay so {\i1}purr{\i0}fectly cute?
-Dialogue: 0,0:12:24.01,0:12:26.55,Default,Кадзуха,0,0,0,,I really don't know what to do, meow.
-Dialogue: 0,0:12:31.93,0:12:35.44,Default,Момока,0,0,0,,I-I'm going to die. What's with those stairs?
-Dialogue: 0,0:12:35.81,0:12:38.15,Default,Кадзуха,0,0,0,,I told you I didn't recommend them.
-Dialogue: 0,0:12:38.82,0:12:41.53,Default,Момока,0,0,0,,But you didn't have to beat me here.
-Dialogue: 0,0:12:44.40,0:12:46.28,Default,Момока,0,0,0,,Were you just talking to someone?
-Dialogue: 0,0:12:46.70,0:12:49.24,Default,Кадзуха,0,0,0,,Who knows? You were probably \Njust hearing things.
-Dialogue: 0,0:12:49.24,0:12:50.12,Default,Момока,0,0,0,,Oh, really?
-Dialogue: 0,0:12:50.87,0:12:53.08,Default,Момока,0,0,0,,I really don't know what to do, meow.
-Dialogue: 0,0:12:53.96,0:12:55.29,Default,Кадзуха,0,0,0,,You heard me?
-Dialogue: 0,0:12:55.62,0:12:59.80,Default,Момока,0,0,0,,You really are childish in the weirdest \Nways, like talking to a cat.
-Dialogue: 0,0:13:09.26,0:13:10.85,Default,Кадзуха,0,0,0,,You're not going back to the inn?
-Dialogue: 0,0:13:11.26,0:13:12.81,Default,Момока,0,0,0,,You don't want to go back, do you?
-Dialogue: 0,0:13:13.10,0:13:15.94,Default,Кадзуха,0,0,0,,Well, I don't need you to keep me company.
-Dialogue: 0,0:13:17.56,0:13:18.73,Default,Момока,0,0,0,,I'm the same way.
-Dialogue: 0,0:13:24.40,0:13:26.45,Katakura,Надпись,0,0,0,,Katakura-сан
-Dialogue: 0,0:13:24.40,0:13:26.49,Text_Messages(blue)(Ep 08),Надпись,0,0,0,,Do you happen to know where Момока-тян is?
-Dialogue: 0,0:13:26.49,0:13:29.37,Text_Messages(blue)(Ep 08),Надпись,0,0,0,,She has something important to be at, \Nand they can't get a hold of her…
-Dialogue: 0,0:13:33.33,0:13:35.62,Text_Messages(blue)(Ep 08),Надпись,0,0,0,,Годзё-сан said that \Nher Манаger was super worried.
-Dialogue: 0,0:13:35.62,0:13:38.29,Text_Messages(blue)(Ep 08),Надпись,0,0,0,,She wanted to know if \Nany of us had any information.
-Dialogue: 0,0:13:39.38,0:13:40.17,Default,Момока,0,0,0,,Phone call?
-Dialogue: 0,0:13:40.50,0:13:42.50,Default,Кадзуха,0,0,0,,No… I mean, yes.
-Dialogue: 0,0:13:42.92,0:13:44.34,Default,Кадзуха,0,0,0,,From Karasuma-сан.
-Dialogue: 0,0:13:44.34,0:13:45.84,Default,Момока,0,0,0,,Is she asking about her souvenir?
-Dialogue: 0,0:13:46.13,0:13:47.47,Default,Кадзуха,0,0,0,,Something like that.
-Dialogue: 0,0:13:48.09,0:13:48.72,Default,Кадзуха,0,0,0,,Hey.
-Dialogue: 0,0:13:49.64,0:13:51.47,Default,Кадзуха,0,0,0,,The view is much nicer over here.
-Dialogue: 0,0:14:27.38,0:14:28.55,Default,Момока,0,0,0,,This is nice.
-Dialogue: 0,0:14:29.18,0:14:30.22,Default,Кадзуха,0,0,0,,Is it?
-Dialogue: 0,0:14:30.64,0:14:32.80,Default,Кадзуха,0,0,0,,I honestly prefer Токио.
-Dialogue: 0,0:14:34.64,0:14:37.81,Default,Кадзуха,0,0,0,,Because that's the only place I have.
-Dialogue: 0,0:14:41.73,0:14:45.44,Default,Момока,0,0,0,,But this is a nice town, \Nwith nice people, and nice parents.
-Dialogue: 0,0:14:45.78,0:14:46.57,Default,Кадзуха,0,0,0,,Parents?
-Dialogue: 0,0:14:46.94,0:14:48.19,Default,Момока,0,0,0,,Your Папа.
-Dialogue: 0,0:14:48.19,0:14:50.57,Default,Кадзуха,0,0,0,,Where are you even looking?
-Dialogue: 0,0:14:51.45,0:14:55.08,Default,Кадзуха,0,0,0,,He's naggy, and he pushes his \Nown values onto other people.
-Dialogue: 0,0:14:55.58,0:14:56.91,Default,Кадзуха,0,0,0,,What's so good about that?
-Dialogue: 0,0:14:58.29,0:15:00.58,Default,Момока,0,0,0,,The part where he's naggy and pushes
-Dialogue: 0,0:15:00.58,0:15:03.79,Default,Момока,0,0,0,,his own values onto other people, I think.
-Dialogue: 0,0:15:07.05,0:15:09.42,Default,Момока,0,0,0,,My parents used to be decent.
-Dialogue: 0,0:15:09.72,0:15:12.30,Default,Момока,0,0,0,,They would take me to dubbing sessions a lot.
-Dialogue: 0,0:15:12.68,0:15:14.22,Default,Кадзуха,0,0,0,,You're rather fortunate.
-Dialogue: 0,0:15:14.64,0:15:18.10,Default,Момока,0,0,0,,Then, one time, I was in an anime, \Nthough just as part of the crowd dialogue.
-Dialogue: 0,0:15:18.10,0:15:20.64,Default,Момока,0,0,0,,My Мама showed me how to use my voice,
-Dialogue: 0,0:15:20.64,0:15:23.19,Default,Момока,0,0,0,,and my Папа was the series \Ndirector for that project.
-Dialogue: 0,0:15:23.19,0:15:25.27,Default,Момока,0,0,0,,My debut role that no one knows about.
-Dialogue: 0,0:15:26.78,0:15:28.86,Default,Момока,0,0,0,,But once I debuted,
-Dialogue: 0,0:15:28.86,0:15:31.15,Default,Момока,0,0,0,,they stopped telling me anything anymore.
-Dialogue: 0,0:15:31.99,0:15:34.66,Default,Кадзуха,0,0,0,,I have no clue what you're talking about.
-Dialogue: 0,0:15:34.99,0:15:36.49,Default,Кадзуха,0,0,0,,I'm almost envious.
-Dialogue: 0,0:15:37.37,0:15:40.41,Default,Момока,0,0,0,,Right. That's what I thought about you earlier.
-Dialogue: 0,0:15:55.60,0:15:56.43,Default,Момока,0,0,0,,One sec.
-Dialogue: 0,0:15:56.76,0:15:57.97,Default,Кадзуха,0,0,0,,Sure.
-Dialogue: 0,0:16:01.23,0:16:04.19,Мама_15:51(Ep 08),Надпись,0,0,0,,Мама
-Dialogue: 0,0:16:01.23,0:16:04.19,Call_15:51(Ep 08),Надпись,0,0,0,,Call
-Dialogue: 0,0:16:01.23,0:16:04.19,Work_15:51(Ep 08),Надпись,0,0,0,,Work
-Dialogue: 0,0:16:07.32,0:16:08.98,Default,Момока,0,0,0,,Hello, Кавахара-сан?
-Dialogue: 0,0:16:09.28,0:16:10.78,Default,Момока,0,0,0,,It's me, Момока.
-Dialogue: 0,0:16:12.32,0:16:14.20,Default,Момока,0,0,0,,I'm very sorry for making you worry.
-Dialogue: 0,0:16:14.95,0:16:17.12,Default,Момока,0,0,0,,I'm at a friend's place right now.
-Dialogue: 0,0:16:18.49,0:16:20.66,Default,Момока,0,0,0,,Huh? My Мама's there?
-Dialogue: 0,0:16:23.96,0:16:24.92,Default,Момока,0,0,0,,Мама?
-Dialogue: 0,0:16:25.54,0:16:27.79,Default,Момока,0,0,0,,Yeah, I'm not going to the dinner.
-Dialogue: 0,0:16:28.96,0:16:30.34,Default,Момока,0,0,0,,No, it's not that.
-Dialogue: 0,0:16:30.67,0:16:31.84,Default,Момока,0,0,0,,I'm not going to be in {\i1}Pure Para{\i0}.
-Dialogue: 0,0:16:32.09,0:16:32.97,Default,Кадзуха,0,0,0,,{\i1}Pure Para{\i0}?
-Dialogue: 0,0:16:35.51,0:16:36.18,Default,Момока,0,0,0,,Yeah.
-Dialogue: 0,0:16:36.80,0:16:39.26,Default,Момока,0,0,0,,If they personally offer me \Na role, I'll consider it.
-Dialogue: 0,0:16:39.81,0:16:42.23,Default,Мама,0,0,0,,You're talking like a beginner.
-Dialogue: 0,0:16:42.77,0:16:46.65,Default,Мама,0,0,0,,But I guess you have a point. \NYou're only seventeen.
-Dialogue: 0,0:16:48.11,0:16:49.44,Default,Мама,0,0,0,,I'd forgotten about that.
-Dialogue: 0,0:16:49.86,0:16:52.32,Default,Момока,0,0,0,,You could at least remember \Nhow old your own kid is.
-Dialogue: 0,0:16:52.32,0:16:54.70,Default,Мама,0,0,0,,Age doesn't matter with professionals.
-Dialogue: 0,0:16:55.66,0:16:58.41,Default,Момока,0,0,0,,You're right. I guess we're Вместе professionals.
-Dialogue: 0,0:16:59.03,0:17:01.24,Default,Момока,0,0,0,,I'm sorry for being selfish.
-Dialogue: 0,0:17:01.24,0:17:04.37,Default,Мама,0,0,0,,No, it's something that you, \Nas the actress, decided.
-Dialogue: 0,0:17:05.58,0:17:07.63,Default,Момока,0,0,0,,Yeah, I'm sorry.
-Dialogue: 0,0:17:07.63,0:17:10.46,Default,Мама,0,0,0,,Then I'll just have to tell them \Nthat I'll play the heroine.
-Dialogue: 0,0:17:10.46,0:17:11.00,Default,Момока,0,0,0,,Huh?
-Dialogue: 0,0:17:11.96,0:17:14.38,Default,Мама,0,0,0,,I guess our second project \Ntogether will have to wait.
-Dialogue: 0,0:17:14.92,0:17:17.80,Default,Мама,0,0,0,,I'll be waiting, my rival.
-Dialogue: 0,0:17:21.10,0:17:21.72,Default,Момока,0,0,0,,Right.
-Dialogue: 0,0:17:23.22,0:17:24.56,Default,Момока,0,0,0,,I'll catch up to you soon.
-Dialogue: 0,0:17:25.14,0:17:26.73,Default,Момока,0,0,0,,Wait for me, Senpai.
-Dialogue: 0,0:17:27.94,0:17:30.44,Default,Кадзуха,0,0,0,,You declined {\i1}Pure Para{\i0}?
-Dialogue: 0,0:17:31.07,0:17:33.11,Default,Момока,0,0,0,,Oh, well, yeah…
-Dialogue: 0,0:17:33.11,0:17:35.24,Default,Кадзуха,0,0,0,,What a waste. It's a Sunday morning show!
-Dialogue: 0,0:17:35.24,0:17:37.16,Default,Момока,0,0,0,,My Мама said she'd do it instead.
-Dialogue: 0,0:17:37.53,0:17:38.36,Default,Кадзуха,0,0,0,,Huh?
-Dialogue: 0,0:17:38.70,0:17:41.58,Default,Момока,0,0,0,,It's sort of amazing that my Мама \Nwill be playing a middle-schooler.
-Dialogue: 0,0:17:45.91,0:17:46.96,Default,Кадзуха,0,0,0,,Let's head back.
-Dialogue: 0,0:17:48.04,0:17:48.67,Default,Момока,0,0,0,,Sure.
-Dialogue: 0,0:18:00.26,0:18:02.06,Default,Кудзу,0,0,0,,Bring me more sake!
-Dialogue: 0,0:18:02.35,0:18:05.68,Default,Товада,0,0,0,,Seriously, my boss is so hopeless!
-Dialogue: 0,0:18:05.98,0:18:08.60,Default,Менеджер,0,0,0,,Yeah, there are worthless bosses like that!
-Dialogue: 0,0:18:08.60,0:18:11.23,Default,Менеджер,0,0,0,,Guys who never try fail at everything they do.
-Dialogue: 0,0:18:11.48,0:18:14.57,Default,Товада,0,0,0,,Seriously. Isn't there anything \Nwe can do about him?
-Dialogue: 0,0:18:14.57,0:18:15.36,Default,Менеджер,0,0,0,,No way!
-Dialogue: 0,0:18:15.36,0:18:17.40,Default,Кудзу,0,0,0,,Yeah, I totally feel you.
-Dialogue: 0,0:18:17.40,0:18:20.45,Default,Кудзу,0,0,0,,Once they dry up, there's no coming back.
-Dialogue: 0,0:18:20.45,0:18:21.99,Default,Товада,0,0,0,,It's hopeless!
-Dialogue: 0,0:18:22.74,0:18:25.20,Default,Менеджер,0,0,0,,Just get rid of him! \NYou need to just take over!
-Dialogue: 0,0:18:25.20,0:18:28.37,Default,Кудзу,0,0,0,,Yeah! You're the only one \Nwho can do it, Товадаcchi!
-Dialogue: 0,0:18:29.00,0:18:30.75,Default,Товада,0,0,0,,I guess I have no choice, then…
-Dialogue: 0,0:18:30.75,0:18:33.75,Default,Менеджер,0,0,0,,Yeah! Make him lose his position at work!
-Dialogue: 0,0:18:33.75,0:18:35.92,Default,Кудзу,0,0,0,,Okay, here's to Товадатти \Nmoving up in the world!
-Dialogue: 0,0:18:35.92,0:18:37.13,Default,Кудзу,0,0,0,,Cheers!
-Dialogue: 0,0:18:37.13,0:18:38.30,Default,Вместе,0,0,0,,Cheers!
-Dialogue: 0,0:18:40.76,0:18:42.01,Default,Кадзуха,0,0,0,,Awful…
-Dialogue: 0,0:18:42.01,0:18:43.97,Default,Мама,0,0,0,,You need to watch how much you drink, too.
-Dialogue: 0,0:18:44.39,0:18:46.60,Default,Кадзуха,0,0,0,,I don't get drunk like that.
-Dialogue: 0,0:18:46.93,0:18:47.48,Default,Момока,0,0,0,,What?
-Dialogue: 0,0:18:48.02,0:18:50.69,Default,Мама,0,0,0,,Момока-тян! How did you like this town?
-Dialogue: 0,0:18:51.15,0:18:52.61,Default,Момока,0,0,0,,It was a lot of fun!
-Dialogue: 0,0:18:53.98,0:18:55.11,Default,Мама,0,0,0,,That's good to hear.
-Dialogue: 0,0:18:58.19,0:19:00.53,Default,Мама,0,0,0,,You seemed a bit down, so…
-Dialogue: 0,0:19:00.53,0:19:01.91,Default,Кадзуха,0,0,0,,How could you tell?
-Dialogue: 0,0:19:02.28,0:19:05.29,Default,Мама,0,0,0,,Well, I am a mother. I can tell just by looking.
-Dialogue: 0,0:19:05.29,0:19:06.33,Default,Кадзуха,0,0,0,,What does that mean?
-Dialogue: 0,0:19:06.33,0:19:08.50,Default,Мама,0,0,0,,I mean, even with the swimsuits…
-Dialogue: 0,0:19:08.79,0:19:12.00,Default,Мама,0,0,0,,Your father was saying how \Nyour smile seemed odd.
-Dialogue: 0,0:19:12.33,0:19:13.59,Default,Кадзуха,0,0,0,,Odd?
-Dialogue: 0,0:19:13.96,0:19:16.67,Default,Мама,0,0,0,,You love being a voice actress, don't you?
-Dialogue: 0,0:19:16.67,0:19:18.72,Default,Мама,0,0,0,,So he was just saying it must be hard on you
-Dialogue: 0,0:19:18.72,0:19:21.05,Default,Мама,0,0,0,,if they were forcing you to do things like that.
-Dialogue: 0,0:19:21.05,0:19:23.47,Default,Кадзуха,0,0,0,,Well, that's…
-Dialogue: 0,0:19:23.76,0:19:26.81,Default,Мама,0,0,0,,It's your job. Of course it's not always fun.
-Dialogue: 0,0:19:26.81,0:19:29.48,Default,Мама,0,0,0,,There'll be many tough times and\Nthings you don't want to do,
-Dialogue: 0,0:19:29.48,0:19:32.98,Default,Мама,0,0,0,,but that's your job.
-Dialogue: 0,0:19:34.40,0:19:37.23,Default,Мама,0,0,0,,Your father's pretty knowledgeable \Nabout voice actors.
-Dialogue: 0,0:19:38.23,0:19:40.70,Default,Мама,0,0,0,,When you said that you were \Ngoing to become a voice actor,
-Dialogue: 0,0:19:40.70,0:19:43.36,Default,Мама,0,0,0,,he did so much research.
-Dialogue: 0,0:19:43.82,0:19:46.87,Default,Кадзуха,0,0,0,,Why? He didn't say anything about that…
-Dialogue: 0,0:19:46.87,0:19:50.12,Default,Мама,0,0,0,,He has a hard time saying \Nhow he feels… Just like you.
-Dialogue: 0,0:19:50.12,0:19:52.12,Default,Мама,0,0,0,,Because you're Вместе from this town.
-Dialogue: 0,0:19:54.00,0:19:56.38,Default,Мама,0,0,0,,Your parents will always be your parents.
-Dialogue: 0,0:19:56.75,0:19:58.92,Default,Мама,0,0,0,,It's our job to say things to motivate you,
-Dialogue: 0,0:19:58.92,0:20:01.80,Default,Мама,0,0,0,,and it's also our job to believe in you and wait.
-Dialogue: 0,0:20:07.97,0:20:09.27,Default,Момока,0,0,0,,See? You're loved.
-Dialogue: 0,0:20:10.31,0:20:11.73,Default,Кадзуха,0,0,0,,You, too.
-Dialogue: 0,0:20:12.31,0:20:15.56,Default,Кадзуха,0,0,0,,I have an easier time \Nunderstanding your family.
-Dialogue: 0,0:20:15.86,0:20:19.69,Default,Кадзуха,0,0,0,,The grump at my house \Njust looks mad all the time.
-Dialogue: 0,0:20:21.90,0:20:22.74,Default,Кадзуха,0,0,0,,What?
-Dialogue: 0,0:20:22.74,0:20:24.74,Default,Момока,0,0,0,,Well, you're also a grump!
-Dialogue: 0,0:20:24.74,0:20:26.66,Default,Момока,0,0,0,,I guess the apple doesn't fall far from the tree.
-Dialogue: 0,0:20:27.24,0:20:28.33,Default,Кадзуха,0,0,0,,Shut up!
-Dialogue: 0,0:20:29.45,0:20:31.37,Default,Момока,0,0,0,,Now you've done it!
-Dialogue: 0,0:20:31.37,0:20:32.58,Default,Момока,0,0,0,,Take that!
-Dialogue: 0,0:20:33.87,0:20:34.87,Default,Кадзуха,0,0,0,,Jeez!
-Dialogue: 0,0:20:35.17,0:20:37.34,Default,Момока,0,0,0,,What do you think you're doing, you dunce?
-Dialogue: 0,0:20:37.34,0:20:38.80,Default,Кадзуха,0,0,0,,I am not a dunce!
-Dialogue: 0,0:20:39.13,0:20:41.59,Default,Мама,0,0,0,,Goodness, you can hear them loud and clear.
-Dialogue: 0,0:20:45.51,0:20:49.39,Default,Папа,0,0,0,,Her voice always did carry well.
-Dialogue: 0,0:20:56.23,0:20:59.40,Default,Товада,0,0,0,,If it's too hard on you, \Nwhy don't you stay here forever?
-Dialogue: 0,0:20:59.90,0:21:03.03,Default,Кудзу,0,0,0,,Isn't that a bit cold? \NIsn't that really cold? So cold!
-Dialogue: 0,0:21:06.99,0:21:07.70,Default,Мама,0,0,0,,Кадзуха-тян.
-Dialogue: 0,0:21:10.79,0:21:11.91,Default,Кадзуха,0,0,0,,I'm heading out.
-Dialogue: 0,0:21:13.33,0:21:15.12,Default,Папа,0,0,0,,Make sure you don't catch a cold.
-Dialogue: 0,0:21:17.58,0:21:18.88,Default,Кадзуха,0,0,0,,You too, Папа!
-Dialogue: 0,0:21:29.93,0:21:31.68,Токио_21:20(Ep 08),Надпись,0,0,0,,Токио\N\N\N\NТокио\N\N\N\NТокио
-Dialogue: 0,0:21:33.73,0:21:35.85,Default,Кадзуха,0,0,0,,I forgot about Karasuma-сан's souvenir.
-Dialogue: 0,0:21:35.85,0:21:37.90,Default,Момока,0,0,0,,"Титосэ" is good enough \Nfor someone like her.
-Dialogue: 0,0:21:38.23,0:21:39.86,Default,Кадзуха,0,0,0,,Someone like her?
-Dialogue: 0,0:21:40.40,0:21:41.82,Default,Момока,0,0,0,,People like her,
-Dialogue: 0,0:21:42.48,0:21:45.32,Default,Мама,0,0,0,,and people like you… \NThis business is filled with them.
-Dialogue: 0,0:21:46.20,0:21:47.41,Default,Кадзуха,0,0,0,,You're right.
-Dialogue: 0,0:21:48.20,0:21:49.87,Default,Кадзуха,0,0,0,,It's filled with people like you.
-Dialogue: 0,0:21:53.91,0:21:56.21,Default,Кадзуха,0,0,0,,I wonder what I should do \Nfor Титосэ's souvenir.
-Dialogue: 0,0:21:56.62,0:21:58.96,Default,Момока,0,0,0,,I don't really think she needs one.
-Dialogue: 0,0:21:59.29,0:22:00.67,Default,Кадзуха,0,0,0,,You've got a point.
-Dialogue: 0,0:22:05.01,0:22:07.26,Default,Титосэ,0,0,0,,Hot springs, shabu-shabu…
-Dialogue: 0,0:22:07.26,0:22:07.93,Read_21:57(Ep 08),Надпись,0,0,0,,Read by 4
-Dialogue: 0,0:22:07.76,0:22:09.47,Text_Messages(green)_21:58(Ep 08),Надпись,0,0,0,,Yeah, it's totally unforgivable! \NIt's all Годзё-кун's fault!  I'm so pissed!
-Dialogue: 0,0:22:09.47,0:22:11.22,Hiss!_21:59(Ep 08),Надпись,0,0,0,,Hiss
-Dialogue: 0,0:22:12.60,0:22:15.06,Default,Титосэ,0,0,0,,Reading and ignoring my \Nmessages from Yamagata…
-Dialogue: 0,0:22:17.06,0:22:19.15,Default,Титосэ,0,0,0,,Is it because of the time difference?
-Dialogue: 0,0:23:50.19,0:23:52.91,Default,Титосэ,0,0,0,,A time difference, huh… \NWell, Yamagata is pretty far.
-Dialogue: 0,0:23:50.19,0:24:19.68,Preview,Надпись,0,0,0,,Preview
-Dialogue: 0,0:23:52.91,0:23:54.66,Default,Годзё,0,0,0,,Do you even know what \Na time difference is?
-Dialogue: 0,0:23:54.66,0:23:56.03,Default,Титосэ,0,0,0,,Of course I do.
-Dialogue: 0,0:23:56.03,0:23:58.70,Default,Титосэ,0,0,0,,The reason I couldn't get up this \Nmorning was because of jet lag.
-Dialogue: 0,0:23:58.91,0:24:01.21,Default,Годзё,0,0,0,,No, you're just an idiot.
-Dialogue: 0,0:24:01.21,0:24:03.67,Default,Годзё,0,0,0,,You didn't go to Yamagata, \Nso you need to practice more.
-Dialogue: 0,0:24:03.67,0:24:06.25,Default,Титосэ,0,0,0,,Practice? Despite how I look, \NI practice quite a bit.
-Dialogue: 0,0:24:06.25,0:24:07.63,Default,Годзё,0,0,0,,And I'm telling you it's not enough.
-Dialogue: 0,0:24:07.63,0:24:10.01,Default,Годзё,0,0,0,,At this rate, you're going to lose your job.
-Dialogue: 0,0:24:10.01,0:24:11.13,Default,Титосэ,0,0,0,,What the heck? That's hilarious.
-Dialogue: 0,0:24:11.13,0:24:12.97,Default,Годзё,0,0,0,,I haven't said a single hilarious thing.
-Dialogue: 0,0:24:12.97,0:24:15.89,Default,Титосэ,0,0,0,,Oh, come on. That's not happening. \NI'm the main heroine.
-Dialogue: 0,0:24:16.60,0:24:18.31,Default,Годзё,0,0,0,,I wonder if that's actually the case…
-Dialogue: 0,0:24:18.31,0:24:19.68,Default,Титосэ,0,0,0,,Wait, I'm not?
+Dialogue: 0,0:10:05.58,0:10:06.71,Default,Кадзуха,0,0,0,,Не ответишь?
+Dialogue: 0,0:10:06.71,0:10:08.25,Default,Момока,0,0,0,,Мне всё равно.
+Dialogue: 0,0:10:12.29,0:10:13.25,Default,Кадзуха,0,0,0,,Вот как.
+Dialogue: 0,0:10:19.68,0:10:23.68,Default,Кадзуха,0,0,0,,Не советую туда подниматься.\NНа вершине только храм.
+Dialogue: 0,0:10:24.22,0:10:25.81,Default,Кадзуха,0,0,0,,И больше ничего.
+Dialogue: 0,0:10:25.81,0:10:27.27,Default,Момока,0,0,0,,Эй, Сибасаки.
+Dialogue: 0,0:10:27.27,0:10:27.89,Default,Кадзуха,0,0,0,,Чего?
+Dialogue: 0,0:10:28.27,0:10:32.15,Default,Момока,0,0,0,,Я, правда, не понимаю ничего,\Nиз того, что ты говоришь.
+Dialogue: 0,0:10:32.90,0:10:36.36,Default,Момока,0,0,0,,Потому что я так завидую тебе.
+Dialogue: 0,0:10:36.99,0:10:37.69,Default,Кадзуха,0,0,0,,Ха?
+Dialogue: 0,0:10:39.24,0:10:40.16,Default,Кадзуха,0,0,0,,Погодь…
+Dialogue: 0,0:10:41.41,0:10:42.57,Default,Кадзуха,0,0,0,,Да что с тобой?
+Dialogue: 0,0:10:42.87,0:10:44.37,Default,Кадзуха,0,0,0,,Не жалуйся потом!
+Dialogue: 0,0:10:44.66,0:10:46.87,Default,Кадзуха,0,0,0,,Я собираюсь возвращаться!
+Dialogue: 0,0:11:01.76,0:11:04.30,Default,Кудзу,0,0,0,,Обожаю горячие источники!
+Dialogue: 0,0:11:05.14,0:11:07.35,Default,Менеджер,0,0,0,,Всё таки, я был удивлён.
+Dialogue: 0,0:11:06.97,0:11:07.93,Default - Top,Кудзу,0,0,0,,Не толкайтесь!
+Dialogue: 0,0:11:07.35,0:11:08.56,Default,Товада,0,0,0,,И чему же?
+Dialogue: 0,0:11:08.56,0:11:10.27,Default - Top,Кудзу,0,0,0,,Не смейте толкаться! Неееет!
+Dialogue: 0,0:11:09.02,0:11:12.52,Default,Менеджер,0,0,0,,Соно-сан. Попросить её поехать с нами\Nбыла отличная идея.
+Dialogue: 0,0:11:12.27,0:11:13.44,Default - Top,Кудзу,0,0,0,,Горячо!
+Dialogue: 0,0:11:12.81,0:11:15.48,Default,Товада,0,0,0,,Э? Разве не «Iroha Pro»\Nпопросила её поехать?
+Dialogue: 0,0:11:15.48,0:11:16.73,Default,Менеджер,0,0,0,,Не может быть.
+Dialogue: 0,0:11:16.73,0:11:20.15,Default,Менеджер,0,0,0,,Мы бы не смогли её выцепить,\Nкогда у неё такой плотный график.
+Dialogue: 0,0:11:20.15,0:11:21.70,Default,Товада,0,0,0,,Так же, как и мы…
+Dialogue: 0,0:11:22.78,0:11:24.95,Default,Товада,0,0,0,,Подожди… Кажется, мы попали?
+Dialogue: 0,0:11:24.95,0:11:27.37,Default,Кудзу,0,0,0,,Эй, Товада, слышишь меня?
+Dialogue: 0,0:11:27.37,0:11:29.37,Default,Кудзу,0,0,0,,Надо захватить Май Май-тян тоже.
+Dialogue: 0,0:11:29.62,0:11:30.71,Default,Товада,0,0,0,,Сейчас.
+Dialogue: 0,0:11:30.71,0:11:31.79,Default,Менеджер,0,0,0,,Что за Май Май-тян?
+Dialogue: 0,0:11:31.79,0:11:33.83,Default,Товада,0,0,0,,Он так хозяйку зовёт.
+Dialogue: 0,0:11:34.13,0:11:35.50,Default,Менеджер,0,0,0,,А~Ах…
+Dialogue: 0,0:11:35.50,0:11:38.51,Default,Кудзу,0,0,0,,Ах! Блаженство! Щас бы девку горячую,
+Dialogue: 0,0:11:38.51,0:11:41.30,Default,Кудзу,0,0,0,,И была бы благодать… рай… \Nв мире наступило бы блаженство.
+Dialogue: 0,0:11:42.84,0:11:44.59,Default,Товада,0,0,0,,Несмотря на его нынешнее поведение,
+Dialogue: 0,0:11:44.59,0:11:47.26,Default,Товада,0,0,0,,он, действительно, отличился на предыдущей работе.
+Dialogue: 0,0:11:47.64,0:11:49.22,Default,Менеджер,0,0,0,,Может тогда выпьем вечерком?
+Dialogue: 0,0:11:50.18,0:11:51.31,Default,Товада,0,0,0,,Давай.
+Dialogue: 0,0:12:03.99,0:12:06.41,Default,Кадзуха,0,0,0,,Ну же. мя~
+Dialogue: 0,0:12:12.29,0:12:14.21,Default,Кадзуха,0,0,0,,Наверное, здорово быть тобой.
+Dialogue: 0,0:12:14.21,0:12:16.67,Default,Кадзуха,0,0,0,,Тебе не нужно постоянно някать, чтобы выглядеть милой.
+Dialogue: 0,0:12:17.25,0:12:18.55,Default,Кадзуха,0,0,0,,Дэ? мя~
+Dialogue: 0,0:12:19.92,0:12:22.55,Default,Кадзуха,0,0,0,,Как ты умудряешься быть столь {\i1}ня{\i0}шной?
+Dialogue: 0,0:12:23.80,0:12:26.34,Default,Кадзуха,0,0,0,,Я, правда, не знаю, что мне делать. мя~
+Dialogue: 0,0:12:31.73,0:12:35.23,Default,Момока,0,0,0,,П-Помираю. Да что не так с этими лестницами?
+Dialogue: 0,0:12:35.60,0:12:37.94,Default,Кадзуха,0,0,0,,Я же тебе говорила, что не стоит.
+Dialogue: 0,0:12:38.61,0:12:41.32,Default,Момока,0,0,0,,Но ты не попыталась меня остановить силой.
+Dialogue: 0,0:12:44.20,0:12:46.07,Default,Момока,0,0,0,,Ну, и с кем ты тут разговаривала?
+Dialogue: 0,0:12:46.49,0:12:49.03,Default,Кадзуха,0,0,0,,Кто знает?\NВозможно, тебе послышалось.
+Dialogue: 0,0:12:49.03,0:12:49.91,Default,Момока,0,0,0,,Да?
+Dialogue: 0,0:12:50.66,0:12:52.87,Default,Момока,0,0,0,,«Я, правда, не знаю, что мне делать. мя~»
+Dialogue: 0,0:12:53.75,0:12:55.08,Default,Кадзуха,0,0,0,,Ты слышала?
+Dialogue: 0,0:12:55.42,0:12:59.59,Default,Момока,0,0,0,,Разговариваешь с котами.\NТы ещё такой ребёнок, причём с заскоками.
+Dialogue: 0,0:13:09.05,0:13:10.64,Default,Кадзуха,0,0,0,,Не хочешь в гостиницу?
+Dialogue: 0,0:13:11.06,0:13:12.60,Default,Момока,0,0,0,,Ты же не хочешь возвращаться?
+Dialogue: 0,0:13:12.89,0:13:15.73,Default,Кадзуха,0,0,0,,Да так. Не заставляй себя сидеть со мной.
+Dialogue: 0,0:13:17.35,0:13:18.52,Default,Момока,0,0,0,,Да, у меня та же фигня.
+Dialogue: 0,0:13:24.19,0:13:26.24,Katakura,Надпись,0,0,0,,Катакура-сан
+Dialogue: 0,0:13:24.19,0:13:26.28,Text_Messages(blue)(Ep 08),Надпись,0,0,0,,Вы, случайно, не знаете, где Момока-тян?
+Dialogue: 0,0:13:26.28,0:13:29.16,Text_Messages(blue)(Ep 08),Надпись,0,0,0,,Она должна быть на важной встрече,\Nно её никак не могут найти…
+Dialogue: 0,0:13:33.12,0:13:35.41,Text_Messages(blue)(Ep 08),Надпись,0,0,0,,Годзё-сан говорит, что\Nеё менеджер очень волнуется.
+Dialogue: 0,0:13:35.41,0:13:38.08,Text_Messages(blue)(Ep 08),Надпись,0,0,0,,Она хочет знать, есть ли\Nу нас хоть какая информация.
+Dialogue: 0,0:13:39.17,0:13:39.96,Default,Момока,0,0,0,,Что там?
+Dialogue: 0,0:13:40.29,0:13:42.30,Default,Кадзуха,0,0,0,,Ничего… Всмысле.
+Dialogue: 0,0:13:42.71,0:13:44.13,Default,Кадзуха,0,0,0,,Это от Карасумы-сан.
+Dialogue: 0,0:13:44.13,0:13:45.63,Default,Момока,0,0,0,,Всё сувениры выпрашивает?
+Dialogue: 0,0:13:45.92,0:13:47.26,Default,Кадзуха,0,0,0,,Типа того.
+Dialogue: 0,0:13:47.88,0:13:48.51,Default,Кадзуха,0,0,0,,Слушай.
+Dialogue: 0,0:13:49.43,0:13:51.26,Default,Кадзуха,0,0,0,,Вот оттуда вид куда лучше.
+Dialogue: 0,0:14:27.17,0:14:28.34,Default,Момока,0,0,0,,Как хорошо.
+Dialogue: 0,0:14:28.97,0:14:30.01,Default,Кадзуха,0,0,0,,Да?
+Dialogue: 0,0:14:30.43,0:14:32.60,Default,Кадзуха,0,0,0,,Мне, всё таки, больше нравится Токио.
+Dialogue: 0,0:14:34.43,0:14:37.60,Default,Кадзуха,0,0,0,,Потому что, это единственное место, которое есть у меня.
+Dialogue: 0,0:14:41.52,0:14:45.23,Default,Момока,0,0,0,,Но и этот город неплох,\Nс приятными людьми и приятными родителями.
+Dialogue: 0,0:14:45.57,0:14:46.36,Default,Кадзуха,0,0,0,,Родителями?
+Dialogue: 0,0:14:46.74,0:14:47.99,Default,Момока,0,0,0,,Твой папа.
+Dialogue: 0,0:14:47.99,0:14:50.36,Default,Кадзуха,0,0,0,,Сама поняла, что сказала?
+Dialogue: 0,0:14:51.24,0:14:54.87,Default,Кадзуха,0,0,0,,Он сварливый и навязывает всем\Nсвои ценности.
+Dialogue: 0,0:14:55.37,0:14:56.70,Default,Кадзуха,0,0,0,,Что в нём приятного?
+Dialogue: 0,0:14:58.08,0:15:00.37,Default,Момока,0,0,0,,Та часть, где он сварливый и навязывает
+Dialogue: 0,0:15:00.37,0:15:03.59,Default,Момока,0,0,0,,свои ценности другим людям, наверное.
+Dialogue: 0,0:15:06.84,0:15:09.22,Default,Момока,0,0,0,,Мои родители старались быть достойными.
+Dialogue: 0,0:15:09.51,0:15:12.09,Default,Момока,0,0,0,,Брали меня на все сессии дубляжа.
+Dialogue: 0,0:15:12.47,0:15:14.01,Default,Кадзуха,0,0,0,,Тебе невероятно повезло.
+Dialogue: 0,0:15:14.43,0:15:17.89,Default,Момока,0,0,0,,Потом, однажды, я попала в аниме,\Nпросто как часть разговора в толпе.
+Dialogue: 0,0:15:17.89,0:15:20.44,Default,Момока,0,0,0,,Моя мама поставила мне голос,
+Dialogue: 0,0:15:20.44,0:15:22.98,Default,Момока,0,0,0,,а мой папа был режиссёром\Nв том проекте.
+Dialogue: 0,0:15:22.98,0:15:25.07,Default,Момока,0,0,0,,Это был мой дебют, пусть о нём и не знают.
+Dialogue: 0,0:15:26.57,0:15:28.65,Default,Момока,0,0,0,,Но, как только я дебютировала,
+Dialogue: 0,0:15:28.65,0:15:30.95,Default,Момока,0,0,0,,они перестали мне говорить что-либо.
+Dialogue: 0,0:15:31.78,0:15:34.45,Default,Кадзуха,0,0,0,,Вообще не поняла, о чём ты.
+Dialogue: 0,0:15:34.78,0:15:36.28,Default,Кадзуха,0,0,0,,Я почти счастлива.
+Dialogue: 0,0:15:37.16,0:15:40.21,Default,Момока,0,0,0,,Верно. Так я и думала о тебе раньше.
+Dialogue: 0,0:15:55.39,0:15:56.22,Default,Момока,0,0,0,,Погоди.
+Dialogue: 0,0:15:56.55,0:15:57.76,Default,Кадзуха,0,0,0,,Да.
+Dialogue: 0,0:16:01.02,0:16:03.98,Мама_15:51(Ep 08),Надпись,0,0,0,,Мама
+Dialogue: 0,0:16:01.02,0:16:03.98,Call_15:51(Ep 08),Надпись,0,0,0,,Звонок
+Dialogue: 0,0:16:01.02,0:16:03.98,Work_15:51(Ep 08),Надпись,0,0,0,,Работа
+Dialogue: 0,0:16:07.11,0:16:08.78,Default,Момока,0,0,0,,Алло, Кавахара-сан?
+Dialogue: 0,0:16:09.07,0:16:10.57,Default,Момока,0,0,0,,Да, это я, Момока.
+Dialogue: 0,0:16:12.11,0:16:13.99,Default,Момока,0,0,0,,Мне так жаль, что заставила вас волноваться.
+Dialogue: 0,0:16:14.74,0:16:16.91,Default,Момока,0,0,0,,Я сейчас у друзей.
+Dialogue: 0,0:16:18.28,0:16:20.45,Default,Момока,0,0,0,,А? Моя мама рядом?
+Dialogue: 0,0:16:23.75,0:16:24.71,Default,Момока,0,0,0,,Мама?
+Dialogue: 0,0:16:25.33,0:16:27.59,Default,Момока,0,0,0,,Да, я не собираюсь идти на ужин.
+Dialogue: 0,0:16:28.75,0:16:30.13,Default,Момока,0,0,0,,Нет, даже, не так.
+Dialogue: 0,0:16:30.46,0:16:31.63,Default,Момока,0,0,0,,Я не хочу быть в {\i1}Пури Паре{\i0}.
+Dialogue: 0,0:16:31.88,0:16:32.76,Default,Кадзуха,0,0,0,,{\i1}Пури Пара{\i0}?
+Dialogue: 0,0:16:35.30,0:16:35.97,Default,Момока,0,0,0,,Угу.
+Dialogue: 0,0:16:36.59,0:16:39.06,Default,Момока,0,0,0,,Если они лично позовут меня на роль, \Nя ещё подумаю.
+Dialogue: 0,0:16:39.60,0:16:42.02,Default,Мама Момоки,0,0,0,,Рассуждаешь, как начинающая.
+Dialogue: 0,0:16:42.56,0:16:46.44,Default,Мама Момоки,0,0,0,,Но, думаю, ты знаешь, что делашь.\NТебе всего лишь семнадцать.
+Dialogue: 0,0:16:47.90,0:16:49.23,Default,Мама Момоки,0,0,0,,Я и забыла об этом.
+Dialogue: 0,0:16:49.65,0:16:52.11,Default,Момока,0,0,0,,Могла бы и запомнить,\Nсколько твоему ребёнку лет.
+Dialogue: 0,0:16:52.11,0:16:54.49,Default,Мама Момоки,0,0,0,,У {\i1}про{\i0} возраст не имеет значения.
+Dialogue: 0,0:16:55.45,0:16:58.20,Default,Момока,0,0,0,,Так и есть. Думаю, мы все — профессионалы.
+Dialogue: 0,0:16:58.83,0:17:01.04,Default,Момока,0,0,0,,Извини, что такая эгоистка.
+Dialogue: 0,0:17:01.04,0:17:04.16,Default,Мама Момоки,0,0,0,,Да, нет. Это, как раз, то,\Nчто ты решила, как актриса.
+Dialogue: 0,0:17:05.37,0:17:07.42,Default,Момока,0,0,0,,Да. Прости меня.
+Dialogue: 0,0:17:07.42,0:17:10.25,Default,Мама Момоки,0,0,0,,Тогда, я просто им скажу,\Nчто героиню буду играть я.
+Dialogue: 0,0:17:10.25,0:17:10.80,Default,Момока,0,0,0,,Э?
+Dialogue: 0,0:17:11.76,0:17:14.17,Default,Мама Момоки,0,0,0,,Думаю, наш второй совместный проект\Nможет подождать.
+Dialogue: 0,0:17:14.72,0:17:17.59,Default,Мама Момоки,0,0,0,,Я буду тебя ждать, {\i1}моя соперница{\i0}.
+Dialogue: 0,0:17:20.89,0:17:21.51,Default,Момока,0,0,0,,Угу.
+Dialogue: 0,0:17:23.02,0:17:24.35,Default,Момока,0,0,0,,Я догоню тебя совсем скоро.
+Dialogue: 0,0:17:24.93,0:17:26.52,Default,Момока,0,0,0,,Жди меня, сенпай.
+Dialogue: 0,0:17:27.73,0:17:30.23,Default,Кадзуха,0,0,0,,Ты отказалась от {\i1}Пури Пары{\i0}?
+Dialogue: 0,0:17:30.86,0:17:32.90,Default,Момока,0,0,0,,О. Ну… Да…
+Dialogue: 0,0:17:32.90,0:17:35.03,Default,Кадзуха,0,0,0,,Такая утрата. Это же шоу утром воскресенья!
+Dialogue: 0,0:17:35.03,0:17:36.95,Default,Момока,0,0,0,,Мама сказала, что подменит меня.
+Dialogue: 0,0:17:37.32,0:17:38.16,Default,Кадзуха,0,0,0,,А?
+Dialogue: 0,0:17:38.49,0:17:41.37,Default,Момока,0,0,0,,Типа, какая классная у меня мама,\Nчто может играть школьницу.
+Dialogue: 0,0:17:45.71,0:17:46.75,Default,Кадзуха,0,0,0,,Пора возвращаться.
+Dialogue: 0,0:17:47.83,0:17:48.46,Default,Момока,0,0,0,,Угу.
+Dialogue: 0,0:18:00.05,0:18:01.85,Default,Кудзу,0,0,0,,А, ну, налил мне саке, быстро!
+Dialogue: 0,0:18:02.14,0:18:05.48,Default,Товада,0,0,0,,Я серьёзно. Мой начальник такой безнадёжный!
+Dialogue: 0,0:18:05.77,0:18:08.39,Default,Менеджер,0,0,0,,Вот-вот. Самый бесполезный начальник на свете!
+Dialogue: 0,0:18:08.39,0:18:11.02,Default,Менеджер,0,0,0,,Из тех, праней, которые проваливаются во всём.
+Dialogue: 0,0:18:11.27,0:18:14.36,Default,Товада,0,0,0,,Я серьёзно. Чтобы нам такого\Nс ним сделать-то?
+Dialogue: 0,0:18:14.36,0:18:15.15,Default,Менеджер,0,0,0,,Ни за что!
+Dialogue: 0,0:18:15.15,0:18:17.20,Default,Кудзу,0,0,0,,Понимаю. Я так тебя понимаю.
+Dialogue: 0,0:18:17.20,0:18:20.24,Default,Кудзу,0,0,0,,Как просохнем, пути назад не будет.
+Dialogue: 0,0:18:20.24,0:18:21.78,Default,Товада,0,0,0,,Безнадёжно!
+Dialogue: 0,0:18:22.53,0:18:24.99,Default,Менеджер,0,0,0,,Просто избавься от него!\NНужно, прост, взять себя в руки!
+Dialogue: 0,0:18:24.99,0:18:28.16,Default,Кудзу,0,0,0,,Точно! Точно! Только ты можешь\Nэто сделать, Товадатти!
+Dialogue: 0,0:18:28.79,0:18:30.54,Default,Товада,0,0,0,,Тогда, у меня просто нет выбора…
+Dialogue: 0,0:18:30.54,0:18:33.55,Default,Менеджер,0,0,0,,Вот-вот! Пошатни его позиции на работе!
+Dialogue: 0,0:18:33.55,0:18:35.71,Default,Кудзу,0,0,0,,Выпьем за то, чтобы Товадатти\Nподнялся на вершину!
+Dialogue: 0,0:18:35.71,0:18:36.92,Default,Кудзу,0,0,0,,За нас!
+Dialogue: 0,0:18:36.92,0:18:38.09,Default,Вместе,0,0,0,,За нас!
+Dialogue: 0,0:18:40.55,0:18:41.80,Default,Кадзуха,0,0,0,,Пипец…
+Dialogue: 0,0:18:41.80,0:18:43.76,Default,Мама,0,0,0,,Лучше бы за собой следила, когда пьёшь…
+Dialogue: 0,0:18:44.18,0:18:46.39,Default,Кадзуха,0,0,0,,Я не нажираюсь вот так.
+Dialogue: 0,0:18:46.72,0:18:47.27,Default,Момока,0,0,0,,Э?
+Dialogue: 0,0:18:47.81,0:18:50.48,Default,Мама,0,0,0,,Момока-тян! Как тебе город?
+Dialogue: 0,0:18:50.94,0:18:52.40,Default,Момока,0,0,0,,Было так весело!
+Dialogue: 0,0:18:53.77,0:18:54.90,Default,Мама,0,0,0,,Вот и славно.
+Dialogue: 0,0:18:57.99,0:19:00.32,Default,Мама,0,0,0,,Выглядите уставшими, может…
+Dialogue: 0,0:19:00.32,0:19:01.70,Default,Кадзуха,0,0,0,,Как ты поняла?
+Dialogue: 0,0:19:02.07,0:19:05.08,Default,Мама,0,0,0,,Ну, я же мать. Я могу понять, лишь взглянув.
+Dialogue: 0,0:19:05.08,0:19:06.12,Default,Кадзуха,0,0,0,,Как это понимать?
+Dialogue: 0,0:19:06.12,0:19:08.29,Default,Мама,0,0,0,,Ну, смотри, даже с тем купальником…
+Dialogue: 0,0:19:08.58,0:19:11.79,Default,Мама,0,0,0,,Твой отец сказал, что\Nты как-то странно улыбалась.
+Dialogue: 0,0:19:12.13,0:19:13.38,Default,Кадзуха,0,0,0,,Странно?
+Dialogue: 0,0:19:13.75,0:19:16.46,Default,Мама,0,0,0,,Ты же так любишь свою работу сэйю?
+Dialogue: 0,0:19:16.46,0:19:18.51,Default,Мама,0,0,0,,Он предположил, что тебе должно быть тяжело,
+Dialogue: 0,0:19:18.51,0:19:20.84,Default,Мама,0,0,0,,если они заставляют тебя заниматься такими вещами.
+Dialogue: 0,0:19:20.84,0:19:23.26,Default,Кадзуха,0,0,0,,Даже так, это…
+Dialogue: 0,0:19:23.55,0:19:26.60,Default,Мама,0,0,0,,Это твоя работа. Естественно, это не всегда весело.
+Dialogue: 0,0:19:26.60,0:19:29.27,Default,Мама,0,0,0,,Будет много трудностей и вещей,\Nкоторыми ты не хочешь заниматься,
+Dialogue: 0,0:19:29.27,0:19:32.77,Default,Мама,0,0,0,,но в этом твоя работа.
+Dialogue: 0,0:19:34.19,0:19:37.03,Default,Мама,0,0,0,,Твой отец отлично осведомлён\Nоб работе сэйю.
+Dialogue: 0,0:19:38.03,0:19:40.49,Default,Мама,0,0,0,,Когда ты сказала,\Nчто собираешься стать сэйю,
+Dialogue: 0,0:19:40.49,0:19:43.16,Default,Мама,0,0,0,,он так много всего изучал об этом.
+Dialogue: 0,0:19:43.62,0:19:46.66,Default,Кадзуха,0,0,0,,Зачем? Он совсем ничего не говорил об этом…
+Dialogue: 0,0:19:46.66,0:19:49.91,Default,Мама,0,0,0,,Ему очень трудно выражать свои чувства…\NПрямо, как тебе.
+Dialogue: 0,0:19:49.91,0:19:51.92,Default,Мама,0,0,0,,Потому что вы оба из этого городка.
+Dialogue: 0,0:19:53.79,0:19:56.17,Default,Мама,0,0,0,,Твои родители всегда будут твоими родителями.
+Dialogue: 0,0:19:56.54,0:19:58.71,Default,Мама,0,0,0,,Наша задача — мотивировать тебя,
+Dialogue: 0,0:19:58.71,0:20:01.59,Default,Мама,0,0,0,,а ещё — верить в тебя и ждать.
+Dialogue: 0,0:20:07.76,0:20:09.06,Default,Момока,0,0,0,,Видишь? Тебя любят.
+Dialogue: 0,0:20:10.10,0:20:11.52,Default,Кадзуха,0,0,0,,Тебя тоже.
+Dialogue: 0,0:20:12.10,0:20:15.36,Default,Кадзуха,0,0,0,,Мне проще понять твою семью.
+Dialogue: 0,0:20:15.65,0:20:19.48,Default,Кадзуха,0,0,0,,А {\i1}этот{\i0}, у меня дома, как бабка,\Nвечно чем-то недоволен.
+Dialogue: 0,0:20:21.69,0:20:22.53,Default,Кадзуха,0,0,0,,Что такое?
+Dialogue: 0,0:20:22.53,0:20:24.53,Default,Момока,0,0,0,,Ты тоже ведёшь себя, как бабка!
+Dialogue: 0,0:20:24.53,0:20:26.45,Default,Момока,0,0,0,,Яблоко от яблони.
+Dialogue: 0,0:20:27.03,0:20:28.12,Default,Кадзуха,0,0,0,,Заткнись!
+Dialogue: 0,0:20:29.24,0:20:31.16,Default,Момока,0,0,0,,Ну всё, ты доигралась!
+Dialogue: 0,0:20:31.16,0:20:32.37,Default,Момока,0,0,0,,Получай!
+Dialogue: 0,0:20:33.67,0:20:34.67,Default,Кадзуха,0,0,0,,Ах ты!
+Dialogue: 0,0:20:34.96,0:20:37.13,Default - Top,Момока,0,0,0,,Думай, что творишь, тупица?
+Dialogue: 0,0:20:37.13,0:20:38.59,Default - Top,Кадзуха,0,0,0,,Я не тупица!
+Dialogue: 0,0:20:38.92,0:20:41.38,Default,Мама,0,0,0,,Господи, разорались на весь двор.
+Dialogue: 0,0:20:45.30,0:20:49.18,Default,Папа,0,0,0,,Её голос всегда был таким несносным.
+Dialogue: 0,0:20:56.02,0:20:59.19,Default,Товада,0,0,0,,Если тебе так тяжело,\Nпочему бы не остаться здесь навсегда?
+Dialogue: 0,0:20:59.69,0:21:02.82,Default,Кудзу,0,0,0,,Прозвучало как-то с холодцой?\NТы такой холодный? Как лёд!
+Dialogue: 0,0:21:06.78,0:21:07.49,Default,Мама,0,0,0,,Кадзу-тян.
+Dialogue: 0,0:21:10.58,0:21:11.70,Default,Кадзуха,0,0,0,,Я ухожу.
+Dialogue: 0,0:21:13.12,0:21:14.91,Default,Папа,0,0,0,,Не простудись.
+Dialogue: 0,0:21:17.38,0:21:18.67,Default,Кадзуха,0,0,0,,Ты тоже, пап!
+Dialogue: 0,0:21:29.72,0:21:31.47,Токио_21:20(Ep 08),Надпись,0,0,0,,Токио\N\N\N\NТокио\N\N\N\NТокио
+Dialogue: 0,0:21:33.52,0:21:35.64,Default,Кадзуха,0,0,0,,Совсем забыла про сувениры для Карасумы-сан.
+Dialogue: 0,0:21:35.64,0:21:37.69,Default,Момока,0,0,0,,«Титосэ» достаточно\Nдля таких, как она.
+Dialogue: 0,0:21:38.02,0:21:39.65,Default,Кадзуха,0,0,0,,Таких, как она?
+Dialogue: 0,0:21:40.19,0:21:41.61,Default,Момока,0,0,0,,Люди, вроде неё
+Dialogue: 0,0:21:42.28,0:21:45.11,Default,Мама,0,0,0,,и такие, как ты…\NЗаполонили наш бизнес. {Киборги, они заполонили планету!}
+Dialogue: 0,0:21:45.99,0:21:47.20,Default,Кадзуха,0,0,0,,Ты права.
+Dialogue: 0,0:21:47.99,0:21:49.66,Default,Кадзуха,0,0,0,,Если только так.
+Dialogue: 0,0:21:53.70,0:21:56.00,Default,Кадзуха,0,0,0,,А, что же делать\Nс сувенирами для Титосэ.
+Dialogue: 0,0:21:56.41,0:21:58.75,Default,Момока,0,0,0,,Да, ничего. Ей они, по сути, и не нужны.
+Dialogue: 0,0:21:59.08,0:22:00.46,Default,Кадзуха,0,0,0,,Видимо, да.
+Dialogue: 0,0:22:04.80,0:22:07.05,Default,Титосэ,0,0,0,,Горячие источники, сябу-сябу…
+Dialogue: 0,0:22:07.05,0:22:07.72,Read_21:57(Ep 08),Надпись,0,0,0,,Прочитано 4
+Dialogue: 0,0:22:07.55,0:22:09.26,Text_Messages(green)_21:58(Ep 08),Надпись,0,0,0,,Ух, никогда ему не прощу! \NГодзё-кун во всём виноват! Я так зла!
+Dialogue: 0,0:22:09.26,0:22:11.01,Hiss!_21:59(Ep 08),Надпись,0,0,0,,Шшшш
+Dialogue: 0,0:22:12.39,0:22:14.85,Default,Титосэ,0,0,0,,Прочитала и не ответила\Nи так с Ямагаты…
+Dialogue: 0,0:22:16.85,0:22:18.94,Default,Титосэ,0,0,0,,Может из-за разницы во времени?
+Dialogue: 0,0:23:49.99,0:24:20.02,Preview,Надпись,0,0,0,,Анонс
+Dialogue: 0,0:23:50.53,0:23:53.24,Default,Титосэ,0,0,0,,Разница во времени, да…\NНу, Ямагата — это {жопа мира}так далеко.
+Dialogue: 0,0:23:53.24,0:23:54.99,Default,Годзё,0,0,0,,Ты разве знаешь, что такое\Nразница во времени?
+Dialogue: 0,0:23:54.99,0:23:56.37,Default,Титосэ,0,0,0,,Конечно, знаю.
+Dialogue: 0,0:23:56.37,0:23:59.04,Default,Титосэ,0,0,0,,Ну, я сегодня утром проспала\Nкак раз из-за смены часовых поясов.
+Dialogue: 0,0:23:59.25,0:24:01.54,Default,Годзё,0,0,0,,Нет, просто, ты тупая.
+Dialogue: 0,0:24:01.54,0:24:04.00,Default,Годзё,0,0,0,,Ты не поехала в Ямагату,\Nтак что больше практикуйся.
+Dialogue: 0,0:24:04.00,0:24:06.59,Default,Титосэ,0,0,0,,Зачем? Не смотря на свою роль,\Nя практикуюсь совсем мало.
+Dialogue: 0,0:24:06.59,0:24:07.96,Default,Годзё,0,0,0,,Этого не достаточно.
+Dialogue: 0,0:24:07.96,0:24:10.34,Default,Годзё,0,0,0,,С таким отношением, ты вылетишь с работы.
+Dialogue: 0,0:24:10.34,0:24:11.47,Default,Титосэ,0,0,0,,Эт ещё почему? Шутник.
+Dialogue: 0,0:24:11.47,0:24:13.30,Default,Годзё,0,0,0,,Я не сказал ничего смешного.
+Dialogue: 0,0:24:13.30,0:24:16.22,Default,Титосэ,0,0,0,,Ой, да ладно. Такого не случиться.\NЯ же главная героиня.
+Dialogue: 0,0:24:16.93,0:24:18.64,Default,Годзё,0,0,0,,Мне кажется, это была случайность…
+Dialogue: 0,0:24:18.64,0:24:20.02,Default,Титосэ,0,0,0,,Стой, разве?
