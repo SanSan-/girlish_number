@@ -16,9 +16,8 @@ Video File: [Leopard-Raws] Girlish Number - 09 RAW (TBS 1280x720 x264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 1
-Active Line: 11
-Video Position: 818
+Active Line: 10
+Video Position: 793
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -62,13 +61,13 @@ Dialogue: 0,0:00:21.50,0:00:22.87,Default,Яэ,0,0,0,,Она невероятн�
 Dialogue: 0,0:00:22.87,0:00:24.29,Default,Кото,0,0,0,,Нам треба работать швидче, тэж.
 Dialogue: 0,0:00:24.29,0:00:28.25,Default,Титосэ,0,0,0,,Да… Нам, как её наставникам,\Nпредстоит многому её обучить.
 Dialogue: 0,0:00:29.09,0:00:32.42,Default,Яэ,0,0,0,,А разве мы можем её чему-то научить?
-Dialogue: 0,0:00:33.05,0:00:34.09,Default,Титосэ,0,0,0,,Конечно, есть!
+Dialogue: 0,0:00:33.05,0:00:34.09,Default,Титосэ,0,0,0,,Конечно, можем!
 Dialogue: 0,0:00:34.09,0:00:35.97,Default,Титосэ,0,0,0,,У нас второй сезон {\i1}«Кусурэ»{\i0} на носу.
-Dialogue: 0,0:00:36.47,0:00:39.22,Default,Титосэ,0,0,0,,On the contrary, it wouldn't \Nbe an exaggeration to say that
-Dialogue: 0,0:00:39.22,0:00:41.43,Default,Титосэ,0,0,0,,we're at the top of the voice acting business.
-Dialogue: 0,0:00:41.43,0:00:44.35,Default,Кото,0,0,0,,On the contrary or not, \Nthat's definitely an exaggeration.
-Dialogue: 0,0:00:44.77,0:00:48.27,Default,Титосэ,0,0,0,,I was just trying to say that \NЯэ should be more confident.
-Dialogue: 0,0:00:49.23,0:00:51.78,Default,Титосэ,0,0,0,,Because we're the senpai voice actors!
+Dialogue: 0,0:00:36.47,0:00:39.22,Default,Титосэ,0,0,0,,Наоборот, не будет\Nпреувеличением сказать,
+Dialogue: 0,0:00:39.22,0:00:41.43,Default,Титосэ,0,0,0,,что мы на вершине этого бизнесса.
+Dialogue: 0,0:00:41.43,0:00:44.35,Default,Кото,0,0,0,,Може наоборот, може нет,\Nале ти преувеличиваешь.
+Dialogue: 0,0:00:44.77,0:00:48.27,Default,Титосэ,0,0,0,,Я просто пытаюсь сказать Яэ,\Nчто нужно быть более уверенной.
+Dialogue: 0,0:00:49.23,0:00:51.78,Default,Титосэ,0,0,0,,Потому что, как сэйю, мы уже наставники!
 Dialogue: 0,0:02:43.55,0:02:48.48,Ep_Title,Надпись,0,0,0,,{\fad(734,724)}#09「Обеспокоенная Титосэ и Неудержимый Новобранец」
 Dialogue: 0,0:02:46.72,0:02:48.39,Default - Top,Титосэ,0,0,0,,It's so cold!
 Dialogue: 0,0:02:48.39,0:02:50.64,Default - Top,Годзё,0,0,0,,Showing up just barely on time \Nright when the cour starts?
