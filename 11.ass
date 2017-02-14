@@ -16,9 +16,9 @@ Video File: [Leopard-Raws] Girlish Number - 11 RAW (TBS 1280x720 x264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 353
-Active Line: 363
-Video Position: 35003
+Scroll Position: 348
+Active Line: 350
+Video Position: 32205
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -361,7 +361,7 @@ Dialogue: 0,0:19:51.50,0:19:54.04,Default,Титосэ,0,0,0,,Хочу, чтоб
 Dialogue: 0,0:19:55.54,0:19:56.96,Default,Титосэ,0,0,0,,Я не хочу исчезать.
 Dialogue: 0,0:19:57.63,0:19:59.30,Default,Титосэ,0,0,0,,Я не хочу никому проигрывать…
 Dialogue: 0,0:19:59.80,0:20:01.59,Default,Титосэ,0,0,0,,Хочу, чтобы люди носились со мной.
-Dialogue: 0,0:20:02.26,0:20:04.14,Default,Титосэ,0,0,0,,Хочу быть «Номером Один»
+Dialogue: 0,0:20:02.26,0:20:04.14,Default,Титосэ,0,0,0,,Хочу быть «Номером Один».
 Dialogue: 0,0:20:05.51,0:20:08.26,Default,Титосэ,0,0,0,,Не могу продолжать быть отбитой или опущенной.
 Dialogue: 0,0:20:09.81,0:20:11.02,Default,Титосэ,0,0,0,,Я не хочу этого…
 Dialogue: 0,0:20:14.23,0:20:16.31,Default,Годзё,0,0,0,,Ты, и правда, такая дурочка.
@@ -403,7 +403,7 @@ Dialogue: 0,0:21:57.00,0:21:59.17,Default,Титосэ,0,0,0,,Я хочу пос
 Dialogue: 0,0:22:07.55,0:22:09.93,Default - MC,Объяление,0,0,0,,Из-за массивного холодного фронта в Токио,
 Dialogue: 0,0:22:09.93,0:22:12.93,Default - MC,Объяление,0,0,0,,движение всех видов общественного транспорта \Nбыли сильно затруднено.
 Dialogue: 0,0:22:12.93,0:22:15.89,Suspended_22:03(Ep 11),Надпись,0,0,0,,Работы приостановлены\NВ Столичном регионе задержки по многим направлениям
-Dialogue: 0,0:22:13.43,0:22:16.68,Default - MC,Объяление,0,0,0,,В данный момент, по всем направлениям\Nрейсы или отложены или задерживаются.
+Dialogue: 0,0:22:13.43,0:22:16.68,Default - MC,Объяление,0,0,0,,В данный момент, по всем направлениям\Nрейсы или отложены, или задерживаются.
 Dialogue: 0,0:22:16.68,0:22:19.90,Default - MC,Объяление,0,0,0,,На многих шоссе, так же, отмечены пробки.
 Dialogue: 0,0:23:49.74,0:24:19.31,Preview,Надпись,0,0,0,,Анонс
 Dialogue: 0,0:23:50.82,0:23:53.49,Default,Кудзу,0,0,0,,Сессия звукозаписи\Nпоследней серии вот-вот начнётся.
