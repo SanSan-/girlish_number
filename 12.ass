@@ -144,22 +144,22 @@ Dialogue: 0,0:05:31.47,0:05:33.06,Default,Кудзу,0,0,0,,Верно…
 Dialogue: 0,0:05:33.35,0:05:35.27,Default,Кудзу,0,0,0,,Думаешь, прямо сейчас, мы можем\Nсделать серию повторов?
 Dialogue: 0,0:05:35.52,0:05:37.90,Default,Товада,0,0,0,,Для последней серии? Конечно же нет.
 Dialogue: 0,0:05:37.90,0:05:40.90,Default,Кудзу,0,0,0,,Ну, знаешь, на самом деле,\Nэто может стать легендой само по себе.
-Dialogue: 0,0:05:40.90,0:05:43.82,Default,Товада,0,0,0,,Такое позволено только главным тайтлам.
+Dialogue: 0,0:05:40.90,0:05:43.82,Default,Товада,0,0,0,,Такое позволено только большим тайтлам.
 Dialogue: 0,0:05:43.82,0:05:45.03,Default,Товада,0,0,0,,А этот сериал~
 Dialogue: 0,0:05:49.11,0:05:51.58,Default,Товада,0,0,0,,Пойду посмотрю, что там происходит.
-Dialogue: 0,0:05:51.58,0:05:53.91,Default,Товада,0,0,0,,Пожалуйста, продолжайте заниматься обговоркой дня поставки.
-Dialogue: 0,0:05:56.58,0:05:59.75,Default,Парень,0,0,0,,Сериалы, которые заканчиваются\Nсериями повторений блаженны.
-Dialogue: 0,0:05:59.75,0:06:01.84,Default,Парень,0,0,0,,Потому что, это означает, что сотрудники
-Dialogue: 0,0:06:01.84,0:06:04.34,Default,Парень,0,0,0,,отказались идти на компромисс по качеству.
-Dialogue: 0,0:06:04.34,0:06:07.63,Default,Парень,0,0,0,,Только тот, кто не сделал\Nболее-менее законченный продукт и
-Dialogue: 0,0:06:07.63,0:06:09.09,Default,Парень,0,0,0,,сумел его выпустить, смогут бросить первый камень.
+Dialogue: 0,0:05:51.58,0:05:53.91,Default,Товада,0,0,0,,Пожалуйста, продолжайте заниматься согласованием дня поставки.
+Dialogue: 0,0:05:56.58,0:05:59.75,Default,Сэнсей,0,0,0,,Сериалы, которые заканчиваются\Nсериями повторений блаженны.
+Dialogue: 0,0:05:59.75,0:06:01.84,Default,Сэнсей,0,0,0,,Потому что, это означает, что сотрудники
+Dialogue: 0,0:06:01.84,0:06:04.34,Default,Сэнсей,0,0,0,,отказались идти на компромисс по качеству.
+Dialogue: 0,0:06:04.34,0:06:07.63,Default,Сэнсей,0,0,0,,Только тот, кто не сделал\Nболее-менее законченный продукт и
+Dialogue: 0,0:06:07.63,0:06:09.09,Default,Сэнсей,0,0,0,,сумел его выпустить, смогут бросить первый камень.
 Dialogue: 0,0:06:09.09,0:06:11.30,Default,Редактор,0,0,0,,Сэнсей, пожалуйста держитесь.
 Dialogue: 0,0:06:11.93,0:06:13.51,Default,Кудзу,0,0,0,,Алло, алло?
 Dialogue: 0,0:06:13.51,0:06:15.56,Default,Кудзу,0,0,0,,Как долго, думаете,\Nвы сможете ждать поставку?
 Dialogue: 0,0:06:15.56,0:06:17.27,Default,Кудзу,0,0,0,,Вы не можете? Ясно…
 Dialogue: 0,0:06:17.27,0:06:19.65,Default,Кудзу,0,0,0,,Тогда, как насчёт серии из повт~ Нет?
 Dialogue: 0,0:06:19.65,0:06:21.77,Default,Кудзу,0,0,0,,Тогда, как насчёт мы приукрасим её\Nсо специальными сэйю?
-Dialogue: 0,0:06:22.06,0:06:25.69,Default,Парень,0,0,0,,Если трансляция будет отложена,\Nотложится и выход оригинальной работы.
+Dialogue: 0,0:06:22.06,0:06:25.69,Default,Сэнсей,0,0,0,,Если трансляция будет отложена,\Nотложится и выход оригинальной работы.
 Dialogue: 0,0:06:25.69,0:06:27.49,Default,Редактор,0,0,0,,Сэнсей, нам нельзя!
 Dialogue: 0,0:06:28.61,0:06:29.70,Default,Редактор,0,0,0,,Проснитесь!
 Dialogue: 0,0:06:31.03,0:06:33.58,Default,Кудзу,0,0,0,,Даже нельзя спешл? Ясно…
@@ -202,7 +202,7 @@ Dialogue: 0,0:09:12.86,0:09:14.86,Default,Титосэ,0,0,0,,Это могла 
 Dialogue: 0,0:09:15.95,0:09:19.16,Default,Титосэ,0,0,0,,Но, перед тем, как я это поняла, образовался\Nгигантский разрыв между нами.
 Dialogue: 0,0:09:19.66,0:09:22.91,Default,Титосэ,0,0,0,,То есть, я это всё знаю, потому что\Nне так хороша, но…
 Dialogue: 0,0:09:24.00,0:09:26.46,Default,Титосэ,0,0,0,,Ведь, даже, если бы меня тут не было,
-Dialogue: 0,0:09:26.46,0:09:28.54,Default,Титосэ,0,0,0,,кто-угодно мог с лёгкостью занять моё место.
+Dialogue: 0,0:09:26.46,0:09:28.54,Default,Титосэ,0,0,0,,полно людей, кто мог с лёгкостью занять моё место.
 Dialogue: 0,0:09:30.50,0:09:34.42,Default,Титосэ,0,0,0,,И это ничья вина или что-то такое…
 Dialogue: 0,0:09:34.92,0:09:38.01,Default,Титосэ,0,0,0,,Нет, это всё моя вина, вина тех,\Nкто меня выбрал,
 Dialogue: 0,0:09:38.01,0:09:39.64,Default,Титосэ,0,0,0,,вина тех, кто не остановил меня,
@@ -220,7 +220,7 @@ Dialogue: 0,0:10:29.65,0:10:30.69,Default,Годзё,0,0,0,,Вот же дура
 Dialogue: 0,0:10:32.06,0:10:34.15,Default,Момока,0,0,0,,Зачем ты говоришь очевидные вещи?
 Dialogue: 0,0:10:34.61,0:10:38.11,Default,Момока,0,0,0,,Я уже придерживаюсь этому пути долгое время.
 Dialogue: 0,0:10:38.45,0:10:41.20,Default,Титосэ,0,0,0,,Эх… Я понятия не имею, что ты чувствуешь, Момока-тян.
-Dialogue: 0,0:10:41.20,0:10:42.32,Default,Титосэ,0,0,0,,И даже спрашивать не стала бы.
+Dialogue: 0,0:10:41.20,0:10:42.32,Default,Титосэ,0,0,0,,Даже спрашивать не стала бы.
 Dialogue: 0,0:10:42.32,0:10:44.12,Default,Момока,0,0,0,,Серьёзно, что с тобой не так?!
 Dialogue: 0,0:10:43.70,0:10:44.95,Default,Кото,0,0,0,,Ну же, ну же…
 Dialogue: 0,0:10:44.41,0:10:45.79,Default,Кадзуха,0,0,0,,Пора.
@@ -231,87 +231,88 @@ Dialogue: 0,0:10:59.17,0:10:59.76,Default,Титосэ,0,0,0,,Яэ…
 Dialogue: 0,0:11:00.47,0:11:01.47,Default,Титосэ,0,0,0,,Спасибо.
 Dialogue: 0,0:11:01.84,0:11:02.55,Default,Яэ,0,0,0,,Ага.
 Dialogue: 0,0:11:03.43,0:11:06.01,Default,Нанами,0,0,0,,Карасума-сан, ты, и правда, лучшая.
-Dialogue: 0,0:11:06.01,0:11:08.93,Default,Нанами,0,0,0,,You always were and always \Nwill be the person I look up to.
-Dialogue: 0,0:11:08.93,0:11:10.98,Default,Нанами,0,0,0,,I'll keep doing my best to do my best.
+Dialogue: 0,0:11:06.01,0:11:08.93,Default,Нанами,0,0,0,,Ты всегда была и будешь\Nчеловеком, которым я восхищаюсь.
+Dialogue: 0,0:11:08.93,0:11:10.98,Default,Нанами,0,0,0,,Я буду продолжать делать всё возможное, чтобы делать всё возможное.
 Dialogue: 0,0:11:10.98,0:11:11.77,Default,Титосэ,0,0,0,,Нанами.
-Dialogue: 0,0:11:11.77,0:11:13.15,Default,Нанами,0,0,0,,Yes, I'll do my best.
-Dialogue: 0,0:11:13.69,0:11:15.44,Default,Титосэ,0,0,0,,You don't have to do your best, Нанами.
-Dialogue: 0,0:11:15.90,0:11:19.15,Default,Нанами,0,0,0,,Not… do my… best?
-Dialogue: 0,0:11:19.15,0:11:21.86,Default,Титосэ,0,0,0,,Just watch everything that I do!
-Dialogue: 0,0:11:22.41,0:11:24.45,Default,Нанами,0,0,0,,S-So cool!
-Dialogue: 0,0:11:24.70,0:11:25.91,Default,Кото,0,0,0,,All right, Leader,
-Dialogue: 0,0:11:25.91,0:11:28.62,Default,Кото,0,0,0,,say something good to get \Neveryone back on track.
+Dialogue: 0,0:11:11.77,0:11:13.15,Default,Нанами,0,0,0,,Да, я сделаю всё возможное.
+Dialogue: 0,0:11:13.69,0:11:15.44,Default,Титосэ,0,0,0,,Ты не должна делать всё возможное, Нанами.
+Dialogue: 0,0:11:15.90,0:11:19.15,Default,Нанами,0,0,0,,Не… делать… всё возможное?
+Dialogue: 0,0:11:19.15,0:11:21.86,Default,Титосэ,0,0,0,,Просто смотри, что делаю я!{Эй, детка, посмотри на меня! Думай обо мне! Делай, как я!}
+Dialogue: 0,0:11:22.41,0:11:24.45,Default,Нанами,0,0,0,,К-Как круто!
+Dialogue: 0,0:11:24.70,0:11:25.91,Default,Кото,0,0,0,,Отлично, лидер,
+Dialogue: 0,0:11:25.91,0:11:28.62,Default,Кото,0,0,0,,толкни-ка речь,\Nщоб наставити нас на верный путь.
 Dialogue: 0,0:11:28.91,0:11:30.21,Default,Титосэ,0,0,0,,Кото-тян…
-Dialogue: 0,0:11:30.21,0:11:33.21,Default,Титосэ,0,0,0,,Er… The leader should be referring \Nto the lead role, but…
-Dialogue: 0,0:11:35.21,0:11:37.55,Default,Титосэ,0,0,0,,Let's just relax and sell this thing!
-Dialogue: 0,0:11:38.00,0:11:39.72,Default,Кудзу,0,0,0,,That's what I've been waiting to hear!
-Dialogue: 0,0:11:42.01,0:11:44.01,Default,Редактор,0,0,0,,I swear, what kind of voice actress is she?
-Dialogue: 0,0:11:44.01,0:11:45.55,Default,Редактор,0,0,0,,I never want to use her again.
-Dialogue: 0,0:11:46.22,0:11:47.89,Default,Редактор,0,0,0,,Let's make Нанами-тян the next lead…
-Dialogue: 0,0:11:48.56,0:11:49.18,Default,Редактор,0,0,0,,Yes?
-Dialogue: 0,0:11:49.43,0:11:52.64,Default,Парень,0,0,0,,After the dubbing session is over, \Ncan I use a meeting room?
-Dialogue: 0,0:11:52.85,0:11:55.31,Default,Редактор,0,0,0,,Huh? Sure, of course…
-Dialogue: 0,0:11:55.65,0:11:56.86,Default,Парень,0,0,0,,I feel like writing…
-Dialogue: 0,0:11:57.61,0:11:59.90,Default,Парень,0,0,0,,I'm sure there are also a lot of
-Dialogue: 0,0:11:59.90,0:12:02.03,Default,Парень,0,0,0,,light novel authors who can replace me…
-Dialogue: 0,0:12:02.74,0:12:04.32,Default,Парень,0,0,0,,But still, I want to write.
-Dialogue: 0,0:12:04.61,0:12:08.54,Default,Редактор,0,0,0,,S-Сэнсей… That's… That's…
-Dialogue: 0,0:12:08.87,0:12:10.50,Default,Редактор,0,0,0,,what I've been waiting to hear.
-Dialogue: 0,0:12:19.17,0:12:20.21,Default,Девушка,0,0,0,,Pyah!
-Dialogue: 0,0:12:32.60,0:12:35.19,Default,Парень,0,0,0,,This might not make it in.
-Dialogue: 0,0:12:35.56,0:12:37.77,Default,Режиссёр,0,0,0,,Even though the acting was great…
-Dialogue: 0,0:12:37.77,0:12:40.03,Default,Парень,0,0,0,,What should we do?
-Dialogue: 0,0:12:42.36,0:12:43.65,Default,Режиссёр,0,0,0,,Let's change the drawings.
-Dialogue: 0,0:12:43.90,0:12:45.61,Default,Продюсер,0,0,0,,But we have less than ten days left!
-Dialogue: 0,0:12:46.78,0:12:47.82,Default,Режиссёр,0,0,0,,Let's do our best.
-Dialogue: 0,0:12:51.24,0:12:52.58,Default,Продюсер,0,0,0,,I'll go make the calls.
-Dialogue: 0,0:12:53.00,0:12:54.41,Default,Парень,0,0,0,,Thanks for waiting.
-Dialogue: 0,0:12:54.41,0:12:57.33,Default,Парень,0,0,0,,We have the drawings, \Nbut they're going to change.
-Dialogue: 0,0:12:58.08,0:12:58.92,Default,Титосэ,0,0,0,,I see.
-Dialogue: 0,0:12:59.54,0:13:04.09,Default,Кото,0,0,0,,Well, stuff like this always \Nhappens on legendary series.
-Dialogue: 0,0:13:04.09,0:13:05.88,Default,Титосэ,0,0,0,,So it'll happen with this series, too?
-Dialogue: 0,0:13:05.88,0:13:07.72,Default,Яэ,0,0,0,,Fate's working backwards!
-Dialogue: 0,0:13:08.05,0:13:10.68,Default,Момока,0,0,0,,You can't let something like \Nchanging drawings surprise you.
-Dialogue: 0,0:13:10.68,0:13:14.06,Default,Момока,0,0,0,,I mean, we've never seen \Nany decent drawings, anyway.
-Dialogue: 0,0:13:14.06,0:13:17.94,Default,Кадзуха,0,0,0,,At first, I barely even saw any decent acting.
-Dialogue: 0,0:13:17.94,0:13:21.40,Default,Парень,0,0,0,,Once the cue lamp goes on, please come in \Nwhenever you're ready, Карасума-сан.
-Dialogue: 0,0:13:21.73,0:13:22.61,Default,Титосэ,0,0,0,,Right!
-Dialogue: 0,0:13:22.94,0:13:24.53,Default,Парень,0,0,0,,All right, here we go.
-Dialogue: 0,0:13:30.41,0:13:33.66,Default,Титосэ,0,0,0,,You're not even that strong. \NWhat do you think you're doing?
-Dialogue: 0,0:13:33.66,0:13:34.50,Default,Титосэ,0,0,0,,You idiot!
-Dialogue: 0,0:13:34.75,0:13:38.71,Default,Кадзуха,0,0,0,,But we can't give up. We can't\Nlet something like this happen!
-Dialogue: 0,0:13:39.08,0:13:41.04,Default,Момока,0,0,0,,I was letting the pressure get to me.
-Dialogue: 0,0:13:41.04,0:13:44.17,Default,Момока,0,0,0,,I was looking at others for answers. \NI was thinking of excuses!
-Dialogue: 0,0:13:44.42,0:13:47.38,Default,Кото,0,0,0,,Laughing and saying everything \Nis fine, that it's not hard…
-Dialogue: 0,0:13:47.38,0:13:48.64,Default,Кото,0,0,0,,Of course that's not true!
-Dialogue: 0,0:13:48.84,0:13:51.18,Default,Яэ,0,0,0,,Even if we're weak, sneaky, or underhanded,
-Dialogue: 0,0:13:51.18,0:13:53.60,Default,Яэ,0,0,0,,we have to keep struggling until the end!
-Dialogue: 0,0:13:54.14,0:13:57.85,Default,Титосэ,0,0,0,,And the fact that this world was \Nsaved by such a helpless girl…
-Dialogue: 0,0:13:57.85,0:14:00.48,Default,Титосэ,0,0,0,,I'll laugh at this world for \Nbeing less than trash!
-Dialogue: 0,0:14:00.81,0:14:03.40,Default,Титосэ,0,0,0,,Because you love this world.
-Dialogue: 0,0:14:07.95,0:14:09.36,Default,Парень,0,0,0,,Okay, we got it!
-Dialogue: 0,0:14:15.54,0:14:17.21,Default,Продюсер,0,0,0,,Let's go, Director.
-Dialogue: 0,0:14:17.21,0:14:18.00,Default,Режиссёр,0,0,0,,Yeah.
+Dialogue: 0,0:11:30.21,0:11:33.21,Default,Титосэ,0,0,0,,Эу… Лидер должен соотноситься\Nс главной ролью, но…
+Dialogue: 0,0:11:35.21,0:11:37.55,Default,Титосэ,0,0,0,,Давайте просто расслабимся и продадим эту вещь!
+Dialogue: 0,0:11:38.00,0:11:39.72,Default,Кудзу,0,0,0,,Это то, что я так ждал услышать!
+Dialogue: 0,0:11:42.01,0:11:44.01,Default,Редактор,0,0,0,,Боже, эта девка, что за порода сэйю?
+Dialogue: 0,0:11:44.01,0:11:45.55,Default,Редактор,0,0,0,,Больше никогда не хочу приглашать её снова.
+Dialogue: 0,0:11:46.22,0:11:47.89,Default,Редактор,0,0,0,,Давайте сделаем Нанами-тян следующей главн…
+Dialogue: 0,0:11:48.56,0:11:49.18,Default,Редактор,0,0,0,,Да?
+Dialogue: 0,0:11:49.43,0:11:52.64,Default,Сэнсей,0,0,0,,Как сессия звукозаписи закончится,\Nмогу ли я использовать переговорную?
+Dialogue: 0,0:11:52.85,0:11:55.31,Default,Редактор,0,0,0,,А? Да, конечно…
+Dialogue: 0,0:11:55.65,0:11:56.86,Default,Сэнсей,0,0,0,,Я чувствую, что хочу писать…
+Dialogue: 0,0:11:57.61,0:11:59.90,Default,Сэнсей,0,0,0,,Я так же уверен, что вокруг полно авторов ранобэ,
+Dialogue: 0,0:11:59.90,0:12:02.03,Default,Сэнсей,0,0,0,,которые могут занять моё место…
+Dialogue: 0,0:12:02.74,0:12:04.32,Default,Сэнсей,0,0,0,,Но тем не менее, я хочу писать.
+Dialogue: 0,0:12:04.61,0:12:08.54,Default,Редактор,0,0,0,,С-Сэнсей… Это же… Это же…
+Dialogue: 0,0:12:08.87,0:12:10.50,Default,Редактор,0,0,0,,то, что я так жду услышать.
+Dialogue: 0,0:12:19.17,0:12:20.21,Default,Девушка,0,0,0,,Пьях!
+Dialogue: 0,0:12:32.60,0:12:35.19,Default,Парень,0,0,0,,Этого не может быть.
+Dialogue: 0,0:12:35.56,0:12:37.77,Default,Режиссёр,0,0,0,,Даже, не смотря на то, что исполнение отличное…
+Dialogue: 0,0:12:37.77,0:12:40.03,Default,Парень,0,0,0,,Что же нам делать?
+Dialogue: 0,0:12:42.36,0:12:43.65,Default,Режиссёр,0,0,0,,Давайте поменяем чертежи.
+Dialogue: 0,0:12:43.90,0:12:45.61,Default,Продюсер,0,0,0,,Но у нас отсалось меньше десяти дней!
+Dialogue: 0,0:12:46.78,0:12:47.82,Default,Режиссёр,0,0,0,,Давайте сделаем всё возможное.
+Dialogue: 0,0:12:51.24,0:12:52.58,Default,Продюсер,0,0,0,,Пойду, сделаю пару звонков.
+Dialogue: 0,0:12:53.00,0:12:54.41,Default,Парень,0,0,0,,Спасибо за ожидание.
+Dialogue: 0,0:12:54.41,0:12:57.33,Default,Парень,0,0,0,,У нас есть чертежи,\Nно их собираются поменять.
+Dialogue: 0,0:12:58.08,0:12:58.92,Default,Титосэ,0,0,0,,Ясно.
+Dialogue: 0,0:12:59.54,0:13:04.09,Default,Кото,0,0,0,,Ну, подобные вещи всегда случаются\Nз легендарными сериалами.
+Dialogue: 0,0:13:04.09,0:13:05.88,Default,Титосэ,0,0,0,,Так и с этим сериалом будет так же?
+Dialogue: 0,0:13:05.88,0:13:07.72,Default,Яэ,0,0,0,,Судьба повернулась к нам задом!
+Dialogue: 0,0:13:08.05,0:13:10.68,Default,Момока,0,0,0,,Нельзя допускать, чтобы что-то,\Nвроде изменение рисовки, удивляло тебя.
+Dialogue: 0,0:13:10.68,0:13:14.06,Default,Момока,0,0,0,,Я про то, что мы, и так, никогда не видели\Nхоть сколько-нибудь достойной рисовки.
+Dialogue: 0,0:13:14.06,0:13:17.94,Default,Кадзуха,0,0,0,,Во-первых, я едва ли видела приличное исполнение.
+Dialogue: 0,0:13:17.94,0:13:21.40,Default,Парень,0,0,0,,Как загорится сигнал, пожалуйста, проходите,\Nкак будете готовы, Карасума-сан.
+Dialogue: 0,0:13:21.73,0:13:22.61,Default,Титосэ,0,0,0,,Точняк!
+Dialogue: 0,0:13:22.94,0:13:24.53,Default,Парень,0,0,0,,Отлично, поехали.
+Dialogue: 0,0:13:30.41,0:13:33.66,Default,Титосэ,0,0,0,,Тебе это не по силам.\NТы думаешь, что творишь?
+Dialogue: 0,0:13:33.66,0:13:34.50,Default,Титосэ,0,0,0,,Придурок!
+Dialogue: 0,0:13:34.75,0:13:38.71,Default,Кадзуха,0,0,0,,Но мы не можем сдаться.\NМы не можем допустить, чтобы подобное случилось!
+Dialogue: 0,0:13:39.08,0:13:41.04,Default,Момока,0,0,0,,Я позволила, чтобы меня сдавило.
+Dialogue: 0,0:13:41.04,0:13:44.17,Default,Момока,0,0,0,,Я искала ответа у других.\NЯ придумывала лишь отговорки!
+Dialogue: 0,0:13:44.42,0:13:47.38,Default,Кото,0,0,0,,Шутить и говорить, что всё хорошо,\Nне так и трудно…
+Dialogue: 0,0:13:47.38,0:13:48.64,Default,Кото,0,0,0,,Конечно же, это не правда!
+Dialogue: 0,0:13:48.84,0:13:51.18,Default,Яэ,0,0,0,,Даже, если мы слабы, подлы или коварны,
+Dialogue: 0,0:13:51.18,0:13:53.60,Default,Яэ,0,0,0,,мы будем продолжать бороться до конца!
+Dialogue: 0,0:13:54.14,0:13:57.85,Default,Титосэ,0,0,0,,И тот факт, что этот мир был спасён\Nтакой беззащитной девочкой…
+Dialogue: 0,0:13:57.85,0:14:00.48,Default,Титосэ,0,0,0,,Я буду смеяться над этим миром,\Nпрогнившим насквозь!
+Dialogue: 0,0:14:00.81,0:14:03.40,Default,Титосэ,0,0,0,,Потому что я люблю этот мир.
+Dialogue: 0,0:14:07.95,0:14:09.36,Default,Парень,0,0,0,,Окей, записано!
+Dialogue: 0,0:14:15.54,0:14:17.21,Default,Продюсер,0,0,0,,Пойдёмте, Режиссёр.
+Dialogue: 0,0:14:17.21,0:14:18.00,Default,Режиссёр,0,0,0,,Ага.
 Dialogue: 0,0:14:20.13,0:14:20.96,Default,Редактор,0,0,0,,Сэнсей.
-Dialogue: 0,0:14:20.96,0:14:23.55,Default,Парень,0,0,0,,There isn't much that I can do,
-Dialogue: 0,0:14:23.55,0:14:25.13,Default,Парень,0,0,0,,but at least I can pray.
-Dialogue: 0,0:14:25.13,0:14:27.47,Default,Редактор,0,0,0,,Let's write the bonus novel \Nfor the Blu-ray release!
-Dialogue: 0,0:14:28.63,0:14:30.09,Default,Парень,0,0,0,,God is dead…
+Dialogue: 0,0:14:20.96,0:14:23.55,Default,Сэнсей,0,0,0,,Не так много, что я могу сделать,
+Dialogue: 0,0:14:23.55,0:14:25.13,Default,Сэнсей,0,0,0,,но, хотя бы, я могу молиться.
+Dialogue: 0,0:14:25.13,0:14:30.09,Default - Top,Примечание,0,0,0,,Примечание: Ватари Ватару специально для Blu-ray 2 сезона OreGairu написал бонусный том ранобэ, который назвал A.N.O.T.H.E.R.(по букве на каждую главу, которая прикладывалась к каждому выпуску Blu-ray. 7 глав на 7 выпусков, соответственно). В нём описываются события 10 тома с небольшим уходом от общей канвы и альтернативным финалом.
+Dialogue: 0,0:14:25.13,0:14:27.47,Default,Редактор,0,0,0,,Давайте напишем бонусный рассказ\Nк релизу на Blu-ray!{Ахахахах! Вот тут я проорался в голсину, прост…}
+Dialogue: 0,0:14:28.63,0:14:30.09,Default,Сэнсей,0,0,0,,Бог мёртв…
 Dialogue: 0,0:14:31.51,0:14:32.39,Default,Кудзу,0,0,0,,Товада.
-Dialogue: 0,0:14:32.39,0:14:32.89,Default,Товада,0,0,0,,Yes?
-Dialogue: 0,0:14:33.39,0:14:35.60,Default,Кудзу,0,0,0,,We've got work to do.\NTime to go make apologies.
-Dialogue: 0,0:14:36.06,0:14:36.81,Default,Товада,0,0,0,,Right!
-Dialogue: 0,0:14:54.41,0:14:55.49,Default,Титосэ,0,0,0,,Thanks for your hard work.
-Dialogue: 0,0:14:55.49,0:14:58.54,Girlish_Number_cover_14:46(Ep 12),Надпись,0,0,0,,Girlish Number
-Dialogue: 0,0:15:00.87,0:15:02.88,In_use_(Ep 12),Надпись,0,0,0,,In Use \N\N{\fs24}80 Minutes Remaining
-Dialogue: 0,0:15:00.87,0:15:02.88,No_further_14:51_(Ep 12),Надпись,0,0,0,,There are no further reservations
-Dialogue: 0,0:15:00.87,0:15:02.88,Reserve_14:51_(Ep 12),Надпись,0,0,0,,Reserve
-Dialogue: 0,0:15:00.87,0:15:02.88,Надпись_21384_235_Extend,Надпись,0,0,0,,Extend
-Dialogue: 0,0:15:00.87,0:15:02.88,Leave_Room_14:51_(Ep 12),Надпись,0,0,0,,Leave Room
-Dialogue: 0,0:15:02.88,0:15:04.75,Meeting_handout(Ep 12),Надпись,0,0,0,,Animate handout events (Planned for 1/14-1/15, 2/4-2/5)\NWe are planning handout events with the cast for customers who preorder the \N«Кусурэ» 2nd season package at the Ikebukuro and Akihabara locations of Animate!\NThose who preorder also get a newly drawn postcard by Shishida Neru!\N\NGamers handout events (Planned for 1/14-1/15, 2/4-2/5)\NWe are planning handout events with the cast for customers who preorder the \N«Кусурэ» 2nd season package at the Akihabara Gamers!\NThose who preorder also get a newly drawn postcard by Shishida Neru!\N\NSoft Area handout events (Planned for 1/14-1/15, 1/21-1/22)\NWe are planning handout events with the cast for customers who preorder the \N«Кусурэ» 2nd season package at Soft Area! (Currently finding participating locations)\NThose who preorder also get a newly drawn postcard by Shishida Neru!\N\NNakanoana handout events \NWe are planning handout events with the cast for customers who preorder the \N«Кусурэ» 2nd season package at Nakanoana! (Currently finding participating locations)\NThose who preorder also get a newly drawn postcard by Shishida Neru!\N\NA&G&K Radio: Be a guest on "Кугаяма Яэ's Кугаяма Mountain-Climbing Plan" (Recording date planned for 1/22)\NBe a guest on the radio program "Сакурагаока Нанами's Nanamen"!!
-Dialogue: 0,0:15:05.13,0:15:08.59,Default,Кудзу,0,0,0,,It's going to be rough, but this is the \Nonly way we can do our best right now!
-Dialogue: 0,0:15:08.92,0:15:11.30,Default,Товада,0,0,0,,Um… This is hard for me to say…
-Dialogue: 0,0:15:11.30,0:15:14.01,Meeting_handout(Ep 12)2,Надпись,0,0,0,,Кусурэ Shop Sales Promotion Event Estimate\N\NTitle: Millennium Princess x Kowloon Overlord\NProduct and Event Name: Second Season Volume 1 Shop Sales Promotion Event\NOrder Details: Animate, Gamers, etc. Shop Handout Events\NCast Request Below\N\N<Number One Produce> Карасума Титосэ-сама, Кугаяма Яэ-сама, Катакура Кото-сама, Сакурагаока Нанами-сама\N<Iroha Production> Сибасаки Кадзуха-сама\N<Voice Enterprise> Соно Момока-сама \N\NOrder Estimate Details\NItem  |  Cost (*1)  |  Amount  |  Subtotal\NКусурэ Shop Sales Promotion Event (Gross) *2 \NTotal \N\NNotes\N{\c&H2202E5&}*1 Amount ordered is not frequency, but gross amount ordered. Monetary amount negotiable. \N*2 We are aware that cast members may have scheduling conflicts, so please discuss \Nwhich cast members can make which events. Please let us discuss the details gradually.\N{\c&H000000&}Please confirm all of the details above. Thank you very much. -Peitax Corportation
+Dialogue: 0,0:14:32.39,0:14:32.89,Default,Товада,0,0,0,,Да?
+Dialogue: 0,0:14:33.39,0:14:35.60,Default,Кудзу,0,0,0,,У нас куча работы.\NВремя приносить извинения.
+Dialogue: 0,0:14:36.06,0:14:36.81,Default,Товада,0,0,0,,Точно!
+Dialogue: 0,0:14:54.41,0:14:55.49,Default,Титосэ,0,0,0,,Спасибо вам за ваш тяжкий труд.
+Dialogue: 0,0:14:55.49,0:14:58.54,Girlish_Number_cover_14:46(Ep 12),Надпись,0,0,0,,Девчачий Номер
+Dialogue: 0,0:15:00.87,0:15:02.88,In_use_(Ep 12),Надпись,0,0,0,,Используется \N\N{\fs24}Осталось 80 Минут
+Dialogue: 0,0:15:00.87,0:15:02.88,No_further_14:51_(Ep 12),Надпись,0,0,0,,Дальнейшее бронирование не подтверждено
+Dialogue: 0,0:15:00.87,0:15:02.88,Reserve_14:51_(Ep 12),Надпись,0,0,0,,Резерв
+Dialogue: 0,0:15:00.87,0:15:02.88,Надпись_21384_235_Extend,Надпись,0,0,0,,Дополнительно
+Dialogue: 0,0:15:00.87,0:15:02.88,Leave_Room_14:51_(Ep 12),Надпись,0,0,0,,Жилое Помещение
+Dialogue: 0,0:15:02.88,0:15:04.75,Meeting_handout(Ep 12),Надпись,0,0,0,,Раздаточное мероприятие в Animate (Запланировано на 1/14-1/15, 2/4-2/5)\NМы запланировали раздаточное мероприятие с атёрами для покупателей предзаказа\Nполной версии 2го сезона «Кусурэ» в филиалах Animate, на Икэбукуро и Акихабаре!\NСделавшие предзаказ так же получат открытку с эскизом от Сисиды Неру!\N\NРаздаточное мероприятие в Игроцентре (Запланировано на 1/14-1/15, 2/4-2/5)\NМы запланировали раздаточное мероприятие с атёрами для покупателей предзаказа\Nполной версии 2го сезона «Кусурэ» в Игроцентре, на Акихабаре {https://www.gamers.co.jp/}!\NСделавшие предзаказ так же получат открытку с эскизом от Сисиды Неру!\N\NРаздаточное мероприятие в Soft Area (Запланировано на 1/14-1/15, 1/21-1/22)\NМы запланировали раздаточное мероприятие с атёрами для покупателей предзаказа\Nполной версии 2го сезона «Кусурэ» в Soft Area! (В настоящее время ищется место проведения)\NСделавшие предзаказ так же получат открытку с эскизом от Сисиды Неру!\N\NРаздаточное мероприятие в Nakanoana \NМы запланировали раздаточное мероприятие с атёрами для покупателей предзаказа\Nполной версии 2го сезона «Кусурэ» в Nakanoana! (В настоящее время ищется место проведения)\NСделавшие предзаказ так же получат открытку с эскизом от Сисиды Неру!\N\NA&G&K Радио: Будет гостем в "Кугаямский план покорения гор с Кугаямой Яэ" (Дата записи запланирована на 1/22)\NБудет гостем на радио-программе "Наномен Сакурагаоки Нанами"!!
+Dialogue: 0,0:15:05.13,0:15:08.59,Default,Кудзу,0,0,0,,Прозвучит сурово, но единственный способ вложиться по-полной,\Nу нас, только сейчас!
+Dialogue: 0,0:15:08.92,0:15:11.30,Default,Товада,0,0,0,,Эм… Мне трудно сказать…
+Dialogue: 0,0:15:11.30,0:15:14.01,Meeting_handout(Ep 12)2,Надпись,0,0,0,,Мероприятие по Продвижению Продаж Кусурэ Оценка\N\NНазвание: Властитель Цзюлуна и Тысячелетняя принцесса\NНазвание Продукта и Мероприятия: Второй Сезон Том 1 Мероприятие по Продвижению Продаж\NДетали Заказа: Раздаточные Мероприятия в Магазинах Animate, Игроцентр, и т.д.\NЗапрос на Актёров Ниже\N\N<Number One Produce> Карасума Титосэ-сама, Кугаяма Яэ-сама, Катакура Кото-сама, Сакурагаока Нанами-сама\N<Iroha Production> Сибасаки Кадзуха-сама\N<Voice Enterprise> Соно Момока-сама \N\NДетали Оценки Заказа\NВещь  |  Стоимость (*1)  |  Количество  |  Предитог\NМероприятие по Продвижению Продаж Кусурэ (Фактический) *2 \NИтог \N\NЗаметки\N{\c&H2202E5&}*1 Количество заказов не частое, но явное количество достигнуто. Прибыльное количество достежимо. \N*2 Мы понимаем, что у актёров могут быть накладки с расписанием, поэтому, пожалуйста, обсудите\Nс каждым участником участником, в каких мероприятиях он сможет поучаствовать. Пожалуйста, сообщайте нам о деталях, по мере поступления.\N{\c&H000000&}Пожалуйста, подтвердите все вышеозначенные детали. Спасибо вам большое. -Peitax Corportation
 Dialogue: 0,0:15:11.59,0:15:14.01,Default,Товада,0,0,0,,But we're estimating the pay to be about this much.
 Dialogue: 0,0:15:14.26,0:15:16.22,Default,Грива,0,0,0,,This isn't too bad for a single appearance.
 Dialogue: 0,0:15:16.56,0:15:19.43,Default,Товада,0,0,0,,We were thinking that this \Nwould be the gross amount…
