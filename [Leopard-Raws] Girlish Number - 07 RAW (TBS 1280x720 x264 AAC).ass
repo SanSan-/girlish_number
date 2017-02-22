@@ -9,11 +9,11 @@ PlayResY: 720
 ScaledBorderAndShadow: yes
 Audio URI: [Leopard-Raws] Girlish Number - 07 RAW (TBS 1280x720 x264 AAC).mp4
 Scroll Position: 198
-Active Line: 208
+Active Line: 209
 Video Zoom Percent: 0.5
 Video File: [Leopard-Raws] Girlish Number - 07 RAW (TBS 1280x720 x264 AAC).mp4
 Video Aspect Ratio: c1.77778
-Video Position: 15188
+Video Position: 15212
 YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
@@ -277,7 +277,7 @@ Dialogue: 0,0:10:27.98,0:10:29.39,Default,Кадзуха,0,0,0,,Да. Именн
 Dialogue: 0,0:10:29.39,0:10:31.56,Default,Мама Кадзу,0,0,0,,Но, казалось, что был…
 Dialogue: 0,0:10:31.56,0:10:33.44,Default,Кадзуха,0,0,0,,Это был мой первый и последний раз в купальнике.
 Dialogue: 0,0:10:33.44,0:10:34.44,Default,Кадзуха,0,0,0,,Не беспокойся.
-Dialogue: 0,0:10:34.44,0:10:36.69,Default,Менеджер Кадзу,0,0,0,,Ну, нужно быть более гибкими\Nв таких вещах…
+Dialogue: 0,0:10:34.44,0:10:36.69,Default,Менеджер Кадзу,0,0,0,,Ну, давай будем гибкими в таких вещах…
 Dialogue: 0,0:10:37.11,0:10:38.40,Default,Кадзуха,0,0,0,,Это был последний раз.
 Dialogue: 0,0:10:38.40,0:10:38.90,Default,Менеджер Кадзу,0,0,0,,Понял…
 Dialogue: 0,0:10:40.53,0:10:42.87,Default,Мама Кадзу,0,0,0,,Ты выглядишь лучше, чем я думала. Я рада.
