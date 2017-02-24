@@ -16,8 +16,9 @@ Video File: [Leopard-Raws] Girlish Number - 04 RAW (TBS 1280x720 x264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 1
-Video Position: 16947
+Scroll Position: 495
+Active Line: 496
+Video Position: 17142
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -59,8 +60,8 @@ Style: Ep_Title,PT Sans,45,&H00F6F6F4,&H000000FF,&H0016120A,&H00110B06,-1,0,0,0,
 Style: Next_Ep_Title,PT Sans,50,&H006500BC,&H000000FF,&H00FBF0FD,&H00000000,0,0,0,0,100,100,0,0,1,3,0,9,66,54,131,0
 Style: Next_Time,PT Sans,45,&H00000000,&H000000FF,&H00E9EEEE,&H00000000,0,0,0,0,100,100,0,0,1,3,0,7,162,20,80,1
 Style: Default - Flashback Italics,PT Sans,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,-1,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
-Style: Default - MC,PT Sans,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,-1,0,0,100,100,0,0,1,2.55,0,8,0,0,42,0
-Style: Default - Top,PT Sans,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,8,0,0,42,0
+Style: Default - MC,PF Square Sans Pro,44,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2.55,0,8,0,0,42,0
+Style: Default - Top,PF Din Text Cond Pro,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,8,0,0,42,0
 Style: Screen,PT Sans,45,&H00FFFDFE,&H000000FF,&H002E2525,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,41,949,150,1
 Style: Girlish Number - Ep Title,PT Sans,45,&H00F6F6F4,&H000000FF,&H0016120A,&H00110B06,-1,0,0,0,100,100,0,0,1,3,0,1,41,41,101,0
 Style: Ep_Title - Ep 03,PT Sans,45,&H00F6F6F4,&H000000FF,&H0016120A,&H00110B06,-1,0,0,0,100,100,0,0,1,3,0,3,41,97,144,0
@@ -102,6 +103,8 @@ Style: Cell_phone_19:05(Ep 04),PT Sans,45,&H008B8B8B,&H000000FF,&H00F7F5F7,&H004
 Style: Cell_phone_19:06(Ep 04),PT Sans,45,&H008B8B8B,&H000000FF,&H00F7F5F7,&H00461004,-1,0,0,0,100,100,0,-20,1,3,0,1,80,875,221,0
 Style: Карасума_Титосэ_19:06(Ep 04),PT Sans,45,&H00FAF6FE,&H000000FF,&H0084757A,&H00461004,-1,0,0,0,100,100,0,-17,1,3,0,1,352,442,620,0
 Style: Followers_21:13(Ep 04),PT Sans,63,&H008B8B8B,&H000000FF,&H00F7F5F7,&H00461004,-1,0,0,0,100,100,0,15,1,3,0,2,201,41,161,0
+Style: Song_Rom,PF Din Text Cond Pro,46,&H007E3639,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,0.5,8,45,45,20,204
+Style: Song_Ru,PF Din Text Cond Pro,46,&H00C07947,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,45,45,20,204
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -601,8 +604,8 @@ Dialogue: 0,0:22:16.31,0:22:20.02,Millenium_22:07(Ep 04),Надпись,0,0,0,,�
 Dialogue: 0,0:22:16.31,0:22:20.02,MPxKO_Ep_Title_22:07(Ep 04),Надпись,0,0,0,,«Я единственная, кто хочет плакать»
 Dialogue: 0,0:23:50.53,0:24:20.06,Screen,Надпись,0,0,0,,Анонс
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Песни
-Dialogue: 0,0:11:51.98,0:11:54.98,Default - Song,Песня,0,0,0,,Давай, вперёд, с ветром лети!
-Dialogue: 0,0:11:54.98,0:11:57.69,Default - Song,Песня,0,0,0,,Окрашен нам радугой восход!
-Dialogue: 0,0:11:57.69,0:11:59.53,Default - Song,Песня,0,0,0,,Это всё, чего мы хотим!
-Dialogue: 0,0:11:59.53,0:12:05.16,Default - Song,Песня,0,0,0,,И светлое будущее нас ждёт!
-Dialogue: 0,0:12:13.21,0:12:18.25,Default - Song,Песня,0,0,0,,Чувства, которые сидят внутри, внезапно…
+Dialogue: 0,0:11:51.98,0:11:54.98,Song_Rom,Песня,0,0,0,,Давай, вперёд, с ветром лети!
+Dialogue: 0,0:11:54.98,0:11:57.69,Song_Rom,Песня,0,0,0,,Окрашен нам радугой восход!
+Dialogue: 0,0:11:57.69,0:11:59.53,Song_Rom,Песня,0,0,0,,Это всё, чего мы хотим!
+Dialogue: 0,0:11:59.53,0:12:05.16,Song_Rom,Песня,0,0,0,,И светлое будущее нас ждёт!
+Dialogue: 0,0:12:13.21,0:12:18.25,Song_Rom,Песня,0,0,0,,Чувства, которые сидят внутри, внезапно…
