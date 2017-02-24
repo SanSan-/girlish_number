@@ -23,7 +23,35 @@ Video Position: 30131
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,PT Sans,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,1
+Style: Default,PF Din Text Cond Pro,54,&H00FFFFFF,&H000000FF,&H00020713,&H007A7A81,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Chitose,PF Din Text Cond Pro,54,&H00FAF8FE,&H00FFFFFF,&H005B2B55,&H008F6DBF,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Yae,PF Din Text Cond Pro,54,&H00EBF2F7,&H00FFFFFF,&H00303D46,&H009ABFD9,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Kazuha,PF Din Text Cond Pro,54,&H00F7E8EA,&H00FFFFFF,&H00592E43,&H00AC7984,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Momoka,PF Din Text Cond Pro,54,&H00EBF9FB,&H00FFFFFF,&H0008245C,&H00A4EAF1,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Koto,PF Din Text Cond Pro,54,&H00E5E9F6,&H00FFFFFF,&H00282F48,&H008598D3,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Nanami,PF Din Text Cond Pro,54,&H00FAF1F1,&H00FFFFFF,&H00452E30,&H00A58486,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Gojo,PF Din Text Cond Pro,54,&H00F0F1FA,&H00FFFFFF,&H00452F39,&H007C7F95,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Mutsumi,PF Din Text Cond Pro,54,&H00EFF4F7,&H00FFFFFF,&H0028333B,&H0086BDE0,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Kazuhas-Manager,PF Din Text Cond Pro,54,&H00F9F7F7,&H00FFFFFF,&H002E1B23,&H008A8686,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Matsuoka,PF Din Text Cond Pro,54,&H00EDEFF6,&H00FFFFFF,&H00392A4A,&H006B7CA7,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Kuzu,PF Din Text Cond Pro,54,&H00F0F4F7,&H00FFFFFF,&H002B3240,&H006BAAC9,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Towada,PF Din Text Cond Pro,54,&H00F4F5F1,&H00FFFFFF,&H006D4636,&H008A8E74,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-President,PF Din Text Cond Pro,54,&H00F9F8F4,&H00FFFFFF,&H00523A39,&H00D9D7CC,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Director,PF Din Text Cond Pro,54,&H00EAEFF5,&H00FFFFFF,&H003B3142,&H00647484,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-IOC,PF Din Text Cond Pro,54,&H00FBF7F7,&H00FFFFFF,&H004D2B2E,&H00987479,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Line-Producer,PF Din Text Cond Pro,54,&H00F6F5F9,&H00FFFFFF,&H00452F40,&H00756C86,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Sound-Director,PF Din Text Cond Pro,54,&H00FBFAF8,&H00FFFFFF,&H0042312E,&H007B7B71,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Staff,PF Din Text Cond Pro,54,&H00F2EBF8,&H00FFFFFF,&H0031243C,&H00C89DEF,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Editor,PF Din Text Cond Pro,54,&H00F5F6FB,&H00FFFFFF,&H0049374A,&H00666C85,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Author,PF Din Text Cond Pro,54,&H00F0F6F2,&H00FFFFFF,&H004C3A39,&H00838C87,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Syakujii,PF Din Text Cond Pro,54,&H00F9F5F3,&H00FFFFFF,&H004C3034,&H007E726C,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-MaiMai,PF Din Text Cond Pro,54,&H00F8F2F6,&H00FFFFFF,&H00642138,&H00BD4896,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Sakura,PF Din Text Cond Pro,54,&H00EEF1F6,&H00FFFFFF,&H00363047,&H00627A98,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Momokas-Father,PF Din Text Cond Pro,54,&H00FAF7F4,&H00FFFFFF,&H00613F3E,&H00A4A09C,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Kazuhas-Mother,PF Din Text Cond Pro,54,&H00EEEBF5,&H00FFFFFF,&H00482D3F,&H006C657F,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Kazuhas-Father,PF Din Text Cond Pro,54,&H00FAF2F0,&H00FFFFFF,&H003F2D34,&H00978B88,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Kodomo,PF Din Text Cond Pro,54,&H00F5F4F8,&H00FFFFFF,&H00482F43,&H00595364,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-TV,PF Square Sans Pro,46,&H00F3F2F9,&H00FFFFFF,&H00321815,&H00409B35,0,0,0,0,100,100,0.25,0,1,2.55,0.25,8,0,0,42,1
 Style: Default - Margin,PT Sans,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
 Style: Default - Italics,PT Sans,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,-1,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
 Style: Default - Flashback,PT Sans,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
@@ -320,10 +348,10 @@ Dialogue: 0,0:12:23.93,0:12:24.59,Default-Pers-Towada,Товада,0,0,0,,Э?
 Dialogue: 0,0:12:24.59,0:12:25.34,Default-Pers-Kuzu,Кудзу,0,0,0,,Держи.
 Dialogue: 0,0:12:25.97,0:12:26.68,Default-Pers-Towada,Товада,0,0,0,,Э?
 Dialogue: 0,0:12:28.39,0:12:31.06,Default-Pers-Towada,Товада,0,0,0,,Алло. Товада из Peitax на связи…
-Dialogue: 0,0:12:31.68,0:12:34.56,Default - Top,Товада,0,0,0,,Да, Кудзу — мой начальник… Верно.
+Dialogue: 0,0:12:31.68,0:12:34.56,Default-Pers-Towada,Товада,0,0,0,,{\an8}Да, Кудзу — мой начальник… Верно.
 Dialogue: 0,0:12:33.44,0:12:36.19,Default-Pers-Kuzu,Кудзу,0,0,0,,Похоже, папа немного разозлился.
 Dialogue: 0,0:12:36.19,0:12:38.86,Default-Pers-Chitose,Титосэ,0,0,0,,{\i1}Ну да, я в этом уверена. Возможно, он просто в ярости.
-Dialogue: 0,0:12:36.35,0:12:38.86,Default - Top,Товада,0,0,0,,Я ужасно извиняюсь за это.
+Dialogue: 0,0:12:36.35,0:12:38.86,Default-Pers-Towada,Товада,0,0,0,,{\an8}Я ужасно извиняюсь за это.
 Dialogue: 0,0:12:38.86,0:12:41.69,Default-Pers-Towada,Товада,0,0,0,,Каюсь! Нет мне прощения!
 Dialogue: 0,0:12:42.07,0:12:44.40,Default-Pers-Kazuhas-Manager,Менеджер Кадзу,0,0,0,,Кудзу-сан, что вы собираетесь с этим делать?!
 Dialogue: 0,0:12:44.40,0:12:45.36,Default-Pers-Kuzu,Кудзу,0,0,0,,{\i1}Пф-буэ!{\i0}
@@ -486,16 +514,16 @@ Dialogue: 0,0:19:37.44,0:19:41.11,Default-Pers-Yae,Яэ,0,0,0,,Не могу д�
 Dialogue: 0,0:19:43.45,0:19:45.24,Default-Pers-Momoka,Момока,0,0,0,,{\i1}«Пури Пара»{\i0}, да?
 Dialogue: 0,0:19:46.58,0:19:49.58,Соно-2_19:36(Ep 07),Надпись,0,0,0,,Соно Момока-сама
 Dialogue: 0,0:19:49.58,0:19:55.54,Соно-3_19:39(Ep 07),Надпись,0,0,0,,Соно Момока-сама
-Dialogue: 0,0:19:55.54,0:19:58.00,Default - Top,ТВ,0,0,0,,Мы никогда не сдадимся!
-Dialogue: 0,0:19:58.00,0:19:59.96,Default - Top,ТВ,0,0,0,,Мы будем защищать улыбки каждого!
-Dialogue: 0,0:19:59.96,0:20:01.38,Default - Top,ТВ,0,0,0,,У тебя получится!
-Dialogue: 0,0:20:01.38,0:20:03.43,Default - Top,ТВ,0,0,0,,Я… Я тоже постараюсь!
-Dialogue: 0,0:20:03.89,0:20:05.35,Default - Top,ТВ,0,0,0,,Не проиграй!
+Dialogue: 0,0:19:55.54,0:19:58.00,Default-TV,ТВ,0,0,0,,Мы никогда не сдадимся!
+Dialogue: 0,0:19:58.00,0:19:59.96,Default-TV,ТВ,0,0,0,,Мы будем защищать улыбки каждого!
+Dialogue: 0,0:19:59.96,0:20:01.38,Default-TV,ТВ,0,0,0,,У тебя получится!
+Dialogue: 0,0:20:01.38,0:20:03.43,Default-TV,ТВ,0,0,0,,Я… Я тоже постараюсь!
+Dialogue: 0,0:20:03.89,0:20:05.35,Default-TV,ТВ,0,0,0,,Не проиграй!
 Dialogue: 0,0:20:04.80,0:20:05.85,Default-Pers-Sakura,Сакура,0,0,0,,Я дома.
 Dialogue: 0,0:20:06.26,0:20:07.35,Default-Pers-Momoka,Момока,0,0,0,,С возвращением.
-Dialogue: 0,0:20:11.39,0:20:12.81,Default - Top,ТВ,0,0,0,,У тебя получится!
-Dialogue: 0,0:20:12.81,0:20:15.31,Default - Top,ТВ,0,0,0,,Я… Я тоже постараюсь!
-Dialogue: 0,0:20:15.31,0:20:16.98,Default - Top,ТВ,0,0,0,,Не проиграй!
+Dialogue: 0,0:20:11.39,0:20:12.81,Default-TV,ТВ,0,0,0,,У тебя получится!
+Dialogue: 0,0:20:12.81,0:20:15.31,Default-TV,ТВ,0,0,0,,Я… Я тоже постараюсь!
+Dialogue: 0,0:20:15.31,0:20:16.98,Default-TV,ТВ,0,0,0,,Не проиграй!
 Dialogue: 0,0:20:19.03,0:20:20.49,Default-Pers-Sakura,Сакура,0,0,0,,Не стоит так переживать.
 Dialogue: 0,0:20:20.49,0:20:22.82,Default-Pers-Momoka,Момока,0,0,0,,Ой, я, просто, уже собиралась в постель.
 Dialogue: 0,0:20:22.82,0:20:23.32,Default-Pers-Sakura,Сакура,0,0,0,,Ясно.

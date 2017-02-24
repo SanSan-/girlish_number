@@ -23,7 +23,35 @@ Video Position: 28378
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,PT Sans,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,1
+Style: Default,PF Din Text Cond Pro,54,&H00FFFFFF,&H000000FF,&H00020713,&H007A7A81,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Chitose,PF Din Text Cond Pro,54,&H00FAF8FE,&H00FFFFFF,&H005B2B55,&H008F6DBF,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Yae,PF Din Text Cond Pro,54,&H00EBF2F7,&H00FFFFFF,&H00303D46,&H009ABFD9,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Kazuha,PF Din Text Cond Pro,54,&H00F7E8EA,&H00FFFFFF,&H00592E43,&H00AC7984,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Momoka,PF Din Text Cond Pro,54,&H00EBF9FB,&H00FFFFFF,&H0008245C,&H00A4EAF1,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Koto,PF Din Text Cond Pro,54,&H00E5E9F6,&H00FFFFFF,&H00282F48,&H008598D3,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Nanami,PF Din Text Cond Pro,54,&H00FAF1F1,&H00FFFFFF,&H00452E30,&H00A58486,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Gojo,PF Din Text Cond Pro,54,&H00F0F1FA,&H00FFFFFF,&H00452F39,&H007C7F95,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Mutsumi,PF Din Text Cond Pro,54,&H00EFF4F7,&H00FFFFFF,&H0028333B,&H0086BDE0,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Kazuhas-Manager,PF Din Text Cond Pro,54,&H00F9F7F7,&H00FFFFFF,&H002E1B23,&H008A8686,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Matsuoka,PF Din Text Cond Pro,54,&H00EDEFF6,&H00FFFFFF,&H00392A4A,&H006B7CA7,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Kuzu,PF Din Text Cond Pro,54,&H00F0F4F7,&H00FFFFFF,&H002B3240,&H006BAAC9,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Towada,PF Din Text Cond Pro,54,&H00F4F5F1,&H00FFFFFF,&H006D4636,&H008A8E74,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-President,PF Din Text Cond Pro,54,&H00F9F8F4,&H00FFFFFF,&H00523A39,&H00D9D7CC,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Director,PF Din Text Cond Pro,54,&H00EAEFF5,&H00FFFFFF,&H003B3142,&H00647484,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-IOC,PF Din Text Cond Pro,54,&H00FBF7F7,&H00FFFFFF,&H004D2B2E,&H00987479,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Line-Producer,PF Din Text Cond Pro,54,&H00F6F5F9,&H00FFFFFF,&H00452F40,&H00756C86,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Sound-Director,PF Din Text Cond Pro,54,&H00FBFAF8,&H00FFFFFF,&H0042312E,&H007B7B71,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Staff,PF Din Text Cond Pro,54,&H00F2EBF8,&H00FFFFFF,&H0031243C,&H00C89DEF,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Editor,PF Din Text Cond Pro,54,&H00F5F6FB,&H00FFFFFF,&H0049374A,&H00666C85,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Author,PF Din Text Cond Pro,54,&H00F0F6F2,&H00FFFFFF,&H004C3A39,&H00838C87,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Syakujii,PF Din Text Cond Pro,54,&H00F9F5F3,&H00FFFFFF,&H004C3034,&H007E726C,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-MaiMai,PF Din Text Cond Pro,54,&H00F8F2F6,&H00FFFFFF,&H00642138,&H00BD4896,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Sakura,PF Din Text Cond Pro,54,&H00EEF1F6,&H00FFFFFF,&H00363047,&H00627A98,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Momokas-Father,PF Din Text Cond Pro,54,&H00FAF7F4,&H00FFFFFF,&H00613F3E,&H00A4A09C,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Kazuhas-Mother,PF Din Text Cond Pro,54,&H00EEEBF5,&H00FFFFFF,&H00482D3F,&H006C657F,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Kazuhas-Father,PF Din Text Cond Pro,54,&H00FAF2F0,&H00FFFFFF,&H003F2D34,&H00978B88,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Kodomo,PF Din Text Cond Pro,54,&H00F5F4F8,&H00FFFFFF,&H00482F43,&H00595364,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-TV,PF Square Sans Pro,46,&H00F3F2F9,&H00FFFFFF,&H00321815,&H00409B35,0,0,0,0,100,100,0.25,0,1,2.55,0.25,8,0,0,42,1
 Style: Default - Margin,PT Sans,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
 Style: Default - Italics,PT Sans,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,-1,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
 Style: Default - Flashback,PT Sans,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
@@ -427,14 +455,14 @@ Dialogue: 0,0:16:23.08,0:16:24.92,Congrats_16:13(Ep 06),Надпись,0,0,0,,П
 Dialogue: 0,0:16:23.08,0:16:24.92,Pajama_Ninja_16:13(Ep 06),Надпись,0,0,0,,Пижамный Ниндзя Томоми
 Dialogue: 0,0:16:24.92,0:16:27.96,Default,Парень,0,0,0,,А сейчас, я хотел бы пригласить к микрофону\NСякудзии-сама из Anipro Entertainment?
 Dialogue: 0,0:16:29.13,0:16:32.80,Default-Pers-Syakujii,Сякудзии,0,0,0,,Меня уже представили, но я —\NСякудзии из Anipro Entertainment.
-Dialogue: 0,0:16:33.05,0:16:34.43,Default - Top,Кто-то,0,0,0,,30,000 копий!
-Dialogue: 0,0:16:33.59,0:16:35.09,Default - Top,кто-то,0,0,0,,Бестселлер!
-Dialogue: 0,0:16:34.43,0:16:35.72,Default - Top,кто-то,0,0,0,,Исполнительный директор!
+Dialogue: 0,0:16:33.05,0:16:34.43,Default - Top,Парень,0,0,0,,30,000 копий!
+Dialogue: 0,0:16:33.59,0:16:35.09,Default - Top,Парень,0,0,0,,Бестселлер!
+Dialogue: 0,0:16:34.43,0:16:35.72,Default - Top,Парень,0,0,0,,Исполнительный директор!
 Dialogue: 0,0:16:35.09,0:16:37.51,Default-Pers-Syakujii,Сякудзии,0,0,0,,Спасибо. Причина такого успеха —
 Dialogue: 0,0:16:37.85,0:16:39.93,Default-Pers-Syakujii,Сякудзии,0,0,0,,это, конечно же, все вы.
-Dialogue: 0,0:16:39.93,0:16:42.98,Default - Top,Сякудзии,0,0,0,,Это так мало, но я хотел бы
+Dialogue: 0,0:16:39.93,0:16:42.98,Default-Pers-Syakujii,Сякудзии,0,0,0,,{\an8}Это так мало, но я хотел бы
 Dialogue: 0,0:16:41.31,0:16:43.94,Default-Pers-Chitose,Титосэ,0,0,0,,Почему все подведения итогов выпадают на один день?
-Dialogue: 0,0:16:42.98,0:16:46.40,Default - Top,Сякудзии,0,0,0,,начать наш розыгрыш призов.
+Dialogue: 0,0:16:42.98,0:16:46.40,Default-Pers-Syakujii,Сякудзии,0,0,0,,{\an8}начать наш розыгрыш призов.
 Dialogue: 0,0:16:44.89,0:16:47.40,Default-Pers-Gojo,Годзё,0,0,0,,Титосэ, нам уже пора выдвигаться\Nна подведение итогов по {\i1}«Кусурэ»{\i0}.
 Dialogue: 0,0:16:47.77,0:16:49.61,Default-Pers-Chitose,Титосэ,0,0,0,,А? А мне обязательно идти туда?
 Dialogue: 0,0:16:49.94,0:16:52.15,Default-Pers-Gojo,Годзё,0,0,0,,По правде, тебя {\i1}здесь{\i0} не должно быть.
@@ -463,20 +491,20 @@ Dialogue: 0,0:17:40.95,0:17:43.91,Default-Pers-Gojo,Годзё,0,0,0,,Надею
 Dialogue: 0,0:17:44.50,0:17:46.96,Wrap_Venue(Ep 06),Надпись,0,0,0,,Подведение итогов\NМесто проведения
 Dialogue: 0,0:17:46.29,0:17:49.92,Default-Pers-Towada,Товада,0,0,0,,Пожалуйста… \NМного свободных мест впереди,
 Dialogue: 0,0:17:49.92,0:17:53.13,Default-Pers-Towada,Товада,0,0,0,,так что исполнители могли бы, эм… переместиться поближе?
-Dialogue: 0,0:17:55.30,0:17:59.26,Default - Top,Товада,0,0,0,,До начала есть ещё немного времени,\Nтак что, пожалуйста, потерпите.
+Dialogue: 0,0:17:55.30,0:17:59.26,Default-Pers-Towada,Товада,0,0,0,,{\an8}До начала есть ещё немного времени,\Nтак что, пожалуйста, потерпите.
 Dialogue: 0,0:17:55.30,0:17:57.13,Default-Pers-Yae,Яэ,0,0,0,,Рада тебя видеть, Ти-тян!
 Dialogue: 0,0:17:57.13,0:17:59.93,Default-Pers-Koto,Кото,0,0,0,,А Ти-сама задержалась, як важная персона.
 Dialogue: 0,0:17:59.93,0:18:01.51,Default-Pers-Chitose,Титосэ,0,0,0,,Куда важнее, слушайте сюда!
-Dialogue: 0,0:18:00.64,0:18:04.02,Default - Top,Товада,0,0,0,,А? Можно начинать? Ясно. Что ж…
+Dialogue: 0,0:18:00.64,0:18:04.02,Default-Pers-Towada,Товада,0,0,0,,{\an8}А? Можно начинать? Ясно. Что ж…
 Dialogue: 0,0:18:01.51,0:18:04.02,Default-Pers-Chitose,Титосэ,0,0,0,,Я только что выиграла телек на другом подведении итогов!
 Dialogue: 0,0:18:04.27,0:18:06.23,Default-Pers-Chitose,Титосэ,0,0,0,,Интересно, что я выиграю здесь.
-Dialogue: 0,0:18:05.43,0:18:07.94,Default - Top,Товада,0,0,0,,А сейчас, если мы можем перейти к делу, я бы хотел
+Dialogue: 0,0:18:05.43,0:18:07.94,Default-Pers-Towada,Товада,0,0,0,,{\an8}А сейчас, если мы можем перейти к делу, я бы хотел
 Dialogue: 0,0:18:06.48,0:18:09.19,Default-Pers-Momoka,Момока,0,0,0,,Обычно, люди не выигрывают так часто, да?
-Dialogue: 0,0:18:07.94,0:18:10.19,Default - Top,Товада,0,0,0,,начать наш вечер подведения итогов.
-Dialogue: 0,0:18:10.48,0:18:12.86,Default - Top,Товада,0,0,0,,Для начала, давайте поднимем бокалы.
+Dialogue: 0,0:18:07.94,0:18:10.19,Default-Pers-Towada,Товада,0,0,0,,{\an8}начать наш вечер подведения итогов.
+Dialogue: 0,0:18:10.48,0:18:12.86,Default-Pers-Towada,Товада,0,0,0,,{\an8}Для начала, давайте поднимем бокалы.
 Dialogue: 0,0:18:11.15,0:18:12.48,Cell_Phone(Ep 06),Надпись,0,0,0,,Мама\NВызов…
 Dialogue: 0,0:18:12.48,0:18:12.86,Cell_Phone(Ep 06),Надпись,0,0,0,,Мама\NВызов завершён
-Dialogue: 0,0:18:12.86,0:18:16.78,Default - Top,Товада,0,0,0,,Я слышал, что главный редактор\Nсо стороны автора здесь…
+Dialogue: 0,0:18:12.86,0:18:16.78,Default-Pers-Towada,Товада,0,0,0,,{\an8}Я слышал, что главный редактор\Nсо стороны автора здесь…
 Dialogue: 0,0:18:14.32,0:18:15.57,Default-Pers-Kazuha,Кадзуха,0,0,0,,Что же делать?
 Dialogue: 0,0:18:16.44,0:18:18.70,Default-Pers-Chitose,Титосэ,0,0,0,,Хотя, с другой точки зрения, шанс невелик…
 Dialogue: 0,0:18:19.28,0:18:20.74,Default-Pers-Towada,Товада,0,0,0,,Тогда, сейчас…
@@ -508,7 +536,7 @@ Dialogue: 0,0:19:20.47,0:19:23.97,Default-Pers-Staff,Персонал,0,0,0,,Э-
 Dialogue: 0,0:19:23.97,0:19:26.35,Default-Pers-Staff,Персонал,0,0,0,,и тогда она дала мне свой автограф.\NЯ так счастлив!
 Dialogue: 0,0:19:26.35,0:19:28.27,Default-Pers-Momoka,Момока,0,0,0,,Ох… Вот это да!
 Dialogue: 0,0:19:28.27,0:19:30.85,Default-Pers-Momoka,Момока,0,0,0,,Уверена, мама обрадуется,\Nкогда расскажу ей об этом.
-Dialogue: 0,0:19:39.57,0:19:42.32,Default - Top,Муцуми,0,0,0,,Всё в кожуре! В кожуре!
+Dialogue: 0,0:19:39.57,0:19:42.32,Default-Pers-Mutsumi,Муцуми,0,0,0,,{\an8}Всё в кожуре! В кожуре!
 Dialogue: 0,0:19:39.57,0:19:42.32,Default-Pers-Kazuhas-Manager,Менеджер Кадзу,0,0,0,,Сибасаки никогда не слушает то, что я ей говорю…
 Dialogue: 0,0:19:42.70,0:19:44.28,Default-Pers-Chitose,Титосэ,0,0,0,,Чё? Афтепати не будет?
 Dialogue: 0,0:19:44.57,0:19:46.20,Default-Pers-Momoka,Момока,0,0,0,,Это не такая уж редкость.

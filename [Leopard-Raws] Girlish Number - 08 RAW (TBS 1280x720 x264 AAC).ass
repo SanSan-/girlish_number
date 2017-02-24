@@ -22,7 +22,35 @@ Video Position: 34405
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,PT Sans,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,1
+Style: Default,PF Din Text Cond Pro,54,&H00FFFFFF,&H000000FF,&H00020713,&H007A7A81,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Chitose,PF Din Text Cond Pro,54,&H00FAF8FE,&H00FFFFFF,&H005B2B55,&H008F6DBF,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Yae,PF Din Text Cond Pro,54,&H00EBF2F7,&H00FFFFFF,&H00303D46,&H009ABFD9,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Kazuha,PF Din Text Cond Pro,54,&H00F7E8EA,&H00FFFFFF,&H00592E43,&H00AC7984,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Momoka,PF Din Text Cond Pro,54,&H00EBF9FB,&H00FFFFFF,&H0008245C,&H00A4EAF1,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Koto,PF Din Text Cond Pro,54,&H00E5E9F6,&H00FFFFFF,&H00282F48,&H008598D3,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Nanami,PF Din Text Cond Pro,54,&H00FAF1F1,&H00FFFFFF,&H00452E30,&H00A58486,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Gojo,PF Din Text Cond Pro,54,&H00F0F1FA,&H00FFFFFF,&H00452F39,&H007C7F95,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Mutsumi,PF Din Text Cond Pro,54,&H00EFF4F7,&H00FFFFFF,&H0028333B,&H0086BDE0,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Kazuhas-Manager,PF Din Text Cond Pro,54,&H00F9F7F7,&H00FFFFFF,&H002E1B23,&H008A8686,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Matsuoka,PF Din Text Cond Pro,54,&H00EDEFF6,&H00FFFFFF,&H00392A4A,&H006B7CA7,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Kuzu,PF Din Text Cond Pro,54,&H00F0F4F7,&H00FFFFFF,&H002B3240,&H006BAAC9,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Towada,PF Din Text Cond Pro,54,&H00F4F5F1,&H00FFFFFF,&H006D4636,&H008A8E74,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-President,PF Din Text Cond Pro,54,&H00F9F8F4,&H00FFFFFF,&H00523A39,&H00D9D7CC,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Director,PF Din Text Cond Pro,54,&H00EAEFF5,&H00FFFFFF,&H003B3142,&H00647484,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-IOC,PF Din Text Cond Pro,54,&H00FBF7F7,&H00FFFFFF,&H004D2B2E,&H00987479,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Line-Producer,PF Din Text Cond Pro,54,&H00F6F5F9,&H00FFFFFF,&H00452F40,&H00756C86,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Sound-Director,PF Din Text Cond Pro,54,&H00FBFAF8,&H00FFFFFF,&H0042312E,&H007B7B71,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Staff,PF Din Text Cond Pro,54,&H00F2EBF8,&H00FFFFFF,&H0031243C,&H00C89DEF,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Editor,PF Din Text Cond Pro,54,&H00F5F6FB,&H00FFFFFF,&H0049374A,&H00666C85,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Author,PF Din Text Cond Pro,54,&H00F0F6F2,&H00FFFFFF,&H004C3A39,&H00838C87,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Syakujii,PF Din Text Cond Pro,54,&H00F9F5F3,&H00FFFFFF,&H004C3034,&H007E726C,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-MaiMai,PF Din Text Cond Pro,54,&H00F8F2F6,&H00FFFFFF,&H00642138,&H00BD4896,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Sakura,PF Din Text Cond Pro,54,&H00EEF1F6,&H00FFFFFF,&H00363047,&H00627A98,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Momokas-Father,PF Din Text Cond Pro,54,&H00FAF7F4,&H00FFFFFF,&H00613F3E,&H00A4A09C,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Kazuhas-Mother,PF Din Text Cond Pro,54,&H00EEEBF5,&H00FFFFFF,&H00482D3F,&H006C657F,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Kazuhas-Father,PF Din Text Cond Pro,54,&H00FAF2F0,&H00FFFFFF,&H003F2D34,&H00978B88,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Kodomo,PF Din Text Cond Pro,54,&H00F5F4F8,&H00FFFFFF,&H00482F43,&H00595364,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-TV,PF Square Sans Pro,46,&H00F3F2F9,&H00FFFFFF,&H00321815,&H00409B35,0,0,0,0,100,100,0.25,0,1,2.55,0.25,8,0,0,42,1
 Style: Default - Margin,PT Sans,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
 Style: Default - Italics,PT Sans,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,-1,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
 Style: Default - Flashback,PT Sans,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
@@ -220,11 +248,11 @@ Dialogue: 0,0:10:42.87,0:10:44.37,Default-Pers-Kazuha,Кадзуха,0,0,0,,Не
 Dialogue: 0,0:10:44.66,0:10:46.87,Default-Pers-Kazuha,Кадзуха,0,0,0,,Я возвращаюсь!
 Dialogue: 0,0:11:01.76,0:11:04.30,Default-Pers-Kuzu,Кудзу,0,0,0,,Обожаю горячие источники!
 Dialogue: 0,0:11:05.14,0:11:07.35,Default-Pers-Kazuhas-Manager,Менеджер Кадзу,0,0,0,,Всё таки, я был удивлён.
-Dialogue: 0,0:11:06.97,0:11:07.93,Default - Top,Кудзу,0,0,0,,Не скользите!
+Dialogue: 0,0:11:06.97,0:11:07.93,Default-Pers-Kuzu,Кудзу,0,0,0,,{\an8}Не скользите!
 Dialogue: 0,0:11:07.35,0:11:08.56,Default-Pers-Towada,Товада,0,0,0,,И чему же?
-Dialogue: 0,0:11:08.56,0:11:10.27,Default - Top,Кудзу,0,0,0,,Не смейте скользить! Неееет!
+Dialogue: 0,0:11:08.56,0:11:10.27,Default-Pers-Kuzu,Кудзу,0,0,0,,{\an8}Не смейте скользить! Неееет!
 Dialogue: 0,0:11:09.02,0:11:12.52,Default-Pers-Kazuhas-Manager,Менеджер Кадзу,0,0,0,,Соно-сан. Попросить её поехать с нами\Nбыла отличная идея.
-Dialogue: 0,0:11:12.27,0:11:13.44,Default - Top,Кудзу,0,0,0,,Горячо!
+Dialogue: 0,0:11:12.27,0:11:13.44,Default-Pers-Kuzu,Кудзу,0,0,0,,{\an8}Горячо!
 Dialogue: 0,0:11:12.81,0:11:15.48,Default-Pers-Towada,Товада,0,0,0,,Э? Разве не «Iroha Pro» попросила её поехать?
 Dialogue: 0,0:11:15.48,0:11:16.73,Default-Pers-Kazuhas-Manager,Менеджер Кадзу,0,0,0,,Не может быть.
 Dialogue: 0,0:11:16.73,0:11:20.15,Default-Pers-Kazuhas-Manager,Менеджер Кадзу,0,0,0,,Мы бы не смогли её выцепить,\Nкогда у неё такой плотный график.
@@ -396,8 +424,8 @@ Dialogue: 0,0:20:27.03,0:20:28.12,Default-Pers-Kazuha,Кадзуха,0,0,0,,За
 Dialogue: 0,0:20:29.24,0:20:31.16,Default-Pers-Momoka,Момока,0,0,0,,Ну всё, ты доигралась!
 Dialogue: 0,0:20:31.16,0:20:32.37,Default-Pers-Momoka,Момока,0,0,0,,Получай!
 Dialogue: 0,0:20:33.67,0:20:34.67,Default-Pers-Kazuha,Кадзуха,0,0,0,,Ах ты!
-Dialogue: 0,0:20:34.96,0:20:37.13,Default - Top,Момока,0,0,0,,Думай, что творишь, тупица?
-Dialogue: 0,0:20:37.13,0:20:38.59,Default - Top,Кадзуха,0,0,0,,Я не тупица!
+Dialogue: 0,0:20:34.96,0:20:37.13,Default-Pers-Momoka,Момока,0,0,0,,{\an8}Думай, что творишь, тупица?
+Dialogue: 0,0:20:37.13,0:20:38.59,Default-Pers-Kazuha,Кадзуха,0,0,0,,{\an8}Я не тупица!
 Dialogue: 0,0:20:38.92,0:20:41.38,Default-Pers-Kazuhas-Mother,Мама Кадзу,0,0,0,,Господи, разорались на весь двор.
 Dialogue: 0,0:20:45.30,0:20:49.18,Default-Pers-Kazuhas-Father,Папа Кадзу,0,0,0,,У неё всегда был такой пронзительный голос.
 Dialogue: 0,0:20:56.02,0:20:59.19,Default-Pers-Towada,Товада,0,0,0,,Если тебе так тяжело,\Nпочему бы не остаться здесь навсегда?

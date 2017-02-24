@@ -1,6 +1,6 @@
 sed -i -e 's/Default,Титосэ/Default-Pers-Chitose,Титосэ/g' *.ass
-sed -i -e 's/Default - Italics,Титосэ,0,0,0,,/Default-Pers-Chitose,Титосэ,0,0,0,,{\i1}/g' *.ass
-sed -i -e 's/Default - Top,Титосэ,0,0,0,,/Default-Pers-Chitose,Титосэ,0,0,0,,{\an8}/g' *.ass
+sed -i -e 's/Default - Italics,Титосэ,0,0,0,,/Default-Pers-Chitose,Титосэ,0,0,0,,{\\i1}/g' *.ass
+sed -i -e 's/Default - Top,Титосэ,0,0,0,,/Default-Pers-Chitose,Титосэ,0,0,0,,{\\an8}/g' *.ass
 sed -i -e 's/Default,Яэ/Default-Pers-Yae,Яэ/g' *.ass
 sed -i -e 's/Default,Кадзуха/Default-Pers-Kazuha,Кадзуха/g' *.ass
 sed -i -e 's/Default,Момока/Default-Pers-Momoka,Момока/g' *.ass

@@ -23,6 +23,34 @@ Video Position: 150
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,PF Din Text Cond Pro,54,&H00FFFFFF,&H000000FF,&H00020713,&H007A7A81,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Chitose,PF Din Text Cond Pro,54,&H00FAF8FE,&H00FFFFFF,&H005B2B55,&H008F6DBF,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Yae,PF Din Text Cond Pro,54,&H00EBF2F7,&H00FFFFFF,&H00303D46,&H009ABFD9,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Kazuha,PF Din Text Cond Pro,54,&H00F7E8EA,&H00FFFFFF,&H00592E43,&H00AC7984,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Momoka,PF Din Text Cond Pro,54,&H00EBF9FB,&H00FFFFFF,&H0008245C,&H00A4EAF1,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Koto,PF Din Text Cond Pro,54,&H00E5E9F6,&H00FFFFFF,&H00282F48,&H008598D3,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Nanami,PF Din Text Cond Pro,54,&H00FAF1F1,&H00FFFFFF,&H00452E30,&H00A58486,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Gojo,PF Din Text Cond Pro,54,&H00F0F1FA,&H00FFFFFF,&H00452F39,&H007C7F95,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Mutsumi,PF Din Text Cond Pro,54,&H00EFF4F7,&H00FFFFFF,&H0028333B,&H0086BDE0,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Kazuhas-Manager,PF Din Text Cond Pro,54,&H00F9F7F7,&H00FFFFFF,&H002E1B23,&H008A8686,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Matsuoka,PF Din Text Cond Pro,54,&H00EDEFF6,&H00FFFFFF,&H00392A4A,&H006B7CA7,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Kuzu,PF Din Text Cond Pro,54,&H00F0F4F7,&H00FFFFFF,&H002B3240,&H006BAAC9,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Towada,PF Din Text Cond Pro,54,&H00F4F5F1,&H00FFFFFF,&H006D4636,&H008A8E74,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-President,PF Din Text Cond Pro,54,&H00F9F8F4,&H00FFFFFF,&H00523A39,&H00D9D7CC,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Director,PF Din Text Cond Pro,54,&H00EAEFF5,&H00FFFFFF,&H003B3142,&H00647484,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-IOC,PF Din Text Cond Pro,54,&H00FBF7F7,&H00FFFFFF,&H004D2B2E,&H00987479,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Line-Producer,PF Din Text Cond Pro,54,&H00F6F5F9,&H00FFFFFF,&H00452F40,&H00756C86,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Sound-Director,PF Din Text Cond Pro,54,&H00FBFAF8,&H00FFFFFF,&H0042312E,&H007B7B71,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Staff,PF Din Text Cond Pro,54,&H00F2EBF8,&H00FFFFFF,&H0031243C,&H00C89DEF,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Editor,PF Din Text Cond Pro,54,&H00F5F6FB,&H00FFFFFF,&H0049374A,&H00666C85,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Author,PF Din Text Cond Pro,54,&H00F0F6F2,&H00FFFFFF,&H004C3A39,&H00838C87,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Syakujii,PF Din Text Cond Pro,54,&H00F9F5F3,&H00FFFFFF,&H004C3034,&H007E726C,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-MaiMai,PF Din Text Cond Pro,54,&H00F8F2F6,&H00FFFFFF,&H00642138,&H00BD4896,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Sakura,PF Din Text Cond Pro,54,&H00EEF1F6,&H00FFFFFF,&H00363047,&H00627A98,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Momokas-Father,PF Din Text Cond Pro,54,&H00FAF7F4,&H00FFFFFF,&H00613F3E,&H00A4A09C,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Kazuhas-Mother,PF Din Text Cond Pro,54,&H00EEEBF5,&H00FFFFFF,&H00482D3F,&H006C657F,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Kazuhas-Father,PF Din Text Cond Pro,54,&H00FAF2F0,&H00FFFFFF,&H003F2D34,&H00978B88,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-Pers-Kodomo,PF Din Text Cond Pro,54,&H00F5F4F8,&H00FFFFFF,&H00482F43,&H00595364,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
+Style: Default-TV,PF Square Sans Pro,46,&H00F3F2F9,&H00FFFFFF,&H00321815,&H00409B35,0,0,0,0,100,100,0.25,0,1,2.55,0.25,8,0,0,42,1
 Style: Default - Margin,PT Sans,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
 Style: Default - Italics,PT Sans,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,-1,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
 Style: Default - Flashback,PT Sans,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
@@ -64,34 +92,6 @@ Style: broadcast live,PT Sans,41,&H00EFE8EC,&H000000FF,&H005327EA,&H00461004,-1,
 Style: popularity,PT Sans,45,&H004C353F,&H000000FF,&H00DFD9D8,&H00461004,-1,0,0,0,100,100,0,0,1,6,0,8,483,392,371,0
 Style: on air,PT Sans,32,&H00E9EEE7,&H000000FF,&H002914E4,&H00461004,-1,0,0,0,100,100,0,0,1,6,0,3,41,962,210,0
 Style: officialanime,PT Sans,35,&H005F513E,&H000000FF,&H00EDEBEB,&H00461004,0,0,0,0,100,100,0,0,1,6,0,7,489,17,491,0
-Style: Default-Pers-Chitose,PF Din Text Cond Pro,54,&H00FAF8FE,&H00FFFFFF,&H005B2B55,&H008F6DBF,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
-Style: Default-Pers-Yae,PF Din Text Cond Pro,54,&H00EBF2F7,&H00FFFFFF,&H00303D46,&H009ABFD9,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
-Style: Default-Pers-Kazuha,PF Din Text Cond Pro,54,&H00F7E8EA,&H00FFFFFF,&H00592E43,&H00AC7984,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
-Style: Default-Pers-Momoka,PF Din Text Cond Pro,54,&H00EBF9FB,&H00FFFFFF,&H0008245C,&H00A4EAF1,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
-Style: Default-Pers-Koto,PF Din Text Cond Pro,54,&H00E5E9F6,&H00FFFFFF,&H00282F48,&H008598D3,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
-Style: Default-Pers-Nanami,PF Din Text Cond Pro,54,&H00FAF1F1,&H00FFFFFF,&H00452E30,&H00A58486,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
-Style: Default-Pers-Gojo,PF Din Text Cond Pro,54,&H00F0F1FA,&H00FFFFFF,&H00452F39,&H007C7F95,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
-Style: Default-Pers-Mutsumi,PF Din Text Cond Pro,54,&H00EFF4F7,&H00FFFFFF,&H0028333B,&H0086BDE0,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
-Style: Default-Pers-Kazuhas-Manager,PF Din Text Cond Pro,54,&H00F9F7F7,&H00FFFFFF,&H002E1B23,&H008A8686,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
-Style: Default-Pers-Matsuoka,PF Din Text Cond Pro,54,&H00EDEFF6,&H00FFFFFF,&H00392A4A,&H006B7CA7,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
-Style: Default-Pers-Kuzu,PF Din Text Cond Pro,54,&H00F0F4F7,&H00FFFFFF,&H002B3240,&H006BAAC9,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
-Style: Default-Pers-Towada,PF Din Text Cond Pro,54,&H00F4F5F1,&H00FFFFFF,&H006D4636,&H008A8E74,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
-Style: Default-Pers-President,PF Din Text Cond Pro,54,&H00F9F8F4,&H00FFFFFF,&H00523A39,&H00D9D7CC,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
-Style: Default-Pers-Director,PF Din Text Cond Pro,54,&H00EAEFF5,&H00FFFFFF,&H003B3142,&H00647484,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
-Style: Default-Pers-IOC,PF Din Text Cond Pro,54,&H00FBF7F7,&H00FFFFFF,&H004D2B2E,&H00987479,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
-Style: Default-Pers-Line-Producer,PF Din Text Cond Pro,54,&H00F6F5F9,&H00FFFFFF,&H00452F40,&H00756C86,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
-Style: Default-Pers-Sound-Director,PF Din Text Cond Pro,54,&H00FBFAF8,&H00FFFFFF,&H0042312E,&H007B7B71,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
-Style: Default-Pers-Staff,PF Din Text Cond Pro,54,&H00F2EBF8,&H00FFFFFF,&H0031243C,&H00C89DEF,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
-Style: Default-Pers-Editor,PF Din Text Cond Pro,54,&H00F5F6FB,&H00FFFFFF,&H0049374A,&H00666C85,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
-Style: Default-Pers-Author,PF Din Text Cond Pro,54,&H00F0F6F2,&H00FFFFFF,&H004C3A39,&H00838C87,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
-Style: Default-Pers-Syakujii,PF Din Text Cond Pro,54,&H00F9F5F3,&H00FFFFFF,&H004C3034,&H007E726C,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
-Style: Default-Pers-MaiMai,PF Din Text Cond Pro,54,&H00F8F2F6,&H00FFFFFF,&H00642138,&H00BD4896,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
-Style: Default-Pers-Sakura,PF Din Text Cond Pro,54,&H00EEF1F6,&H00FFFFFF,&H00363047,&H00627A98,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
-Style: Default-Pers-Momokas-Father,PF Din Text Cond Pro,54,&H00FAF7F4,&H00FFFFFF,&H00613F3E,&H00A4A09C,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
-Style: Default-Pers-Kazuhas-Mother,PF Din Text Cond Pro,54,&H00EEEBF5,&H00FFFFFF,&H00482D3F,&H006C657F,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
-Style: Default-Pers-Kazuhas-Father,PF Din Text Cond Pro,54,&H00FAF2F0,&H00FFFFFF,&H003F2D34,&H00978B88,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
-Style: Default-Pers-Kodomo,PF Din Text Cond Pro,54,&H00F5F4F8,&H00FFFFFF,&H00482F43,&H00595364,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
-Style: Default-TV,PF Square Sans Pro,46,&H00F3F2F9,&H00FFFFFF,&H00321815,&H00409B35,0,0,0,0,100,100,0.25,0,1,2.55,0.25,8,0,0,42,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -500,8 +500,8 @@ Dialogue: 0,0:21:16.37,0:21:18.46,Default-Pers-Chitose,Титосэ,0,0,0,,По�
 Dialogue: 0,0:21:18.92,0:21:20.42,Default-Pers-Chitose,Титосэ,0,0,0,,Я даже ничего не сделала!
 Dialogue: 0,0:21:20.84,0:21:22.01,Default-Pers-Gojo,Годзё,0,0,0,,Вот…
 Dialogue: 0,0:21:24.26,0:21:26.55,Default-Pers-Chitose,Титосэ,0,0,0,,Годзё-кун, пока-пока. Спокойной ночи.
-Dialogue: 0,0:21:36.85,0:21:39.36,Default - Italics,Годзё,0,0,0,,Вот именно, потому что ты —
-Dialogue: 0,0:21:39.65,0:21:42.69,Default - Italics,Годзё,0,0,0,,единственная, кто ничего не делает…
+Dialogue: 0,0:21:36.85,0:21:39.36,Default-Pers-Gojo,Годзё,0,0,0,,{\i1}Вот именно, потому что ты —
+Dialogue: 0,0:21:39.65,0:21:42.69,Default-Pers-Gojo,Годзё,0,0,0,,{\i1}единственная, кто ничего не делает…
 Dialogue: 0,0:21:48.87,0:21:51.99,Default-Pers-Kuzu,Кудзу,0,0,0,,Затравлены в интернете, оподливились перед инвесторами
 Dialogue: 0,0:21:51.99,0:21:54.00,Default-Pers-Kuzu,Кудзу,0,0,0,,и выжаты досуха.
 Dialogue: 0,0:21:54.41,0:21:56.41,Default-Pers-Kuzu,Кудзу,0,0,0,,Как же фигово.
