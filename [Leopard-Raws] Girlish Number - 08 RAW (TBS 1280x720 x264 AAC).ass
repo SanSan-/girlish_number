@@ -7,6 +7,7 @@ WrapStyle: 0
 PlayResX: 1280
 PlayResY: 720
 ScaledBorderAndShadow: yes
+Video Aspect Ratio: c1.77778
 YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
@@ -16,9 +17,6 @@ Video File: [Leopard-Raws] Girlish Number - 08 RAW (TBS 1280x720 x264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 361
-Active Line: 371
-Video Position: 34405
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
