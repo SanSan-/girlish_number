@@ -11,10 +11,10 @@ Video Aspect Ratio: c1.77778
 Last Style Storage: Default
 Audio URI: [Leopard-Raws] Girlish Number - 04 RAW (TBS 1280x720 x264 AAC).mp4
 Scroll Position: 890
-Active Line: 896
+Active Line: 905
 Video Zoom Percent: 0.5
 Video File: [Leopard-Raws] Girlish Number - 04 RAW (TBS 1280x720 x264 AAC).mp4
-Video Position: 28934
+Video Position: 29007
 YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
@@ -106,12 +106,12 @@ Style: Next_Time MPxKO,PT Sans,32,&H00FFD4E6,&H000000FF,&H00965C7C,&H00000000,0,
 Style: Millenium_22:07(Ep 04),PT Sans,32,&H00FADFDD,&H000000FF,&H00DB7E81,&H00461004,-1,0,0,0,100,100,0,-5,1,3,0,3,483,472,401,0
 Style: MPxKO_Ep_Title_22:07(Ep 04),PT Sans,41,&H00E8C9DA,&H000000FF,&H008E397E,&H00461004,-1,0,0,0,100,100,0,-4,1,3,0,2,121,201,257,0
 Style: Starting_broadcast_10:52(Ep 04),PF Din Text Cond Pro,59,&H0047E7F7,&H000000FF,&H00216073,&H00000000,0,0,0,0,100,100,1.5,0,1,3,0,8,60,60,330,0
-Style: Texts/tweets(Ep 04),Helvetica Neue,41,&H00070707,&H000000FF,&H00FDFDFD,&H00000000,0,0,0,0,100,100,0,0,3,2.55,0,7,0,0,42,0
+Style: Texts/tweets(Ep 04),Helvetica Neue,41,&H00070707,&H000000FF,&H00FDFDFD,&H00000000,0,0,0,0,100,100,0,0,1,2.55,0,7,0,0,42,0
 Style: Horikita_Yui_19:05(Ep 04),Helvetica Neue,65,&H00FAF6FE,&H000000FF,&H0084757A,&H0084757A,-1,0,0,0,100,100,1.2,-18,1,0,3,2,169,41,497,0
 Style: Cell_phone_19:05(Ep 04),Helvetica Neue,48,&H008B8B8B,&H000000FF,&H00F7F5F7,&H00461004,0,0,0,0,100,100,0,-18,3,3,0,3,41,331,140,0
 Style: Cell_phone_19:06(Ep 04),Helvetica Neue,48,&H008B8B8B,&H000000FF,&H00F7F5F7,&H00461004,0,0,0,0,100,100,0,-20,3,3,0,7,80,875,221,0
 Style: Карасума_Титосэ_19:06(Ep 04),Helvetica Neue,65,&H00FAF6FE,&H000000FF,&H0084757A,&H0084757A,-1,0,0,0,100,100,0,-17,1,0,3,1,352,442,620,0
-Style: Followers_21:13(Ep 04),PT Sans,63,&H008B8B8B,&H000000FF,&H00F7F5F7,&H00461004,-1,0,0,0,100,100,0,15,1,3,0,2,201,41,161,0
+Style: Followers_21:13(Ep 04),Helvetica Neue,254,&H008B8B8B,&H000000FF,&H00F7F5F7,&H00461004,0,0,0,0,100,100,0,15,3,3,0,2,201,41,161,0
 Style: Song_Rom,PF Din Text Cond Pro,46,&H007E3639,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,0.5,8,45,45,20,204
 Style: Song_Ru,PF Din Text Cond Pro,46,&H00C07947,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,45,45,20,204
 Style: Screen_Dark,PT Sans,30,&H00FFFDFE,&H000000FF,&H001C1717,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,41,949,150,1
@@ -1015,10 +1015,15 @@ Dialogue: 0,0:19:40.61,0:19:44.07,R's_Comic_19:31(Ep 04),Надпись,0,0,0,,{
 Dialogue: 0,0:19:40.61,0:19:44.07,Broadcast_starting_19:31(Ep 04),Надпись,0,0,0,,{\a1\q2\c&H3A6AA8&\frz296.4\frx32\fry354\org(66,426)\pos(58,374)}Начало Трансляции\NТВ-сериала!!\N{\c&H0A0305&}Властитель Цзюлуна и\NТысячелетняя принцесса
 Dialogue: 0,0:19:48.04,0:19:54.04,Bakugeki_Editing_Dept(Ep 04),Надпись,0,0,0,,{\frx14\fry340\frz6.817\org(580,387)\pos(504,367)}Департамент Редакции Журнала Бакугеки C
 Dialogue: 0,0:20:05.43,0:20:06.89,Texts/tweets(Ep 04),Надпись,0,0,0,,{\org(378,282)\frz19.6\pos(358,264)}{\q2\fs78\blur0.85\3c&HF5F6F5&\c&H323232&\b1}Яэ{\b0} {\c&H939393&} @yae-pon-poko        {\c}{\alpha&HFFF&}`{\alpha}\N Агась, время подошло       ( *__* )\N{\c&HA29D1F&\b1}#Кусурэ      {\c}{\alpha&HFFF&}`{\alpha}
-Dialogue: 0,0:20:06.89,0:20:08.35,Texts/tweets(Ep 04),Надпись,0,0,0,,Титосэ @karasuma-kaaaaa\NПрости за ожидание!!!!!\N#Кусурэ
-Dialogue: 0,0:20:08.35,0:20:08.89,Texts/tweets(Ep 04),Надпись,0,0,0,,Кото @-katakurakoto\NВ ожидании\N#Кусурэ
-Dialogue: 0,0:20:08.89,0:20:09.43,Texts/tweets(Ep 04),Надпись,0,0,0,,Титосэ @karasuma-kaaaaa\N@-katakurakoto Хайп!\N#Кусурэ
-Dialogue: 0,0:20:09.43,0:20:09.89,Texts/tweets(Ep 04),Надпись,0,0,0,,Кото @-katakurakoto\N@karasuma-kaaaaa\NТы хороша, но раздражаешь…\N#Кусурэ
+Dialogue: 0,0:20:06.89,0:20:08.35,Texts/tweets(Ep 04),Надпись,0,0,0,,{\org(416,174)\pos(324,460)\frz333.4}{\q2\fs78\blur0.85\3c&HF5F6F5&\c&H323232&\b1}Яэ{\b0} {\c&H939393&} @yae-pon-poko        {\c}{\alpha&HFFF&}`{\alpha}\N Агась, время подошло       ( *__* )\N{\c&HA29D1F&\b1}#Кусурэ      {\c}{\alpha&HFFF&}`{\alpha}
+Dialogue: 0,0:20:06.89,0:20:08.35,Texts/tweets(Ep 04),Надпись,0,0,0,,{\pos(324,60)\frz335.2\org(412,162)}{\q2\fs78\blur0.85\3c&HF5F6F5&\c&H323232&\b1}Титосэ{\b0} {\c&H939393&} @karasuma-kaaaaa        {\c}{\alpha&HFFF&}`{\alpha}\NПростите за ожидание ! ! ! ! !\N{\c&HA29D1F&\b1}#Кусурэ      {\c}{\alpha&HFFF&}`{\alpha}
+Dialogue: 0,0:20:08.35,0:20:08.89,Texts/tweets(Ep 04),Надпись,0,0,0,,{\q2\fs71\blur0.85\3c&HF5F6F5&\c&H323232&\b1\pos(244,600)}Титосэ{\b0} {\c&H939393&} @karasuma-kaaaaa       {\c}{\alpha&HFFF&}`{\alpha}\NПростите за ожидание ! ! ! ! !\N{\c&HA29D1F&\b1}#Кусурэ      {\c}{\alpha&HFFF&}`{\alpha}
+Dialogue: 0,0:20:08.35,0:20:08.89,Texts/tweets(Ep 04),Надпись,0,0,0,,{\q2\fs71\blur0.85\3c&HF5F6F5&\c&H323232&\b1\pos(244,170)}Кото{\b0} {\c&H939393&}@-katakurakoto        {\c}{\alpha&HFFF&}`{\alpha}\NВ ожидании\N{\c&HA29D1F&\fs78\b1}#Кусурэ       {\c}{\alpha&HFFF&}`{\alpha}
+Dialogue: 0,0:20:08.89,0:20:09.43,Texts/tweets(Ep 04),Надпись,0,0,0,,{\q2\fs71\blur0.85\3c&HF5F6F5&\c&H323232&\b1\move(244,485,244,745)}Кото{\b0} {\c&H939393&}@-katakurakoto        {\c}{\alpha&HFFF&}`{\alpha}\NВ ожидании\N{\c&HA29D1F&\fs78\b1}#Кусурэ       {\c}{\alpha&HFFF&}`{\alpha}
+Dialogue: 0,0:20:08.89,0:20:09.43,Texts/tweets(Ep 04),Надпись,0,0,0,,{\q2\fs71\blur0.85\3c&HF5F6F5&\c&H323232&\b1\move(244,68,244,346)\clip(228,130,1054,718)}Титосэ{\b0} {\c&H939393&}@karasuma-kaaaaa        {\c}{\alpha&HFFF&}`{\alpha}\N{\c&HB5B239&}@-katakurakoto {\c}{\c&H323232&}Хайпим!         {\c}{\alpha&HFFF&}`{\alpha}\N{\c&HA29D1F&\fs78\b1}#Кусурэ       {\c}{\alpha&HFFF&}`{\alpha}
+Dialogue: 0,0:20:09.43,0:20:09.60,Texts/tweets(Ep 04),Надпись,0,0,0,,{\q2\fs71\blur0.85\3c&HF5F6F5&\c&H323232&\b1\move(244,521,244,771)\clip(228,130,1054,718)}Титосэ{\b0} {\c&H939393&}@karasuma-kaaaaa        {\c}{\alpha&HFFF&}`{\alpha}\N{\c&HB5B239&}@-katakurakoto {\c}{\c&H323232&}Хайпим!         {\c}{\alpha&HFFF&}`{\alpha}\N{\c&HA29D1F&\fs78\b1}#Кусурэ       {\c}{\alpha&HFFF&}`{\alpha}
+Dialogue: 0,0:20:09.43,0:20:09.81,Texts/tweets(Ep 04),Надпись,0,0,0,,{\q2\fs71\blur0.85\3c&HF5F6F5&\c&H323232&\b1\move(244,-2,244,231)\clip(240,126,1280,720)}Кото{\b0} {\c&H939393&} @-katakurakoto                  {\c}{\alpha&HFFF&}`{\alpha}\N{\c&HB5B239&}@karasuma-kaaaaa {\c}\N{\c&H323232&}Ты хороша, но бесишь…                         {\c}{\alpha&HFFF&}`{\alpha}\N\N{\c&HA29D1F&\fs78\b1}#Кусурэ       {\c}{\alpha&HFFF&}`{\alpha}
+Dialogue: 0,0:20:09.81,0:20:09.85,Texts/tweets(Ep 04),Надпись,0,0,0,,{\q2\fs71\blur0.85\3c&HF5F6F5&\c&H323232&\b1\pos(210,75)\frx6\fry358\frz353.9\org(352,123)}Кото{\b0} {\c&H939393&} @-katakurakoto        {\c}{\alpha&HFFF&}`{\alpha}\N{\c&HB5B239&}@karasuma-kaaaaa {\c}\N{\c&H323232&}Ты хороша, но бесишь…                {\c}{\alpha&HFFF&}`{\alpha}\N\N{\c&HA29D1F&\fs78\b1}#Кусурэ       {\c}{\alpha&HFFF&}`{\alpha}
 Dialogue: 0,0:20:09.89,0:20:10.39,Texts/tweets(Ep 04),Надпись,0,0,0,,Титосэ @karasuma-kaaaaa\NМы продолжим общаться так друг-с-другом, так что подписывайтсь на нас!!!!!\N#Кусурэ
 Dialogue: 0,0:20:10.39,0:20:11.02,Texts/tweets(Ep 04),Надпись,0,0,0,,Яэ @yae-pon-poko\NЯ очень сильно возбуждена (*_*) \N#Кусурэ
 Dialogue: 0,0:20:11.02,0:20:11.60,Texts/tweets(Ep 04),Надпись,0,0,0,,Титосэ @karasuma-kaaaaa\NНачинается…\N#Кусурэ\NКото @-katakurakoto\NО, нет! У меня руки трясутся!\N#Кусурэ
@@ -1046,11 +1051,11 @@ Dialogue: 0,0:21:18.92,0:21:19.54,Texts/tweets(Ep 04),Надпись,0,0,0,,За
 Dialogue: 0,0:21:19.54,0:21:20.34,Texts/tweets(Ep 04),Надпись,0,0,0,,Запад @-westside77\NТы в порядке? Возможно, перестану быть фаном Момоки.\NХочу болеть за сэйю из сериала, которая выстрелит.\N#КарасумаТитосэ   #Кусурэ
 Dialogue: 0,0:21:20.34,0:21:21.05,Texts/tweets(Ep 04),Надпись,0,0,0,,Водосвинка Однако @-aegeee…\NТи-сама — богиня актёрской игры.\N#КарасумаТитосэ   #Кусурэ
 Dialogue: 0,0:21:21.05,0:21:21.38,Texts/tweets(Ep 04),Надпись,0,0,0,,Пицца @-death\NТи-тян — милаха. Я счастлив, мне этого хватит.\N#Кусурэ
-Dialogue: 0,0:21:22.59,0:21:24.05,Followers_21:13(Ep 04),Надпись,0,0,0,,Подписчики
-Dialogue: 0,0:22:16.31,0:22:20.02,Next_Time MPxKO,Надпись,0,0,0,,Далее
-Dialogue: 0,0:22:16.31,0:22:20.02,Millenium_22:07(Ep 04),Надпись,0,0,0,,Властитель Цзюлуна и \NТысячелетняя принцесса
-Dialogue: 0,0:22:16.31,0:22:20.02,MPxKO_Ep_Title_22:07(Ep 04),Надпись,0,0,0,,«Я единственная, кто хочет плакать»
-Dialogue: 0,0:23:50.53,0:24:20.06,Screen,Надпись,0,0,0,,Анонс
+Dialogue: 0,0:21:22.59,0:21:24.05,Followers_21:13(Ep 04),Надпись,0,0,0,,{\frz15.1\org(468,279)\pos(940,581)}Подписчики
+Dialogue: 0,0:22:16.31,0:22:20.02,Next_Time MPxKO,Надпись,0,0,0,,{\frx40\fry20\org(281,114)\frz348.6\pos(271,182)}Далее
+Dialogue: 0,0:22:16.31,0:22:20.02,Millenium_22:07(Ep 04),Надпись,0,0,0,,{\frx42\fry32\pos(834,341)\org(728,259)\frz347.6}Властитель Цзюлуна и \NТысячелетняя принцесса
+Dialogue: 0,0:22:16.31,0:22:20.02,MPxKO_Ep_Title_22:07(Ep 04),Надпись,0,0,0,,{\frx44\fry16\frz350.2\org(474,337)\pos(608,467)}«Я единственная, кто хочет плакать»
+Dialogue: 0,0:23:50.53,0:24:20.06,Screen,Надпись,0,0,0,,{\3c&H434343&}Анонс
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Примечания
 Dialogue: 1,0:03:25.93,0:03:29.02,Default - Note,Примечание,0,0,0,,Примечание: «Братик, ты — дурачина, идиот, Хатиман.» © Хикигая Комати. \NВатару Ватари отсылает к своему главному произведению, ’OreGaIru’.
 Dialogue: 0,0:03:25.93,0:03:29.02,Default - Note,Примечание,0,0,0,,{\blur1\c&8a8a8a&\alpha&555\p1\pos(640,32)}m 0 0 l 780 0 780 75 0 75{\p0}
