@@ -16,10 +16,10 @@ Audio File: [Leopard-Raws] Girlish Number - 05 RAW (TBS 1280x720 x264 AAC).mp4
 Video File: [Leopard-Raws] Girlish Number - 05 RAW (TBS 1280x720 x264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 483
-Active Line: 487
-Video Position: 29755
+Video Zoom Percent: 0.500000
+Scroll Position: 363
+Active Line: 366
+Video Position: 27448
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -51,7 +51,7 @@ Style: Default-Pers-Momokas-Father,PF Din Text Cond Pro,54,&H00FAF7F4,&H00FFFFFF
 Style: Default-Pers-Kazuhas-Mother,PF Din Text Cond Pro,54,&H00EEEBF5,&H00FFFFFF,&H00482D3F,&H006C657F,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
 Style: Default-Pers-Kazuhas-Father,PF Din Text Cond Pro,54,&H00FAF2F0,&H00FFFFFF,&H003F2D34,&H00978B88,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
 Style: Default-Pers-Kodomo,PF Din Text Cond Pro,54,&H00F5F4F8,&H00FFFFFF,&H00482F43,&H00595364,0,0,0,0,100,100,0.25,0,1,2.55,0.25,2,0,0,42,1
-Style: Default-TV,PF Online Two Pro,46,&H00F3F2F9,&H00FFFFFF,&H00321815,&H00409B35,0,0,0,0,100,100,0.25,0,1,2.55,0.25,8,0,0,42,1
+Style: Default-TV,PF Bulletin Sans Pro,46,&H00F3F2F9,&H00FFFFFF,&H00321815,&H00409B35,0,0,0,0,100,100,0.25,0,1,2.55,0.25,8,0,0,42,1
 Style: Default - Margin,PT Sans,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
 Style: Default - Italics,PT Sans,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,-1,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
 Style: Default - Flashback,PT Sans,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
@@ -581,7 +581,7 @@ Dialogue: 0,0:16:59.62,0:17:02.58,popularity,Надпись,0,0,0,,{\blur1.1\frx
 Dialogue: 0,0:16:59.62,0:17:02.58,on air,Надпись,0,0,0,,{\q2\blur1\frx26\fry358\org(372.4,361.2)\clip(216.4,484.4,358.4,507.8)\pos(384.8,475)}{\alpha&HFFF&}`{\alpha}               В эфире           {\alpha&HFFF&}`{\alpha}
 Dialogue: 0,0:16:59.62,0:17:02.58,officialanime,Надпись,0,0,0,,{\blur.5\frx4\fry0\fs18\pos(495,497.8)\clip(491.2,494.4,600,520)}Официальное
 Dialogue: 0,0:16:59.62,0:17:02.58,officialanime,Надпись,0,0,0,,{\blur.5\frx4\fry0\pos(620.2,487.4)\clip(614.4,494.4,720,520)}Аниме
-Dialogue: 0,0:16:59.62,0:17:02.58,officialanime,Надпись,0,0,0,,{\blur.7\q2\b1\fs29\frx4\fry0\pos(490.6,534.2)\frz0.1031}Властитель Цзюлуна и Тысячелетняя принцесса\NМероприятие-раздача сэйю бонусов BD, DVD {\blur.8}по {\blur1}предзаказу 
+Dialogue: 0,0:16:59.62,0:17:02.58,officialanime,Надпись,0,0,0,,{\blur.7\q2\b1\fs29\frx4\fry0\pos(490.6,534.2)\frz0.1031}Властитель Цзюлуна и Тысячелетняя принцесса\NМероприятие-раздача сэйю бонусов BD, DVD {\blur.8}по {\blur1}предзаказу
 Dialogue: 0,0:20:34.21,0:20:35.46,Texts/tweets(Ep 05),Надпись,0,0,0,,{\q2\blur.75\clip(256,372,792,678)\move(482,456,152,456)}Терпеть её не могу!
 Dialogue: 0,0:20:34.21,0:20:37.25,Texts/tweets(Ep 05),Надпись,0,0,0,,{\q2\blur.75\clip(256,372,792,678)\move(616,502,-208,502)}Ребят! Давайте перестанем обсирать Карасуму Дилетантку-сан!
 Dialogue: 0,0:20:35.04,0:20:37.46,Texts/tweets(Ep 05),Надпись,0,0,0,,{\q2\blur.75\clip(256,372,792,678)\move(926,422,118,422)}Я лучше, чем она
@@ -594,13 +594,13 @@ Dialogue: 0,0:20:38.25,0:20:41.13,Texts/tweets(Ep 05),Надпись,0,0,0,,{\q2
 Dialogue: 0,0:20:35.96,0:20:38.25,Texts/tweets(Ep 05),Надпись,0,0,0,,{\q2\blur.75\clip(256,372,792,678)\move(1016,608,48,608)}Ты не можешь отжигать только на ивентах…
 Dialogue: 0,0:20:36.71,0:20:39.00,Texts/tweets(Ep 05),Надпись,0,0,0,,{\c&H2D0EC1&\q2\blur.75\clip(256,372,792,678)\pos(528,422)}Входящий Спам\N\N\N\N\N\N\N\N\N\NВходящий Спам
 Dialogue: 0,0:20:37.88,0:20:40.00,Texts/tweets(Ep 05),Надпись,0,0,0,,{\q2\blur.75\clip(256,372,792,678)\move(982,481,-152,481)}Она где-то 7ая по красоте в классе
-Dialogue: 0,0:20:37.63,0:20:41.05,Texts/tweets(Ep 05),Надпись,0,0,0,,{\q2\blur.75\clip(256,372,792,678)}Не стоит недооценивать сэйю. Умри умри умри!
-Dialogue: 0,0:20:37.88,0:20:42.17,Texts/tweets(Ep 05),Надпись,0,0,0,,{\q2\blur.75\clip(256,372,792,678)}Сэйю из провалившегося сериала.
-Dialogue: 0,0:20:38.17,0:20:42.17,Texts/tweets(Ep 05),Надпись,0,0,0,,{\q2\blur.75\clip(256,372,792,678)}Кусок дерьма с большой головой
-Dialogue: 0,0:20:38.17,0:20:42.17,Texts/tweets(Ep 05),Надпись,0,0,0,,{\q2\blur.75\clip(256,372,792,678)}Низко-уровневая натянутая игра
-Dialogue: 0,0:20:38.17,0:20:42.17,Texts/tweets(Ep 05),Надпись,0,0,0,,{\q2\blur.75\clip(256,372,792,678)}Её мироощущение - дерьмо, так что она ничего не добьётся
-Dialogue: 0,0:20:38.17,0:20:42.17,Texts/tweets(Ep 05),Надпись,0,0,0,,{\q2\blur.75\clip(256,372,792,678)}Лизь, лизь, лизь, лизь, лизь, лизь, лизь, лизь тьфу
-Dialogue: 0,0:20:38.17,0:20:42.17,Texts/tweets(Ep 05),Надпись,0,0,0,,{\q2\blur.75\clip(256,372,792,678)}{\c&H2D0EC1&}[ [ [ Кусурэ: военные преступники навсегда ] ] ]
+Dialogue: 0,0:20:37.63,0:20:41.05,Texts/tweets(Ep 05),Надпись,0,0,0,,{\q2\blur.75\clip(256,372,792,678)\move(1082,541,-32,541)}Не стоит недооценивать сэйю. Умри умри умри!
+Dialogue: 0,0:20:37.46,0:20:40.17,Texts/tweets(Ep 05),Надпись,0,0,0,,{\q2\blur.75\clip(256,372,792,678)\move(1082,571,-32,571)}Сэйю из провалившегося сериала.
+Dialogue: 0,0:20:39.25,0:20:41.34,Texts/tweets(Ep 05),Надпись,0,0,0,,{\q2\blur.75\clip(256,372,792,678)\move(982,471,32,471)}Кусок дерьма с большой головой
+Dialogue: 0,0:20:40.42,0:20:42.17,Texts/tweets(Ep 05),Надпись,0,0,0,,{\q2\blur.75\clip(256,372,792,678)\move(982,521,132,521)}Низко-уровневая натянутая игра!
+Dialogue: 0,0:20:39.67,0:20:42.17,Texts/tweets(Ep 05),Надпись,0,0,0,,{\q2\blur.75\clip(256,372,792,678)\move(1082,411,32,411)}Её мироощущение - дерьмо, так что она ничего не добьётся
+Dialogue: 0,0:20:40.38,0:20:42.17,Texts/tweets(Ep 05),Надпись,0,0,0,,{\q2\blur.75\clip(256,372,792,678)\move(1382,364,232,364)}Лизь, лизь, лизь, лизь, лизь, лизь, лизь, лизь тьфу
+Dialogue: 0,0:20:41.55,0:20:42.17,Texts/tweets(Ep 05),Надпись,0,0,0,,{\q2\blur.75\clip(256,372,792,678)\pos(544,582)\c&H2D0EC1&}[ [ [ Кусурэ: военные преступники навсегда ] ] ]
 Dialogue: 0,0:23:50.11,0:24:20.18,Preview,Надпись,0,0,0,,Анонс
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Примечания
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Песни
