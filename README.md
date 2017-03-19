@@ -38,10 +38,12 @@ SanSan @Kaschenka
 - PF Bulletin Sans Pro
 - PF Din Text Cond Pro
 - PF Din Text Comp Pro
+- PF Isotext Pro
 - PF Libera Pro
 - PF Online One Pro
 - PF Online Two Pro
 - PF Square Sans Pro
+- PF Wonderland Pro
 - PT Sans
 - PT Serif Caption
 - Zhizn
