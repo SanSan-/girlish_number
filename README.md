@@ -31,6 +31,7 @@ SanSan @Kaschenka
 ##### Шрифты
 
 - Buran USSR
+- FiveMinutes
 - Helvetica
 - Helvetica Neue
 - Impact
@@ -45,6 +46,7 @@ SanSan @Kaschenka
 - PF Square Sans Pro
 - PF Wonderland Pro
 - PT Sans
+- PT Serif 
 - PT Serif Caption
 - Zhizn
 
@@ -83,3 +85,7 @@ SanSan @Kaschenka
 17:41 — Очевидно, что и стейк, и сукияки, и сябу-сябу — это всё местная еда.
 
 22:01 — Цубаса (яп. つばさ, «крылья») — единственный маршрут линии Ямагата-синкансэн. Введён в эксплуатацию в 1992 году.
+
+### 8 серия
+
+11:32 — Хостес — же́нщина, развлека́ющая посети́телей ночно́го клу́ба, рестора́на. [https://ru.wikipedia.org/wiki/Хостес]
