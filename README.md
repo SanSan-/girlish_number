@@ -28,6 +28,24 @@ SanSan @Kaschenka
 
 Перевод/Литературный текст/Оформление: SanSan
 
+##### Шрифты
+
+Buran USSR
+Helvetica
+Helvetica Neue
+Impact
+Linux Libertine Serif
+PF Bulletin Sans Pro
+PF Din Text Cond Pro
+PF Din Text Comp Pro
+PF Libera Pro
+PF Online One Pro
+PF Online Two Pro
+PF Square Sans Pro
+PT Sans
+PT Serif Caption
+Zhizn
+
 ##### Пояснения
 
 ### 4 серия
@@ -37,3 +55,5 @@ SanSan @Kaschenka
 18:59 — Сэйдза (яп. 正座, «правильное сидение») — поза сидения на коленях («по-японски»). Является традиционным японским способом сидения на полу (иногда с использованием подушек).
 
 19:37 — Белая коробка (en. - ‘white box’, jp. - ‘shirobako’, специфический термин шоу-бизнеса) — предпрокатная версия аниме, готовый отснятый и смонтированный материал, который отправляется на утверждение продюсерам. Даже аниме одноимённое есть: http://www.world-art.ru/animation/animation.php?id=2650
+
+### 5 серия
