@@ -30,21 +30,21 @@ SanSan @Kaschenka
 
 ##### Шрифты
 
-Buran USSR
-Helvetica
-Helvetica Neue
-Impact
-Linux Libertine Serif
-PF Bulletin Sans Pro
-PF Din Text Cond Pro
-PF Din Text Comp Pro
-PF Libera Pro
-PF Online One Pro
-PF Online Two Pro
-PF Square Sans Pro
-PT Sans
-PT Serif Caption
-Zhizn
+- Buran USSR
+- Helvetica
+- Helvetica Neue
+- Impact
+- Linux Libertine Serif
+- PF Bulletin Sans Pro
+- PF Din Text Cond Pro
+- PF Din Text Comp Pro
+- PF Libera Pro
+- PF Online One Pro
+- PF Online Two Pro
+- PF Square Sans Pro
+- PT Sans
+- PT Serif Caption
+- Zhizn
 
 ##### Пояснения
 
