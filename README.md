@@ -31,7 +31,7 @@ SanSan @Kaschenka
 ##### Шрифты
 
 - Buran USSR
-- FiveMinutes
+- Five Minutes
 - Helvetica
 - Helvetica Neue
 - Impact
