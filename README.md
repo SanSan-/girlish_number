@@ -30,6 +30,7 @@ SanSan @Kaschenka
 
 ##### Шрифты
 
+- Arial
 - Buran USSR
 - Five Minutes
 - Helvetica
