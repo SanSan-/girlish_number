@@ -602,10 +602,18 @@ Dialogue: 0,0:01:50.58,0:01:52.55,OP_Rom,,0,0,0,,Aseru kedo
 Dialogue: 0,0:01:52.55,0:01:53.67,OP_Rom,,0,0,0,,(Dare no sei?)
 Dialogue: 0,0:01:53.67,0:01:59.30,OP_Rom,,0,0,0,,{\fad(0,2556)\t(3074,0,(\fs32)}Ima wa mou wakatteru
 Dialogue: 1,0:01:56.76,0:02:01.47,OP_Rom,,0,0,60,,{\move(640,60,639.822,20.178,26,2528)}(Kizuita n da ne? Hajimaru yo)
-Dialogue: 0,0:02:01.47,0:02:05.93,OP_Rom,,0,0,0,,{\c&HA7FBA4&\3c&H7C8456&\t(613,613,(\c&H524C48&))\t(613,613,(\3c&HFFFFFF&))\t(2239,2239,(\c&H82F5F2&))\t(2239,2239,(\3c&H5D8E91&))\t(3449,3449,(\c&H524C48&))\t(3449,3449,(\3c&HFFFFFF&))}Kono koe wo sakaseyou
-Dialogue: 0,0:02:05.93,0:02:08.69,OP_Rom,,0,0,0,,{\c&HD5C5F5&\3c&H9A60E4&\t(355,355,(\c&H524C48&))\t(355,355,(\3c&HFFFFFF&))\t(1523,1523,(\c&HE7B592&))\t(1523,1523,(\3c&HB86F62&))\t(1857,1857,(\c&H524C48&))\t(1857,1857,(\3c&HFFFFFF&))}Sekaijuu (todoketai)
+Dialogue: 0,0:02:01.47,0:02:02.01,OP_Rom,,0,0,0,,{\c&HA7FBA4&\3c&H7C8456&}Kono koe wo sakaseyou
+Dialogue: 0,0:02:02.01,0:02:03.72,OP_Rom,,0,0,0,,{\c&H524C48&\3c&HFFFFFF&}Kono koe wo sakaseyou
+Dialogue: 0,0:02:03.72,0:02:04.89,OP_Rom,,0,0,0,,{\c&H82F5F2&\3c&H5D8E91&}Kono koe wo sakaseyou
+Dialogue: 0,0:02:04.89,0:02:05.93,OP_Rom,,0,0,0,,{\c&H524C48&\3c&HFFFFFF&}Kono koe wo sakaseyouKono koe wo sakaseyou
+Dialogue: 0,0:02:05.93,0:02:06.27,OP_Rom,,0,0,0,,{\c&HD5C5F5&\3c&H9A60E4&}Sekaijuu (todoketai)
+Dialogue: 0,0:02:06.27,0:02:07.43,OP_Rom,,0,0,0,,{\c&H524C48&\3c&HFFFFFF&}Sekaijuu (todoketai)
+Dialogue: 0,0:02:07.43,0:02:07.77,OP_Rom,,0,0,0,,{\c&HE7B592&\3c&HB86F62&}Sekaijuu (todoketai)
+Dialogue: 0,0:02:07.77,0:02:08.69,OP_Rom,,0,0,0,,{\c&H524C48&\3c&HFFFFFF&}Sekaijuu (todoketai)
 Dialogue: 0,0:02:08.69,0:02:11.81,OP_Rom,,0,0,0,,{\fad(0,300)}Tsubomi ja owarenai
-Dialogue: 0,0:02:12.23,0:02:16.94,OP_Rom,,0,0,0,,{\c&HF1F1F8&\3c&H7A65E6&\t(280,280,(\c&H7A65E6&)\t(280,280,(\3c&HF1F1F8&)\t(2198,2198,(\c&H524C48&))\t(2198,2198,(\3c&HFFFFFF&))\t(3867,0,(\c&HFFFFFF&)}Ichiban ni naritai
+Dialogue: 0,0:02:12.23,0:02:12.52,OP_Rom,,0,0,0,,{\c&HF1F1F8&\3c&H7A65E6&}Ichiban ni naritai
+Dialogue: 0,0:02:12.52,0:02:14.40,OP_Rom,,0,0,0,,{\c&H7A65E6&\3c&HF1F1F8&}Ichiban ni naritai
+Dialogue: 0,0:02:14.40,0:02:16.94,OP_Rom,,0,0,0,,{\c&H524C48&)\3c&HFFFFFF&\fad(0,1000)}Ichiban ni naritai
 Dialogue: 0,0:02:16.94,0:02:19.70,OP_Rom,,0,0,0,,{\blur14\3c&H21DFEB&\c&HD7EEEC&}Kuyashii (namida) kurushii (ano hi)
 Dialogue: 0,0:02:19.70,0:02:27.87,OP_Rom,,0,0,0,,{\blur10\3c&H21DFEB&\c&HD7EEEC&\fad(0,2055)\t(2820,2820,(\3c&H9B5F9A&))\t(6115,0,(\fs38)}Koete hana ni nareru yo
 Dialogue: 0,0:02:25.79,0:02:30.54,OP_Rom,,0,0,60,,{\move(640,60,640,20,25,2068)}Motto motto mirai wo  gyutto gyutto tsukame
@@ -629,10 +637,18 @@ Dialogue: 0,0:01:50.58,0:01:52.55,OP_Ru,,0,0,0,,Я ведь так спешу
 Dialogue: 0,0:01:52.55,0:01:53.67,OP_Ru,,0,0,0,,(А кто виновен?)
 Dialogue: 0,0:01:53.67,0:01:59.30,OP_Ru,,0,0,0,,{\fad(0,2556)\t(3074,0,(\fs32)}Лишь сейчас всё осознала я.
 Dialogue: 1,0:01:56.76,0:02:01.47,OP_Ru,,0,0,60,,{\move(640,660,640.2,700.2,26,2528)}(Заметила? Тогда начинаем!)
-Dialogue: 0,0:02:01.47,0:02:05.93,OP_Ru,,0,0,0,,{\c&HA7FBA4&\3c&H7C8456&\t(529,529,(\c&H524C48&))\t(529,529,(\3c&HFFFFFF&))\t(2239,2239,(\c&H82F5F2&))\t(2239,2239,(\3c&H5D8E91&))\t(3449,3449,(\c&H524C48&))\t(3449,3449,(\3c&HFFFFFF&))}Этот голос поскорей взрастим,
-Dialogue: 0,0:02:05.93,0:02:08.69,OP_Ru,,0,0,0,,{\c&HD5C5F5&\3c&H9A60E4&\t(355,355,(\c&H524C48&))\t(355,355,(\3c&HFFFFFF&))\t(1523,1523,(\c&HE7B592&))\t(1523,1523,(\3c&HB86F62&))\t(1857,1857,(\c&H524C48&))\t(1857,1857,(\3c&HFFFFFF&))}Чтобы зазвучал (на весь белый свет)
+Dialogue: 0,0:02:01.47,0:02:02.01,OP_Ru,,0,0,0,,{\c&HA7FBA4&\3c&H7C8456&}Этот голос поскорей взрастим,
+Dialogue: 0,0:02:02.01,0:02:03.72,OP_Ru,,0,0,0,,{\c&H524C48&\3c&HFFFFFF&}Этот голос поскорей взрастим,
+Dialogue: 0,0:02:03.72,0:02:04.89,OP_Ru,,0,0,0,,{\c&H82F5F2&\3c&H5D8E91&}Этот голос поскорей взрастим,
+Dialogue: 0,0:02:04.89,0:02:05.93,OP_Ru,,0,0,0,,{\c&H524C48&\3c&HFFFFFF&}Kono koe wo sakaseyouЭтот голос поскорей взрастим,
+Dialogue: 0,0:02:05.93,0:02:06.27,OP_Ru,,0,0,0,,{\c&HD5C5F5&\3c&H9A60E4&}Чтобы зазвучал (на весь белый свет)
+Dialogue: 0,0:02:06.27,0:02:07.43,OP_Ru,,0,0,0,,{\c&H524C48&\3c&HFFFFFF&}Чтобы зазвучал (на весь белый свет)
+Dialogue: 0,0:02:07.43,0:02:07.77,OP_Ru,,0,0,0,,{\c&HE7B592&\3c&HB86F62&}Чтобы зазвучал (на весь белый свет)
+Dialogue: 0,0:02:07.77,0:02:08.69,OP_Ru,,0,0,0,,{\c&H524C48&\3c&HFFFFFF&}Чтобы зазвучал (на весь белый свет)
 Dialogue: 0,0:02:08.69,0:02:11.81,OP_Ru,,0,0,0,,{\fad(0,300)}И бутоном не остался он.
-Dialogue: 0,0:02:12.23,0:02:16.94,OP_Ru,,0,0,0,,{\c&HF1F1F8&\3c&H7A65E6&\t(280,280,(\c&H7A65E6&)\t(280,280,(\3c&HF1F1F8&)\t(1906,1906,(\c&H524C48&))\t(1906,1906,(\3c&HFFFFFF&))\t(3867,0,(\c&HFFFFFF&)}Я хочу стать номером один
+Dialogue: 0,0:02:12.23,0:02:12.52,OP_Ru,,0,0,0,,{\c&HF1F1F8&\3c&H7A65E6&}Я хочу стать номером один
+Dialogue: 0,0:02:12.52,0:02:14.15,OP_Ru,,0,0,0,,{\c&H7A65E6&\3c&HF1F1F8&}Я хочу стать номером один
+Dialogue: 0,0:02:14.15,0:02:16.94,OP_Ru,,0,0,0,,{\c&H524C48&)\3c&HFFFFFF&\fad(0,1000)}Я хочу стать номером один
 Dialogue: 0,0:02:16.94,0:02:19.70,OP_Ru,,0,0,0,,{\blur14\3c&H21DFEB&\c&HD7EEEC&}Горьких слёз (на щеках) след утрём (не умрём)
 Dialogue: 0,0:02:19.70,0:02:27.87,OP_Ru,,0,0,0,,{\blur10\3c&H21DFEB&\c&HD7EEEC&\fad(0,2055)\t(2820,2820,(\3c&H9B5F9A&))\t(6115,0,(\fs38)}И цветком расчудесным прорастём.
 Dialogue: 1,0:02:25.79,0:02:30.54,OP_Ru,,0,0,60,,{\move(640,660,640.2,700.2,26,2068)}За безоблачное завтра посильнее ухватись.
