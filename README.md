@@ -32,6 +32,7 @@ SanSan @Kaschenka
 
 - Arial
 - Buran USSR
+- Constantia
 - Five Minutes
 - Helvetica
 - Helvetica Neue
